@@ -72,25 +72,3 @@ Both were verified against `data/resultados_corpus_96articles.bib` at this snaps
 
 ### `supplementary/`
 - `Figure_10_rdm_manifold_3d_interactive.html` — interactive (Plotly) version of Figure 10 (Research Dynamics Manifold), for online/digital readers, generated from the same corrected N=96 run as the static figure.
-
-## Reproducing the manuscript from source
-
-```
-pandoc manuscript/manuscript_EN_v2.md \
-  --citeproc \
-  --bibliography=data/resultados_corpus_96articles.bib \
-  --bibliography=data/biblioArticulo_supporting_literature.bib \
-  --csl=apa.csl \
-  -o manuscript_EN_v2.docx
-```
-
-(APA CSL style; adjust `--bibliography` paths if reproducing outside this folder structure.)
-
-## Known open items (as of this snapshot)
-
-- **Human co-author review of the v2 text is still pending.** The manuscript's Declaration of Generative AI Use requires author review and sign-off on the LLM-drafted Results, Discussion, and Conclusions text before it counts as author-owned; this has not yet occurred.
-- **Co-citation network clustering strength.** `04_bibliometric_analysis_outputs/citespace/citespace_report.md` reports modularity Q=0.14 and mean silhouette S=0.09 (below the report's own thresholds for a significant/convincing clustering solution). This should be, and is intended to be, disclosed explicitly in the Discussion's limitations before submission — confirm this is present in the final text.
-- Author biographical notes (required by EJEE, ~200 words per author) are not yet included in the manuscript.
-- The manuscript's Data Availability Statement still contains a placeholder pending a decision on whether this repository will be deposited with a persistent identifier (e.g., Zenodo, Figshare/OSF) before submission — if so, this README's reproduction command paths should be updated to match the deposited structure.
-- EJEE's required element order places the figure list *after* the references/appendices, not embedded inline in the body; `manuscript_EN_v2.docx` currently has figures embedded inline (fine for internal review, needs reformatting before actual submission).
-- Alt-text and visible captions for all 11 figures were written and verified against each image's actual content for the prior (v1) figure set; re-verify against the current Figures 4-10 renders before submission.
