@@ -1,0 +1,111 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "1_refine",
+  "batch": 1,
+  "timestamp": "2026-07-24T22:31:53.219891",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "new",
+      "theme": "Instrument Development and Validation",
+      "definition": "The process of creating and psychometrically testing new assessment tools, including scales, rubrics, and questionnaires, to measure various competencies, attitudes, and skills in engineering education.",
+      "subthemes": [
+        "Reliability",
+        "Validity",
+        "Factor analysis",
+        "Cronbach's alpha",
+        "Exploratory factor analysis"
+      ]
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Competency Assessment",
+      "definition": "The measurement and evaluation of specific competencies—including technical, professional, transversal, and research skills—in engineering students, often using scales, rubrics, or other instruments.",
+      "subthemes": [
+        "Generic competencies",
+        "Professional skills",
+        "Research competences",
+        "Transversal competencies",
+        "Innovation competence"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Self-Efficacy and Attitudes",
+      "definition": "The assessment of students' self-perceived confidence, attitudes, and beliefs regarding their abilities in specific domains such as entrepreneurship, engineering identity, and practical skills.",
+      "subthemes": [
+        "Self-efficacy",
+        "Attitudes",
+        "Engineering identity",
+        "Entrepreneurial self-efficacy",
+        "Compassion"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Psychometric Properties and Factor Analysis",
+      "definition": "The use of statistical techniques such as exploratory factor analysis (EFA), confirmatory factor analysis (CFA), reliability coefficients (Cronbach's alpha), and validity measures to evaluate the quality of assessment instruments.",
+      "subthemes": [
+        "Reliability",
+        "Validity",
+        "Exploratory factor analysis",
+        "Confirmatory factor analysis",
+        "Cronbach's alpha"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Transversal and Professional Skills",
+      "definition": "The assessment and development of non-technical skills such as communication, teamwork, problem-solving, critical thinking, and oral presentation, which are considered essential for engineering practice.",
+      "subthemes": [
+        "Generic competencies",
+        "Professional skills",
+        "Soft skills",
+        "Transversal competencies",
+        "Oral presentation"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Engineering Identity and Persistence",
+      "definition": "The exploration of how engineering students develop a sense of identity as engineers, and how this identity relates to their persistence, interest, and intention to complete their studies.",
+      "subthemes": [
+        "Engineering identity",
+        "Persistence",
+        "Sense of belonging",
+        "Self-efficacy",
+        "Interest"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Learning Experiences and Self-Efficacy Sources",
+      "definition": "The measurement of learning experiences that serve as sources of self-efficacy, such as performance accomplishments, vicarious learning, verbal persuasion, and emotional arousal, within the framework of social cognitive career theory.",
+      "subthemes": [
+        "Learning experiences",
+        "Self-efficacy sources",
+        "Social cognitive career theory",
+        "Performance accomplishments",
+        "Vicarious learning"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Reflective Thinking and Decision-Making",
+      "definition": "The assessment of students' reflective thinking processes and decision-making competencies, particularly in design problem-solving and self-regulated learning contexts.",
+      "subthemes": [
+        "Reflective thinking",
+        "Decision-making",
+        "Self-regulated learning",
+        "Design problem-solving"
+      ]
+    }
+  ]
+}

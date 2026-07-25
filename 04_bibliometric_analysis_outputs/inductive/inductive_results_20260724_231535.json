@@ -1,0 +1,3780 @@
+{
+  "session_id": "20260724_231535",
+  "config": {
+    "corpus_id": "5be989544683",
+    "provider": "mistral",
+    "extraction_model": "mistral-small-latest",
+    "reasoning_model": "same",
+    "prompt_version": "v1",
+    "schema_version": "v1",
+    "batching_policy": "sequential",
+    "batch_seed": null,
+    "batch_size": null,
+    "min_abstract_length": 50,
+    "temperature": 0.3,
+    "max_tokens": 8000,
+    "context_tokens": 40000,
+    "prompt_overhead_tokens": 1000,
+    "verification_thresholds": {
+      "quote_threshold": 0.75,
+      "grounding_verified": 0.5,
+      "synthesis_overlap": 0.3
+    },
+    "use_cache": true,
+    "experiment_mode": "same_model_all_phases",
+    "total_articles": 96,
+    "valid_articles": 94,
+    "batch_size_actual": 30
+  },
+  "phase1_thematic_mapping": {
+    "n_batches": 4,
+    "n_articles": 94,
+    "batch_results": [
+      {
+        "themes": [
+          {
+            "name": "Assessment Instrument Development and Validation",
+            "definition": "The process of creating, refining, and validating tools (e.g., scales, rubrics, questionnaires) to measure engineering students' competencies, attitudes, or skills. This includes psychometric testing such as reliability (Cronbach's alpha, McDonald's omega) and validity (construct, content, discriminant) analyses.",
+            "evidence": [
+              "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+              "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+              "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instrument, and Cronbach's alpha was used to assess its reliability."
+            ],
+            "articles": [
+              "PP8YRX22",
+              "WE7WVA4B",
+              "ECTTSUXE",
+              "LPJSUJ9V",
+              "RGASR6Q5",
+              "QU82N8PC",
+              "9HGRHX6A",
+              "KU4TN5MB",
+              "PD6ENBV2",
+              "SL7257LZ",
+              "CU9IWP4L",
+              "PNGM9L8J",
+              "EPIKGTEL",
+              "A3WRUNHT",
+              "GSUNVIP6",
+              "B4EBYEKF",
+              "ZLBRXPDA",
+              "2IGUA9SF",
+              "RUGB95IU"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Psychometric validation",
+              "Factor analysis",
+              "Reliability testing"
+            ],
+            "_verification": {
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Engineering Competencies and Skills",
+            "definition": "The identification, assessment, and development of technical and non-technical (transversal) competencies required for engineering students, including professional skills (e.g., teamwork, communication), research skills, and practical knowledge (e.g., electricity, magnetism).",
+            "evidence": [
+              "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solving using mental models'.",
+              "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competencies.",
+              "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+            ],
+            "articles": [
+              "PP8YRX22",
+              "WE7WVA4B",
+              "ECTTSUXE",
+              "RGASR6Q5",
+              "QU82N8PC",
+              "KU4TN5MB",
+              "PD6ENBV2",
+              "SL7257LZ",
+              "CU9IWP4L",
+              "PNGM9L8J",
+              "EPIKGTEL",
+              "A3WRUNHT",
+              "GSUNVIP6",
+              "B4EBYEKF",
+              "2IGUA9SF",
+              "RUGB95IU"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Professional skills",
+              "Transversal competencies",
+              "Research competences",
+              "Practical knowledge"
+            ],
+            "_verification": {
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Psychometric Properties and Statistical Methods",
+            "definition": "The use of statistical techniques (e.g., Cronbach's alpha, factor analysis, structural equation modeling) to evaluate the quality of assessment instruments, including reliability, validity, and structural integrity.",
+            "evidence": [
+              "[WE7WVA4B] The instrument's reliability was confirmed with high Cronbach's alpha values (>0.90), and exploratory (EFA) and confirmatory factor analyses (CFA) supported its structural validity.",
+              "[LPJSUJ9V] McDonald’s omega and Cronbach's alpha coefficients were used to assess reliability... Internal consistency is excellent because α and ω values range between 0.834 and 0.919.",
+              "[RGASR6Q5] The overall reliability of the instrument was excellent (α = 0.931), and the subscales also showed high reliability (α = 0.78-0.96)."
+            ],
+            "articles": [
+              "PP8YRX22",
+              "WE7WVA4B",
+              "ECTTSUXE",
+              "LPJSUJ9V",
+              "RGASR6Q5",
+              "QU82N8PC",
+              "9HGRHX6A",
+              "KU4TN5MB",
+              "PD6ENBV2",
+              "SL7257LZ",
+              "CU9IWP4L",
+              "PNGM9L8J",
+              "EPIKGTEL",
+              "A3WRUNHT",
+              "GSUNVIP6",
+              "B4EBYEKF",
+              "ZLBRXPDA",
+              "2IGUA9SF",
+              "RUGB95IU"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Reliability testing",
+              "Factor analysis",
+              "Structural validity"
+            ],
+            "_verification": {
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Engineering Education Contexts and Settings",
+            "definition": "The diverse educational environments in which engineering students are assessed, including internships, laboratories, virtual learning, and graduate programs. This theme captures the contextual factors influencing competency development and assessment.",
+            "evidence": [
+              "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+              "[ECTTSUXE] The instrument was designed to assess the level of competency development in undergraduate engineering students at the electromagnetism laboratory of the University Center of Exact Sciences and Engineering (CUCEI), University of Guadalajara, Mexico.",
+              "[Y4ZKXXH4] The study focuses on analyzing the self-perception of the acquisition of research competences of mechanical and electrical engineering students at the National Technological University of Lima Sur, located in Peru."
+            ],
+            "articles": [
+              "PP8YRX22",
+              "WE7WVA4B",
+              "ECTTSUXE",
+              "RGASR6Q5",
+              "QU82N8PC",
+              "9HGRHX6A",
+              "KU4TN5MB",
+              "PD6ENBV2",
+              "I9QV6W8G",
+              "NKWQH4PB",
+              "Y4ZKXXH4",
+              "PVT4UE9C",
+              "W2PMJWMT",
+              "SL7257LZ",
+              "CU9IWP4L",
+              "AKZVTZER",
+              "PNGM9L8J",
+              "A3WRUNHT",
+              "GSUNVIP6",
+              "B4EBYEKF",
+              "ZLBRXPDA",
+              "2IGUA9SF",
+              "RUGB95IU"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Internships",
+              "Laboratory settings",
+              "Virtual learning",
+              "Graduate education"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Self-Efficacy and Attitudes",
+            "definition": "The measurement and analysis of students' self-efficacy (confidence in their abilities) and attitudes toward learning, engineering, and professional skills. This includes factors like resilience, identity, and engagement.",
+            "evidence": [
+              "[LPJSUJ9V] The three factors are associated with the internet and traditional entrepreneurial intention, and the components from the theory of planned behavior (attitudes, subjective norms, and perceived behavioral control).",
+              "[RGASR6Q5] The EFA revealed a clear four-factor structure... Student Self-Efficacy and Engagement (5.4%).",
+              "[PVT4UE9C] Engineering identity development has mainly been investigated with undergraduate engineering students... we incorporate findings from previous qualitative studies of engineering identity and researcher identity."
+            ],
+            "articles": [
+              "PP8YRX22",
+              "WE7WVA4B",
+              "ECTTSUXE",
+              "LPJSUJ9V",
+              "RGASR6Q5",
+              "GMEMS46N",
+              "QU82N8PC",
+              "KU4TN5MB",
+              "PD6ENBV2",
+              "I9QV6W8G",
+              "NKWQH4PB",
+              "PVT4UE9C",
+              "W2PMJWMT",
+              "SL7257LZ",
+              "CU9IWP4L",
+              "PNGM9L8J",
+              "A3WRUNHT",
+              "GSUNVIP6",
+              "B4EBYEKF",
+              "ZLBRXPDA",
+              "2IGUA9SF"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Resilience",
+              "Engineering identity",
+              "Entrepreneurial self-efficacy"
+            ],
+            "_verification": {
+              "grounding_score": 0.533,
+              "quote_grounding": 0.333,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 2,
+              "verified": true
+            }
+          },
+          {
+            "name": "Rubric-Based Assessment",
+            "definition": "The use of rubrics as structured scoring tools to evaluate students' performance in specific tasks (e.g., oral presentations, design problems, laboratory work). This includes the development, validation, and application of rubrics.",
+            "evidence": [
+              "[ECTTSUXE] This study aims to validate a rubric based on Ribes' five functional levels... Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale.",
+              "[9HGRHX6A] The importance of a properly designed rubric in the competency-based assessment process is emphasized... The study used Cronbach's alpha and the Pearson coefficient to quantify the correlation between the criteria and parameters.",
+              "[GSUNVIP6] Oral presentation is one of the most important transversal competences for the professional career of Electrical Engineers... A pilot experiment was carried out... to develop and assess this competence, scoring rubrics are useful academic tools."
+            ],
+            "articles": [
+              "ECTTSUXE",
+              "9HGRHX6A",
+              "A3WRUNHT",
+              "GSUNVIP6"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Scoring rubrics",
+              "Competency-based assessment",
+              "Expert judgment"
+            ],
+            "_verification": {
+              "grounding_score": 0.3,
+              "quote_grounding": 0.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 3,
+              "verified": false
+            }
+          },
+          {
+            "name": "Critical Thinking and Problem-Solving",
+            "definition": "The assessment of students' ability to think critically and solve problems, particularly in technical domains like electrical engineering, statics, and automation. This includes the use of technology-based tools for evaluation.",
+            "evidence": [
+              "[EPIKGTEL] This study developes and validates an Automation Studio-based critical thinking assessment instrument for electrical engineering students, focusing on the ladder diagram concepts in automation control systems.",
+              "[AKZVTZER] The term representational competence refers to the ability to interpret, switch between, and use multiple representations of a concept as appropriate for learning, communication and analysis... We developed the assessment over two successive terms in statics courses."
+            ],
+            "articles": [
+              "EPIKGTEL",
+              "AKZVTZER"
+            ],
+            "frequency": "Low",
+            "confidence": "medium",
+            "related_concepts": [
+              "Representational competence",
+              "Automation-based assessment",
+              "Problem-solving skills"
+            ],
+            "_verification": {
+              "grounding_score": 0.65,
+              "quote_grounding": 0.5,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Reflective Thinking and Learning",
+            "definition": "The development and validation of tools to assess students' reflective thinking, particularly in design problem-solving contexts. This includes the timing, objects, and levels of reflection.",
+            "evidence": [
+              "[RUGB95IU] In this study, we have developed and validated a novel self‐reporting questionnaire as an efficient instrument to explore reflection, called Assessing Reflective Thinking in Solving Design Problems (ARTiD)."
+            ],
+            "articles": [
+              "RUGB95IU"
+            ],
+            "frequency": "Low",
+            "confidence": "medium",
+            "related_concepts": [
+              "Reflective practice",
+              "Design problem-solving",
+              "Self-reporting instruments"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Cultural and Gender Considerations in Assessment",
+            "definition": "The examination of how cultural background, gender, and other demographic factors influence students' competencies, attitudes, and assessment outcomes in engineering education.",
+            "evidence": [
+              "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+              "[I9QV6W8G] Differences between gender and race groups in terms of resilience and academic performance were insignificant."
+            ],
+            "articles": [
+              "LPJSUJ9V",
+              "I9QV6W8G",
+              "PVT4UE9C",
+              "W2PMJWMT"
+            ],
+            "frequency": "Low",
+            "confidence": "medium",
+            "related_concepts": [
+              "Gender invariance",
+              "Cultural adaptation",
+              "Demographic factors"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          }
+        ],
+        "meta_observations": "The abstracts predominantly focus on the development and validation of assessment instruments for engineering students, with a strong emphasis on psychometric properties (e.g., reliability, validity) and the use of factor analysis. Many studies are situated in specific educational contexts (e.g., internships, laboratories, virtual learning) and address a wide range of competencies (e.g., professional skills, research skills, self-efficacy). There is limited focus on critical thinking and reflective thinking, which appear in only a few abstracts. The term 'transversal competencies' is used in multiple abstracts to describe non-technical skills like teamwork and communication.",
+        "grounding_notes": "All themes and evidence are grounded in verbatim quotes from the provided abstracts. No external frameworks or assumptions were imposed. The frequency of themes is based on the number of abstracts that explicitly mention the theme. Some abstracts have quality notes indicating missing elements (e.g., no quantitative data, missing objective), which were not inferred. The closed set of article keys was strictly adhered to, and no additional keys were introduced.",
+        "_hallucination_control": {
+          "total_themes": 9,
+          "avg_grounding_score": 0.754,
+          "avg_quote_grounding": 0.648,
+          "avg_article_grounding": 1.0,
+          "total_hallucination_flags": 9,
+          "verification_details": [
+            {
+              "theme_name": "Assessment Instrument Development and Validation",
+              "evidence_verified": [
+                {
+                  "quote": "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+                  "score": 0.94,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instrument, and Cronbach's alpha was used to assess its reliability.",
+                  "score": 0.62,
+                  "confidence": "warning_paraphrase"
+                }
+              ],
+              "articles_verified": [
+                "PP8YRX22",
+                "WE7WVA4B",
+                "ECTTSUXE",
+                "LPJSUJ9V",
+                "RGASR6Q5",
+                "QU82N8PC",
+                "9HGRHX6A",
+                "KU4TN5MB",
+                "PD6ENBV2",
+                "SL7257LZ",
+                "CU9IWP4L",
+                "PNGM9L8J",
+                "EPIKGTEL",
+                "A3WRUNHT",
+                "GSUNVIP6",
+                "B4EBYEKF",
+                "ZLBRXPDA",
+                "2IGUA9SF",
+                "RUGB95IU"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Paraphrase detected (score=0.62), not verbatim: '[RGASR6Q5] A cross-sectional survey design was use...'"
+              ]
+            },
+            {
+              "theme_name": "Engineering Competencies and Skills",
+              "evidence_verified": [
+                {
+                  "quote": "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solving using mental models'.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation.",
+                  "score": 0.95,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competencies.",
+                  "score": 0.54,
+                  "confidence": "hallucination_flag"
+                }
+              ],
+              "articles_verified": [
+                "PP8YRX22",
+                "WE7WVA4B",
+                "ECTTSUXE",
+                "RGASR6Q5",
+                "QU82N8PC",
+                "KU4TN5MB",
+                "PD6ENBV2",
+                "SL7257LZ",
+                "CU9IWP4L",
+                "PNGM9L8J",
+                "EPIKGTEL",
+                "A3WRUNHT",
+                "GSUNVIP6",
+                "B4EBYEKF",
+                "2IGUA9SF",
+                "RUGB95IU"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Quote not found in source texts (score=0.54): '[WE7WVA4B] This study assessed these competencies ...'"
+              ]
+            },
+            {
+              "theme_name": "Psychometric Properties and Statistical Methods",
+              "evidence_verified": [
+                {
+                  "quote": "[WE7WVA4B] The instrument's reliability was confirmed with high Cronbach's alpha values (>0.90), and exploratory (EFA) and confirmatory factor analyses (CFA) supported its structural validity.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[RGASR6Q5] The overall reliability of the instrument was excellent (α = 0.931), and the subscales also showed high reliability (α = 0.78-0.96).",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[LPJSUJ9V] McDonald’s omega and Cronbach's alpha coefficients were used to assess reliability... Internal consistency is excellent because α and ω values range between 0.834 and 0.919.",
+                  "score": 0.53,
+                  "confidence": "hallucination_flag"
+                }
+              ],
+              "articles_verified": [
+                "PP8YRX22",
+                "WE7WVA4B",
+                "ECTTSUXE",
+                "LPJSUJ9V",
+                "RGASR6Q5",
+                "QU82N8PC",
+                "9HGRHX6A",
+                "KU4TN5MB",
+                "PD6ENBV2",
+                "SL7257LZ",
+                "CU9IWP4L",
+                "PNGM9L8J",
+                "EPIKGTEL",
+                "A3WRUNHT",
+                "GSUNVIP6",
+                "B4EBYEKF",
+                "ZLBRXPDA",
+                "2IGUA9SF",
+                "RUGB95IU"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Quote not found in source texts (score=0.53): '[LPJSUJ9V] McDonald’s omega and Cronbach's alpha c...'"
+              ]
+            },
+            {
+              "theme_name": "Engineering Education Contexts and Settings",
+              "evidence_verified": [
+                {
+                  "quote": "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[ECTTSUXE] The instrument was designed to assess the level of competency development in undergraduate engineering students at the electromagnetism laboratory of the University Center of Exact Sciences and Engineering (CUCEI), University of Guadalajara, Mexico.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[Y4ZKXXH4] The study focuses on analyzing the self-perception of the acquisition of research competences of mechanical and electrical engineering students at the National Technological University of Lima Sur, located in Peru.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "PP8YRX22",
+                "WE7WVA4B",
+                "ECTTSUXE",
+                "RGASR6Q5",
+                "QU82N8PC",
+                "9HGRHX6A",
+                "KU4TN5MB",
+                "PD6ENBV2",
+                "I9QV6W8G",
+                "NKWQH4PB",
+                "Y4ZKXXH4",
+                "PVT4UE9C",
+                "W2PMJWMT",
+                "SL7257LZ",
+                "CU9IWP4L",
+                "AKZVTZER",
+                "PNGM9L8J",
+                "A3WRUNHT",
+                "GSUNVIP6",
+                "B4EBYEKF",
+                "ZLBRXPDA",
+                "2IGUA9SF",
+                "RUGB95IU"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Self-Efficacy and Attitudes",
+              "evidence_verified": [
+                {
+                  "quote": "[LPJSUJ9V] The three factors are associated with the internet and traditional entrepreneurial intention, and the components from the theory of planned behavior (attitudes, subjective norms, and perceived behavioral control).",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[RGASR6Q5] The EFA revealed a clear four-factor structure... Student Self-Efficacy and Engagement (5.4%).",
+                  "score": 0.5,
+                  "confidence": "hallucination_flag"
+                },
+                {
+                  "quote": "[PVT4UE9C] Engineering identity development has mainly been investigated with undergraduate engineering students... we incorporate findings from previous qualitative studies of engineering identity and researcher identity.",
+                  "score": 0.52,
+                  "confidence": "hallucination_flag"
+                }
+              ],
+              "articles_verified": [
+                "PP8YRX22",
+                "WE7WVA4B",
+                "ECTTSUXE",
+                "LPJSUJ9V",
+                "RGASR6Q5",
+                "GMEMS46N",
+                "QU82N8PC",
+                "KU4TN5MB",
+                "PD6ENBV2",
+                "I9QV6W8G",
+                "NKWQH4PB",
+                "PVT4UE9C",
+                "W2PMJWMT",
+                "SL7257LZ",
+                "CU9IWP4L",
+                "PNGM9L8J",
+                "A3WRUNHT",
+                "GSUNVIP6",
+                "B4EBYEKF",
+                "ZLBRXPDA",
+                "2IGUA9SF"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.533,
+              "quote_grounding": 0.333,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Quote not found in source texts (score=0.50): '[RGASR6Q5] The EFA revealed a clear four-factor st...'",
+                "Quote not found in source texts (score=0.52): '[PVT4UE9C] Engineering identity development has ma...'"
+              ]
+            },
+            {
+              "theme_name": "Rubric-Based Assessment",
+              "evidence_verified": [],
+              "evidence_unverified": [
+                {
+                  "quote": "[ECTTSUXE] This study aims to validate a rubric based on Ribes' five functional levels... Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale.",
+                  "score": 0.62,
+                  "confidence": "warning_paraphrase"
+                },
+                {
+                  "quote": "[9HGRHX6A] The importance of a properly designed rubric in the competency-based assessment process is emphasized... The study used Cronbach's alpha and the Pearson coefficient to quantify the correlation between the criteria and parameters.",
+                  "score": 0.54,
+                  "confidence": "hallucination_flag"
+                },
+                {
+                  "quote": "[GSUNVIP6] Oral presentation is one of the most important transversal competences for the professional career of Electrical Engineers... A pilot experiment was carried out... to develop and assess this competence, scoring rubrics are useful academic tools.",
+                  "score": 0.47,
+                  "confidence": "hallucination_flag"
+                }
+              ],
+              "articles_verified": [
+                "ECTTSUXE",
+                "9HGRHX6A",
+                "A3WRUNHT",
+                "GSUNVIP6"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.3,
+              "quote_grounding": 0.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Paraphrase detected (score=0.62), not verbatim: '[ECTTSUXE] This study aims to validate a rubric ba...'",
+                "Quote not found in source texts (score=0.54): '[9HGRHX6A] The importance of a properly designed r...'",
+                "Quote not found in source texts (score=0.47): '[GSUNVIP6] Oral presentation is one of the most im...'"
+              ]
+            },
+            {
+              "theme_name": "Critical Thinking and Problem-Solving",
+              "evidence_verified": [
+                {
+                  "quote": "[EPIKGTEL] This study developes and validates an Automation Studio-based critical thinking assessment instrument for electrical engineering students, focusing on the ladder diagram concepts in automation control systems.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[AKZVTZER] The term representational competence refers to the ability to interpret, switch between, and use multiple representations of a concept as appropriate for learning, communication and analysis... We developed the assessment over two successive terms in statics courses.",
+                  "score": 0.68,
+                  "confidence": "warning_paraphrase"
+                }
+              ],
+              "articles_verified": [
+                "EPIKGTEL",
+                "AKZVTZER"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.65,
+              "quote_grounding": 0.5,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Paraphrase detected (score=0.68), not verbatim: '[AKZVTZER] The term representational competence re...'"
+              ]
+            },
+            {
+              "theme_name": "Reflective Thinking and Learning",
+              "evidence_verified": [
+                {
+                  "quote": "[RUGB95IU] In this study, we have developed and validated a novel self‐reporting questionnaire as an efficient instrument to explore reflection, called Assessing Reflective Thinking in Solving Design Problems (ARTiD).",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "RUGB95IU"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Cultural and Gender Considerations in Assessment",
+              "evidence_verified": [
+                {
+                  "quote": "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+                  "score": 0.94,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[I9QV6W8G] Differences between gender and race groups in terms of resilience and academic performance were insignificant.",
+                  "score": 0.94,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "LPJSUJ9V",
+                "I9QV6W8G",
+                "PVT4UE9C",
+                "W2PMJWMT"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            }
+          ]
+        }
+      },
+      {
+        "themes": [
+          {
+            "name": "Assessment instrument validation",
+            "definition": "The development, adaptation, and psychometric validation of measurement tools to assess various competencies, skills, or attitudes in engineering students. This includes reliability testing, factor analysis, and structural equation modeling to ensure instruments are valid and reliable for educational research.",
+            "evidence": [
+              "[CY59SPDS] This research paper reports the quantitative validation of instruments for assessing engineering students' motivational attitudes and behaviors in their capstone design course.",
+              "[IV425BDL] This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture.",
+              "[XT6BBTKW] This study sought to develop and validate an Ambassador Questionnaire (AQ) for undergraduate students conducting engineering outreach."
+            ],
+            "articles": [
+              "CY59SPDS",
+              "IV425BDL",
+              "XT6BBTKW",
+              "J4L96ZTQ",
+              "DFVK7NR2",
+              "XHXW8PNL",
+              "FY6V7BET"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Reliability testing",
+              "Factor analysis",
+              "Structural validity",
+              "Psychometric properties"
+            ],
+            "_verification": {
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Self-efficacy measurement in engineering",
+            "definition": "The assessment of students' confidence in their ability to perform engineering tasks, including programming, design, and general engineering skills. Studies focus on developing and validating scales to measure self-efficacy and its relationship to academic performance and persistence.",
+            "evidence": [
+              "[2DDA52FC] Two scales for engineering self-efficacy have recently been developed for undergraduate students, with validity evidence relating self-efficacy responses to persistence and achievement in engineering.",
+              "[CJPX792Z] This article has shown that self-efficacy in performing complex computer programming tasks and the self-regulation of electrical and electronics engineering undergraduate students varies with respect to the class standing and prior experience in computer programming.",
+              "[U374P6MT] The purpose of this study is to adapt a well-known self-efficacy scale and determine engineering student's C++ computer programming self-efficacy levels."
+            ],
+            "articles": [
+              "2DDA52FC",
+              "CJPX792Z",
+              "U374P6MT",
+              "J4L96ZTQ",
+              "Y345N2W5"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Programming self-efficacy",
+              "Design self-efficacy",
+              "Tinkering self-efficacy",
+              "Academic achievement"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Employability skills and professional competencies",
+            "definition": "The identification and assessment of skills required for engineering graduates to succeed in the workplace, including communication, teamwork, leadership, and technical competencies. Studies often use frameworks like The Conference Board of Canada's Employability Skills 2000+ to structure their analysis.",
+            "evidence": [
+              "[LHGYXXJG] The study aims to identify indicators that can measure students' employability skills and attributes. The research model, based on The Conference Board of Canada (Employability Skills 2000+), is divided into fundamental skills, personal management skills, and cooperative skills.",
+              "[49BIH9AZ] The purpose of this study is to identify employability skills among aspiring engineering graduates and develop measurement scale to assess their skill sets.",
+              "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students."
+            ],
+            "articles": [
+              "LHGYXXJG",
+              "49BIH9AZ",
+              "K9E5C83P",
+              "KI4LCCHP"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Communication skills",
+              "Teamwork",
+              "Leadership",
+              "Technical competencies"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Entrepreneurial mindset and innovation skills",
+            "definition": "The development and assessment of skills related to innovation, problem-solving, and entrepreneurial thinking in engineering students. Studies often focus on constructs like 'Connections' and 'Creating Value' as defined by the Kern Entrepreneurial Engineering Network (KEEN).",
+            "evidence": [
+              "[K9E5C83P] Cultivating an entrepreneurial mindset and associated behaviors in first-year engineering students is one step towards fostering students' professional skill development and preparing them for their future career roles.",
+              "[PH5ZR5GA] Grit, explicitly the perseverance and passion for a defined long–term goal, and the engineering mindset encompassing an iterative and failure-tolerant approach to problem-solving, are both vital yet underexplored domains within the field of engineering education.",
+              "[6XVSWITA] Designers rely on many methods and strategies to create innovative designs. However, design research often overlooks the personality and attitudinal factors influencing method utility and effectiveness."
+            ],
+            "articles": [
+              "K9E5C83P",
+              "PH5ZR5GA",
+              "6XVSWITA"
+            ],
+            "frequency": "Low",
+            "confidence": "medium",
+            "related_concepts": [
+              "Innovation",
+              "Problem-solving",
+              "Iterative design",
+              "Failure tolerance"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Workplace and internship experience assessment",
+            "definition": "The evaluation of students' perceptions and competencies gained through workplace experiences, such as internships or apprenticeships. Studies focus on developing tools to measure the quality of these experiences and their impact on employability.",
+            "evidence": [
+              "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+              "[9CXV3IJ6] The apprenticeship course is suitable for trail and test under the supervision of academic educators and industry experts. The essential part of the practical skills training occurs during this period.",
+              "[XHXW8PNL] The purpose of this paper is to assess engineering students’ perceptions of their internship experiences."
+            ],
+            "articles": [
+              "DFVK7NR2",
+              "9CXV3IJ6",
+              "XHXW8PNL"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Internship quality",
+              "Workplace competencies",
+              "Industry collaboration",
+              "Practical skills"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Systems thinking and design mindset",
+            "definition": "The assessment of students' ability to think holistically about complex systems and their approach to design processes. Studies often focus on developing instruments to measure these competencies and their relationship to problem-solving and innovation.",
+            "evidence": [
+              "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+              "[6XVSWITA] This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1), allowing us to measure and leverage statistical analyses to advance our understanding of its role in design."
+            ],
+            "articles": [
+              "J8H6TD8Q",
+              "6XVSWITA"
+            ],
+            "frequency": "Low",
+            "confidence": "medium",
+            "related_concepts": [
+              "Holistic thinking",
+              "Problem-solving",
+              "Iterative design",
+              "Complex systems"
+            ],
+            "_verification": {
+              "grounding_score": 0.65,
+              "quote_grounding": 0.5,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Sustainability and social responsibility in engineering",
+            "definition": "The measurement of students' attitudes, values, and competencies related to sustainability and social responsibility in engineering practice. Studies often use frameworks like the Brundtland report or expectancy value theory to structure their analysis.",
+            "evidence": [
+              "[NLXE3X6S] The purpose of this study was to design an assessment instrument to evaluate students’ attitudes toward sustainable engineering (SE).",
+              "[IV425BDL] Ethics education emphasizing social responsibility as a core competency for students."
+            ],
+            "articles": [
+              "NLXE3X6S",
+              "IV425BDL"
+            ],
+            "frequency": "Low",
+            "confidence": "medium",
+            "related_concepts": [
+              "Sustainability education",
+              "Social responsibility",
+              "Ethics in engineering",
+              "Community engagement"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Learning gains and active learning assessment",
+            "definition": "The evaluation of students' perceived learning gains and the effectiveness of active learning strategies in engineering education. Studies often use tools like the Students’ Assessment of their Learning Gains (SALG) to measure these outcomes.",
+            "evidence": [
+              "[I9G3834N] This study analyzes the validity and reliability of a commonly used survey, the Students’ Assessment of their Learning Gains (SALG).",
+              "[IQD3WXLQ] Industry-Coupled Problem-Based Learning (IC-PBL) has become a central approach in engineering education, enabling students to bridge theoretical understanding with real-world application."
+            ],
+            "articles": [
+              "I9G3834N",
+              "IQD3WXLQ"
+            ],
+            "frequency": "Medium",
+            "confidence": "medium",
+            "related_concepts": [
+              "Active learning",
+              "Learning outcomes",
+              "Student engagement",
+              "Problem-based learning"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Mathematical and technical competencies",
+            "definition": "The assessment of students' mathematical and technical competencies, particularly at the beginning of their engineering studies. Studies often use Rasch analysis or other psychometric methods to evaluate these competencies.",
+            "evidence": [
+              "[HX8CUXK4] This article reports about our efforts to determine engineering students' competence in mathematics.",
+              "[FMII7TUT] The article presents the validity and reliability of the MICRORUBRI instrument based on rubrics, with problems applied to engineering that allow analyzing situations in real context."
+            ],
+            "articles": [
+              "HX8CUXK4",
+              "FMII7TUT"
+            ],
+            "frequency": "Low",
+            "confidence": "medium",
+            "related_concepts": [
+              "Mathematical competence",
+              "Technical skills",
+              "Rasch analysis",
+              "Real-world application"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          }
+        ],
+        "meta_observations": "1. Many abstracts focus on the development and validation of assessment instruments, reflecting a strong emphasis on psychometric rigor in engineering education research. 2. Self-efficacy and employability skills are recurring themes, indicating their perceived importance in engineering education. 3. There is a notable lack of quantitative data in many abstracts, which limits the depth of analysis in some themes. 4. Themes like 'Entrepreneurial mindset' and 'Sustainability' are emerging but less frequently addressed in this batch. 5. Workplace and internship experiences are increasingly being assessed using validated tools like the Work Experience Questionnaire (WEQ).",
+        "grounding_notes": "1. All themes are grounded in verbatim quotes from the abstracts, ensuring no fabrication of evidence. 2. The 'articles' field only includes keys from the provided closed set, adhering to the grounding rules. 3. Some themes (e.g., 'Entrepreneurial mindset') have lower confidence due to fewer direct quotes or less explicit terminology in the abstracts. 4. The frequency of themes is based on the number of abstracts explicitly mentioning the concept, not inferred from content.",
+        "_hallucination_control": {
+          "total_themes": 9,
+          "avg_grounding_score": 0.935,
+          "avg_quote_grounding": 0.907,
+          "avg_article_grounding": 1.0,
+          "total_hallucination_flags": 2,
+          "verification_details": [
+            {
+              "theme_name": "Assessment instrument validation",
+              "evidence_verified": [
+                {
+                  "quote": "[CY59SPDS] This research paper reports the quantitative validation of instruments for assessing engineering students' motivational attitudes and behaviors in their capstone design course.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[IV425BDL] This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture.",
+                  "score": 0.93,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[XT6BBTKW] This study sought to develop and validate an Ambassador Questionnaire (AQ) for undergraduate students conducting engineering outreach.",
+                  "score": 0.61,
+                  "confidence": "warning_paraphrase"
+                }
+              ],
+              "articles_verified": [
+                "CY59SPDS",
+                "IV425BDL",
+                "XT6BBTKW",
+                "J4L96ZTQ",
+                "DFVK7NR2",
+                "XHXW8PNL",
+                "FY6V7BET"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Paraphrase detected (score=0.61), not verbatim: '[XT6BBTKW] This study sought to develop and valida...'"
+              ]
+            },
+            {
+              "theme_name": "Self-efficacy measurement in engineering",
+              "evidence_verified": [
+                {
+                  "quote": "[2DDA52FC] Two scales for engineering self-efficacy have recently been developed for undergraduate students, with validity evidence relating self-efficacy responses to persistence and achievement in engineering.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[CJPX792Z] This article has shown that self-efficacy in performing complex computer programming tasks and the self-regulation of electrical and electronics engineering undergraduate students varies with respect to the class standing and prior experience in computer programming.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[U374P6MT] The purpose of this study is to adapt a well-known self-efficacy scale and determine engineering student's C++ computer programming self-efficacy levels.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "2DDA52FC",
+                "CJPX792Z",
+                "U374P6MT",
+                "J4L96ZTQ",
+                "Y345N2W5"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Employability skills and professional competencies",
+              "evidence_verified": [
+                {
+                  "quote": "[LHGYXXJG] The study aims to identify indicators that can measure students' employability skills and attributes. The research model, based on The Conference Board of Canada (Employability Skills 2000+), is divided into fundamental skills, personal management skills, and cooperative skills.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[49BIH9AZ] The purpose of this study is to identify employability skills among aspiring engineering graduates and develop measurement scale to assess their skill sets.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "LHGYXXJG",
+                "49BIH9AZ",
+                "K9E5C83P",
+                "KI4LCCHP"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Entrepreneurial mindset and innovation skills",
+              "evidence_verified": [
+                {
+                  "quote": "[K9E5C83P] Cultivating an entrepreneurial mindset and associated behaviors in first-year engineering students is one step towards fostering students' professional skill development and preparing them for their future career roles.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[PH5ZR5GA] Grit, explicitly the perseverance and passion for a defined long–term goal, and the engineering mindset encompassing an iterative and failure-tolerant approach to problem-solving, are both vital yet underexplored domains within the field of engineering education.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[6XVSWITA] Designers rely on many methods and strategies to create innovative designs. However, design research often overlooks the personality and attitudinal factors influencing method utility and effectiveness.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "K9E5C83P",
+                "PH5ZR5GA",
+                "6XVSWITA"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Workplace and internship experience assessment",
+              "evidence_verified": [
+                {
+                  "quote": "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[9CXV3IJ6] The apprenticeship course is suitable for trail and test under the supervision of academic educators and industry experts. The essential part of the practical skills training occurs during this period.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[XHXW8PNL] The purpose of this paper is to assess engineering students’ perceptions of their internship experiences.",
+                  "score": 0.94,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "DFVK7NR2",
+                "9CXV3IJ6",
+                "XHXW8PNL"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Systems thinking and design mindset",
+              "evidence_verified": [
+                {
+                  "quote": "[6XVSWITA] This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1), allowing us to measure and leverage statistical analyses to advance our understanding of its role in design.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+                  "score": 0.19,
+                  "confidence": "hallucination_flag"
+                }
+              ],
+              "articles_verified": [
+                "J8H6TD8Q",
+                "6XVSWITA"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.65,
+              "quote_grounding": 0.5,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Quote not found in source texts (score=0.19): '[J8H6TD8Q] It is widely acknowledged that systems ...'"
+              ]
+            },
+            {
+              "theme_name": "Sustainability and social responsibility in engineering",
+              "evidence_verified": [
+                {
+                  "quote": "[NLXE3X6S] The purpose of this study was to design an assessment instrument to evaluate students’ attitudes toward sustainable engineering (SE).",
+                  "score": 0.95,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[IV425BDL] Ethics education emphasizing social responsibility as a core competency for students.",
+                  "score": 0.92,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "NLXE3X6S",
+                "IV425BDL"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Learning gains and active learning assessment",
+              "evidence_verified": [
+                {
+                  "quote": "[I9G3834N] This study analyzes the validity and reliability of a commonly used survey, the Students’ Assessment of their Learning Gains (SALG).",
+                  "score": 0.95,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[IQD3WXLQ] Industry-Coupled Problem-Based Learning (IC-PBL) has become a central approach in engineering education, enabling students to bridge theoretical understanding with real-world application.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "I9G3834N",
+                "IQD3WXLQ"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Mathematical and technical competencies",
+              "evidence_verified": [
+                {
+                  "quote": "[HX8CUXK4] This article reports about our efforts to determine engineering students' competence in mathematics.",
+                  "score": 0.93,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[FMII7TUT] The article presents the validity and reliability of the MICRORUBRI instrument based on rubrics, with problems applied to engineering that allow analyzing situations in real context.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "HX8CUXK4",
+                "FMII7TUT"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            }
+          ]
+        }
+      },
+      {
+        "themes": [
+          {
+            "name": "Engineering Self-Efficacy Measurement",
+            "definition": "The development, validation, and comparison of instruments designed to assess engineering students' self-efficacy beliefs, including domain-specific and general constructs, and their relationship to academic and professional outcomes.",
+            "evidence": [
+              "[LLIXIBSQ] This work investigates whether an engineering-domain specific self-efficacy measurement instrument is required for determining the self-efficacy beliefs of engineering students or whether a general instrument will suffice.",
+              "[B7B4X2WE] Self-efficacy has been linked to academic performance, motivation, and progression within engineering degree programs.",
+              "[QAJGLZ2K] This Research to Practice Full Paper outlines the process of converting the ABET Criterion 3 - Student Outcomes into an engineering self-efficacy scale (ESE-ABET)"
+            ],
+            "articles": [
+              "LLIXIBSQ",
+              "B7B4X2WE",
+              "QAJGLZ2K",
+              "G3EUY2C2",
+              "BQHZYQEC",
+              "7Y29KIN3",
+              "IVLUCNC3"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Domain-specific vs. general self-efficacy",
+              "Gender differences in self-efficacy",
+              "Sources of self-efficacy development"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Transferable and Professional Skills Assessment",
+            "definition": "The evaluation of non-technical competencies such as communication, teamwork, problem-solving, and contextual competence in engineering students, often through validated questionnaires or rubrics aligned with industry expectations.",
+            "evidence": [
+              "[DCSSFS2C] In an increasingly competitive labor market, transferable skills are becoming essential, particularly in engineering.",
+              "[FL269LXE] Engineering educators and practitioners increasingly value contextual competence. A psychometrically sound, practical, and useful scale for assessing undergraduate engineering students' contextual competence is needed.",
+              "[C3YQG2PI] A challenge instructors face is developing and accurately assessing technical communication skills to ensure students can apply and transfer the skills from the academic context into the context of engineering practice."
+            ],
+            "articles": [
+              "DCSSFS2C",
+              "WWJJIDI6",
+              "FL269LXE",
+              "IUF35Z2I",
+              "PJNV7WSV",
+              "C3YQG2PI",
+              "LQ8RTKIQ"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Vocational competencies",
+              "Industry-aligned rubrics",
+              "Gender differences in transferable skills"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Problem-Solving and Critical Thinking Evaluation",
+            "definition": "The creation and validation of tools to measure engineering students' problem-solving abilities, critical thinking, and related constructs, often using adapted psychological inventories or custom-designed surveys.",
+            "evidence": [
+              "[BQS3WMHF] The EM-PSI is a student's self-assessment of their problem solving and critical thinking abilities broken down into three sub-categories, 1) problem solving confidence, 2) approach-avoidance style, and 3) personal control.",
+              "[XQ7RZDGG] This paper presents a new assessment tool for measuring an individual’s self-appraisal of their technical problem-solving ability and the initial validation of the tool using a pilot study involving 73 undergraduate Civil Engineering students and faculty.",
+              "[K7MJBLUQ] Critical thinking is one of the fundamental competencies for 21st-century education; however, its promotion and assessment remain limited in scientific and technical degree programmes."
+            ],
+            "articles": [
+              "BQS3WMHF",
+              "XQ7RZDGG",
+              "SFEN9MC6",
+              "K7MJBLUQ",
+              "3TLQFJEJ"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Self-assessment tools",
+              "Factor analysis validation",
+              "Pedagogical applications"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Sustainability and Ethical Competence in Engineering Education",
+            "definition": "The integration and assessment of sustainability, ethics, and social responsibility competencies in engineering curricula, often using composite indicators or validated scales to measure learning outcomes.",
+            "evidence": [
+              "[VSFBSRZB] The purpose of this work is to present a methodology for analyzing the perception of engineering students about the sustainability learning they have achieved during their university studies.",
+              "[LQ8RTKIQ] The integration of ethics, social responsibility, and sustainability (ERS) into higher education curricula is essential for fostering competencies aligned with the Sustainable Development Goals.",
+              "[C3YQG2PI] By intentionally balancing teaching transferrable communication skills relevant to engineering practice and evaluating student understanding, engineering educators can foster competence and prepare students for the expectations of their professional careers."
+            ],
+            "articles": [
+              "VSFBSRZB",
+              "LQ8RTKIQ"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Ethical principles in engineering",
+              "Sustainable development goals",
+              "Curriculum alignment"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Instrument Validation and Psychometric Properties",
+            "definition": "The rigorous testing of scales, questionnaires, and rubrics for reliability, validity, and structural integrity, often using factor analysis, Cronbach's alpha, and confirmatory methods to ensure robust measurement tools.",
+            "evidence": [
+              "[FL269LXE] This article provides comprehensive evidence of the content, structural, discriminant, and criterion-related validity of the contextual competence scale.",
+              "[3R39PUCS] The Student Attitudinal Success Instrument (SASI-I) was designed to collect data on affective (non-cognitive) characteristics for incoming engineering students... Internal consistency of scale scores was investigated. Factor analysis was used to establish and verify the structure of the factors and subfactors.",
+              "[FUDIEQYR] The ISE.5 (as a measure of innovation self-efficacy) is shown to be an important mediator between innovation interests and a desire to pursue innovative work as a career postgraduation."
+            ],
+            "articles": [
+              "FL269LXE",
+              "3R39PUCS",
+              "FUDIEQYR",
+              "QKJ5DVTR",
+              "BQHZYQEC",
+              "W6H25QK5",
+              "9HKCQKDT"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Reliability testing",
+              "Factor analysis",
+              "Criterion-related validity"
+            ],
+            "_verification": {
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Engineering Identity and Motivation",
+            "definition": "The exploration of engineering identity constructs, motivational factors, and their measurement, including the impact of interventions or contextual factors (e.g., first-generation status, pandemic effects) on students' self-perceptions and engagement.",
+            "evidence": [
+              "[WHKSKTII] This work-in-progress research study examines the response patterns of first-generation college students (FGCS) to the engineering identity measures compared to non-first-generation college students (non-FGCS).",
+              "[7Y29KIN3] This study aims to assess the changes in self-efficacy perceived by engineering students in a school in Portugal... Five theoretically supported factors emerged from a statistical factor analysis: Communication and Empathy; Focus and Personal Organization; Teamwork and Individual Work Capacity; Technical and Cognitive Resources Management; and Emotional Resources Management.",
+              "[IVLUCNC3] A vital component of this particular RED project involves the development and validation of survey-based measures of Engineering Values, Self-Efficacy, and Identity"
+            ],
+            "articles": [
+              "WHKSKTII",
+              "7Y29KIN3",
+              "IVLUCNC3",
+              "B7B4X2WE",
+              "G3EUY2C2"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Identity development",
+              "Motivational interventions",
+              "Contextual influences"
+            ],
+            "_verification": {
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Large-Scale Competency Assessments",
+            "definition": "The design, implementation, and analysis of large-scale assessments of engineering competencies, often involving international collaborations or multi-institutional participation, to evaluate vocational or professional skills.",
+            "evidence": [
+              "[Y27Q6N9A] The focus of the assessment instrument was explicitly on 'above content' areas of the domain, and the assessment framework provides an example of a construct which articulates certain domain-specific competence components.",
+              "[LQ8RTKIQ] Data were collected from a sample of 418 engineering students at a public university in Colombia, using a Likert-type instrument comprising items distributed across three dimensions.",
+              "[W6H25QK5] In the development, the authors adopted the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR), and then used the English scores of more than 1800 working engineers and university students to validate the level separation of the Can-do list"
+            ],
+            "articles": [
+              "Y27Q6N9A",
+              "LQ8RTKIQ",
+              "W6H25QK5"
+            ],
+            "frequency": "Low",
+            "confidence": "high",
+            "related_concepts": [
+              "International benchmarking",
+              "Vocational competencies",
+              "Cross-cultural validation"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Pedagogical Interventions and Curriculum Design",
+            "definition": "The development and evaluation of pedagogical strategies, curricular changes, or interventions aimed at enhancing engineering students' competencies, often assessed through pre- and post-intervention comparisons or longitudinal studies.",
+            "evidence": [
+              "[BQS3WMHF] The EM-PSI is an innovative tool that is eventually intended be used as an evaluation metric, together with traditional metrics such as GPA and test scores, to improve pedagogical techniques and curricular content.",
+              "[TW2V2FRX] The objective of this study is proposing strategies to strengthen research competencies needed by engineers in training.",
+              "[9HKCQKDT] Subsequently, a 19-week randomized controlled trial (N = 600) was conducted, comparing an experimental group receiving multidimensional motivation strategies (e.g., goal contracting, choice provision) with a control group under conventional instruction."
+            ],
+            "articles": [
+              "BQS3WMHF",
+              "TW2V2FRX",
+              "9HKCQKDT"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Flipped classroom",
+              "Problem-based learning",
+              "Interdisciplinary projects"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          }
+        ],
+        "meta_observations": "Several abstracts focus on the development and validation of measurement instruments, reflecting a strong emphasis on psychometric rigor in engineering education research. Sustainability and ethics are emerging as significant themes, though often with less technical detail. Large-scale assessments are less frequently represented in this batch. Many studies highlight the need for curricular restructuring to better align with industry demands or competency frameworks.",
+        "grounding_notes": "All themes are grounded in explicit text from the abstracts. No invented keys or paraphrased quotes were used. Frequency is estimated based on the number of articles per theme within this batch. Some themes (e.g., 'Large-Scale Competency Assessments') are represented by fewer articles but are still included due to their distinct conceptual focus.",
+        "_hallucination_control": {
+          "total_themes": 8,
+          "avg_grounding_score": 0.942,
+          "avg_quote_grounding": 0.917,
+          "avg_article_grounding": 1.0,
+          "total_hallucination_flags": 2,
+          "verification_details": [
+            {
+              "theme_name": "Engineering Self-Efficacy Measurement",
+              "evidence_verified": [
+                {
+                  "quote": "[LLIXIBSQ] This work investigates whether an engineering-domain specific self-efficacy measurement instrument is required for determining the self-efficacy beliefs of engineering students or whether a general instrument will suffice.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[B7B4X2WE] Self-efficacy has been linked to academic performance, motivation, and progression within engineering degree programs.",
+                  "score": 0.94,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[QAJGLZ2K] This Research to Practice Full Paper outlines the process of converting the ABET Criterion 3 - Student Outcomes into an engineering self-efficacy scale (ESE-ABET)",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "LLIXIBSQ",
+                "B7B4X2WE",
+                "QAJGLZ2K",
+                "G3EUY2C2",
+                "BQHZYQEC",
+                "7Y29KIN3",
+                "IVLUCNC3"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Transferable and Professional Skills Assessment",
+              "evidence_verified": [
+                {
+                  "quote": "[DCSSFS2C] In an increasingly competitive labor market, transferable skills are becoming essential, particularly in engineering.",
+                  "score": 0.93,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[FL269LXE] Engineering educators and practitioners increasingly value contextual competence. A psychometrically sound, practical, and useful scale for assessing undergraduate engineering students' contextual competence is needed.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[C3YQG2PI] A challenge instructors face is developing and accurately assessing technical communication skills to ensure students can apply and transfer the skills from the academic context into the context of engineering practice.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "DCSSFS2C",
+                "WWJJIDI6",
+                "FL269LXE",
+                "IUF35Z2I",
+                "PJNV7WSV",
+                "C3YQG2PI",
+                "LQ8RTKIQ"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Problem-Solving and Critical Thinking Evaluation",
+              "evidence_verified": [
+                {
+                  "quote": "[BQS3WMHF] The EM-PSI is a student's self-assessment of their problem solving and critical thinking abilities broken down into three sub-categories, 1) problem solving confidence, 2) approach-avoidance style, and 3) personal control.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[XQ7RZDGG] This paper presents a new assessment tool for measuring an individual’s self-appraisal of their technical problem-solving ability and the initial validation of the tool using a pilot study involving 73 undergraduate Civil Engineering students and faculty.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[K7MJBLUQ] Critical thinking is one of the fundamental competencies for 21st-century education; however, its promotion and assessment remain limited in scientific and technical degree programmes.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "BQS3WMHF",
+                "XQ7RZDGG",
+                "SFEN9MC6",
+                "K7MJBLUQ",
+                "3TLQFJEJ"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Sustainability and Ethical Competence in Engineering Education",
+              "evidence_verified": [
+                {
+                  "quote": "[VSFBSRZB] The purpose of this work is to present a methodology for analyzing the perception of engineering students about the sustainability learning they have achieved during their university studies.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[LQ8RTKIQ] The integration of ethics, social responsibility, and sustainability (ERS) into higher education curricula is essential for fostering competencies aligned with the Sustainable Development Goals.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[C3YQG2PI] By intentionally balancing teaching transferrable communication skills relevant to engineering practice and evaluating student understanding, engineering educators can foster competence and prepare students for the expectations of their professional careers.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "VSFBSRZB",
+                "LQ8RTKIQ"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Instrument Validation and Psychometric Properties",
+              "evidence_verified": [
+                {
+                  "quote": "[FL269LXE] This article provides comprehensive evidence of the content, structural, discriminant, and criterion-related validity of the contextual competence scale.",
+                  "score": 0.95,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[FUDIEQYR] The ISE.5 (as a measure of innovation self-efficacy) is shown to be an important mediator between innovation interests and a desire to pursue innovative work as a career postgraduation.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[3R39PUCS] The Student Attitudinal Success Instrument (SASI-I) was designed to collect data on affective (non-cognitive) characteristics for incoming engineering students... Internal consistency of scale scores was investigated. Factor analysis was used to establish and verify the structure of the factors and subfactors.",
+                  "score": 0.5,
+                  "confidence": "hallucination_flag"
+                }
+              ],
+              "articles_verified": [
+                "FL269LXE",
+                "3R39PUCS",
+                "FUDIEQYR",
+                "QKJ5DVTR",
+                "BQHZYQEC",
+                "W6H25QK5",
+                "9HKCQKDT"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Quote not found in source texts (score=0.50): '[3R39PUCS] The Student Attitudinal Success Instrum...'"
+              ]
+            },
+            {
+              "theme_name": "Engineering Identity and Motivation",
+              "evidence_verified": [
+                {
+                  "quote": "[WHKSKTII] This work-in-progress research study examines the response patterns of first-generation college students (FGCS) to the engineering identity measures compared to non-first-generation college students (non-FGCS).",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[IVLUCNC3] A vital component of this particular RED project involves the development and validation of survey-based measures of Engineering Values, Self-Efficacy, and Identity",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[7Y29KIN3] This study aims to assess the changes in self-efficacy perceived by engineering students in a school in Portugal... Five theoretically supported factors emerged from a statistical factor analysis: Communication and Empathy; Focus and Personal Organization; Teamwork and Individual Work Capacity; Technical and Cognitive Resources Management; and Emotional Resources Management.",
+                  "score": 0.61,
+                  "confidence": "warning_paraphrase"
+                }
+              ],
+              "articles_verified": [
+                "WHKSKTII",
+                "7Y29KIN3",
+                "IVLUCNC3",
+                "B7B4X2WE",
+                "G3EUY2C2"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.767,
+              "quote_grounding": 0.667,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Paraphrase detected (score=0.61), not verbatim: '[7Y29KIN3] This study aims to assess the changes i...'"
+              ]
+            },
+            {
+              "theme_name": "Large-Scale Competency Assessments",
+              "evidence_verified": [
+                {
+                  "quote": "[Y27Q6N9A] The focus of the assessment instrument was explicitly on 'above content' areas of the domain, and the assessment framework provides an example of a construct which articulates certain domain-specific competence components.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[LQ8RTKIQ] Data were collected from a sample of 418 engineering students at a public university in Colombia, using a Likert-type instrument comprising items distributed across three dimensions.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[W6H25QK5] In the development, the authors adopted the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR), and then used the English scores of more than 1800 working engineers and university students to validate the level separation of the Can-do list",
+                  "score": 0.98,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "Y27Q6N9A",
+                "LQ8RTKIQ",
+                "W6H25QK5"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Pedagogical Interventions and Curriculum Design",
+              "evidence_verified": [
+                {
+                  "quote": "[BQS3WMHF] The EM-PSI is an innovative tool that is eventually intended be used as an evaluation metric, together with traditional metrics such as GPA and test scores, to improve pedagogical techniques and curricular content.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[TW2V2FRX] The objective of this study is proposing strategies to strengthen research competencies needed by engineers in training.",
+                  "score": 0.94,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[9HKCQKDT] Subsequently, a 19-week randomized controlled trial (N = 600) was conducted, comparing an experimental group receiving multidimensional motivation strategies (e.g., goal contracting, choice provision) with a control group under conventional instruction.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "BQS3WMHF",
+                "TW2V2FRX",
+                "9HKCQKDT"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            }
+          ]
+        }
+      },
+      {
+        "themes": [
+          {
+            "name": "Development and validation of self-efficacy scales",
+            "definition": "The process of creating and validating instruments to measure specific self-efficacy constructs in engineering students, ensuring reliability and validity through statistical and psychometric methods.",
+            "evidence": [
+              "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+              "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors (Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity), along with good reliability evidence.",
+              "[95PYDLRQ] To create the instrument, 35 broad survey questions related to self-efficacy were generated, separated into 4 broad categories: General Self-Efficacy (GEN) a unidimensional scale taken from Mamaril's paper, Engineering Problem Identification in Surgery (IDENT), Engineering Problem Solving (SOLVE), and Engineering Proposal Writing Skills (WRITE)."
+            ],
+            "articles": [
+              "6ATWRP3C",
+              "95PYDLRQ"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Factor analysis",
+              "Reliability testing",
+              "Scale validation"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Entrepreneurial motivation factors in engineering students",
+            "definition": "The identification of distinct motivational factors that influence engineering students to pursue entrepreneurial careers, including creation, personal interests, and managerial motivations.",
+            "evidence": [
+              "[JZEJCTN6] Data obtained from 460 engineering students supported three factors underlying the construct of entrepreneurial motivation: Motivation for Creation and Solution (MCS), Motivation for Personal Interests (MPS), and Managerial Motivation (MM).",
+              "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur with mediation effects of venturing and technology self-efficacy."
+            ],
+            "articles": [
+              "JZEJCTN6"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Career intention",
+              "Mediation analysis",
+              "Psychometric properties"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Writing attitudes and academic performance",
+            "definition": "The assessment of engineering students' attitudes toward writing, including emotional and cognitive dimensions, and their implications for academic success and career trajectory.",
+            "evidence": [
+              "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing.",
+              "[6SNWQJMW] The affective dimension of writing (feelings, emotions, writer's block, and writing apprehension) can further complicate the process of writing for students who write infrequently."
+            ],
+            "articles": [
+              "6SNWQJMW"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Writing apprehension",
+              "Career trajectory",
+              "Survey validation"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Leadership competencies in engineering education",
+            "definition": "The identification and measurement of leadership-related competencies that engineering students are expected to develop, such as team motivation, ethical actions, and innovative changes.",
+            "evidence": [
+              "[6ATWRP3C] As the National Academy of Engineering identified leadership as one attribute that engineering students must develop by the time of graduation, at the university level, institutions have provided supplemental leadership programs that engineering students can take during college education period.",
+              "[6ATWRP3C] ...six factors as representative aspects of leadership in engineering: Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity."
+            ],
+            "articles": [
+              "6ATWRP3C"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Leadership programs",
+              "Competency assessment",
+              "Ethical leadership"
+            ],
+            "_verification": {
+              "grounding_score": 0.65,
+              "quote_grounding": 0.5,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 1,
+              "verified": true
+            }
+          },
+          {
+            "name": "Self-efficacy in biomedical engineering contexts",
+            "definition": "The measurement of self-efficacy in biomedical engineers, particularly their ability to identify, solve, and propose solutions to provocative questions in clinical environments.",
+            "evidence": [
+              "[95PYDLRQ] ...this study seeks to create an instrument to determine how self-efficacy in biomedical engineering is related to a subject's abilities to identify and solve provocative questions relevant in a clinical environment and ability to write grant proposals related to those questions.",
+              "[95PYDLRQ] Our instrument can use biomedical engineers' self-efficacy to measure their ability to identify and solve provocative questions relevant in a clinical environment as well as write grant proposals related to those questions."
+            ],
+            "articles": [
+              "95PYDLRQ"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Clinical relevance",
+              "Grant proposal writing",
+              "Interdisciplinary skills"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Psychometric validation processes",
+            "definition": "The methodological approaches used to validate scales and surveys, including factor analysis, reliability testing, and correlation with established instruments.",
+            "evidence": [
+              "[6ATWRP3C] ...exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors... along with good reliability evidence.",
+              "[95PYDLRQ] An exploratory factor analysis in the form of principal axis factoring was performed on the categories of IDENT, SOLVE, and WRITE. Correlation values were used to relate these categories to Mamaril's general self-efficacy instrument."
+            ],
+            "articles": [
+              "6ATWRP3C",
+              "95PYDLRQ"
+            ],
+            "frequency": "High",
+            "confidence": "high",
+            "related_concepts": [
+              "Factor structure",
+              "Reliability statistics",
+              "Correlation analysis"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          },
+          {
+            "name": "Educational assessment and policy implications",
+            "definition": "The use of validated instruments to inform educational assessment, research, and policy decisions related to engineering education and student development.",
+            "evidence": [
+              "[JZEJCTN6] The results can be useful in assessment, research, and/or policy decisions related to delivering entrepreneurship education to engineering students.",
+              "[6ATWRP3C] ...there has been a lack of appropriate instruments to understand and diagnose the current approach and efforts of institutions to develop engineering students' leadership."
+            ],
+            "articles": [
+              "JZEJCTN6",
+              "6ATWRP3C"
+            ],
+            "frequency": "Medium",
+            "confidence": "high",
+            "related_concepts": [
+              "Institutional assessment",
+              "Policy development",
+              "Educational outcomes"
+            ],
+            "_verification": {
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "n_hallucination_flags": 0,
+              "verified": true
+            }
+          }
+        ],
+        "meta_observations": "All abstracts focus on the development and validation of assessment instruments (scales, surveys) for engineering students, with themes centered on self-efficacy, leadership, writing attitudes, and entrepreneurial motivation. There is a notable emphasis on psychometric validation processes (factor analysis, reliability testing) and the practical applications of these instruments in educational and policy contexts.",
+        "grounding_notes": "All themes are directly grounded in verbatim quotes from the abstracts. No external frameworks or assumptions were imposed. Themes were derived inductively from observed terminology and patterns. Some abstracts had quality notes indicating missing elements (e.g., quantitative data, results), but these were not inferred or included in the analysis.",
+        "_hallucination_control": {
+          "total_themes": 7,
+          "avg_grounding_score": 0.95,
+          "avg_quote_grounding": 0.929,
+          "avg_article_grounding": 1.0,
+          "total_hallucination_flags": 1,
+          "verification_details": [
+            {
+              "theme_name": "Development and validation of self-efficacy scales",
+              "evidence_verified": [
+                {
+                  "quote": "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+                  "score": 0.95,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors (Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity), along with good reliability evidence.",
+                  "score": 0.98,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[95PYDLRQ] To create the instrument, 35 broad survey questions related to self-efficacy were generated, separated into 4 broad categories: General Self-Efficacy (GEN) a unidimensional scale taken from Mamaril's paper, Engineering Problem Identification in Surgery (IDENT), Engineering Problem Solving (SOLVE), and Engineering Proposal Writing Skills (WRITE).",
+                  "score": 0.98,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "6ATWRP3C",
+                "95PYDLRQ"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Entrepreneurial motivation factors in engineering students",
+              "evidence_verified": [
+                {
+                  "quote": "[JZEJCTN6] Data obtained from 460 engineering students supported three factors underlying the construct of entrepreneurial motivation: Motivation for Creation and Solution (MCS), Motivation for Personal Interests (MPS), and Managerial Motivation (MM).",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur with mediation effects of venturing and technology self-efficacy.",
+                  "score": 0.95,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "JZEJCTN6"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Writing attitudes and academic performance",
+              "evidence_verified": [
+                {
+                  "quote": "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[6SNWQJMW] The affective dimension of writing (feelings, emotions, writer's block, and writing apprehension) can further complicate the process of writing for students who write infrequently.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "6SNWQJMW"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Leadership competencies in engineering education",
+              "evidence_verified": [
+                {
+                  "quote": "[6ATWRP3C] As the National Academy of Engineering identified leadership as one attribute that engineering students must develop by the time of graduation, at the university level, institutions have provided supplemental leadership programs that engineering students can take during college education period.",
+                  "score": 0.98,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [
+                {
+                  "quote": "[6ATWRP3C] ...six factors as representative aspects of leadership in engineering: Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity.",
+                  "score": 0.57,
+                  "confidence": "hallucination_flag"
+                }
+              ],
+              "articles_verified": [
+                "6ATWRP3C"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 0.65,
+              "quote_grounding": 0.5,
+              "article_grounding": 1.0,
+              "hallucination_flags": [
+                "Quote not found in source texts (score=0.57): '[6ATWRP3C] ...six factors as representative aspect...'"
+              ]
+            },
+            {
+              "theme_name": "Self-efficacy in biomedical engineering contexts",
+              "evidence_verified": [
+                {
+                  "quote": "[95PYDLRQ] ...this study seeks to create an instrument to determine how self-efficacy in biomedical engineering is related to a subject's abilities to identify and solve provocative questions relevant in a clinical environment and ability to write grant proposals related to those questions.",
+                  "score": 0.98,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[95PYDLRQ] Our instrument can use biomedical engineers' self-efficacy to measure their ability to identify and solve provocative questions relevant in a clinical environment as well as write grant proposals related to those questions.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "95PYDLRQ"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Psychometric validation processes",
+              "evidence_verified": [
+                {
+                  "quote": "[6ATWRP3C] ...exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors... along with good reliability evidence.",
+                  "score": 0.77,
+                  "confidence": "verified_approximate"
+                },
+                {
+                  "quote": "[95PYDLRQ] An exploratory factor analysis in the form of principal axis factoring was performed on the categories of IDENT, SOLVE, and WRITE. Correlation values were used to relate these categories to Mamaril's general self-efficacy instrument.",
+                  "score": 0.97,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "6ATWRP3C",
+                "95PYDLRQ"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            },
+            {
+              "theme_name": "Educational assessment and policy implications",
+              "evidence_verified": [
+                {
+                  "quote": "[JZEJCTN6] The results can be useful in assessment, research, and/or policy decisions related to delivering entrepreneurship education to engineering students.",
+                  "score": 0.95,
+                  "confidence": "verified_exact"
+                },
+                {
+                  "quote": "[6ATWRP3C] ...there has been a lack of appropriate instruments to understand and diagnose the current approach and efforts of institutions to develop engineering students' leadership.",
+                  "score": 0.96,
+                  "confidence": "verified_exact"
+                }
+              ],
+              "evidence_unverified": [],
+              "articles_verified": [
+                "JZEJCTN6",
+                "6ATWRP3C"
+              ],
+              "articles_unverified": [],
+              "grounding_score": 1.0,
+              "quote_grounding": 1.0,
+              "article_grounding": 1.0,
+              "hallucination_flags": []
+            }
+          ]
+        }
+      }
+    ],
+    "synthesis": {
+      "taxonomy": [
+        {
+          "theme": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+          "definition": "The identification, assessment, and development of both technical and non-technical competencies, attitudes, and professional skills required for engineering students. This includes evaluating constructs such as self-efficacy, teamwork, communication, innovation mindset, and entrepreneurial intentions.",
+          "subthemes": [
+            "Technical and non-technical competencies",
+            "Self-efficacy and attitudinal development",
+            "Professional skills (e.g., teamwork, communication)",
+            "Innovation and entrepreneurial mindset"
+          ],
+          "n_studies_approx": 67,
+          "source_batches": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "robustness": "High"
+        },
+        {
+          "theme": "Advanced Cognitive and Systems Thinking Skills Assessment",
+          "definition": "The assessment of higher-order cognitive abilities and systems thinking in engineering contexts. This includes evaluating critical thinking, problem-solving, representational competence, and the ability to think holistically about complex systems and iterative design processes.",
+          "subthemes": [
+            "Higher-order cognitive skills (e.g., critical thinking, problem-solving)",
+            "Systems thinking and design mindset",
+            "Representational competence"
+          ],
+          "n_studies_approx": 9,
+          "source_batches": [
+            0,
+            2,
+            1
+          ],
+          "robustness": "High"
+        },
+        {
+          "theme": "Innovation, Entrepreneurship, and Career Intentions Assessment",
+          "definition": "The development and assessment of skills and motivations related to innovation, entrepreneurship, and career intentions in engineering students. This includes examining constructs like entrepreneurial mindset, career trajectories, and motivational factors influencing entrepreneurial intentions.",
+          "subthemes": [
+            "Innovation and entrepreneurial mindset",
+            "Entrepreneurial motivation and career intentions"
+          ],
+          "n_studies_approx": 4,
+          "source_batches": [
+            1,
+            3
+          ],
+          "robustness": "High"
+        },
+        {
+          "theme": "Experiential and Active Learning Assessment",
+          "definition": "The evaluation of students' competencies, learning gains, and outcomes gained through experiential and active learning strategies. This includes assessing workplace experiences (e.g., internships), flipped classrooms, problem-based learning, and perceived learning gains.",
+          "subthemes": [
+            "Workplace and experiential learning assessment",
+            "Active learning strategies and learning gains"
+          ],
+          "n_studies_approx": 5,
+          "source_batches": [
+            1
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Sustainability, Ethics, and Leadership Competencies Assessment",
+          "definition": "The measurement of students' competencies, attitudes, and values related to sustainability, social responsibility, ethics, and leadership in engineering practice. This includes frameworks for assessing ethical decision-making, team motivation, and innovative change management.",
+          "subthemes": [
+            "Sustainability and social responsibility",
+            "Ethics in engineering practice",
+            "Leadership competencies"
+          ],
+          "n_studies_approx": 5,
+          "source_batches": [
+            1,
+            2,
+            3
+          ],
+          "robustness": "High"
+        },
+        {
+          "theme": "Assessment Instrument Development and Validation",
+          "definition": "The process of creating, refining, and validating tools (e.g., scales, rubrics, questionnaires) to measure engineering students' competencies, attitudes, or skills. This includes psychometric testing such as reliability (Cronbach's alpha, McDonald's omega) and validity (construct, content, discriminant) analyses.",
+          "subthemes": [],
+          "n_studies_approx": 54,
+          "source_batches": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "robustness": "High"
+        },
+        {
+          "theme": "Educational Contexts and Assessment Environments",
+          "definition": "The diverse settings and contexts in which engineering students are assessed, including traditional classrooms, laboratories, internships, virtual learning environments, and graduate programs. This theme captures how different educational contexts influence assessment methods and outcomes.",
+          "subthemes": [
+            "Laboratory-based assessment",
+            "Internship and workplace assessment",
+            "Virtual and remote learning assessment",
+            "Graduate-level assessment"
+          ],
+          "n_studies_approx": 23,
+          "source_batches": [
+            0
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Reflective Practices and Metacognition in Engineering Education",
+          "definition": "The development and validation of tools to assess students' reflective thinking, particularly in design problem-solving and experiential learning contexts. This theme examines how reflection and metacognition contribute to learning and professional growth.",
+          "subthemes": [
+            "Reflective practice in design",
+            "Timing and objects of reflection",
+            "Levels of reflective thinking",
+            "Self-reporting instruments for reflection"
+          ],
+          "n_studies_approx": 1,
+          "source_batches": [
+            0
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Diversity and Inclusion in Engineering Assessment",
+          "definition": "The examination of how cultural background, gender, and other demographic factors influence students' competencies, attitudes, and assessment outcomes in engineering education. This theme includes the study of measurement invariance and culturally adapted assessment tools.",
+          "subthemes": [
+            "Gender invariance in assessment",
+            "Cultural adaptation of instruments",
+            "Demographic factors in performance",
+            "Equity in assessment outcomes"
+          ],
+          "n_studies_approx": 4,
+          "source_batches": [
+            0
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Mathematical and Technical Competency Assessment",
+          "definition": "The assessment of foundational mathematical and technical competencies in engineering students, particularly at the beginning of their academic journey. This includes the use of psychometric tools like Rasch analysis to evaluate skills in real-world applications.",
+          "subthemes": [
+            "Mathematical competence",
+            "Technical skills",
+            "Psychometric evaluation"
+          ],
+          "n_studies_approx": 2,
+          "source_batches": [
+            1
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Large-Scale and Cross-Cultural Competency Benchmarking",
+          "definition": "The design, implementation, and analysis of large-scale assessments of engineering competencies, often involving international collaborations, multi-institutional participation, or cross-cultural validation to benchmark student performance and inform curriculum improvements.",
+          "subthemes": [
+            "International benchmarking frameworks",
+            "Vocational competencies in global contexts",
+            "Cross-cultural validation of assessment tools"
+          ],
+          "n_studies_approx": 3,
+          "source_batches": [
+            2
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Pedagogical Interventions and Learning Outcomes Assessment",
+          "definition": "The development and evaluation of pedagogical strategies, curricular changes, or interventions (e.g., flipped classrooms, problem-based learning) aimed at enhancing engineering students' competencies, assessed through pre- and post-intervention measures of learning gains and skill development.",
+          "subthemes": [
+            "Active learning strategy evaluation",
+            "Interdisciplinary project-based learning",
+            "Curriculum alignment with competency outcomes"
+          ],
+          "n_studies_approx": 3,
+          "source_batches": [
+            2
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Writing Attitudes and Academic Performance in Engineering",
+          "definition": "The evaluation of engineering students' attitudes toward writing, including emotional responses (e.g., apprehension) and cognitive engagement, and their relationship to academic success and career development. This theme also encompasses the validation of survey instruments used to measure these attitudes.",
+          "subthemes": [
+            "Writing apprehension and performance",
+            "Survey validation methodologies",
+            "Career trajectory implications"
+          ],
+          "n_studies_approx": 1,
+          "source_batches": [
+            3
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Self-Efficacy in Biomedical Engineering Contexts",
+          "definition": "The measurement of self-efficacy among biomedical engineering students, particularly their confidence in addressing clinical problems, proposing solutions, and engaging in interdisciplinary collaborations. This theme emphasizes the clinical relevance of self-efficacy and its role in professional development.",
+          "subthemes": [
+            "Clinical problem-solving self-efficacy",
+            "Interdisciplinary skill confidence",
+            "Grant proposal writing efficacy"
+          ],
+          "n_studies_approx": 1,
+          "source_batches": [
+            3
+          ],
+          "robustness": "Medium"
+        },
+        {
+          "theme": "Educational Assessment Policy and Institutional Impact",
+          "definition": "The use of validated assessment instruments to inform institutional policies, educational research, and broader policy decisions in engineering education. This theme explores how assessment outcomes drive curriculum development, accreditation processes, and systemic improvements in engineering programs.",
+          "subthemes": [
+            "Institutional assessment frameworks",
+            "Policy development from assessment data",
+            "Educational outcomes and accreditation"
+          ],
+          "n_studies_approx": 2,
+          "source_batches": [
+            3
+          ],
+          "robustness": "Medium"
+        }
+      ],
+      "statistics": {
+        "total_main_themes": 15,
+        "total_subthemes": 44,
+        "robust_themes": 5
+      },
+      "dominant_pattern": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+      "notable_gaps": [
+        "Reflective Practices and Metacognition in Engineering Education (only 1 study)",
+        "Writing Attitudes and Academic Performance in Engineering (only 1 study)",
+        "Self-Efficacy in Biomedical Engineering Contexts (only 1 study)",
+        "Large-Scale and Cross-Cultural Competency Benchmarking (only 3 studies)",
+        "Mathematical and Technical Competency Assessment (only 2 studies)",
+        "Educational Assessment Policy and Institutional Impact (only 2 studies)"
+      ],
+      "_synthesis_verification": {
+        "themes_verified": 15,
+        "total_themes": 15,
+        "taxonomy_grounding": 1.0,
+        "avg_article_support": 1.0,
+        "avg_subtopic_consistency": 0.533,
+        "n_studies_all_valid": true,
+        "n_studies_all_consistent": true,
+        "themes_with_count_mismatch": [],
+        "details": [
+          {
+            "theme": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 4,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.5,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 67,
+            "n_studies_real_support": 67,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Advanced Cognitive and Systems Thinking Skills Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 3,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.333,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 9,
+            "n_studies_real_support": 9,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Innovation, Entrepreneurship, and Career Intentions Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 2,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.0,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 4,
+            "n_studies_real_support": 4,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Experiential and Active Learning Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.0,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 5,
+            "n_studies_real_support": 5,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Sustainability, Ethics, and Leadership Competencies Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 3,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 1.0,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 5,
+            "n_studies_real_support": 5,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Assessment Instrument Development and Validation",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 4,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 1.0,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 54,
+            "n_studies_real_support": 54,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Educational Contexts and Assessment Environments",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.25,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 23,
+            "n_studies_real_support": 23,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Reflective Practices and Metacognition in Engineering Education",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.5,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 1,
+            "n_studies_real_support": 1,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Diversity and Inclusion in Engineering Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.75,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 4,
+            "n_studies_real_support": 4,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Mathematical and Technical Competency Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.667,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 2,
+            "n_studies_real_support": 2,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Large-Scale and Cross-Cultural Competency Benchmarking",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.667,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 3,
+            "n_studies_real_support": 3,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Pedagogical Interventions and Learning Outcomes Assessment",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.333,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 3,
+            "n_studies_real_support": 3,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Writing Attitudes and Academic Performance in Engineering",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 1.0,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 1,
+            "n_studies_real_support": 1,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Self-Efficacy in Biomedical Engineering Contexts",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.333,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 1,
+            "n_studies_real_support": 1,
+            "n_studies_consistent": true
+          },
+          {
+            "theme": "Educational Assessment Policy and Institutional Impact",
+            "name_grounded": true,
+            "name_overlap_score": 1.0,
+            "n_source_batches": 1,
+            "article_support_ratio": 1.0,
+            "subtopic_consistency": 0.667,
+            "has_inherited_evidence": true,
+            "n_studies_valid": true,
+            "n_studies_claimed": 2,
+            "n_studies_real_support": 2,
+            "n_studies_consistent": true
+          }
+        ]
+      },
+      "_structural_signatures": [
+        {
+          "name": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+          "definition": "The identification, assessment, and development of both technical and non-technical competencies, attitudes, and professional skills required for engineering students. This includes evaluating constructs such as self-efficacy, teamwork, communication, innovation mindset, and entrepreneurial intentions.",
+          "source_batches": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 67,
+          "supporting_quotes": [
+            "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc"
+          ],
+          "subtopics": [
+            "Technical and non-technical competencies",
+            "Self-efficacy and attitudinal development",
+            "Professional skills (e.g., teamwork, communication)",
+            "Innovation and entrepreneurial mindset"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.5,
+            "combined": 0.925,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Advanced Cognitive and Systems Thinking Skills Assessment",
+          "definition": "The assessment of higher-order cognitive abilities and systems thinking in engineering contexts. This includes evaluating critical thinking, problem-solving, representational competence, and the ability to think holistically about complex systems and iterative design processes.",
+          "source_batches": [
+            0,
+            2,
+            1
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 9,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [
+            "Higher-order cognitive skills (e.g., critical thinking, problem-solving)",
+            "Systems thinking and design mindset",
+            "Representational competence"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.333,
+            "combined": 0.9,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Innovation, Entrepreneurship, and Career Intentions Assessment",
+          "definition": "The development and assessment of skills and motivations related to innovation, entrepreneurship, and career intentions in engineering students. This includes examining constructs like entrepreneurial mindset, career trajectories, and motivational factors influencing entrepreneurial intentions.",
+          "source_batches": [
+            1,
+            3
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 4,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [
+            "Innovation and entrepreneurial mindset",
+            "Entrepreneurial motivation and career intentions"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.0,
+            "combined": 0.85,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Experiential and Active Learning Assessment",
+          "definition": "The evaluation of students' competencies, learning gains, and outcomes gained through experiential and active learning strategies. This includes assessing workplace experiences (e.g., internships), flipped classrooms, problem-based learning, and perceived learning gains.",
+          "source_batches": [
+            1
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 5,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [
+            "Workplace and experiential learning assessment",
+            "Active learning strategies and learning gains"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.0,
+            "combined": 0.85,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Sustainability, Ethics, and Leadership Competencies Assessment",
+          "definition": "The measurement of students' competencies, attitudes, and values related to sustainability, social responsibility, ethics, and leadership in engineering practice. This includes frameworks for assessing ethical decision-making, team motivation, and innovative change management.",
+          "source_batches": [
+            1,
+            2,
+            3
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 5,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [
+            "Sustainability and social responsibility",
+            "Ethics in engineering practice",
+            "Leadership competencies"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 1.0,
+            "combined": 1.0,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Assessment Instrument Development and Validation",
+          "definition": "The process of creating, refining, and validating tools (e.g., scales, rubrics, questionnaires) to measure engineering students' competencies, attitudes, or skills. This includes psychometric testing such as reliability (Cronbach's alpha, McDonald's omega) and validity (construct, content, discriminant) analyses.",
+          "source_batches": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 54,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 1.0,
+            "combined": 1.0,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Educational Contexts and Assessment Environments",
+          "definition": "The diverse settings and contexts in which engineering students are assessed, including traditional classrooms, laboratories, internships, virtual learning environments, and graduate programs. This theme captures how different educational contexts influence assessment methods and outcomes.",
+          "source_batches": [
+            0
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 23,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [
+            "Laboratory-based assessment",
+            "Internship and workplace assessment",
+            "Virtual and remote learning assessment",
+            "Graduate-level assessment"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.25,
+            "combined": 0.888,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Reflective Practices and Metacognition in Engineering Education",
+          "definition": "The development and validation of tools to assess students' reflective thinking, particularly in design problem-solving and experiential learning contexts. This theme examines how reflection and metacognition contribute to learning and professional growth.",
+          "source_batches": [
+            0
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 1,
+          "supporting_quotes": [
+            "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc"
+          ],
+          "subtopics": [
+            "Reflective practice in design",
+            "Timing and objects of reflection",
+            "Levels of reflective thinking",
+            "Self-reporting instruments for reflection"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.5,
+            "combined": 0.925,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Diversity and Inclusion in Engineering Assessment",
+          "definition": "The examination of how cultural background, gender, and other demographic factors influence students' competencies, attitudes, and assessment outcomes in engineering education. This theme includes the study of measurement invariance and culturally adapted assessment tools.",
+          "source_batches": [
+            0
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 4,
+          "supporting_quotes": [
+            "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc"
+          ],
+          "subtopics": [
+            "Gender invariance in assessment",
+            "Cultural adaptation of instruments",
+            "Demographic factors in performance",
+            "Equity in assessment outcomes"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.75,
+            "combined": 0.963,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Mathematical and Technical Competency Assessment",
+          "definition": "The assessment of foundational mathematical and technical competencies in engineering students, particularly at the beginning of their academic journey. This includes the use of psychometric tools like Rasch analysis to evaluate skills in real-world applications.",
+          "source_batches": [
+            1
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 2,
+          "supporting_quotes": [
+            "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc"
+          ],
+          "subtopics": [
+            "Mathematical competence",
+            "Technical skills",
+            "Psychometric evaluation"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.667,
+            "combined": 0.95,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Large-Scale and Cross-Cultural Competency Benchmarking",
+          "definition": "The design, implementation, and analysis of large-scale assessments of engineering competencies, often involving international collaborations, multi-institutional participation, or cross-cultural validation to benchmark student performance and inform curriculum improvements.",
+          "source_batches": [
+            2
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 3,
+          "supporting_quotes": [
+            "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc"
+          ],
+          "subtopics": [
+            "International benchmarking frameworks",
+            "Vocational competencies in global contexts",
+            "Cross-cultural validation of assessment tools"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.667,
+            "combined": 0.95,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Pedagogical Interventions and Learning Outcomes Assessment",
+          "definition": "The development and evaluation of pedagogical strategies, curricular changes, or interventions (e.g., flipped classrooms, problem-based learning) aimed at enhancing engineering students' competencies, assessed through pre- and post-intervention measures of learning gains and skill development.",
+          "source_batches": [
+            2
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 3,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [
+            "Active learning strategy evaluation",
+            "Interdisciplinary project-based learning",
+            "Curriculum alignment with competency outcomes"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.333,
+            "combined": 0.9,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Writing Attitudes and Academic Performance in Engineering",
+          "definition": "The evaluation of engineering students' attitudes toward writing, including emotional responses (e.g., apprehension) and cognitive engagement, and their relationship to academic success and career development. This theme also encompasses the validation of survey instruments used to measure these attitudes.",
+          "source_batches": [
+            3
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 1,
+          "supporting_quotes": [
+            "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc"
+          ],
+          "subtopics": [
+            "Writing apprehension and performance",
+            "Survey validation methodologies",
+            "Career trajectory implications"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 1.0,
+            "combined": 1.0,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Self-Efficacy in Biomedical Engineering Contexts",
+          "definition": "The measurement of self-efficacy among biomedical engineering students, particularly their confidence in addressing clinical problems, proposing solutions, and engaging in interdisciplinary collaborations. This theme emphasizes the clinical relevance of self-efficacy and its role in professional development.",
+          "source_batches": [
+            3
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 1,
+          "supporting_quotes": [
+            "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation.",
+            "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adap",
+            "[ECTTSUXE] The instrument was designed to assess the level of competency development in undergraduate engineering students at the electromagnetism laboratory of the University Center of Exact Sciences"
+          ],
+          "subtopics": [
+            "Clinical problem-solving self-efficacy",
+            "Interdisciplinary skill confidence",
+            "Grant proposal writing efficacy"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.333,
+            "combined": 0.9,
+            "n_flags": 0,
+            "flags": []
+          }
+        },
+        {
+          "name": "Educational Assessment Policy and Institutional Impact",
+          "definition": "The use of validated assessment instruments to inform institutional policies, educational research, and broader policy decisions in engineering education. This theme explores how assessment outcomes drive curriculum development, accreditation processes, and systemic improvements in engineering programs.",
+          "source_batches": [
+            3
+          ],
+          "associated_articles": [],
+          "n_associated_articles_total": 2,
+          "supporting_quotes": [
+            "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+            "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instr",
+            "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solv",
+            "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competenc",
+            "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+          ],
+          "subtopics": [
+            "Institutional assessment frameworks",
+            "Policy development from assessment data",
+            "Educational outcomes and accreditation"
+          ],
+          "grounding": {
+            "quote_grounding": 1.0,
+            "article_grounding": 1.0,
+            "taxonomy_grounding": 1.0,
+            "theme_reference_grounding": 0.667,
+            "combined": 0.95,
+            "n_flags": 0,
+            "flags": []
+          }
+        }
+      ]
+    },
+    "hallucination_control": {
+      "avg_grounding_score": 0.895,
+      "avg_quote_grounding": 0.85,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 14,
+      "batches_verified": 4,
+      "verification_status": "review_needed"
+    }
+  },
+  "phase2_cross_analysis": {
+    "key_relationships": [
+      {
+        "theme_a": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "theme_b": "Assessment Instrument Development and Validation",
+        "relationship_type": "complementary",
+        "description": "The majority of studies in 'Engineering Competencies, Attitudes, and Professional Skills Assessment' rely on validated instruments developed under 'Assessment Instrument Development and Validation'. This suggests a strong methodological dependency where competency assessments require robust psychometric tools.",
+        "n_studies_support": 54,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "theme_b": "Educational Contexts and Assessment Environments",
+        "relationship_type": "association",
+        "description": "Competency assessments are frequently conducted in diverse educational contexts (e.g., laboratories, internships), indicating that assessment methods are tailored to specific environments.",
+        "n_studies_support": 23,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Advanced Cognitive and Systems Thinking Skills Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Higher-order cognitive skills (e.g., critical thinking, systems thinking) are often evaluated as part of broader competency assessments, suggesting these skills are considered core to engineering proficiency.",
+        "n_studies_support": 9,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Sustainability, Ethics, and Leadership Competencies Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Sustainability, ethics, and leadership competencies are frequently assessed alongside broader professional skills, indicating their integration into standard competency frameworks.",
+        "n_studies_support": 5,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Experiential and Active Learning Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Experiential learning outcomes (e.g., workplace assessments) are often evaluated in relation to professional skills and competencies, highlighting the practical application of these skills.",
+        "n_studies_support": 5,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Diversity and Inclusion in Engineering Assessment",
+        "theme_b": "Assessment Instrument Development and Validation",
+        "relationship_type": "complementary",
+        "description": "Studies on diversity and inclusion frequently involve the development or adaptation of assessment instruments to ensure equity and cultural relevance, relying on validation methodologies.",
+        "n_studies_support": 4,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Pedagogical Interventions and Learning Outcomes Assessment",
+        "theme_b": "Experiential and Active Learning Assessment",
+        "relationship_type": "association",
+        "description": "Pedagogical interventions (e.g., flipped classrooms) are often evaluated for their impact on experiential and active learning outcomes, suggesting a focus on applied learning strategies.",
+        "n_studies_support": 3,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Mathematical and Technical Competency Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Foundational mathematical and technical competencies are assessed as part of broader engineering competencies, particularly in early academic stages.",
+        "n_studies_support": 2,
+        "robustness": "Medium"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Competency assessment frameworks that integrate both technical and non-technical skills, often validated through psychometric tools.",
+        "components": [
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+          "Assessment Instrument Development and Validation"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Assessments conducted in diverse educational contexts (e.g., laboratories, internships) to evaluate competencies.",
+        "components": [
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+          "Educational Contexts and Assessment Environments"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Studies combining higher-order cognitive skills assessment with broader competency evaluations.",
+        "components": [
+          "Advanced Cognitive and Systems Thinking Skills Assessment",
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Interdisciplinary assessments involving sustainability, ethics, and leadership competencies alongside professional skills.",
+        "components": [
+          "Sustainability, Ethics, and Leadership Competencies Assessment",
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+        ],
+        "frequency": "Medium"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Methodological Rigor in Competency Assessment",
+        "justification": "The majority of studies (54) focus on developing and validating assessment instruments, indicating a strong emphasis on methodological rigor. This axis explores how different themes rely on validated tools to ensure reliability and validity.",
+        "coverage": "~57%",
+        "research_potential": "Could inform best practices for designing and validating assessment tools across diverse competency domains."
+      },
+      {
+        "axis": "Integration of Non-Technical Skills in Engineering Education",
+        "justification": "Multiple themes (e.g., 'Sustainability, Ethics, and Leadership Competencies Assessment', 'Advanced Cognitive and Systems Thinking Skills Assessment') highlight the growing importance of non-technical skills in engineering curricula.",
+        "coverage": "~30%",
+        "research_potential": "Could guide curriculum development to better align with industry demands for holistic engineering competencies."
+      },
+      {
+        "axis": "Contextual Variability in Assessment",
+        "justification": "Themes like 'Educational Contexts and Assessment Environments' and 'Experiential and Active Learning Assessment' emphasize the need to tailor assessments to specific learning environments.",
+        "coverage": "~25%",
+        "research_potential": "Could inform the design of context-specific assessment strategies that enhance learning outcomes."
+      },
+      {
+        "axis": "Equity and Inclusion in Assessment Outcomes",
+        "justification": "The 'Diversity and Inclusion in Engineering Assessment' theme, though smaller in study count, addresses critical gaps in ensuring fair and equitable assessment practices.",
+        "coverage": "~4%",
+        "research_potential": "Could drive policy changes and institutional practices to promote diversity and inclusion in engineering education."
+      }
+    ],
+    "gaps_and_contradictions": [
+      "Limited studies on 'Reflective Practices and Metacognition in Engineering Education' (n=1), despite its potential importance in fostering lifelong learning and professional growth.",
+      "Contradiction between the high number of studies on 'Assessment Instrument Development and Validation' and the relatively low focus on 'Reflective Practices and Metacognition', suggesting a gap in assessing higher-order cognitive processes.",
+      "Minimal integration of 'Large-Scale and Cross-Cultural Competency Benchmarking' (n=3) with other themes, indicating a lack of global comparative studies in engineering education assessment.",
+      "No explicit contradictions identified, but potential gaps exist in the assessment of interdisciplinary competencies and their alignment with real-world engineering challenges."
+    ],
+    "_theme_reference_check": {
+      "valid_references": 16,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  },
+  "phase3_analytical_framework": {
+    "frameworks": [
+      {
+        "approach": "Psychometric and Methodological Framework",
+        "justification": "This framework centers on the dominant theme of assessment instrument development and validation, which underpins nearly all other competency assessments. It reflects the empirical pattern where 54 studies (~57%) focus on methodological rigor in tool creation and validation.",
+        "general_objective": "To analyze the development, validation, and application of assessment instruments across engineering education competencies.",
+        "specific_objectives": [
+          {
+            "text": "To evaluate the psychometric properties (reliability, validity) of assessment instruments used in engineering competency evaluations.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 54,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To compare the methodological approaches used for assessing technical vs. non-technical competencies in engineering education.",
+            "key_themes": [
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+              "Advanced Cognitive and Systems Thinking Skills Assessment",
+              "Sustainability, Ethics, and Leadership Competencies Assessment"
+            ],
+            "n_studies_support": "40-60",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To assess the contextual variability in instrument validation across different educational environments (e.g., classrooms, internships).",
+            "key_themes": [
+              "Assessment Instrument Development and Validation",
+              "Educational Contexts and Assessment Environments"
+            ],
+            "n_studies_support": 23,
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "~70%",
+        "strengths": [
+          "High empirical grounding in the most robust theme (Assessment Instrument Development and Validation).",
+          "Enables cross-competency comparisons of methodological rigor.",
+          "Directly informs best practices for instrument design and validation."
+        ],
+        "limitations": [
+          "May underrepresent non-methodological themes (e.g., Diversity and Inclusion)."
+        ]
+      },
+      {
+        "approach": "Competency Integration and Holistic Development Framework",
+        "justification": "This framework reflects the empirical observation that non-technical competencies (e.g., systems thinking, ethics, leadership) are increasingly integrated into broader competency assessments, as seen in multiple themes (e.g., 30% coverage of non-technical skills).",
+        "general_objective": "To examine the integration of diverse competencies (technical and non-technical) in engineering education and their assessment.",
+        "specific_objectives": [
+          {
+            "text": "To map the prevalence and assessment methods of non-technical competencies (e.g., sustainability, ethics, leadership) in engineering curricula.",
+            "key_themes": [
+              "Sustainability, Ethics, and Leadership Competencies Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 10,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To analyze the relationship between higher-order cognitive skills (e.g., systems thinking) and professional competencies in engineering practice.",
+            "key_themes": [
+              "Advanced Cognitive and Systems Thinking Skills Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 9,
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To evaluate how experiential and active learning strategies contribute to the development of integrated competencies.",
+            "key_themes": [
+              "Experiential and Active Learning Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 5,
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To assess the role of innovation and entrepreneurship in shaping competency frameworks for engineering students.",
+            "key_themes": [
+              "Innovation, Entrepreneurship, and Career Intentions Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 4,
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~45%",
+        "strengths": [
+          "Highlights the growing importance of non-technical skills in engineering education.",
+          "Enables comparative analysis of competency integration across themes.",
+          "Grounded in empirical patterns of curriculum development."
+        ],
+        "limitations": [
+          "Excludes methodological themes (e.g., Assessment Instrument Development and Validation), which are critical for implementation."
+        ]
+      },
+      {
+        "approach": "Contextual and Equity-Centered Assessment Framework",
+        "justification": "This framework prioritizes the contextual variability and equity dimensions of assessment, as reflected in themes like 'Educational Contexts and Assessment Environments' (~25% coverage) and 'Diversity and Inclusion in Engineering Assessment' (~4% coverage). It addresses gaps in how assessment practices adapt to diverse settings and populations.",
+        "general_objective": "To analyze how assessment practices vary across educational contexts and address equity and inclusion in engineering education.",
+        "specific_objectives": [
+          {
+            "text": "To evaluate the design and implementation of assessment strategies tailored to specific educational environments (e.g., classrooms, internships, online learning).",
+            "key_themes": [
+              "Educational Contexts and Assessment Environments",
+              "Experiential and Active Learning Assessment"
+            ],
+            "n_studies_support": 23,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To assess the inclusivity and fairness of assessment practices across diverse student populations.",
+            "key_themes": [
+              "Diversity and Inclusion in Engineering Assessment"
+            ],
+            "n_studies_support": 4,
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To compare assessment outcomes in different contexts (e.g., technical vs. non-technical competencies) to identify disparities.",
+            "key_themes": [
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+              "Educational Contexts and Assessment Environments"
+            ],
+            "n_studies_support": "30-50",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "~30%",
+        "strengths": [
+          "Addresses critical gaps in equity and inclusion in assessment.",
+          "Highlights the importance of context-specific assessment strategies.",
+          "Supports policy and institutional reforms for fairer assessment practices."
+        ],
+        "limitations": [
+          "Limited empirical coverage of diversity and inclusion themes may reduce robustness."
+        ]
+      }
+    ],
+    "recommendation": "The 'Psychometric and Methodological Framework' is recommended because it aligns with the most robust empirical pattern in the data (54 studies on assessment instrument development and validation) and provides a strong foundation for comparative and relational analyses across themes. This framework also directly informs best practices for designing and validating assessment tools, which is critical for advancing engineering education research and practice.",
+    "_theme_reference_check": {
+      "valid_references": 20,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  },
+  "quality_assurance": {
+    "hallucination_control": {
+      "enabled": true,
+      "avg_grounding_score": 0.895,
+      "avg_quote_grounding": 0.85,
+      "avg_article_grounding": 1.0,
+      "total_flags": 14,
+      "verification_status": "review_needed",
+      "methodology": "Verbatim quote verification against source abstracts"
+    },
+    "provider_capability": {
+      "provider_interface": "openai_compat",
+      "validated_providers": [
+        "deepseek",
+        "openrouter",
+        "openai",
+        "anthropic",
+        "qwen",
+        "ollama",
+        "together",
+        "groq",
+        "mistral",
+        "custom"
+      ],
+      "current_run_provider": "Mistral",
+      "current_run_model": "mistral-small-latest",
+      "current_run_reasoning_model": "mistral-small-latest",
+      "protocol_invariance_tested": false
+    },
+    "prompt_hashes": {
+      "prompt:phase1_extract": "6cf44d6b1e52b430",
+      "prompt:phase1_synthesis": "14048a944e650cd5",
+      "prompt:phase2_cross": "1f69a490f8847874",
+      "prompt:phase3_framework": "c556b142f4e0ed71",
+      "schema:phase1_output": "d9250e855d06c8f7",
+      "schema:phase2_output": "7c26ff66f527bba8",
+      "schema:phase3_output": "60ffa3d3f93aaacb"
+    },
+    "batching_trace": {
+      "strategy": "sequential",
+      "seed_used": null,
+      "article_order": [
+        "PP8YRX22",
+        "WE7WVA4B",
+        "ECTTSUXE",
+        "LPJSUJ9V",
+        "RGASR6Q5",
+        "GMEMS46N",
+        "QU82N8PC",
+        "9HGRHX6A",
+        "KU4TN5MB",
+        "84K6T4E3",
+        "PD6ENBV2",
+        "I9QV6W8G",
+        "NKWQH4PB",
+        "Y4ZKXXH4",
+        "AIPHQE23",
+        "PVT4UE9C",
+        "W2PMJWMT",
+        "SL7257LZ",
+        "CU9IWP4L",
+        "AKZVTZER",
+        "JKK5M2EG",
+        "PNGM9L8J",
+        "EPIKGTEL",
+        "A3WRUNHT",
+        "DNK3JI3N",
+        "GSUNVIP6",
+        "B4EBYEKF",
+        "ZLBRXPDA",
+        "2IGUA9SF",
+        "RUGB95IU",
+        "J8H6TD8Q",
+        "CY59SPDS",
+        "LHGYXXJG",
+        "2DDA52FC",
+        "Z4ICDXEQ",
+        "PYM3MQNK",
+        "49BIH9AZ",
+        "VG98XEQP",
+        "CJPX792Z",
+        "IV425BDL",
+        "U374P6MT",
+        "Y345N2W5",
+        "K9E5C83P",
+        "XT6BBTKW",
+        "6XVSWITA",
+        "I9G3834N",
+        "IQD3WXLQ",
+        "DFVK7NR2",
+        "J4L96ZTQ",
+        "4I9HTBU4",
+        "NLXE3X6S",
+        "9CXV3IJ6",
+        "YE4TP358",
+        "KI4LCCHP",
+        "PH5ZR5GA",
+        "HX8CUXK4",
+        "XHXW8PNL",
+        "FMII7TUT",
+        "DYIXSFV6",
+        "FY6V7BET",
+        "LLIXIBSQ",
+        "Y27Q6N9A",
+        "BQS3WMHF",
+        "XQ7RZDGG",
+        "DCSSFS2C",
+        "WWJJIDI6",
+        "B7B4X2WE",
+        "G3EUY2C2",
+        "3R39PUCS",
+        "FL269LXE",
+        "VSFBSRZB",
+        "FUDIEQYR",
+        "QAJGLZ2K",
+        "UAN7XVF9",
+        "SFEN9MC6",
+        "3TLQFJEJ",
+        "IUF35Z2I",
+        "5EXQUZSR",
+        "PJNV7WSV",
+        "BQHZYQEC",
+        "QKJ5DVTR",
+        "K7MJBLUQ",
+        "WHKSKTII",
+        "TW2V2FRX",
+        "7Y29KIN3",
+        "IVLUCNC3",
+        "C3YQG2PI",
+        "LQ8RTKIQ",
+        "W6H25QK5",
+        "9HKCQKDT",
+        "JZEJCTN6",
+        "6ATWRP3C",
+        "6SNWQJMW",
+        "95PYDLRQ"
+      ],
+      "batch_composition": [
+        {
+          "batch_index": 0,
+          "n_articles": 30,
+          "article_keys": [
+            "PP8YRX22",
+            "WE7WVA4B",
+            "ECTTSUXE",
+            "LPJSUJ9V",
+            "RGASR6Q5",
+            "GMEMS46N",
+            "QU82N8PC",
+            "9HGRHX6A",
+            "KU4TN5MB",
+            "84K6T4E3",
+            "PD6ENBV2",
+            "I9QV6W8G",
+            "NKWQH4PB",
+            "Y4ZKXXH4",
+            "AIPHQE23",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "AKZVTZER",
+            "JKK5M2EG",
+            "PNGM9L8J",
+            "EPIKGTEL",
+            "A3WRUNHT",
+            "DNK3JI3N",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF",
+            "RUGB95IU"
+          ]
+        },
+        {
+          "batch_index": 1,
+          "n_articles": 30,
+          "article_keys": [
+            "J8H6TD8Q",
+            "CY59SPDS",
+            "LHGYXXJG",
+            "2DDA52FC",
+            "Z4ICDXEQ",
+            "PYM3MQNK",
+            "49BIH9AZ",
+            "VG98XEQP",
+            "CJPX792Z",
+            "IV425BDL",
+            "U374P6MT",
+            "Y345N2W5",
+            "K9E5C83P",
+            "XT6BBTKW",
+            "6XVSWITA",
+            "I9G3834N",
+            "IQD3WXLQ",
+            "DFVK7NR2",
+            "J4L96ZTQ",
+            "4I9HTBU4",
+            "NLXE3X6S",
+            "9CXV3IJ6",
+            "YE4TP358",
+            "KI4LCCHP",
+            "PH5ZR5GA",
+            "HX8CUXK4",
+            "XHXW8PNL",
+            "FMII7TUT",
+            "DYIXSFV6",
+            "FY6V7BET"
+          ]
+        },
+        {
+          "batch_index": 2,
+          "n_articles": 30,
+          "article_keys": [
+            "LLIXIBSQ",
+            "Y27Q6N9A",
+            "BQS3WMHF",
+            "XQ7RZDGG",
+            "DCSSFS2C",
+            "WWJJIDI6",
+            "B7B4X2WE",
+            "G3EUY2C2",
+            "3R39PUCS",
+            "FL269LXE",
+            "VSFBSRZB",
+            "FUDIEQYR",
+            "QAJGLZ2K",
+            "UAN7XVF9",
+            "SFEN9MC6",
+            "3TLQFJEJ",
+            "IUF35Z2I",
+            "5EXQUZSR",
+            "PJNV7WSV",
+            "BQHZYQEC",
+            "QKJ5DVTR",
+            "K7MJBLUQ",
+            "WHKSKTII",
+            "TW2V2FRX",
+            "7Y29KIN3",
+            "IVLUCNC3",
+            "C3YQG2PI",
+            "LQ8RTKIQ",
+            "W6H25QK5",
+            "9HKCQKDT"
+          ]
+        },
+        {
+          "batch_index": 3,
+          "n_articles": 4,
+          "article_keys": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "6SNWQJMW",
+            "95PYDLRQ"
+          ]
+        }
+      ]
+    }
+  },
+  "trace_log": {
+    "session_id": "20260724_231535",
+    "started_at": "2026-07-24T23:15:35.950037",
+    "config": {
+      "corpus_id": "5be989544683",
+      "provider": "mistral",
+      "extraction_model": "mistral-small-latest",
+      "reasoning_model": "same",
+      "prompt_version": "v1",
+      "schema_version": "v1",
+      "batching_policy": "sequential",
+      "batch_seed": null,
+      "batch_size": null,
+      "min_abstract_length": 50,
+      "temperature": 0.3,
+      "max_tokens": 8000,
+      "context_tokens": 40000,
+      "prompt_overhead_tokens": 1000,
+      "verification_thresholds": {
+        "quote_threshold": 0.75,
+        "grounding_verified": 0.5,
+        "synthesis_overlap": 0.3
+      },
+      "use_cache": true,
+      "experiment_mode": "same_model_all_phases",
+      "total_articles": 96,
+      "valid_articles": 94,
+      "batch_size_actual": 30
+    },
+    "prompt_hashes": {
+      "prompt:phase1_extract": "6cf44d6b1e52b430",
+      "prompt:phase1_synthesis": "14048a944e650cd5",
+      "prompt:phase2_cross": "1f69a490f8847874",
+      "prompt:phase3_framework": "c556b142f4e0ed71",
+      "schema:phase1_output": "d9250e855d06c8f7",
+      "schema:phase2_output": "7c26ff66f527bba8",
+      "schema:phase3_output": "60ffa3d3f93aaacb"
+    },
+    "provider_capability": {
+      "provider_interface": "openai_compat",
+      "validated_providers": [
+        "deepseek",
+        "openrouter",
+        "openai",
+        "anthropic",
+        "qwen",
+        "ollama",
+        "together",
+        "groq",
+        "mistral",
+        "custom"
+      ],
+      "current_run_provider": "Mistral",
+      "current_run_model": "mistral-small-latest",
+      "current_run_reasoning_model": "mistral-small-latest",
+      "protocol_invariance_tested": false
+    },
+    "operations": [
+      {
+        "timestamp": "2026-07-24T23:15:53.745220",
+        "operation": "phase1_batch",
+        "details": {
+          "batch": 1,
+          "n_articles": 30,
+          "n_themes": 9,
+          "grounding_score": 0.754,
+          "hallucination_flags": 9
+        }
+      },
+      {
+        "timestamp": "2026-07-24T23:16:25.157084",
+        "operation": "phase1_batch",
+        "details": {
+          "batch": 2,
+          "n_articles": 30,
+          "n_themes": 9,
+          "grounding_score": 0.935,
+          "hallucination_flags": 2
+        }
+      },
+      {
+        "timestamp": "2026-07-24T23:16:40.035434",
+        "operation": "phase1_batch",
+        "details": {
+          "batch": 3,
+          "n_articles": 30,
+          "n_themes": 8,
+          "grounding_score": 0.942,
+          "hallucination_flags": 2
+        }
+      },
+      {
+        "timestamp": "2026-07-24T23:16:49.029148",
+        "operation": "phase1_batch",
+        "details": {
+          "batch": 4,
+          "n_articles": 4,
+          "n_themes": 7,
+          "grounding_score": 0.95,
+          "hallucination_flags": 1
+        }
+      },
+      {
+        "timestamp": "2026-07-24T23:17:09.427711",
+        "operation": "phase1_complete",
+        "details": {
+          "n_batches": 4,
+          "n_themes_final": 15,
+          "avg_grounding_score": 0.895,
+          "total_hallucination_flags": 14
+        }
+      },
+      {
+        "timestamp": "2026-07-24T23:17:18.545687",
+        "operation": "phase2_complete",
+        "details": {
+          "n_relationships": 8,
+          "n_axes": 4,
+          "grounded": true,
+          "invalid_refs": 0,
+          "model_used": "mistral-small-latest"
+        }
+      },
+      {
+        "timestamp": "2026-07-24T23:17:27.095710",
+        "operation": "phase3_complete",
+        "details": {
+          "n_frameworks": 3,
+          "grounded": true,
+          "invalid_refs": 0,
+          "model_used": "mistral-small-latest"
+        }
+      }
+    ]
+  }
+}

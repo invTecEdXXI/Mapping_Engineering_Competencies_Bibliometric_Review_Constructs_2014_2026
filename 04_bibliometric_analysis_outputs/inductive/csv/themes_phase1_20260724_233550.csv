@@ -1,0 +1,23 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_233550,0,Instrument Development and Psychometric Validation in Engineering Education,High,high,29,3,1.0,1.0,1.0,0,True,scale adaptation; factor analysis; reliability; construct validity; content validation
+20260724_233550,0,"Assessment of Generic, Transversal, and Professional Competencies",Medium,high,6,3,0.767,0.667,1.0,1,True,professional skills; 21st century skills; transversal competencies; workplace adaptability; innovation competence
+20260724_233550,0,Self-Efficacy and Engineering Identity Measurement,Medium,high,5,3,1.0,1.0,1.0,0,True,engineering identity; entrepreneurial self-efficacy; design self-efficacy; career persistence
+20260724_233550,0,Attitudes Toward Engineering and Practical Learning Experiences,Medium,high,4,3,1.0,1.0,1.0,0,True,practical work; sociotechnical engineering; professional skills attitudes; factor structure
+20260724_233550,0,Rubric-Based Competency Assessment,Medium,high,4,3,0.767,0.667,1.0,1,True,scoring rubric; content validity; expert judgment; inter-rater reliability; competency-based assessment
+20260724_233550,0,Research Competences and Investigative Skills,Low,high,2,3,1.0,1.0,1.0,0,True,research training; End of Studies Projects; intellectual competences; communicative competences
+20260724_233550,0,"Critical, Reflective, and Representational Thinking Assessment",Low,high,3,3,1.0,1.0,1.0,0,True,critical thinking; reflection; design problem solving; representational competence; multiple representations
+20260724_233550,0,Affective and Ethical Competence Assessment,Low,high,2,2,1.0,1.0,1.0,0,True,compassion; professional values; affective domain; socio-emotional competency; dispositional knowledge
+20260724_233550,1,Self-Efficacy Measurement in Engineering Education,High,high,8,3,0.767,0.667,1.0,1,True,General Engineering Self-Efficacy; Design Self-Efficacy; Programming Self-Efficacy; Basic Electronics Skills Self-Efficacy; Sustainable Engineering Self-Efficacy; Intentions to Persist
+20260724_233550,1,Instrument Development and Validation using Factor Analysis,High,high,27,3,0.767,0.667,1.0,1,True,EFA; CFA; Cronbach's alpha; Rasch analysis; SEM; IRT; convergent validity; discriminant validity; reliability
+20260724_233550,1,Professional Competencies and Employability Skills,High,high,7,3,1.0,1.0,1.0,0,True,fundamental skills; personal management skills; cooperative skills; social responsibility; generic competencies; workplace oral communication
+20260724_233550,1,Motivation and Engagement in Engineering Education,Medium,high,4,3,1.0,1.0,1.0,0,True,intrinsic motivation; extrinsic motivation; self-regulation; expectancy-value theory; persistence intentions
+20260724_233550,1,Mindset and Dispositional Factors,Medium,high,3,3,0.767,0.667,1.0,1,True,design mindset; entrepreneurial mindset; grit; ambiguity tolerance; iteration
+20260724_233550,1,Learning Environment and Pedagogical Practices,High,high,6,3,0.767,0.667,1.0,1,True,community-partnered projects; internship; apprenticeship; active learning; peer assessment; self-assessment
+20260724_233550,1,Systems Thinking and Cognitive Skills,Medium,high,4,3,0.533,0.333,1.0,2,True,systems thinking; creative engineering design; mathematical competence; cognitive validity
+20260724_233550,1,Identity Formation and Professional Affect,Medium,high,3,3,0.3,0.0,1.0,3,False,engineering identity; sense of belonging; professional responsibility; affect toward practice; social responsibility
+20260724_233550,3,Development and Validation of Measurement Instruments for Engineering Students,High,high,4,4,1.0,1.0,1.0,0,True,Validity evidence; Scale refinement; Reliability testing
+20260724_233550,3,Self-Efficacy as a Central Psychological Construct,Medium,high,3,3,0.767,0.667,1.0,1,True,Academic success; Mediation effects; Domain-specific self-efficacy
+20260724_233550,3,Factor Analysis as the Primary Validation Method,High,high,4,4,1.0,1.0,1.0,0,True,Psychometric properties; Principal axis factoring; Cronbach's alpha
+20260724_233550,3,Linking Student Attributes to Career Intentions and Professional Outcomes,Medium,high,3,3,1.0,1.0,1.0,0,True,Entrepreneurial intention; Persistence; Grant writing skills
+20260724_233550,3,Affective and Motivational Dimensions of Professional Skill Development,Medium,high,3,3,0.767,0.667,1.0,1,True,Writer's block; Writing apprehension; Personal interests; Team motivation
+20260724_233550,3,Engineering-Specific Contextual Adaptation of Instruments,High,high,4,4,1.0,1.0,1.0,0,True,Innovative changes; Clinical environment; Academic writing; Problem identification

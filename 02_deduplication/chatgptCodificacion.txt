@@ -1,0 +1,869 @@
+# PASO 3 — Codificación axial, saturación y ejes emergentes
+
+Se integraron los **64 registros `INCLUDE` y los 18 `UNCERTAIN`**, manteniendo en cada caso su `Key` y su estado de elegibilidad. Los 11 registros `EXCLUDE` no participaron en esta fase. La síntesis se construyó mediante comparación constante de los constructos, instrumentos, poblaciones y propiedades de medición extraídos de los cinco lotes.     
+
+## 1. Resultado de la codificación abierta
+
+Los códigos iniciales se mantuvieron próximos a las expresiones de los autores. Entre los códigos *In Vivo* más recurrentes aparecen:
+
+* “engineering self-efficacy”
+* “professional skills”
+* “transversal competencies”
+* “employability skills”
+* “problem-solving competence”
+* “critical thinking”
+* “communication skills”
+* “leadership self-efficacy”
+* “entrepreneurial competence”
+* “innovation self-efficacy”
+* “sustainability competencies”
+* “ethical and social responsibility”
+* “research competencies”
+* “internship experience”
+* “workplace support”
+* “representational competence”
+* “mathematical competence”
+* “programming self-efficacy”
+* “reflective thinking”
+* “decision-making competency”
+
+Estos códigos no fueron definidos antes de analizar los resúmenes; surgieron de la recurrencia y proximidad conceptual observada entre los registros.
+
+---
+
+# 2. Ejes temáticos emergentes
+
+## Eje 1. Creencias de capacidad y autoeficacia en contextos de ingeniería
+
+Este fue el eje con mayor recurrencia. Reúne instrumentos que no evalúan directamente una ejecución observable, sino la percepción de los estudiantes sobre su capacidad para realizar actividades académicas, técnicas o profesionales.
+
+### Subcategorías axiales
+
+#### 1.1 Autoeficacia general y habilidades de ingeniería
+
+Incluye instrumentos que miden la confianza para desempeñarse como estudiante o futuro profesional de ingeniería.
+
+**Keys principales:**
+
+```text
+J4L96ZTQ
+G3EUY2C2
+LLIXIBSQ
+QAJGLZ2K
+IVLUCNC3
+ZLBRXPDA
+B4EBYEKF
+```
+
+Instrumentos representativos:
+
+* General Engineering Self-Efficacy Scale.
+* Engineering Skills Self-Efficacy Scale.
+* ESE-ABET.
+* Engineering Self-Efficacy Scale.
+* Engineering Learning Experiences Scale.
+
+#### 1.2 Autoeficacia técnica o disciplinar
+
+La creencia de capacidad se vincula con tareas técnicas delimitadas.
+
+**Keys:**
+
+```text
+CJPX792Z
+Y345N2W5
+U374P6MT
+95PYDLRQ
+AIPHQE23 [UNCERTAIN]
+XQ7RZDGG
+```
+
+Ámbitos observados:
+
+* Programación.
+* Electrónica básica.
+* Diseño industrial.
+* Identificación y solución de problemas biomédicos.
+* Resolución técnica de problemas.
+
+#### 1.3 Autoeficacia profesional y de innovación
+
+La autoeficacia se aplica a capacidades profesionales que trascienden una asignatura.
+
+**Keys:**
+
+```text
+LPJSUJ9V
+FUDIEQYR
+6ATWRP3C
+NLXE3X6S
+VG98XEQP
+5EXQUZSR [UNCERTAIN]
+```
+
+Constructos observados:
+
+* Autoeficacia emprendedora.
+* Autoeficacia para innovar.
+* Autoeficacia de liderazgo.
+* Autoeficacia hacia la ingeniería sostenible.
+* Autoeficacia laboral.
+
+### Interpretación axial
+
+La autoeficacia aparece como una forma dominante de operacionalizar competencias en ingeniería. Sin embargo, los instrumentos varían entre:
+
+1. confianza general para desempeñarse como ingeniero;
+2. confianza en tareas técnicas concretas;
+3. confianza en comportamientos profesionales o transversales.
+
+Esto indica que la autoeficacia no constituye un instrumento único, sino una **familia de medidas autorreferidas de capacidad percibida**.
+
+---
+
+## Eje 2. Competencias profesionales, transversales y de empleabilidad
+
+Este eje agrupa instrumentos orientados a habilidades requeridas para la incorporación, permanencia y desempeño en entornos profesionales.
+
+### Subcategorías axiales
+
+#### 2.1 Competencias transversales integrales
+
+Instrumentos que combinan múltiples habilidades profesionales.
+
+**Keys:**
+
+```text
+SL7257LZ
+DCSSFS2C
+KI4LCCHP
+QAJGLZ2K
+Y27Q6N9A
+QU82N8PC
+FMII7TUT
+```
+
+Competencias observadas:
+
+* Trabajo en equipo.
+* Aprendizaje permanente.
+* Habilidades interpersonales.
+* Competencias profesionales y éticas.
+* Desarrollo de sistemas, productos o procesos.
+* Habilidades psicomotoras y afectivas.
+
+#### 2.2 Empleabilidad y preparación laboral
+
+**Keys:**
+
+```text
+LHGYXXJG
+49BIH9AZ
+IUF35Z2I
+9CXV3IJ6
+WE7WVA4B
+XHXW8PNL
+DFVK7NR2
+```
+
+Códigos recurrentes:
+
+* Employability skills.
+* Fundamental skills.
+* Personal management skills.
+* Cooperative skills.
+* Generic competencies.
+* Work readiness.
+* Workplace support.
+
+#### 2.3 Comunicación profesional
+
+**Keys:**
+
+```text
+GSUNVIP6
+4I9HTBU4 [UNCERTAIN]
+C3YQG2PI
+W6H25QK5
+```
+
+Ámbitos:
+
+* Presentación oral.
+* Comunicación oral en el lugar de trabajo.
+* Comunicación técnica escrita.
+* Comunicación global en lengua extranjera.
+
+#### 2.4 Liderazgo, colaboración y gestión profesional
+
+**Keys:**
+
+```text
+6ATWRP3C
+QKJ5DVTR [UNCERTAIN]
+IQD3WXLQ
+PD6ENBV2
+```
+
+Códigos:
+
+* Leadership in teams.
+* Project planning.
+* Risk analysis.
+* Communication and collaboration.
+* Self-leadership.
+* Interprofessional teamwork.
+
+### Interpretación axial
+
+La competencia profesional aparece generalmente como un **constructo multidimensional**. Los instrumentos suelen combinar capacidades comunicativas, interpersonales, éticas, organizativas y de resolución de problemas.
+
+Se observa una diferencia entre:
+
+* instrumentos que miden el **nivel de competencia**;
+* instrumentos que miden la **percepción del nivel de competencia**;
+* instrumentos que evalúan el desempeño mediante rúbricas;
+* instrumentos vinculados con prácticas o experiencias laborales.
+
+---
+
+## Eje 3. Competencias técnicas y cognitivas específicas de ingeniería
+
+Este eje reúne instrumentos que evalúan capacidades delimitadas por contenidos, procesos o tareas propias de una disciplina.
+
+### Subcategorías axiales
+
+#### 3.1 Competencia matemática y representacional
+
+**Keys:**
+
+```text
+HX8CUXK4
+FMII7TUT
+AKZVTZER
+```
+
+Constructos:
+
+* Mathematical competence.
+* Vector calculus competence.
+* Representational competence with vectors.
+
+Métodos predominantes:
+
+* Análisis Rasch.
+* Rúbricas.
+* Pruebas de desempeño.
+* Análisis de dificultad y discriminación de ítems.
+
+#### 3.2 Electricidad, electrónica y automatización
+
+**Keys:**
+
+```text
+PP8YRX22
+Y345N2W5
+EPIKGTEL
+ECTTSUXE
+```
+
+Constructos:
+
+* Competencia en electricidad básica.
+* Habilidades básicas de electrónica.
+* Pensamiento crítico en control de automatización.
+* Competencias de laboratorio en magnetismo.
+
+#### 3.3 Diseño y solución de problemas
+
+**Keys:**
+
+```text
+PJNV7WSV
+XQ7RZDGG
+J8H6TD8Q
+AIPHQE23 [UNCERTAIN]
+95PYDLRQ
+```
+
+Constructos:
+
+* Process dynamics and control competence.
+* Technical problem-solving ability.
+* Systems thinking skills.
+* Industrial design self-efficacy.
+* Identificación y solución de problemas clínicos.
+
+#### 3.4 Programación y competencias computacionales
+
+**Keys:**
+
+```text
+CJPX792Z
+U374P6MT
+CU9IWP4L [UNCERTAIN]
+```
+
+Constructos:
+
+* Programming self-efficacy.
+* C++ programming self-efficacy.
+* Computing professional skills.
+
+### Interpretación axial
+
+Los instrumentos técnicos tienden a utilizar con mayor frecuencia:
+
+* pruebas de desempeño;
+* ítems de respuesta construida;
+* preguntas de opción múltiple;
+* análisis Rasch;
+* índices de dificultad y discriminación;
+* rúbricas aplicadas a productos o procedimientos.
+
+Esto los diferencia de los instrumentos transversales, que se apoyan principalmente en cuestionarios de autoinforme.
+
+---
+
+## Eje 4. Innovación, emprendimiento y mentalidad de diseño
+
+Este eje emergió de instrumentos orientados a la creación de valor, generación de soluciones y comportamiento emprendedor.
+
+### Subcategorías axiales
+
+#### 4.1 Competencia y motivación emprendedora
+
+**Keys:**
+
+```text
+JZEJCTN6
+BQHZYQEC
+LPJSUJ9V
+K9E5C83P [UNCERTAIN]
+```
+
+Constructos:
+
+* Entrepreneurial motivation.
+* Entrepreneurial competence.
+* Internet entrepreneurial self-efficacy.
+* Connections and Creating Value.
+
+#### 4.2 Innovación y creatividad
+
+**Keys:**
+
+```text
+2IGUA9SF
+FUDIEQYR
+YE4TP358
+PD6ENBV2
+```
+
+Constructos:
+
+* Innovation self-perception competence.
+* Innovation self-efficacy.
+* Creative engineering design.
+* Innovation as professional skill.
+
+#### 4.3 Mentalidad de diseño
+
+**Key principal:**
+
+```text
+6XVSWITA [UNCERTAIN]
+```
+
+Constructo:
+
+* Design mindset.
+
+Subcomponentes:
+
+* Conversation with the Situation.
+* Iteration.
+* Co-Evolution of Problem-Solution.
+* Imagination.
+
+### Interpretación axial
+
+En este eje se identifican tres niveles:
+
+1. **capacidad percibida para innovar**;
+2. **competencia emprendedora y creación de valor**;
+3. **procesos cognitivos asociados al diseño y la creatividad**.
+
+Los registros `UNCERTAIN` de este eje aportan información conceptual relevante, aunque algunos constructos —como *design mindset*— requieren confirmación de que fueron definidos explícitamente como competencias.
+
+---
+
+## Eje 5. Ética, sostenibilidad y responsabilidad socioprofesional
+
+Este eje reúne instrumentos que integran la formación técnica con consecuencias sociales, ambientales y éticas.
+
+### Subcategorías axiales
+
+#### 5.1 Sostenibilidad
+
+**Keys:**
+
+```text
+NLXE3X6S
+VSFBSRZB
+LQ8RTKIQ
+```
+
+Constructos:
+
+* Attitudes toward sustainable engineering.
+* Sustainability competencies.
+* Ethics, social responsibility and sustainability.
+
+#### 5.2 Responsabilidad profesional y ética
+
+**Keys:**
+
+```text
+IV425BDL
+DNK3JI3N
+QKJ5DVTR [UNCERTAIN]
+```
+
+Constructos:
+
+* Engineering professional responsibility.
+* Professional values.
+* Ethical design.
+* Risk analysis.
+
+#### 5.3 Competencias socioemocionales
+
+**Keys:**
+
+```text
+GMEMS46N
+I9QV6W8G
+```
+
+Constructos:
+
+* Compassion.
+* Resilience.
+* Adaptability.
+* Optimism.
+* Persistence.
+
+### Interpretación axial
+
+Las competencias éticas y de sostenibilidad se operacionalizan de dos maneras:
+
+* como conocimientos, actitudes o autopercepciones;
+* como disposiciones profesionales que orientan decisiones y comportamientos.
+
+La incorporación de compasión y resiliencia muestra una ampliación reciente del concepto de competencia profesional hacia dimensiones socioemocionales.
+
+---
+
+## Eje 6. Competencias de investigación, reflexión y autorregulación
+
+Este eje emerge de instrumentos asociados con la producción de conocimiento, regulación del aprendizaje y toma de decisiones.
+
+### Subcategorías axiales
+
+#### 6.1 Competencias investigativas
+
+**Keys:**
+
+```text
+TW2V2FRX
+Y4ZKXXH4
+84K6T4E3
+PVT4UE9C [UNCERTAIN]
+```
+
+Constructos:
+
+* Research competencies.
+* Intellectual elaboration competencies.
+* Technical research competencies.
+* Communicative research competencies.
+* Research competence and research identity.
+
+#### 6.2 Toma de decisiones
+
+**Key principal:**
+
+```text
+PNGM9L8J
+```
+
+Instrumento:
+
+* Decision-Making Competency Inventory.
+
+Constructo:
+
+* Self-regulated decision-making.
+
+#### 6.3 Reflexión, autoevaluación y regulación del aprendizaje
+
+**Keys:**
+
+```text
+DYIXSFV6
+RUGB95IU [UNCERTAIN]
+PYM3MQNK [UNCERTAIN]
+SFEN9MC6 [UNCERTAIN]
+```
+
+Constructos:
+
+* Peer and self-assessment perceptions.
+* Reflective thinking in design problem solving.
+* Motivated strategies for learning.
+* Transferable learning orientations.
+
+### Interpretación axial
+
+Este eje presenta la mayor proporción de registros `UNCERTAIN`. La razón es que algunos instrumentos miden procesos psicológicos o educativos —motivación, reflexión, orientación al aprendizaje— que pueden apoyar una competencia, pero no siempre se declaran explícitamente como competencias profesionales.
+
+No obstante, su incorporación permite identificar una frontera conceptual entre:
+
+* competencias para investigar o decidir;
+* procesos metacognitivos que facilitan su desarrollo.
+
+---
+
+## Eje 7. Competencias en experiencias auténticas, prácticas y entornos de trabajo
+
+Este eje se origina en instrumentos aplicados en prácticas profesionales, proyectos, experiencias comunitarias o escenarios simulados.
+
+### Subcategorías axiales
+
+#### 7.1 Prácticas industriales
+
+**Keys:**
+
+```text
+DFVK7NR2
+XHXW8PNL
+WE7WVA4B
+5EXQUZSR [UNCERTAIN]
+9CXV3IJ6
+```
+
+Instrumentos predominantes:
+
+* Work Experience Questionnaire.
+* Cuestionarios de prácticas y aprendizaje laboral.
+* Instrumentos de evaluación de apprenticeship.
+
+#### 7.2 Proyectos auténticos o interdisciplinarios
+
+**Keys:**
+
+```text
+IQD3WXLQ
+QKJ5DVTR [UNCERTAIN]
+VG98XEQP
+A3WRUNHT
+```
+
+Contextos:
+
+* Industry-Coupled Problem-Based Learning.
+* Interprofessional project management.
+* Community-partnered projects.
+* Foros de discusión de posgrado.
+
+#### 7.3 Simulación profesional y evaluación de desempeño
+
+**Keys:**
+
+```text
+GSUNVIP6
+Y27Q6N9A
+C3YQG2PI
+```
+
+Contextos:
+
+* Presentaciones profesionales simuladas.
+* Tareas AHELO de respuesta construida.
+* Informes técnicos de laboratorio.
+
+### Interpretación axial
+
+Los entornos auténticos permiten medir competencias que difícilmente pueden evaluarse mediante exámenes convencionales. Sin embargo, se observa una tensión entre:
+
+* instrumentos que evalúan realmente una competencia;
+* instrumentos que evalúan la calidad o percepción de la experiencia formativa.
+
+Esta distinción será importante en la evaluación COSMIN-adaptada posterior.
+
+---
+
+# 3. Patrones metodológicos emergentes
+
+Además de los ejes de contenido, la comparación constante permitió identificar patrones transversales en el diseño de los instrumentos.
+
+## Patrón A. Predominio del autoinforme
+
+La mayoría de instrumentos son cuestionarios Likert de percepción, confianza o nivel autopercibido.
+
+Se utilizan especialmente para:
+
+* autoeficacia;
+* competencias transversales;
+* empleabilidad;
+* emprendimiento;
+* sostenibilidad;
+* actitudes profesionales.
+
+### Riesgo metodológico emergente
+
+Un nivel alto de autopercepción no demuestra necesariamente un desempeño competente. Por ello, los instrumentos de autoinforme deben diferenciarse de las pruebas de ejecución.
+
+---
+
+## Patrón B. Uso dominante de análisis factorial y consistencia interna
+
+Los procedimientos más frecuentes son:
+
+* EFA;
+* CFA;
+* alfa de Cronbach;
+* correlaciones entre factores;
+* análisis de ajuste de modelos.
+
+Menos frecuentes son:
+
+* test-retest;
+* confiabilidad interevaluador;
+* invariancia de medición;
+* IRT o Rasch;
+* validez de criterio;
+* análisis de respuesta cognitiva.
+
+---
+
+## Patrón C. Adaptación cultural y lingüística
+
+Se identificaron adaptaciones explícitas en contextos:
+
+* portugués;
+* rumano;
+* turco;
+* indio;
+* chino;
+* hongkonés;
+* colombiano;
+* ecuatoriano;
+* nigeriano.
+
+**Keys representativas:**
+
+```text
+LPJSUJ9V
+ZLBRXPDA
+DCSSFS2C
+WWJJIDI6 [EXCLUDE en cribado, no usado en síntesis]
+IV425BDL
+NKWQH4PB
+DFVK7NR2
+9HKCQKDT [EXCLUDE]
+```
+
+La adaptación suele incluir traducción, EFA, CFA y consistencia interna, pero no siempre análisis de equivalencia transcultural o invarianza.
+
+---
+
+## Patrón D. Instrumentos basados en desempeño y rúbricas
+
+Aunque minoritarios, estos instrumentos ofrecen evidencia más directa de competencia.
+
+**Keys:**
+
+```text
+GSUNVIP6
+FMII7TUT
+ECTTSUXE
+Y27Q6N9A
+AKZVTZER
+C3YQG2PI
+YE4TP358
+PJNV7WSV
+PP8YRX22
+```
+
+Propiedades frecuentes:
+
+* acuerdo interevaluador;
+* confiabilidad intraevaluador;
+* dificultad de ítems;
+* discriminación;
+* análisis Rasch;
+* validez de contenido mediante expertos.
+
+---
+
+# 4. Participación de los registros UNCERTAIN
+
+Los 18 registros `UNCERTAIN` fueron incorporados, pero se conservaron identificados.
+
+| Eje emergente                   | UNCERTAIN que aportan evidencia        |
+| ------------------------------- | -------------------------------------- |
+| Autoeficacia                    | AIPHQE23, 5EXQUZSR                     |
+| Competencias profesionales      | QKJ5DVTR, 4I9HTBU4, XT6BBTKW           |
+| Innovación y diseño             | 6XVSWITA, K9E5C83P                     |
+| Investigación y autorregulación | PYM3MQNK, SFEN9MC6, RUGB95IU, PVT4UE9C |
+| Identidad y competencia         | W2PMJWMT, WHKSKTII                     |
+| Contextos tecnológicos          | Z4ICDXEQ, CU9IWP4L                     |
+| Otros casos metodológicos       | PH5ZR5GA, BQS3WMHF, PLQTGFE2           |
+
+Los `UNCERTAIN` no generaron por sí solos ningún eje principal. En general:
+
+* ampliaron subcategorías existentes;
+* mostraron fronteras conceptuales;
+* aportaron instrumentos aún incompletos o con contexto parcialmente confirmado;
+* ayudaron a identificar áreas que requieren texto completo.
+
+---
+
+# 5. Saturación
+
+## Evolución por lotes
+
+### Batch_01
+
+Generó las primeras familias:
+
+* autoeficacia;
+* competencias transversales;
+* empleabilidad;
+* comunicación;
+* emprendimiento;
+* competencia matemática.
+
+### Batch_02
+
+Amplió:
+
+* adaptación cultural;
+* sostenibilidad;
+* responsabilidad profesional;
+* pensamiento sistémico;
+* prácticas industriales.
+
+También aportó instrumentos de invariancia y SEM.
+
+### Batch_03
+
+Consolidó:
+
+* competencias técnicas;
+* investigación;
+* ética y responsabilidad;
+* comunicación laboral;
+* desempeño mediante rúbricas.
+
+### Batch_04
+
+Añadió refinamientos en:
+
+* programación;
+* electrónica;
+* escritura técnica;
+* innovación;
+* competencia representacional;
+* identidad de posgrado.
+
+No apareció un eje macrotemático completamente nuevo.
+
+### Batch_05
+
+Profundizó:
+
+* innovación;
+* reflexión;
+* resiliencia;
+* liderazgo;
+* pensamiento crítico.
+
+Tampoco generó un eje principal adicional.
+
+## Conclusión de saturación
+
+Se alcanzó **saturación temática operativa a nivel de ejes principales**, porque los últimos dos lotes ampliaron o refinaron categorías existentes, pero no produjeron nuevas familias conceptuales de igual jerarquía.
+
+No se afirma saturación absoluta respecto a:
+
+* instrumentos muy especializados;
+* propiedades psicométricas poco frecuentes;
+* contextos culturales;
+* versiones abreviadas o adaptadas.
+
+---
+
+# 6. Estructura axial final
+
+```text
+Instrumentos para competencias en ingeniería
+│
+├── 1. Creencias de capacidad y autoeficacia
+│   ├── Autoeficacia general de ingeniería
+│   ├── Autoeficacia técnica
+│   └── Autoeficacia profesional e innovadora
+│
+├── 2. Competencias profesionales y de empleabilidad
+│   ├── Competencias transversales integrales
+│   ├── Empleabilidad
+│   ├── Comunicación
+│   └── Liderazgo y colaboración
+│
+├── 3. Competencias técnicas y cognitivas
+│   ├── Matemática y representación
+│   ├── Electricidad, electrónica y automatización
+│   ├── Diseño y solución de problemas
+│   └── Programación
+│
+├── 4. Innovación y emprendimiento
+│   ├── Competencia emprendedora
+│   ├── Creatividad e innovación
+│   └── Mentalidad de diseño
+│
+├── 5. Ética, sostenibilidad y responsabilidad
+│   ├── Sostenibilidad
+│   ├── Ética y responsabilidad profesional
+│   └── Competencias socioemocionales
+│
+├── 6. Investigación y autorregulación
+│   ├── Competencias investigativas
+│   ├── Toma de decisiones
+│   └── Reflexión y regulación del aprendizaje
+│
+└── 7. Experiencias auténticas y laborales
+    ├── Prácticas industriales
+    ├── Proyectos auténticos
+    └── Evaluación en escenarios profesionales
+```
+
+# 7. Resultado final del análisis inductivo
+
+A partir de los 82 registros analizados emergieron:
+
+* **7 ejes temáticos principales**;
+* **23 subcategorías axiales**;
+* dos grandes familias de medición:
+
+  * instrumentos de autoinforme;
+  * instrumentos de desempeño o evaluación mediante rúbricas;
+* cuatro patrones metodológicos transversales:
+
+  * análisis factorial y consistencia interna;
+  * adaptación cultural;
+  * medición por autopercepción;
+  * evaluación directa del desempeño.
+
+La revisión muestra que la medición de competencias en estudiantes de ingeniería no constituye un campo homogéneo. Conviven instrumentos que evalúan capacidades percibidas, desempeños técnicos, habilidades profesionales, disposiciones éticas y resultados formativos en entornos auténticos. Esta diversidad deberá considerarse en la posterior evaluación de propiedades de medición mediante criterios adaptados de COSMIN.

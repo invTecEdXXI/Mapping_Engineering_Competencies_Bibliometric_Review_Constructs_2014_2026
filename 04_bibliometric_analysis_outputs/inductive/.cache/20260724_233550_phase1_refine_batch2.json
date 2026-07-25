@@ -1,0 +1,67 @@
+{
+  "session_id": "20260724_233550",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:44:22.397046",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Motivation and Engagement in Engineering Education",
+      "definition": "Instruments assessing students’ motivational attitudes (intrinsic/extrinsic), behaviors, self-regulation, and value perceptions, which influence their effectiveness, persistence, and engagement in engineering learning contexts. These measures draw on frameworks such as expectancy-value theory and self-determination theory.",
+      "subthemes": [
+        "intrinsic motivation",
+        "extrinsic motivation",
+        "self-regulation",
+        "expectancy-value theory",
+        "persistence intentions"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Mindset and Dispositional Factors in Engineering",
+      "definition": "Non-cognitive constructs such as design mindset, entrepreneurial mindset, grit, and ambiguity tolerance that encompass iterative thinking, creativity, and perseverance, and are measured to understand students’ dispositions towards engineering challenges. These instruments often target both general and domain-specific mindsets.",
+      "subthemes": [
+        "design mindset",
+        "entrepreneurial mindset",
+        "grit",
+        "ambiguity tolerance",
+        "iteration"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Learning Environment and Pedagogical Practices Assessment",
+      "definition": "Development and validation of instruments evaluating the impact of specific educational settings—such as community-partnered projects, internships/apprenticeships, active learning environments, and peer assessment—on student outcomes in engineering education. These tools examine both the design and the perceived effectiveness of the pedagogy.",
+      "subthemes": [
+        "community-partnered projects",
+        "internship",
+        "apprenticeship",
+        "active learning",
+        "peer assessment"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "merge",
+      "target_index": 6
+    }
+  ]
+}

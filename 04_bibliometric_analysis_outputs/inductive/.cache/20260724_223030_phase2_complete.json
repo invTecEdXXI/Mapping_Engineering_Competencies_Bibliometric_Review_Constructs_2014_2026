@@ -1,0 +1,128 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-07-24T22:32:20.231516",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Instrument Development, Validation, and Psychometric Analysis",
+        "theme_b": "Self-Efficacy, Attitudes, and Demographic Influences",
+        "relationship_type": "association",
+        "description": "Many studies that develop and validate instruments also measure self-efficacy and attitudes, often using psychometric methods to validate scales for self-efficacy and demographic influences.",
+        "n_studies_support": 40,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Instrument Development, Validation, and Psychometric Analysis",
+        "theme_b": "Specialized Competency and Mindset Assessment",
+        "relationship_type": "association",
+        "description": "Instruments are frequently developed and validated to assess specialized competencies and mindsets, such as entrepreneurial mindset or global communication competency.",
+        "n_studies_support": 30,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Self-Efficacy, Attitudes, and Demographic Influences",
+        "theme_b": "Identity, Motivation, and Persistence in Engineering",
+        "relationship_type": "association",
+        "description": "Self-efficacy and attitudes are often linked to engineering identity and persistence, as demographic factors and self-beliefs influence motivation and retention.",
+        "n_studies_support": 8,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Specialized Competency and Mindset Assessment",
+        "theme_b": "Identity, Motivation, and Persistence in Engineering",
+        "relationship_type": "association",
+        "description": "Assessments of competencies and mindsets (e.g., grit, engineering mindset) are related to identity formation and persistence in engineering programs.",
+        "n_studies_support": 5,
+        "robustness": "Low"
+      },
+      {
+        "theme_a": "Reflective Thinking and Decision-Making",
+        "theme_b": "Instrument Development, Validation, and Psychometric Analysis",
+        "relationship_type": "association",
+        "description": "Instruments are developed to measure reflective thinking and decision-making, often validated through psychometric analysis.",
+        "n_studies_support": 2,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Internship and Work Experience Evaluation",
+        "theme_b": "Instrument Development, Validation, and Psychometric Analysis",
+        "relationship_type": "association",
+        "description": "Questionnaires like the Work Experience Questionnaire are adapted and validated using psychometric methods to evaluate internship experiences.",
+        "n_studies_support": 6,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Internship and Work Experience Evaluation",
+        "theme_b": "Self-Efficacy, Attitudes, and Demographic Influences",
+        "relationship_type": "association",
+        "description": "Internship experiences and workplace support are associated with changes in self-efficacy and attitudes, though demographic influences may moderate these effects.",
+        "n_studies_support": 3,
+        "robustness": "Low"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Instrument development combined with self-efficacy and demographic analysis",
+        "components": [
+          "Instrument Development, Validation, and Psychometric Analysis",
+          "Self-Efficacy, Attitudes, and Demographic Influences"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Instrument development for specialized competencies and mindsets",
+        "components": [
+          "Instrument Development, Validation, and Psychometric Analysis",
+          "Specialized Competency and Mindset Assessment"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Self-efficacy and identity/motivation studies",
+        "components": [
+          "Self-Efficacy, Attitudes, and Demographic Influences",
+          "Identity, Motivation, and Persistence in Engineering"
+        ],
+        "frequency": "Low"
+      },
+      {
+        "description": "Internship evaluation with instrument validation",
+        "components": [
+          "Internship and Work Experience Evaluation",
+          "Instrument Development, Validation, and Psychometric Analysis"
+        ],
+        "frequency": "Medium"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Measurement focus vs. psychological constructs",
+        "justification": "Separates studies primarily concerned with instrument development from those focusing on psychological constructs like self-efficacy, identity, and motivation.",
+        "coverage": "95%",
+        "research_potential": "Helps identify whether research objectives prioritize tool creation or understanding underlying mechanisms."
+      },
+      {
+        "axis": "Individual vs. contextual factors",
+        "justification": "Distinguishes studies focusing on internal attributes (e.g., self-efficacy, identity) from those examining external influences (e.g., internships, demographics, COVID-19).",
+        "coverage": "80%",
+        "research_potential": "Reveals gaps in integrating individual and contextual factors, informing holistic interventions."
+      },
+      {
+        "axis": "Competency breadth vs. depth",
+        "justification": "Differentiates studies on broad transversal skills from those on specialized competencies (e.g., entrepreneurial mindset, mathematics fundamentals).",
+        "coverage": "60%",
+        "research_potential": "Highlights the need for balanced assessment frameworks covering both general and specific skills."
+      }
+    ],
+    "gaps_and_contradictions": "Notable gaps include limited integration between Reflective Thinking and Decision-Making with other themes, and low study counts for Identity, Motivation, and Persistence in Engineering. Contradictions may exist in how self-efficacy influences persistence across different demographic groups, but data are insufficient to confirm. The relationship between internship experiences and self-efficacy is underexplored.",
+    "_theme_reference_check": {
+      "valid_references": 14,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

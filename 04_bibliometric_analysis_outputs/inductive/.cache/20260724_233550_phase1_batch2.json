@@ -1,0 +1,611 @@
+{
+  "session_id": "20260724_233550",
+  "phase": "1",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:39:14.756384",
+  "data": {
+    "themes": [
+      {
+        "name": "Self-Efficacy Measurement in Engineering Education",
+        "definition": "Instruments designed to measure engineering students' confidence in their capabilities to perform domain-specific tasks, such as general engineering, design, programming, basic electronics, and sustainable engineering, often linked to achievement and persistence.",
+        "evidence": [
+          "[J4L96ZTQ] Self-efficacy has been shown to be positively related to undergraduate engineering students' achievement. Designing self-efficacy measures to assess the multifaceted skills required of engineers could improve the predictive relationship between efficacy beliefs and performance.",
+          "[VG98XEQP] The EFA revealed four factors: engineering self-efficacy, design self-efficacy, intentions to persist, and sense of belonging. The factor loadings for the final factors ranged from 0.56 to 0.87, and the internal consistency reliability (Cronbach's α) for the four factors ranged from 0.82 to 0.91, indicating high reliability.",
+          "[CJPX792Z] This article focuses on the development of a survey instrument to measure the PSE of electrical and electronics engineering students of India. ... the final two factors are “basic programming tasks and dependence” and “complex programming tasks and self-regulation.”"
+        ],
+        "articles": [
+          "2DDA52FC",
+          "VG98XEQP",
+          "CJPX792Z",
+          "U374P6MT",
+          "Y345N2W5",
+          "I9G3834N",
+          "J4L96ZTQ",
+          "NLXE3X6S"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "General Engineering Self-Efficacy",
+          "Design Self-Efficacy",
+          "Programming Self-Efficacy",
+          "Basic Electronics Skills Self-Efficacy",
+          "Sustainable Engineering Self-Efficacy",
+          "Intentions to Persist"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Instrument Development and Validation using Factor Analysis",
+        "definition": "The systematic process of designing, testing, and establishing reliability and validity of measurement instruments through techniques like exploratory factor analysis (EFA), confirmatory factor analysis (CFA), Cronbach's alpha, and item analysis, repeatedly used across studies to ensure robust scales for various engineering education constructs.",
+        "evidence": [
+          "[49BIH9AZ] The findings of EFA resulted in ten factors of employability. Subsequently, CFA identified nine different factors... The values of CFA met the acceptance level of different fit indices and thus, resulted in a good model fit.",
+          "[XT6BBTKW] Exploratory and confirmatory factor analyses were used to examine construct validity, and internal consistency reliability analyses followed.",
+          "[IV425BDL] Explanatory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA) were performed to examine the construct validity of the scale. As a result of EFA, some items were removed from the scale, and a three-factor structure with 25 items was obtained."
+        ],
+        "articles": [
+          "J8H6TD8Q",
+          "CY59SPDS",
+          "LHGYXXJG",
+          "49BIH9AZ",
+          "VG98XEQP",
+          "CJPX792Z",
+          "IV425BDL",
+          "U374P6MT",
+          "Y345N2W5",
+          "K9E5C83P",
+          "XT6BBTKW",
+          "6XVSWITA",
+          "I9G3834N",
+          "IQD3WXLQ",
+          "DFVK7NR2",
+          "J4L96ZTQ",
+          "4I9HTBU4",
+          "NLXE3X6S",
+          "9CXV3IJ6",
+          "YE4TP358",
+          "KI4LCCHP",
+          "PH5ZR5GA",
+          "HX8CUXK4",
+          "XHXW8PNL",
+          "FMII7TUT",
+          "DYIXSFV6",
+          "FY6V7BET"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "EFA",
+          "CFA",
+          "Cronbach's alpha",
+          "Rasch analysis",
+          "SEM",
+          "IRT",
+          "convergent validity",
+          "discriminant validity",
+          "reliability"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Professional Competencies and Employability Skills",
+        "definition": "Assessment of a broad range of skills and attributes needed for professional practice and employment, including communication, teamwork, problem-solving, leadership, critical thinking, ethical responsibility, and generic competencies, often aligned with industry requirements and career readiness.",
+        "evidence": [
+          "[LHGYXXJG] The research model, based on The Conference Board of Canada (Employability Skills 2000+), is divided into fundamental skills, personal management skills, and cooperative skills.",
+          "[49BIH9AZ] CFA identified nine different factors: leadership, critical thinking, numeracy, sociability, using technology, planning and organizing, problem-solving, teamwork, and emotional intelligence skills.",
+          "[DFVK7NR2] Exploratory factor analysis resulted in four factors: clear goals, workplace support, university support, and generic competencies."
+        ],
+        "articles": [
+          "LHGYXXJG",
+          "49BIH9AZ",
+          "Z4ICDXEQ",
+          "KI4LCCHP",
+          "9CXV3IJ6",
+          "DFVK7NR2",
+          "XHXW8PNL"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "fundamental skills",
+          "personal management skills",
+          "cooperative skills",
+          "social responsibility",
+          "generic competencies",
+          "workplace oral communication"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Motivation and Engagement in Engineering Education",
+        "definition": "Instruments assessing students’ motivational attitudes (intrinsic/extrinsic), behaviors, self-regulation, and value perceptions, which influence their effectiveness, persistence, and engagement in engineering coursework and capstone projects.",
+        "evidence": [
+          "[CY59SPDS] The attitudes instrument consists of 20 intrinsic and extrinsic motivational attitudes. The other includes 20 motivational behaviors grouped into five categories: work quality and quantity, level of supervision, team effectiveness, initiative, and self-development.",
+          "[PYM3MQNK] Students who are self-regulated leaners have been reported to perform more successfully in higher education institutions (HEIs). Therefore, instruments that can monitor students' motivation and learning have been devised and implemented.",
+          "[NLXE3X6S] Using the definition of sustainability from the Brundtland report and expectancy value theory, students’ sentiment toward SE was evaluated using items to assess SE self-efficacy, SE value and SE affect."
+        ],
+        "articles": [
+          "CY59SPDS",
+          "PYM3MQNK",
+          "NLXE3X6S",
+          "VG98XEQP"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "intrinsic motivation",
+          "extrinsic motivation",
+          "self-regulation",
+          "expectancy-value theory",
+          "persistence intentions"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Mindset and Dispositional Factors",
+        "definition": "Non-cognitive constructs such as design mindset, entrepreneurial mindset, grit, and ambiguity tolerance that encompass iterative thinking, creativity, and perseverance, and are measured to understand their impact on engineering problem-solving and academic achievement.",
+        "evidence": [
+          "[6XVSWITA] This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1) ... we identified four underlying factors of D-Mindset0.1 related to the theoretical concepts: Conversation with the Situation, Iteration, Co-Evolution of Problem-Solution and Imagination.",
+          "[K9E5C83P] This study examines the use of two survey instruments designed to measure entrepreneurial mindset (EM) constructs, such as Connections and Creating Value in engineering students.",
+          "[PH5ZR5GA] This paper describes a twofold psychometric study on the impact of grit and engineering mindset on the academic achievement of undergraduate engineering students. Grit, explicitly the perseverance and passion for a defined long–term goal, and the engineering mindset encompassing an iterative and failure-tolerant approach to problem-solving, are both vital yet underexplored domains..."
+        ],
+        "articles": [
+          "6XVSWITA",
+          "K9E5C83P",
+          "PH5ZR5GA"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "design mindset",
+          "entrepreneurial mindset",
+          "grit",
+          "ambiguity tolerance",
+          "iteration"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Learning Environment and Pedagogical Practices",
+        "definition": "Development and validation of instruments evaluating the impact of specific educational settings—such as community-partnered projects, internships/apprenticeships, active learning classrooms, and peer/self-assessment—on student learning, skills, and perceptions.",
+        "evidence": [
+          "[VG98XEQP] This research study aims at answering following research question, 'What factors influence first-year engineering students' perceptions of their motivations, sense of belonging, and engineering self-efficacy through the application of community-partnered projects?'",
+          "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+          "[DYIXSFV6] This study explores Finnish chemical engineering students’ peer and self-assessment perceptions. ... we develop a new questionnaire for engineering students’ peer and self-assessment perceptions"
+        ],
+        "articles": [
+          "VG98XEQP",
+          "DFVK7NR2",
+          "XHXW8PNL",
+          "DYIXSFV6",
+          "9CXV3IJ6",
+          "I9G3834N"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "community-partnered projects",
+          "internship",
+          "apprenticeship",
+          "active learning",
+          "peer assessment",
+          "self-assessment"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Systems Thinking and Cognitive Skills",
+        "definition": "Measurement of higher-order cognitive competencies such as systems thinking, creative engineering design, and mathematical competence, which are essential for solving complex, real-world problems in engineering contexts.",
+        "evidence": [
+          "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+          "[YE4TP358] Creativity, being a key competency of engineering, must be taught and assessed. Here, we verify the reliability of the Creative Engineering Design Assessment (CEDA), a psychometric test for engineering students...",
+          "[HX8CUXK4] This article reports about our efforts to determine engineering students' competence in mathematics. ... KoM@ING aims to model the role of engineering students' mathematical competences for their studies..."
+        ],
+        "articles": [
+          "J8H6TD8Q",
+          "YE4TP358",
+          "HX8CUXK4",
+          "FMII7TUT"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "systems thinking",
+          "creative engineering design",
+          "mathematical competence",
+          "cognitive validity"
+        ],
+        "_verification": {
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Identity Formation and Professional Affect",
+        "definition": "Assessment of engineering identity, sense of belonging, social responsibility, and affective responses toward professional practice, which shape students' development as engineers and influence retention.",
+        "evidence": [
+          "[FY6V7BET] Identity, or how people choose to define themselves, is emerging as an attractive explanation for who persists in engineering. ... This paper describes the methods used to create a new survey measure of individuals' affect toward elements of engineering practice.",
+          "[IV425BDL] This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture. ... The adapted scale is a reliable measurement tool that can be used by engineering educators and researchers to make inferences about students' social responsibility levels.",
+          "[VG98XEQP] ...sense of belonging scale... None of the factors: gender identity, race/ethnicity, and engineering majors, influenced students' perceptions on ... sense of belonging..."
+        ],
+        "articles": [
+          "FY6V7BET",
+          "IV425BDL",
+          "VG98XEQP"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "engineering identity",
+          "sense of belonging",
+          "professional responsibility",
+          "affect toward practice",
+          "social responsibility"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      }
+    ],
+    "meta_observations": "The batch is dominated by instrument validation studies for non-cognitive constructs, with extensive use of factor analysis. Professional competencies/employability and self-efficacy are the most frequently assessed constructs, while identity, mindset, and sustainability attitudes represent emerging areas. Many abstracts lack full quantitative results yet still contribute explicit themes through their stated objectives and factor structures.",
+    "grounding_notes": "All evidence quotes are verbatim from provided abstracts. Article keys strictly from the closed set. Themes such as 'Instrument Development and Validation' appear in nearly all papers, so it is listed as a high-frequency methodological theme. Some abstracts (e.g., J8H6TD8Q, 2DDA52FC) have limited explicit detail; only explicitly stated information was used.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.738,
+      "avg_quote_grounding": 0.625,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 9,
+      "verification_details": [
+        {
+          "theme_name": "Self-Efficacy Measurement in Engineering Education",
+          "evidence_verified": [
+            {
+              "quote": "[J4L96ZTQ] Self-efficacy has been shown to be positively related to undergraduate engineering students' achievement. Designing self-efficacy measures to assess the multifaceted skills required of engineers could improve the predictive relationship between efficacy beliefs and performance.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[VG98XEQP] The EFA revealed four factors: engineering self-efficacy, design self-efficacy, intentions to persist, and sense of belonging. The factor loadings for the final factors ranged from 0.56 to 0.87, and the internal consistency reliability (Cronbach's α) for the four factors ranged from 0.82 to 0.91, indicating high reliability.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[CJPX792Z] This article focuses on the development of a survey instrument to measure the PSE of electrical and electronics engineering students of India. ... the final two factors are “basic programming tasks and dependence” and “complex programming tasks and self-regulation.”",
+              "score": 0.6,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "2DDA52FC",
+            "VG98XEQP",
+            "CJPX792Z",
+            "U374P6MT",
+            "Y345N2W5",
+            "I9G3834N",
+            "J4L96ZTQ",
+            "NLXE3X6S"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.60), not verbatim: '[CJPX792Z] This article focuses on the development...'"
+          ]
+        },
+        {
+          "theme_name": "Instrument Development and Validation using Factor Analysis",
+          "evidence_verified": [
+            {
+              "quote": "[XT6BBTKW] Exploratory and confirmatory factor analyses were used to examine construct validity, and internal consistency reliability analyses followed.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[IV425BDL] Explanatory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA) were performed to examine the construct validity of the scale. As a result of EFA, some items were removed from the scale, and a three-factor structure with 25 items was obtained.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[49BIH9AZ] The findings of EFA resulted in ten factors of employability. Subsequently, CFA identified nine different factors... The values of CFA met the acceptance level of different fit indices and thus, resulted in a good model fit.",
+              "score": 0.54,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "J8H6TD8Q",
+            "CY59SPDS",
+            "LHGYXXJG",
+            "49BIH9AZ",
+            "VG98XEQP",
+            "CJPX792Z",
+            "IV425BDL",
+            "U374P6MT",
+            "Y345N2W5",
+            "K9E5C83P",
+            "XT6BBTKW",
+            "6XVSWITA",
+            "I9G3834N",
+            "IQD3WXLQ",
+            "DFVK7NR2",
+            "J4L96ZTQ",
+            "4I9HTBU4",
+            "NLXE3X6S",
+            "9CXV3IJ6",
+            "YE4TP358",
+            "KI4LCCHP",
+            "PH5ZR5GA",
+            "HX8CUXK4",
+            "XHXW8PNL",
+            "FMII7TUT",
+            "DYIXSFV6",
+            "FY6V7BET"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.54): '[49BIH9AZ] The findings of EFA resulted in ten fac...'"
+          ]
+        },
+        {
+          "theme_name": "Professional Competencies and Employability Skills",
+          "evidence_verified": [
+            {
+              "quote": "[LHGYXXJG] The research model, based on The Conference Board of Canada (Employability Skills 2000+), is divided into fundamental skills, personal management skills, and cooperative skills.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[49BIH9AZ] CFA identified nine different factors: leadership, critical thinking, numeracy, sociability, using technology, planning and organizing, problem-solving, teamwork, and emotional intelligence skills.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[DFVK7NR2] Exploratory factor analysis resulted in four factors: clear goals, workplace support, university support, and generic competencies.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LHGYXXJG",
+            "49BIH9AZ",
+            "Z4ICDXEQ",
+            "KI4LCCHP",
+            "9CXV3IJ6",
+            "DFVK7NR2",
+            "XHXW8PNL"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Motivation and Engagement in Engineering Education",
+          "evidence_verified": [
+            {
+              "quote": "[CY59SPDS] The attitudes instrument consists of 20 intrinsic and extrinsic motivational attitudes. The other includes 20 motivational behaviors grouped into five categories: work quality and quantity, level of supervision, team effectiveness, initiative, and self-development.",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[PYM3MQNK] Students who are self-regulated leaners have been reported to perform more successfully in higher education institutions (HEIs). Therefore, instruments that can monitor students' motivation and learning have been devised and implemented.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[NLXE3X6S] Using the definition of sustainability from the Brundtland report and expectancy value theory, students’ sentiment toward SE was evaluated using items to assess SE self-efficacy, SE value and SE affect.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "CY59SPDS",
+            "PYM3MQNK",
+            "NLXE3X6S",
+            "VG98XEQP"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Mindset and Dispositional Factors",
+          "evidence_verified": [
+            {
+              "quote": "[K9E5C83P] This study examines the use of two survey instruments designed to measure entrepreneurial mindset (EM) constructs, such as Connections and Creating Value in engineering students.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PH5ZR5GA] This paper describes a twofold psychometric study on the impact of grit and engineering mindset on the academic achievement of undergraduate engineering students. Grit, explicitly the perseverance and passion for a defined long–term goal, and the engineering mindset encompassing an iterative and failure-tolerant approach to problem-solving, are both vital yet underexplored domains...",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[6XVSWITA] This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1) ... we identified four underlying factors of D-Mindset0.1 related to the theoretical concepts: Conversation with the Situation, Iteration, Co-Evolution of Problem-Solution and Imagination.",
+              "score": 0.58,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "6XVSWITA",
+            "K9E5C83P",
+            "PH5ZR5GA"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.58): '[6XVSWITA] This article defines and operationalize...'"
+          ]
+        },
+        {
+          "theme_name": "Learning Environment and Pedagogical Practices",
+          "evidence_verified": [
+            {
+              "quote": "[VG98XEQP] This research study aims at answering following research question, 'What factors influence first-year engineering students' perceptions of their motivations, sense of belonging, and engineering self-efficacy through the application of community-partnered projects?'",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[DYIXSFV6] This study explores Finnish chemical engineering students’ peer and self-assessment perceptions. ... we develop a new questionnaire for engineering students’ peer and self-assessment perceptions",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "VG98XEQP",
+            "DFVK7NR2",
+            "XHXW8PNL",
+            "DYIXSFV6",
+            "9CXV3IJ6",
+            "I9G3834N"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[DYIXSFV6] This study explores Finnish chemical en...'"
+          ]
+        },
+        {
+          "theme_name": "Systems Thinking and Cognitive Skills",
+          "evidence_verified": [
+            {
+              "quote": "[YE4TP358] Creativity, being a key competency of engineering, must be taught and assessed. Here, we verify the reliability of the Creative Engineering Design Assessment (CEDA), a psychometric test for engineering students...",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+              "score": 0.19,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[HX8CUXK4] This article reports about our efforts to determine engineering students' competence in mathematics. ... KoM@ING aims to model the role of engineering students' mathematical competences for their studies...",
+              "score": 0.52,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "J8H6TD8Q",
+            "YE4TP358",
+            "HX8CUXK4",
+            "FMII7TUT"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.19): '[J8H6TD8Q] It is widely acknowledged that systems ...'",
+            "Quote not found in source texts (score=0.52): '[HX8CUXK4] This article reports about our efforts ...'"
+          ]
+        },
+        {
+          "theme_name": "Identity Formation and Professional Affect",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[FY6V7BET] Identity, or how people choose to define themselves, is emerging as an attractive explanation for who persists in engineering. ... This paper describes the methods used to create a new survey measure of individuals' affect toward elements of engineering practice.",
+              "score": 0.53,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[IV425BDL] This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture. ... The adapted scale is a reliable measurement tool that can be used by engineering educators and researchers to make inferences about students' social responsibility levels.",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[VG98XEQP] ...sense of belonging scale... None of the factors: gender identity, race/ethnicity, and engineering majors, influenced students' perceptions on ... sense of belonging...",
+              "score": 0.65,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "FY6V7BET",
+            "IV425BDL",
+            "VG98XEQP"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.53): '[FY6V7BET] Identity, or how people choose to defin...'",
+            "Paraphrase detected (score=0.62), not verbatim: '[IV425BDL] This paper aims to adapt the 'Engineeri...'",
+            "Paraphrase detected (score=0.65), not verbatim: '[VG98XEQP] ...sense of belonging scale... None of ...'"
+          ]
+        }
+      ]
+    }
+  }
+}

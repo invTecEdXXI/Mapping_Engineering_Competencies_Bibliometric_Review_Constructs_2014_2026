@@ -1,0 +1,34 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_231535,0,Assessment Instrument Development and Validation,High,high,19,3,0.767,0.667,1.0,1,True,Psychometric validation; Factor analysis; Reliability testing
+20260724_231535,0,Engineering Competencies and Skills,High,high,16,3,0.767,0.667,1.0,1,True,Professional skills; Transversal competencies; Research competences; Practical knowledge
+20260724_231535,0,Psychometric Properties and Statistical Methods,High,high,19,3,0.767,0.667,1.0,1,True,Reliability testing; Factor analysis; Structural validity
+20260724_231535,0,Engineering Education Contexts and Settings,High,high,23,3,1.0,1.0,1.0,0,True,Internships; Laboratory settings; Virtual learning; Graduate education
+20260724_231535,0,Self-Efficacy and Attitudes,Medium,high,21,3,0.533,0.333,1.0,2,True,Resilience; Engineering identity; Entrepreneurial self-efficacy
+20260724_231535,0,Rubric-Based Assessment,Medium,high,4,3,0.3,0.0,1.0,3,False,Scoring rubrics; Competency-based assessment; Expert judgment
+20260724_231535,0,Critical Thinking and Problem-Solving,Low,medium,2,2,0.65,0.5,1.0,1,True,Representational competence; Automation-based assessment; Problem-solving skills
+20260724_231535,0,Reflective Thinking and Learning,Low,medium,1,1,1.0,1.0,1.0,0,True,Reflective practice; Design problem-solving; Self-reporting instruments
+20260724_231535,0,Cultural and Gender Considerations in Assessment,Low,medium,4,2,1.0,1.0,1.0,0,True,Gender invariance; Cultural adaptation; Demographic factors
+20260724_231535,1,Assessment instrument validation,High,high,7,3,0.767,0.667,1.0,1,True,Reliability testing; Factor analysis; Structural validity; Psychometric properties
+20260724_231535,1,Self-efficacy measurement in engineering,High,high,5,3,1.0,1.0,1.0,0,True,Programming self-efficacy; Design self-efficacy; Tinkering self-efficacy; Academic achievement
+20260724_231535,1,Employability skills and professional competencies,Medium,high,4,3,1.0,1.0,1.0,0,True,Communication skills; Teamwork; Leadership; Technical competencies
+20260724_231535,1,Entrepreneurial mindset and innovation skills,Low,medium,3,3,1.0,1.0,1.0,0,True,Innovation; Problem-solving; Iterative design; Failure tolerance
+20260724_231535,1,Workplace and internship experience assessment,Medium,high,3,3,1.0,1.0,1.0,0,True,Internship quality; Workplace competencies; Industry collaboration; Practical skills
+20260724_231535,1,Systems thinking and design mindset,Low,medium,2,2,0.65,0.5,1.0,1,True,Holistic thinking; Problem-solving; Iterative design; Complex systems
+20260724_231535,1,Sustainability and social responsibility in engineering,Low,medium,2,2,1.0,1.0,1.0,0,True,Sustainability education; Social responsibility; Ethics in engineering; Community engagement
+20260724_231535,1,Learning gains and active learning assessment,Medium,medium,2,2,1.0,1.0,1.0,0,True,Active learning; Learning outcomes; Student engagement; Problem-based learning
+20260724_231535,1,Mathematical and technical competencies,Low,medium,2,2,1.0,1.0,1.0,0,True,Mathematical competence; Technical skills; Rasch analysis; Real-world application
+20260724_231535,2,Engineering Self-Efficacy Measurement,High,high,7,3,1.0,1.0,1.0,0,True,Domain-specific vs. general self-efficacy; Gender differences in self-efficacy; Sources of self-efficacy development
+20260724_231535,2,Transferable and Professional Skills Assessment,High,high,7,3,1.0,1.0,1.0,0,True,Vocational competencies; Industry-aligned rubrics; Gender differences in transferable skills
+20260724_231535,2,Problem-Solving and Critical Thinking Evaluation,Medium,high,5,3,1.0,1.0,1.0,0,True,Self-assessment tools; Factor analysis validation; Pedagogical applications
+20260724_231535,2,Sustainability and Ethical Competence in Engineering Education,Medium,high,2,3,1.0,1.0,1.0,0,True,Ethical principles in engineering; Sustainable development goals; Curriculum alignment
+20260724_231535,2,Instrument Validation and Psychometric Properties,High,high,7,3,0.767,0.667,1.0,1,True,Reliability testing; Factor analysis; Criterion-related validity
+20260724_231535,2,Engineering Identity and Motivation,Medium,high,5,3,0.767,0.667,1.0,1,True,Identity development; Motivational interventions; Contextual influences
+20260724_231535,2,Large-Scale Competency Assessments,Low,high,3,3,1.0,1.0,1.0,0,True,International benchmarking; Vocational competencies; Cross-cultural validation
+20260724_231535,2,Pedagogical Interventions and Curriculum Design,Medium,high,3,3,1.0,1.0,1.0,0,True,Flipped classroom; Problem-based learning; Interdisciplinary projects
+20260724_231535,3,Development and validation of self-efficacy scales,High,high,2,3,1.0,1.0,1.0,0,True,Factor analysis; Reliability testing; Scale validation
+20260724_231535,3,Entrepreneurial motivation factors in engineering students,Medium,high,1,2,1.0,1.0,1.0,0,True,Career intention; Mediation analysis; Psychometric properties
+20260724_231535,3,Writing attitudes and academic performance,Medium,high,1,2,1.0,1.0,1.0,0,True,Writing apprehension; Career trajectory; Survey validation
+20260724_231535,3,Leadership competencies in engineering education,Medium,high,1,2,0.65,0.5,1.0,1,True,Leadership programs; Competency assessment; Ethical leadership
+20260724_231535,3,Self-efficacy in biomedical engineering contexts,Medium,high,1,2,1.0,1.0,1.0,0,True,Clinical relevance; Grant proposal writing; Interdisciplinary skills
+20260724_231535,3,Psychometric validation processes,High,high,2,2,1.0,1.0,1.0,0,True,Factor structure; Reliability statistics; Correlation analysis
+20260724_231535,3,Educational assessment and policy implications,Medium,high,2,2,1.0,1.0,1.0,0,True,Institutional assessment; Policy development; Educational outcomes

@@ -1,0 +1,61 @@
+{
+  "session_id": "20260724_230900",
+  "phase": "1_refine",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:10:04.312991",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 11
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 9
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Leadership Development and Self-Efficacy in Engineering Education",
+      "definition": "The assessment and enhancement of leadership skills and leadership self-efficacy in engineering students through validated instruments and structured programs. This theme emphasizes the measurement of leadership competencies and their relationship with engineering students' professional development and career outcomes.",
+      "subthemes": [
+        "Leadership self-efficacy measurement",
+        "Leadership program evaluation",
+        "Domain-specific leadership competencies"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Affective and Writing-Related Factors in Engineering Education",
+      "definition": "The study of emotional and attitudinal factors, particularly writing apprehension and attitudes, and their impact on engineering students' academic performance, persistence, and career trajectories. This theme explores how affective dimensions influence learning and professional development.",
+      "subthemes": [
+        "Writing apprehension and academic success",
+        "Emotional factors in engineering learning",
+        "Affective factors and career outcomes"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Domain-Specific Self-Efficacy in Biomedical Engineering",
+      "definition": "The assessment of self-efficacy in biomedical engineering students and professionals, focusing on clinical problem-solving, grant writing, and interdisciplinary skills. This theme highlights the unique competencies required in biomedical engineering contexts.",
+      "subthemes": [
+        "Clinical problem-solving self-efficacy",
+        "Grant writing self-efficacy",
+        "Interdisciplinary skill development"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "merge",
+      "target_index": 10
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+=== REVIEW PROTOCOL v2 ===
+
+TITLE: Measurement instruments for technical and transversal competencies in engineering education: a systematic review of measurement properties
+
+DOMAIN: engineering_competency_measurement
+
+REVIEW_TYPE: systematic
+
+N_AGENTS: 3
+
+TOPIC_STATEMENT:
+This review examines human-measurement instruments used with engineering students to assess technical or transversal competencies and the empirical evidence supporting their measurement properties.
+
+REVIEW_QUESTION:
+Which instruments were developed, validated, or culturally adapted from 2014 through 2026 to measure technical or transversal competencies in undergraduate or postgraduate engineering students, and what empirical measurement-property evidence do they report?
+
+QUESTION_FRAMEWORK:
+TYPE: PCC
+POPULATION: Undergraduate or postgraduate engineering students, including mixed samples in which engineering students are explicitly represented.
+CONCEPT: The eligible competency-measurement construct as defined in SCOPE_OF_REVIEW.
+CONTEXT: Engineering education in higher-education institutions.
+
+OBJECTIVE:
+Identify and characterize instruments for measuring technical and transversal competencies in engineering students and map the empirical evidence for their measurement properties for subsequent COSMIN-adapted appraisal.
+
+SEARCH_STRING:
+TITLE-ABS-KEY (
+  ( "engineering education" OR "engineering student*" OR "engineering undergraduate*" OR "engineering curriculum" OR "electronic* engineering" OR "electrical engineering" )
+  AND
+  ( competenc* OR "soft skill*" OR "transversal skill*" OR "generic skill*" OR "professional skill*" OR "employability skill*" OR "self-efficacy" OR "critical thinking" )
+  AND
+  ( questionnaire* OR scale* OR inventory OR rubric* OR "measurement instrument*" OR "assessment tool*" OR "assessment instrument*" )
+  AND
+  ( psychometric* OR validit* OR validat* OR reliabilit* OR "internal consistency" OR "factor analys*" OR "item response theory" OR "measurement invariance" )
+)
+
+SCOPE_OF_REVIEW:
+The review covers empirical human-measurement studies published from 2014 through 2026 in English, Spanish, or Portuguese, involving undergraduate or postgraduate engineering students and intended to measure a declared technical or transversal competency.
+CORE CONSTRUCT: An eligible competency-measurement study develops, validates, or culturally adapts a questionnaire, scale, inventory, rubric, situational test, self-report measure, or performance-based measure and provides original empirical evidence for at least one measurement property in the target sample. The positive discriminator is the conjunction of (a) a declared engineering competency measured in people, (b) an identifiable measurement instrument, and (c) original measurement-property analysis such as content validity, structural validity, internal consistency, inter-rater reliability, test-retest reliability, construct or criterion validity, measurement invariance, or item-response analysis. Technical competencies include design, simulation, programming, technical problem solving, and prototyping; transversal competencies include critical thinking, collaboration, communication, ethics, self-regulation, employability skills, and domain self-efficacy.
+NOT an eligible competency-measurement study by itself (near-misses): use of an established instrument solely as an intervention outcome; course grades, GPA, ordinary examinations, satisfaction surveys, or learning assessments presented only for grading; physical instruments, sensors, signal measurement, test benches, dimensional scales, or engineering instrumentation; validation of circuits, algorithms, simulations, computational models, or teaching systems; personality traits not declared as professional competencies; competence measures applied exclusively to teachers, school pupils, non-student professionals, or non-engineering students; AI used merely as a teaching tool while the measured outcome is unrelated to an engineering competency.
+CONSTRUCT SEVERITY: STRICT -> the abstract explicitly confirms the declared engineering competency, the identifiable human-measurement instrument, the relevant engineering-student context, and original empirical analysis of at least one measurement property: INCLUDE. MODERATE -> the abstract claims instrument development, validation, adaptation, reliability, validity, or rubric calibration but leaves the exact property, engineering composition of a mixed sample, or instrument role partial or ambiguous: UNCERTAIN, never exclude. NEAR_MISS -> the abstract explicitly states one of the near-miss designs and thereby establishes that the object assessed is not the core construct: EXCLUDE.
+
+ELIGIBLE_DOCS: original_research_article; early_access_original_article; indexed_conference_paper_with_complete_psychometric_evidence
+
+INELIGIBLE_DOCS: review_article; systematic_review; scoping_review; narrative_review; editorial; commentary; book_chapter; thesis; dissertation; preprint; protocol; abstract_only_record
+
+DOCUMENT_RULE:
+Apply this hard gate before thematic relevance. Eligible records are peer-reviewed original research articles, early-access original articles, and indexed conference papers whose title and abstract confirm a complete empirical psychometric study. Ineligible records are reviews, editorials, commentaries, book chapters, theses, dissertations, preprints, protocols, and abstract-only records. Document type is judged only here. If indexed-conference status or completeness cannot be established from the available metadata and abstract, route the record to UNCERTAIN.
+
+INCLUSION_CRITERIA:
+- The record passes the document-type gate per DOCUMENT_RULE.
+- The study satisfies the core construct as defined in SCOPE_OF_REVIEW.
+- The measured construct concerns a declared technical or transversal competency relevant to engineering education.
+- The empirical population includes undergraduate or postgraduate engineering students; a mixed population qualifies when engineering students are explicitly represented.
+- The record reports original empirical evidence for at least one measurement property of the instrument.
+- The publication year is 2014 through 2026 inclusive and the publication language is English, Spanish, or Portuguese.
+
+EXCLUSION_CRITERIA:
+- The record is positively identified as ineligible per DOCUMENT_RULE.
+- The abstract explicitly identifies the measured object as a near-miss defined in SCOPE_OF_REVIEW.
+- The abstract explicitly states that the study only administers an established measure to estimate an intervention effect, association, perception, or outcome.
+- The abstract explicitly limits participants to school pupils, teachers, non-student professionals, or students outside engineering.
+- The abstract explicitly describes the outcome as course achievement, grades, GPA, a content examination, satisfaction, or performance of a technical artifact rather than a declared competency construct.
+- The year or language metadata explicitly falls outside the stated scope.
+
+AGENT_INCLUDE_WHEN:
+- After confirming DOCUMENT_RULE, locate a purpose verb such as develop, validate, adapt, translate, calibrate, or evaluate a measurement model and link it to a named human-measurement instrument.
+- Locate an explicit engineering-student population span and an explicit competency label, then verify that both refer to the same empirical sample.
+- Locate at least one reported measurement-property method or result, such as expert content appraisal, factor analysis, alpha or omega, inter-rater agreement, test-retest, invariance, item-response analysis, criterion relation, or discriminant evidence.
+- Treat a mixed intervention-and-validation study as includable when the abstract separately reports original instrument-development or measurement-property results.
+- Treat a translated or culturally adapted instrument as original measurement-property evidence when the abstract reports empirical evaluation in the new language or setting.
+
+AGENT_EXCLUDE_WHEN:
+- Metadata or the abstract explicitly matches an ineligible category per DOCUMENT_RULE.
+- The abstract's measured entity is explicitly a device, signal, circuit, algorithm, simulation, computational model, educational platform, or other technical artifact.
+- The methods explicitly say an established questionnaire or scale was administered only to compare groups, predict outcomes, or estimate an intervention effect, and all reported results concern those substantive outcomes.
+- The participants are explicitly restricted to an out-of-scope population defined in SCOPE_OF_REVIEW.
+- The assessment is explicitly a course test, grade, GPA, satisfaction rating, or ordinary project evaluation used to score learning rather than measure a declared competency construct.
+
+UNCERTAINTY_HANDLING:
+This precedence rule overrides the exclusion criteria whenever confirming information is absent, incomplete, or ambiguous. Confirm three axes: construct (the core construct as defined in SCOPE_OF_REVIEW), context (engineering-student population and eligible year/language), and evidence (original empirical measurement-property analysis); also confirm the document gate per DOCUMENT_RULE. If an axis is merely unconfirmed from title, abstract, keywords, or metadata, assign UNCERTAIN for human or full-text review and never EXCLUDE. Exclude only when the record positively asserts a disqualifying fact.
+
+JUSTIFICATION_STYLE: Concise, evidence-based rationales grounded only in title, abstract, keywords and supplied metadata; name the decisive axis (document type, construct, context, or evidence) and quote the shortest span that settled the vote.
+
+CALIBRATION_ANCHORS:
+INCLUDE || Validity of the Contextual Competence Scale for Engineering Students || The study provides content, structural, discriminant, and criterion-related validity evidence for a contextual competence scale using data from engineering students and alumni across 120 U.S. engineering programs; factor analyses and reliability analysis yielded a one-factor scale with Cronbach's alpha of .91. || Construct, context, and evidence are STRICT: the spans "engineering students' contextual competence" and "factor analyses" explicitly confirm a human competency scale and original measurement-property evidence.
+INCLUDE || Transferable Skills in Engineering Curricula: A Case Study at a Portuguese University || The study translates, adapts, and validates the Generic Skills Perception Questionnaire-Competence Level with 219 engineering students; confirmatory factor analysis was used and the instrument was validated for the Portuguese context. || Context and evidence are decisive: "219 engineering students" plus "translate, adapt, and validate" and "confirmatory factor analysis" satisfy the core construct.
+EXCLUDE || Analysis and Validity Evidence of the Digital Competence Questionnaire for Peruvian Teachers || An instrumental study analyzes digital competence and validity evidence for a self-report questionnaire administered to 414 Peruvian basic-education teachers. || Context is decisively out of scope because the abstract explicitly restricts the population to "Peruvian teachers" and "basic education teachers," a near-miss under SCOPE_OF_REVIEW.
+EXCLUDE || A Design-Based Learning Approach for Fostering Sustainability Competency in Engineering Education || Two intervention studies compare design-based and passive learning with engineering students; stakeholder questionnaires and performance evaluations validate the teaching approach, and the results concern improvement in sustainability competencies. || Evidence is decisive: the abstract explicitly validates "the proposed approach" and reports intervention outcomes, so this is use of assessments to evaluate instruction rather than instrument development or validation.
+UNCERTAIN || Validation of instruments to measure social entrepreneurship competence: the OpenSocialLab project || Three instruments were piloted with undergraduate and graduate students and evaluated through expert judgment, statistical validity, and reliability, but the abstract does not identify the students' disciplines. || Context is ambiguous: measurement evidence is confirmed, but "undergraduate and graduate courses" does not confirm an engineering-student sample; precedence requires UNCERTAIN.
+UNCERTAIN || Triangulated Authentic Competency Assessment in a Four-Campus Evaluation Center || A standardized evaluation center uses calibrated rubrics, pre/post student data, employer and faculty ratings, convergent validity, and internal consistency of alpha .96 and .93 to assess professional competencies across four campuses; the abstract does not identify the students' academic disciplines. || Construct and evidence appear relevant, but the context axis is unconfirmed because the abstract says only "students"; ambiguity overrides exclusion and requires UNCERTAIN.

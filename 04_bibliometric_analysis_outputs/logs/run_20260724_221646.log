@@ -1,0 +1,709 @@
+2026-07-24 22:16:46 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:16:46 [INFO] bibliometrico.main: Sistema de Analisis Bibliometrico de Frontera
+2026-07-24 22:16:46 [INFO] bibliometrico.main: Fases seleccionadas: [1]
+2026-07-24 22:16:46 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:16:46 [INFO] bibliometrico.main: Checkpoint cargado: 96 articulos
+2026-07-24 22:16:46 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:16:46 [INFO] bibliometrico.openalex: === FASE 1: Enriquecimiento OpenAlex ===
+2026-07-24 22:16:46 [INFO] bibliometrico.openalex: Using OpenAlex API key (premium pool)
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [WE7WVA4B]: cites=0, refs=18, concepts=5, grants=0, sdgs=0
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [ECTTSUXE]: cites=0, refs=0, concepts=10, grants=0, sdgs=1
+2026-07-24 22:16:47 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex: DOI not found, trying title: Analysis of learning outcomes of Civil Engineering students 
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [PP8YRX22]: cites=0, refs=6, concepts=20, grants=0, sdgs=1
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [RGASR6Q5]: cites=0, refs=0, concepts=26, grants=0, sdgs=1
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [9HGRHX6A]: cites=0, refs=0, concepts=10, grants=0, sdgs=0
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [GMEMS46N]: cites=2, refs=44, concepts=24, grants=0, sdgs=0
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [LPJSUJ9V]: cites=5, refs=69, concepts=28, grants=0, sdgs=0
+2026-07-24 22:16:47 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex: DOI not found, trying title: Development of a Questionnaire to Measure Students' Attitude
+2026-07-24 22:16:47 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex: DOI not found, trying title: Research Competences in University Training
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [PD6ENBV2]: cites=49, refs=69, concepts=10, grants=0, sdgs=1
+2026-07-24 22:16:47 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex: DOI not found, trying title: Exploring the relationships between resilience and student p
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [NKWQH4PB]: cites=2, refs=23, concepts=13, grants=0, sdgs=1
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex: Title match (score=100.0): Analysis of learning outcomes of Civil Engineering students 
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [QU82N8PC]: cites=2, refs=18, concepts=29, grants=0, sdgs=1
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [Y4ZKXXH4]: cites=5, refs=30, concepts=22, grants=0, sdgs=1
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [AIPHQE23]: cites=11, refs=53, concepts=27, grants=0, sdgs=0
+2026-07-24 22:16:47 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex: DOI not found, trying title: A quantitative pilot study of engineering graduate student i
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex: Title match (score=100.0): Development of a Questionnaire to Measure Students' Attitude
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [KU4TN5MB]: cites=2, refs=70, concepts=10, grants=0, sdgs=0
+2026-07-24 22:16:47 [WARNING] bibliometrico.openalex: No title match (best=73.04347826086956): Research Competences in University Training
+2026-07-24 22:16:47 [WARNING] bibliometrico.openalex:   No OpenAlex data: [84K6T4E3] Research Competences in University Training
+2026-07-24 22:16:47 [INFO] bibliometrico.openalex:   Enriched [SL7257LZ]: cites=17, refs=42, concepts=33, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Applying the computing professional skills assessment method
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Do they understand your language? Assess their fluency with 
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [W2PMJWMT]: cites=41, refs=46, concepts=14, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Development and Application of a Questionnaire to Measure St
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=100.0): Exploring the relationships between resilience and student p
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [I9QV6W8G]: cites=4, refs=21, concepts=17, grants=0, sdgs=0
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [PNGM9L8J]: cites=5, refs=23, concepts=18, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=100.0): A quantitative pilot study of engineering graduate student i
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [PVT4UE9C]: cites=14, refs=30, concepts=15, grants=0, sdgs=0
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works: 400 Client Error: Bad Request for url: https://api.openalex.org/works?api_key=4bBtW6PgMiCBUtJNuHLRoK&filter=title.search%3ADo+they+understand+your+language%3F+Assess+their+fluency+with+vector+representations&per_page=5
+2026-07-24 22:16:48 [WARNING] bibliometrico.openalex:   No OpenAlex data: [AKZVTZER] Do they understand your language? Assess their fluency with 
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [EPIKGTEL]: cites=1, refs=0, concepts=17, grants=0, sdgs=0
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=100.0): Applying the computing professional skills assessment method
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [CU9IWP4L]: cites=0, refs=0, concepts=5, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Evaluation Model of Student Competencies for Discussion Foru
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=100.0): Development and Application of a Questionnaire to Measure St
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [JKK5M2EG]: cites=9, refs=3, concepts=8, grants=0, sdgs=0
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [DNK3JI3N]: cites=28, refs=16, concepts=10, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [B4EBYEKF]: cites=11, refs=52, concepts=17, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Assessing reflective thinking in solving design problems: Th
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [ZLBRXPDA]: cites=2, refs=62, concepts=25, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [GSUNVIP6]: cites=22, refs=19, concepts=15, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=100.0): Evaluation Model of Student Competencies for Discussion Foru
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [A3WRUNHT]: cites=3, refs=0, concepts=18, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [J8H6TD8Q]: cites=21, refs=28, concepts=12, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Motivational attitudes and behaviors in capstone projects: Q
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [UQVRIPCY]: cites=8, refs=22, concepts=26, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Validity Evidence for the General Engineering Self-Efficacy 
+2026-07-24 22:16:48 [WARNING] bibliometrico.openalex: No title match (best=0): DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:16:48 [WARNING] bibliometrico.openalex:   No OpenAlex data: [2IGUA9SF] DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [LHGYXXJG]: cites=21, refs=73, concepts=18, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=99.45945945945947): Assessing reflective thinking in solving design problems: Th
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [RUGB95IU]: cites=68, refs=29, concepts=13, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [Z4ICDXEQ]: cites=4, refs=37, concepts=14, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=100.0): Motivational attitudes and behaviors in capstone projects: Q
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [CY59SPDS]: cites=1, refs=7, concepts=20, grants=0, sdgs=0
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: DOI not found, trying title: Examining the Engineering Self-Efficacy, Design Self-Efficac
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [49BIH9AZ]: cites=4, refs=36, concepts=22, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex: Title match (score=100.0): Validity Evidence for the General Engineering Self-Efficacy 
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [2DDA52FC]: cites=6, refs=20, concepts=18, grants=0, sdgs=1
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [PYM3MQNK]: cites=15, refs=91, concepts=13, grants=0, sdgs=0
+2026-07-24 22:16:48 [INFO] bibliometrico.openalex:   Enriched [CJPX792Z]: cites=37, refs=20, concepts=19, grants=0, sdgs=1
+2026-07-24 22:16:48 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works: 400 Client Error: Bad Request for url: https://api.openalex.org/works?api_key=4bBtW6PgMiCBUtJNuHLRoK&filter=title.search%3AExamining+the+Engineering+Self-Efficacy%2C+Design+Self-Efficacy%2C+Intentions+to+Persist%2C+and+Sense+of+Belonging+of+First-Year+Engineering+Students+through+Community-Partnered+Projects&per_page=5
+2026-07-24 22:16:49 [WARNING] bibliometrico.openalex:   No OpenAlex data: [VG98XEQP] Examining the Engineering Self-Efficacy, Design Self-Efficac
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [IV425BDL]: cites=0, refs=0, concepts=26, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [U374P6MT]: cites=42, refs=51, concepts=23, grants=0, sdgs=1
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [Y345N2W5]: cites=6, refs=13, concepts=18, grants=0, sdgs=1
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [K9E5C83P]: cites=0, refs=17, concepts=11, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [6XVSWITA]: cites=3, refs=63, concepts=13, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [I9G3834N]: cites=5, refs=52, concepts=10, grants=0, sdgs=1
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [IQD3WXLQ]: cites=1, refs=12, concepts=26, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [J4L96ZTQ]: cites=296, refs=154, concepts=20, grants=0, sdgs=1
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [DFVK7NR2]: cites=27, refs=63, concepts=27, grants=0, sdgs=0
+2026-07-24 22:16:49 [WARNING] bibliometrico.openalex: No title match (best=0): Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:16:49 [WARNING] bibliometrico.openalex:   No OpenAlex data: [XT6BBTKW] Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [4I9HTBU4]: cites=1, refs=51, concepts=27, grants=0, sdgs=1
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: Professional competencies in engineering: examining validity
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [NLXE3X6S]: cites=75, refs=49, concepts=20, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [YE4TP358]: cites=1, refs=0, concepts=10, grants=0, sdgs=1
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: Developing and validating a tool for assessing the apprentic
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: DUAL PERSPECTIVE STUDY OF GRIT AND ENGINEERING MINDSET USING
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [HX8CUXK4]: cites=10, refs=28, concepts=4, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [FMII7TUT]: cites=7, refs=9, concepts=18, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [XHXW8PNL]: cites=26, refs=51, concepts=37, grants=0, sdgs=0
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: A measure of affect toward key elements of engineering profe
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [DYIXSFV6]: cites=7, refs=87, concepts=25, grants=0, sdgs=1
+2026-07-24 22:16:49 [WARNING] bibliometrico.openalex: No title match (best=0): Developing and validating a tool for assessing the apprentic
+2026-07-24 22:16:49 [WARNING] bibliometrico.openalex:   No OpenAlex data: [9CXV3IJ6] Developing and validating a tool for assessing the apprentic
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: Examining Validity of General Self-Efficacy Scale for Assess
+2026-07-24 22:16:49 [WARNING] bibliometrico.openalex: No title match (best=0): DUAL PERSPECTIVE STUDY OF GRIT AND ENGINEERING MINDSET USING
+2026-07-24 22:16:49 [WARNING] bibliometrico.openalex:   No OpenAlex data: [PH5ZR5GA] DUAL PERSPECTIVE STUDY OF GRIT AND ENGINEERING MINDSET USING
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: Title match (score=99.49238578680203): Professional competencies in engineering: examining validity
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [KI4LCCHP]: cites=7, refs=58, concepts=16, grants=0, sdgs=0
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: WIP: Pilot study of an engineering education focused problem
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [Y27Q6N9A]: cites=15, refs=15, concepts=14, grants=0, sdgs=0
+2026-07-24 22:16:49 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: DOI not found, trying title: Assessing Civil Engineering Students Perceptions of Their Pr
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: Title match (score=100.0): A measure of affect toward key elements of engineering profe
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [FY6V7BET]: cites=12, refs=27, concepts=9, grants=0, sdgs=0
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [DCSSFS2C]: cites=1, refs=47, concepts=17, grants=0, sdgs=1
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex: Title match (score=98.98989898989899): Examining Validity of General Self-Efficacy Scale for Assess
+2026-07-24 22:16:49 [INFO] bibliometrico.openalex:   Enriched [LLIXIBSQ]: cites=5, refs=0, concepts=15, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [WWJJIDI6]: cites=0, refs=52, concepts=24, grants=0, sdgs=1
+2026-07-24 22:16:50 [WARNING] bibliometrico.openalex: No title match (best=0): WIP: Pilot study of an engineering education focused problem
+2026-07-24 22:16:50 [WARNING] bibliometrico.openalex:   No OpenAlex data: [BQS3WMHF] WIP: Pilot study of an engineering education focused problem
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [B7B4X2WE]: cites=12, refs=66, concepts=15, grants=0, sdgs=0
+2026-07-24 22:16:50 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: DOI not found, trying title: Psychometric Properties and Stability of the Student Attitud
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [G3EUY2C2]: cites=6, refs=88, concepts=9, grants=0, sdgs=0
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: Title match (score=100.0): Assessing Civil Engineering Students Perceptions of Their Pr
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [XQ7RZDGG]: cites=2, refs=0, concepts=18, grants=0, sdgs=1
+2026-07-24 22:16:50 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: DOI not found, trying title: Innovation self-efficacy: A very brief measure for engineeri
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [FL269LXE]: cites=64, refs=54, concepts=17, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [VSFBSRZB]: cites=48, refs=50, concepts=9, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [QAJGLZ2K]: cites=5, refs=45, concepts=8, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [UAN7XVF9]: cites=0, refs=34, concepts=22, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: Title match (score=100.0): Psychometric Properties and Stability of the Student Attitud
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [3R39PUCS]: cites=5, refs=0, concepts=25, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [3TLQFJEJ]: cites=0, refs=0, concepts=10, grants=0, sdgs=0
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [SFEN9MC6]: cites=15, refs=19, concepts=17, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: Title match (score=100.0): Innovation self-efficacy: A very brief measure for engineeri
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [FUDIEQYR]: cites=45, refs=55, concepts=26, grants=0, sdgs=1
+2026-07-24 22:16:50 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: DOI not found, trying title: A Competency Model for Process Dynamics and Control and Its 
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [IUF35Z2I]: cites=6, refs=9, concepts=16, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [5EXQUZSR]: cites=0, refs=0, concepts=10, grants=0, sdgs=0
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [BQHZYQEC]: cites=12, refs=13, concepts=5, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [QKJ5DVTR]: cites=4, refs=41, concepts=13, grants=0, sdgs=0
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [K7MJBLUQ]: cites=0, refs=66, concepts=21, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [WHKSKTII]: cites=4, refs=25, concepts=13, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [TW2V2FRX]: cites=0, refs=22, concepts=21, grants=0, sdgs=1
+2026-07-24 22:16:50 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: DOI not found, trying title: Model-building in engineering education
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: Title match (score=99.52606635071089): A Competency Model for Process Dynamics and Control and Its 
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [PJNV7WSV]: cites=5, refs=25, concepts=33, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [7Y29KIN3]: cites=8, refs=42, concepts=23, grants=0, sdgs=0
+2026-07-24 22:16:50 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: DOI not found, trying title: Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [BYNGELF4]: cites=4, refs=32, concepts=15, grants=0, sdgs=0
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [LQ8RTKIQ]: cites=0, refs=46, concepts=24, grants=0, sdgs=0
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [W6H25QK5]: cites=2, refs=3, concepts=14, grants=0, sdgs=1
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [9HKCQKDT]: cites=0, refs=16, concepts=25, grants=0, sdgs=1
+2026-07-24 22:16:50 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex: DOI not found, trying title: Development of the leadership self-efficacy scale for engine
+2026-07-24 22:16:50 [WARNING] bibliometrico.openalex: No title match (best=53.333333333333336): Model-building in engineering education
+2026-07-24 22:16:50 [WARNING] bibliometrico.openalex:   No OpenAlex data: [IVLUCNC3] Model-building in engineering education
+2026-07-24 22:16:50 [INFO] bibliometrico.openalex:   Enriched [JZEJCTN6]: cites=52, refs=64, concepts=23, grants=0, sdgs=1
+2026-07-24 22:16:51 [WARNING] bibliometrico.openalex: No title match (best=0): Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:16:51 [WARNING] bibliometrico.openalex:   No OpenAlex data: [C3YQG2PI] Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:16:51 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: DOI not found, trying title: Validating a short form writing attitudes survey for enginee
+2026-07-24 22:16:51 [WARNING] bibliometrico: Request failed for https://api.openalex.org/works/https://doi.org/nan: 404 Client Error: Not Found for url: https://api.openalex.org/works/https://doi.org/nan?api_key=4bBtW6PgMiCBUtJNuHLRoK
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: DOI not found, trying title: Measuring Biomedical Engineers' Self-Efficacy in Generating 
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: Title match (score=100.0): Validating a short form writing attitudes survey for enginee
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex:   Enriched [6SNWQJMW]: cites=7, refs=38, concepts=15, grants=0, sdgs=1
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: Title match (score=100.0): Development of the leadership self-efficacy scale for engine
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex:   Enriched [6ATWRP3C]: cites=1, refs=14, concepts=23, grants=0, sdgs=0
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: Title match (score=99.06542056074767): Measuring Biomedical Engineers' Self-Efficacy in Generating 
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex:   Enriched [95PYDLRQ]: cites=0, refs=8, concepts=3, grants=0, sdgs=1
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: Enriquecidos: 86/96
+2026-07-24 22:16:51 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: Checkpoint guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:16:51 [INFO] bibliometrico.openalex: Total referencias: 2851, Unicas: 2343
+2026-07-24 22:16:51 [INFO] bibliometrico.crossref: === FASE 1b: Enriquecimiento Crossref ===
+2026-07-24 22:16:51 [INFO] bibliometrico.crossref:   Crossref [PP8YRX22]: funders=0, orcids=0, refs=10
+2026-07-24 22:16:51 [INFO] bibliometrico.crossref:   Crossref [WE7WVA4B]: funders=0, orcids=2, refs=23
+2026-07-24 22:16:51 [INFO] bibliometrico.crossref:   Crossref [RGASR6Q5]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:51 [INFO] bibliometrico.crossref:   Crossref [ECTTSUXE]: funders=0, orcids=0, refs=6
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref:   Crossref [GMEMS46N]: funders=0, orcids=2, refs=54
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref:   Crossref [LPJSUJ9V]: funders=0, orcids=1, refs=75
+2026-07-24 22:16:52 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Analysis of learning outcomes of Civil Engineering students 
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref:   Crossref [9HGRHX6A]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:52 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Development of a Questionnaire to Measure Students' Attitude
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref:   Crossref [PD6ENBV2]: funders=1, orcids=1, refs=64
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref:   Crossref [NKWQH4PB]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:52 [INFO] bibliometrico.crossref:   Crossref [Y4ZKXXH4]: funders=0, orcids=0, refs=41
+2026-07-24 22:16:53 [INFO] bibliometrico.crossref:   Crossref [AIPHQE23]: funders=1, orcids=1, refs=48
+2026-07-24 22:16:53 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:53 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: A quantitative pilot study of engineering graduate student i
+2026-07-24 22:16:53 [INFO] bibliometrico.crossref:   Crossref [W2PMJWMT]: funders=2, orcids=2, refs=43
+2026-07-24 22:16:53 [INFO] bibliometrico.crossref:   Crossref [SL7257LZ]: funders=1, orcids=3, refs=41
+2026-07-24 22:16:53 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:53 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Applying the computing professional skills assessment method
+2026-07-24 22:16:53 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:53 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Exploring the relationships between resilience and student p
+2026-07-24 22:16:55 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Do they understand your language? Assess their fluency with 
+2026-07-24 22:16:55 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Development and Application of a Questionnaire to Measure St
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref: Title match (score=100.0): A quantitative pilot study of engineering graduate student i
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref:   Crossref [PVT4UE9C]: funders=0, orcids=1, refs=0
+2026-07-24 22:16:55 [WARNING] bibliometrico.crossref: No title match (best=0): Applying the computing professional skills assessment method
+2026-07-24 22:16:55 [WARNING] bibliometrico.crossref:   No Crossref data: [CU9IWP4L] Applying the computing professional skills assessment method
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref: Title match (score=100.0): Development and Application of a Questionnaire to Measure St
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref:   Crossref [JKK5M2EG]: funders=0, orcids=0, refs=8
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref:   Crossref [EPIKGTEL]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref:   Crossref [PNGM9L8J]: funders=0, orcids=0, refs=22
+2026-07-24 22:16:55 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Research Competences in University Training
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref:   Crossref [DNK3JI3N]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:55 [INFO] bibliometrico.crossref:   Crossref [GSUNVIP6]: funders=0, orcids=0, refs=21
+2026-07-24 22:16:56 [INFO] bibliometrico.crossref:   Crossref [B4EBYEKF]: funders=1, orcids=0, refs=52
+2026-07-24 22:16:56 [WARNING] bibliometrico.crossref: No title match (best=48.484848484848484): Research Competences in University Training
+2026-07-24 22:16:56 [WARNING] bibliometrico.crossref:   No Crossref data: [84K6T4E3] Research Competences in University Training
+2026-07-24 22:16:56 [INFO] bibliometrico.crossref:   Crossref [ZLBRXPDA]: funders=0, orcids=3, refs=71
+2026-07-24 22:16:56 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:56 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:16:56 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=Analysis+of+learning+outcomes+of+Civil+Engineering+students+of+Kerala+state+using+dimension+reduction+Techniques&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:16:56 [WARNING] bibliometrico.crossref:   No Crossref data: [QU82N8PC] Analysis of learning outcomes of Civil Engineering students 
+2026-07-24 22:16:56 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:56 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Assessing reflective thinking in solving design problems: Th
+2026-07-24 22:16:56 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=Development+of+a+Questionnaire+to+Measure+Students%27+Attitudes+and+Perceptions+of+Sociotechnical+Engineering&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:16:56 [WARNING] bibliometrico.crossref:   No Crossref data: [KU4TN5MB] Development of a Questionnaire to Measure Students' Attitude
+2026-07-24 22:16:56 [INFO] bibliometrico.crossref:   Crossref [J8H6TD8Q]: funders=0, orcids=0, refs=27
+2026-07-24 22:16:56 [INFO] bibliometrico.crossref:   Crossref [UQVRIPCY]: funders=0, orcids=1, refs=0
+2026-07-24 22:16:56 [WARNING] bibliometrico.crossref: No title match (best=58.62068965517242): DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:16:56 [WARNING] bibliometrico.crossref:   No Crossref data: [2IGUA9SF] DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:16:57 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Motivational attitudes and behaviors in capstone projects: Q
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref:   Crossref [LHGYXXJG]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref:   Crossref [Z4ICDXEQ]: funders=4, orcids=0, refs=37
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref:   Crossref [PYM3MQNK]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref:   Crossref [49BIH9AZ]: funders=0, orcids=1, refs=0
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref: Title match (score=100.0): Exploring the relationships between resilience and student p
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref:   Crossref [I9QV6W8G]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref:   Crossref [CJPX792Z]: funders=0, orcids=1, refs=20
+2026-07-24 22:16:57 [INFO] bibliometrico.crossref:   Crossref [IV425BDL]: funders=0, orcids=3, refs=47
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref:   Crossref [U374P6MT]: funders=0, orcids=0, refs=0
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref:   Crossref [Y345N2W5]: funders=0, orcids=1, refs=0
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref:   Crossref [K9E5C83P]: funders=0, orcids=4, refs=37
+2026-07-24 22:16:58 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref:   Crossref [6XVSWITA]: funders=0, orcids=2, refs=69
+2026-07-24 22:16:58 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=Do+they+understand+your+language%3F+Assess+their+fluency+with+vector+representations&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:16:58 [WARNING] bibliometrico.crossref:   No Crossref data: [AKZVTZER] Do they understand your language? Assess their fluency with 
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref:   Crossref [I9G3834N]: funders=1, orcids=2, refs=83
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref:   Crossref [IQD3WXLQ]: funders=0, orcids=0, refs=15
+2026-07-24 22:16:58 [INFO] bibliometrico.crossref:   Crossref [DFVK7NR2]: funders=0, orcids=2, refs=72
+2026-07-24 22:16:59 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:16:59 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Evaluation Model of Student Competencies for Discussion Foru
+2026-07-24 22:16:59 [INFO] bibliometrico.crossref:   Crossref [J4L96ZTQ]: funders=2, orcids=0, refs=84
+2026-07-24 22:16:59 [INFO] bibliometrico.crossref:   Crossref [4I9HTBU4]: funders=0, orcids=2, refs=61
+2026-07-24 22:16:59 [INFO] bibliometrico.crossref:   Crossref [NLXE3X6S]: funders=0, orcids=0, refs=55
+2026-07-24 22:16:59 [WARNING] bibliometrico.crossref: No title match (best=44.85294117647059): Evaluation Model of Student Competencies for Discussion Foru
+2026-07-24 22:16:59 [WARNING] bibliometrico.crossref:   No Crossref data: [A3WRUNHT] Evaluation Model of Student Competencies for Discussion Foru
+2026-07-24 22:16:59 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/10.4473/tpm24.4.2: 404 Client Error: Not Found for url: https://api.crossref.org/works/10.4473/tpm24.4.2
+2026-07-24 22:16:59 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Using the gage R&R method to evaluate the reliability and as
+2026-07-24 22:17:00 [WARNING] bibliometrico.crossref: No title match (best=55.793991416309005): Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:17:00 [WARNING] bibliometrico.crossref:   No Crossref data: [XT6BBTKW] Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:17:00 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=Assessing+reflective+thinking+in+solving+design+problems%3A+The+development+of+a+questionnaire.&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:00 [WARNING] bibliometrico.crossref: No title match (best=0): Using the gage R&R method to evaluate the reliability and as
+2026-07-24 22:17:00 [WARNING] bibliometrico.crossref:   No Crossref data: [RUGB95IU] Assessing reflective thinking in solving design problems: Th
+2026-07-24 22:17:00 [WARNING] bibliometrico.crossref:   No Crossref data: [YE4TP358] Using the gage R&R method to evaluate the reliability and as
+2026-07-24 22:17:00 [INFO] bibliometrico.crossref:   Crossref [HX8CUXK4]: funders=0, orcids=0, refs=29
+2026-07-24 22:17:00 [INFO] bibliometrico.crossref:   Crossref [XHXW8PNL]: funders=0, orcids=5, refs=55
+2026-07-24 22:17:00 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:00 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Validity Evidence for the General Engineering Self-Efficacy 
+2026-07-24 22:17:00 [INFO] bibliometrico.crossref:   Crossref [FMII7TUT]: funders=0, orcids=0, refs=17
+2026-07-24 22:17:00 [INFO] bibliometrico.crossref:   Crossref [DYIXSFV6]: funders=0, orcids=4, refs=85
+2026-07-24 22:17:00 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=Motivational+attitudes+and+behaviors+in+capstone+projects%3A+Quantitative+validation+of+assessment+instruments&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:00 [WARNING] bibliometrico.crossref:   No Crossref data: [CY59SPDS] Motivational attitudes and behaviors in capstone projects: Q
+2026-07-24 22:17:01 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:01 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Examining the Engineering Self-Efficacy, Design Self-Efficac
+2026-07-24 22:17:01 [INFO] bibliometrico.crossref:   Crossref [Y27Q6N9A]: funders=0, orcids=0, refs=29
+2026-07-24 22:17:01 [INFO] bibliometrico.crossref: Title match (score=100.0): Validity Evidence for the General Engineering Self-Efficacy 
+2026-07-24 22:17:01 [INFO] bibliometrico.crossref:   Crossref [2DDA52FC]: funders=0, orcids=0, refs=0
+2026-07-24 22:17:01 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:01 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Assessing Civil Engineering Students Perceptions of Their Pr
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref: Title match (score=100.0): Examining the Engineering Self-Efficacy, Design Self-Efficac
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref:   Crossref [VG98XEQP]: funders=0, orcids=2, refs=0
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref:   Crossref [DCSSFS2C]: funders=0, orcids=0, refs=70
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref:   Crossref [WWJJIDI6]: funders=1, orcids=0, refs=62
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref:   Crossref [B7B4X2WE]: funders=0, orcids=3, refs=67
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref:   Crossref [G3EUY2C2]: funders=0, orcids=5, refs=89
+2026-07-24 22:17:02 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Psychometric Properties and Stability of the Student Attitud
+2026-07-24 22:17:02 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:02 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Developing and validating a tool for assessing the apprentic
+2026-07-24 22:17:02 [WARNING] bibliometrico.crossref: No title match (best=40.49586776859504): Psychometric Properties and Stability of the Student Attitud
+2026-07-24 22:17:02 [WARNING] bibliometrico.crossref:   No Crossref data: [3R39PUCS] Psychometric Properties and Stability of the Student Attitud
+2026-07-24 22:17:03 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Professional competencies in engineering: examining validity
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref:   Crossref [FL269LXE]: funders=0, orcids=0, refs=59
+2026-07-24 22:17:03 [WARNING] bibliometrico.crossref: No title match (best=54.27509293680297): Developing and validating a tool for assessing the apprentic
+2026-07-24 22:17:03 [WARNING] bibliometrico.crossref:   No Crossref data: [9CXV3IJ6] Developing and validating a tool for assessing the apprentic
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref:   Crossref [VSFBSRZB]: funders=4, orcids=1, refs=54
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref: Title match (score=99.49238578680203): Professional competencies in engineering: examining validity
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref:   Crossref [KI4LCCHP]: funders=0, orcids=1, refs=62
+2026-07-24 22:17:03 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: DUAL PERSPECTIVE STUDY OF GRIT AND ENGINEERING MINDSET USING
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref:   Crossref [QAJGLZ2K]: funders=0, orcids=0, refs=49
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref:   Crossref [UAN7XVF9]: funders=0, orcids=4, refs=40
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref:   Crossref [SFEN9MC6]: funders=1, orcids=0, refs=21
+2026-07-24 22:17:03 [INFO] bibliometrico.crossref:   Crossref [3TLQFJEJ]: funders=0, orcids=2, refs=0
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref:   Crossref [IUF35Z2I]: funders=0, orcids=0, refs=17
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref:   Crossref [5EXQUZSR]: funders=0, orcids=0, refs=0
+2026-07-24 22:17:04 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: A measure of affect toward key elements of engineering profe
+2026-07-24 22:17:04 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Examining Validity of General Self-Efficacy Scale for Assess
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref:   Crossref [BQHZYQEC]: funders=0, orcids=0, refs=20
+2026-07-24 22:17:04 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: WIP: Pilot study of an engineering education focused problem
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref:   Crossref [QKJ5DVTR]: funders=0, orcids=1, refs=50
+2026-07-24 22:17:04 [INFO] bibliometrico.crossref:   Crossref [K7MJBLUQ]: funders=0, orcids=3, refs=83
+2026-07-24 22:17:05 [INFO] bibliometrico.crossref:   Crossref [WHKSKTII]: funders=0, orcids=0, refs=23
+2026-07-24 22:17:05 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=Assessing+Civil+Engineering+Students+Perceptions+of+Their+Problem+Solving+Ability&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:05 [WARNING] bibliometrico.crossref:   No Crossref data: [XQ7RZDGG] Assessing Civil Engineering Students Perceptions of Their Pr
+2026-07-24 22:17:05 [INFO] bibliometrico.crossref:   Crossref [TW2V2FRX]: funders=0, orcids=0, refs=0
+2026-07-24 22:17:05 [INFO] bibliometrico.crossref:   Crossref [7Y29KIN3]: funders=1, orcids=3, refs=49
+2026-07-24 22:17:05 [INFO] bibliometrico.crossref:   Crossref [BYNGELF4]: funders=0, orcids=0, refs=0
+2026-07-24 22:17:05 [INFO] bibliometrico.crossref: Title match (score=100.0): A measure of affect toward key elements of engineering profe
+2026-07-24 22:17:05 [INFO] bibliometrico.crossref:   Crossref [FY6V7BET]: funders=0, orcids=1, refs=0
+2026-07-24 22:17:06 [INFO] bibliometrico.crossref:   Crossref [LQ8RTKIQ]: funders=1, orcids=1, refs=64
+2026-07-24 22:17:06 [INFO] bibliometrico.crossref:   Crossref [W6H25QK5]: funders=0, orcids=0, refs=8
+2026-07-24 22:17:06 [INFO] bibliometrico.crossref:   Crossref [9HKCQKDT]: funders=0, orcids=0, refs=19
+2026-07-24 22:17:06 [INFO] bibliometrico.crossref:   Crossref [JZEJCTN6]: funders=0, orcids=0, refs=68
+2026-07-24 22:17:06 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:06 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Development of the leadership self-efficacy scale for engine
+2026-07-24 22:17:06 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:06 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Innovation self-efficacy: A very brief measure for engineeri
+2026-07-24 22:17:06 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:06 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:17:07 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=DUAL+PERSPECTIVE+STUDY+OF+GRIT+AND+ENGINEERING+MINDSET+USING+PSYCHOMETRIC+MODELS.&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:07 [WARNING] bibliometrico.crossref:   No Crossref data: [PH5ZR5GA] DUAL PERSPECTIVE STUDY OF GRIT AND ENGINEERING MINDSET USING
+2026-07-24 22:17:07 [WARNING] bibliometrico.crossref: No title match (best=49.13793103448276): Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:17:07 [WARNING] bibliometrico.crossref:   No Crossref data: [C3YQG2PI] Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:17:07 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:07 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Measuring Biomedical Engineers' Self-Efficacy in Generating 
+2026-07-24 22:17:07 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:07 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: A Competency Model for Process Dynamics and Control and Its 
+2026-07-24 22:17:07 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=Examining+Validity+of+General+Self-Efficacy+Scale+for+Assessing+Engineering+Students%27+Self-Efficacy&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:07 [WARNING] bibliometrico.crossref:   No Crossref data: [LLIXIBSQ] Examining Validity of General Self-Efficacy Scale for Assess
+2026-07-24 22:17:08 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works?query.bibliographic=WIP%3A+Pilot+study+of+an+engineering+education+focused+problem-solving+inventory+using+civil+engineering+undergraduate+students&rows=5 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:08 [WARNING] bibliometrico.crossref:   No Crossref data: [BQS3WMHF] WIP: Pilot study of an engineering education focused problem
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref: Title match (score=99.52606635071089): A Competency Model for Process Dynamics and Control and Its 
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref:   Crossref [PJNV7WSV]: funders=0, orcids=0, refs=24
+2026-07-24 22:17:08 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: 404 Client Error: Not Found for url: https://api.crossref.org/works/nan
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Validating a short form writing attitudes survey for enginee
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref: Title match (score=100.0): Innovation self-efficacy: A very brief measure for engineeri
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref:   Crossref [FUDIEQYR]: funders=0, orcids=0, refs=68
+2026-07-24 22:17:08 [WARNING] bibliometrico: Request failed for https://api.crossref.org/works/nan: HTTPSConnectionPool(host='api.crossref.org', port=443): Max retries exceeded with url: /works/nan (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref: DOI not found in Crossref, trying title: Model-building in engineering education
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref: Title match (score=100.0): Validating a short form writing attitudes survey for enginee
+2026-07-24 22:17:08 [INFO] bibliometrico.crossref:   Crossref [6SNWQJMW]: funders=0, orcids=3, refs=0
+2026-07-24 22:17:10 [INFO] bibliometrico.crossref: Title match (score=100.0): Development of the leadership self-efficacy scale for engine
+2026-07-24 22:17:10 [INFO] bibliometrico.crossref:   Crossref [6ATWRP3C]: funders=0, orcids=1, refs=0
+2026-07-24 22:17:10 [INFO] bibliometrico.crossref: Title match (score=87.64044943820225): Model-building in engineering education
+2026-07-24 22:17:10 [INFO] bibliometrico.crossref:   Crossref [IVLUCNC3]: funders=0, orcids=0, refs=0
+2026-07-24 22:17:11 [INFO] bibliometrico.crossref: Title match (score=99.06542056074767): Measuring Biomedical Engineers' Self-Efficacy in Generating 
+2026-07-24 22:17:11 [INFO] bibliometrico.crossref:   Crossref [95PYDLRQ]: funders=0, orcids=2, refs=12
+2026-07-24 22:17:11 [INFO] bibliometrico.crossref: Enriquecidos via Crossref: 78/96
+2026-07-24 22:17:11 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:17:11 [INFO] bibliometrico.crossref: Checkpoint guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:17:11 [INFO] bibliometrico.crossref:   Con funders: 13
+2026-07-24 22:17:11 [INFO] bibliometrico.crossref:   Con ORCIDs: 36
+2026-07-24 22:17:11 [INFO] bibliometrico.crossref:   Referencias detalladas: 2479 (con DOI: 1630)
+2026-07-24 22:17:11 [INFO] bibliometrico.semantic_scholar: === FASE 1c: Enriquecimiento Semantic Scholar ===
+2026-07-24 22:17:11 [INFO] bibliometrico.semantic_scholar: Using Semantic Scholar API key
+2026-07-24 22:17:14 [INFO] bibliometrico.semantic_scholar:   S2 [PP8YRX22]: tldr=no, embed=no, intents=0, venue=yes
+2026-07-24 22:17:16 [INFO] bibliometrico.semantic_scholar:   S2 [WE7WVA4B]: tldr=no, embed=yes, intents=0, venue=no
+2026-07-24 22:17:18 [INFO] bibliometrico.semantic_scholar:   S2 [ECTTSUXE]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:17:20 [INFO] bibliometrico.semantic_scholar:   S2 [LPJSUJ9V]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:17:24 [INFO] bibliometrico.semantic_scholar:   S2 [RGASR6Q5]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:17:27 [INFO] bibliometrico.semantic_scholar:   S2 [GMEMS46N]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:17:27 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:17:27 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Analysis of learning outcomes of Civil Engineering students 
+2026-07-24 22:17:29 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Analysis of learning outcomes of Civil Engineering students 
+2026-07-24 22:17:30 [INFO] bibliometrico.semantic_scholar:   S2 [QU82N8PC]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:17:32 [INFO] bibliometrico.semantic_scholar:   S2 [9HGRHX6A]: tldr=no, embed=no, intents=0, venue=yes
+2026-07-24 22:17:33 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:17:33 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Development of a Questionnaire to Measure Students' Attitude
+2026-07-24 22:17:35 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Development of a Questionnaire to Measure Students' Attitude
+2026-07-24 22:17:36 [INFO] bibliometrico.semantic_scholar:   S2 [KU4TN5MB]: tldr=no, embed=no, intents=0, venue=no
+2026-07-24 22:17:38 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:17:38 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Research Competences in University Training
+2026-07-24 22:17:40 [WARNING] bibliometrico.semantic_scholar: No title match (best=70.58823529411764): Research Competences in University Training
+2026-07-24 22:17:40 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [84K6T4E3] Research Competences in University Training
+2026-07-24 22:17:41 [INFO] bibliometrico.semantic_scholar:   S2 [PD6ENBV2]: tldr=no, embed=yes, intents=1, venue=yes
+2026-07-24 22:17:42 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:17:42 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Exploring the relationships between resilience and student p
+2026-07-24 22:17:43 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Exploring the relationships between resilience and student p
+2026-07-24 22:17:45 [INFO] bibliometrico.semantic_scholar:   S2 [I9QV6W8G]: tldr=no, embed=no, intents=2, venue=no
+2026-07-24 22:17:48 [INFO] bibliometrico.semantic_scholar:   S2 [NKWQH4PB]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:17:52 [INFO] bibliometrico.semantic_scholar:   S2 [Y4ZKXXH4]: tldr=no, embed=yes, intents=2, venue=yes
+2026-07-24 22:17:53 [INFO] bibliometrico.semantic_scholar:   S2 [AIPHQE23]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:17:54 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:17:54 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: A quantitative pilot study of engineering graduate student i
+2026-07-24 22:17:55 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): A quantitative pilot study of engineering graduate student i
+2026-07-24 22:17:58 [INFO] bibliometrico.semantic_scholar:   S2 [PVT4UE9C]: tldr=no, embed=yes, intents=8, venue=no
+2026-07-24 22:17:59 [INFO] bibliometrico.semantic_scholar:   S2 [W2PMJWMT]: tldr=no, embed=no, intents=15, venue=yes
+2026-07-24 22:18:01 [INFO] bibliometrico.semantic_scholar:   S2 [SL7257LZ]: tldr=no, embed=yes, intents=7, venue=yes
+2026-07-24 22:18:03 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:03 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Applying the computing professional skills assessment method
+2026-07-24 22:18:03 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [CU9IWP4L] Applying the computing professional skills assessment method
+2026-07-24 22:18:04 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:04 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Do they understand your language? Assess their fluency with 
+2026-07-24 22:18:05 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [AKZVTZER] Do they understand your language? Assess their fluency with 
+2026-07-24 22:18:07 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:07 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Development and Application of a Questionnaire to Measure St
+2026-07-24 22:18:08 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Development and Application of a Questionnaire to Measure St
+2026-07-24 22:18:11 [INFO] bibliometrico.semantic_scholar:   S2 [JKK5M2EG]: tldr=no, embed=yes, intents=3, venue=no
+2026-07-24 22:18:13 [INFO] bibliometrico.semantic_scholar:   S2 [PNGM9L8J]: tldr=no, embed=yes, intents=3, venue=yes
+2026-07-24 22:18:16 [INFO] bibliometrico.semantic_scholar:   S2 [EPIKGTEL]: tldr=yes, embed=yes, intents=0, venue=yes
+2026-07-24 22:18:16 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:16 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Evaluation Model of Student Competencies for Discussion Foru
+2026-07-24 22:18:18 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Evaluation Model of Student Competencies for Discussion Foru
+2026-07-24 22:18:20 [INFO] bibliometrico.semantic_scholar:   S2 [A3WRUNHT]: tldr=no, embed=no, intents=2, venue=no
+2026-07-24 22:18:24 [INFO] bibliometrico.semantic_scholar:   S2 [DNK3JI3N]: tldr=yes, embed=yes, intents=13, venue=yes
+2026-07-24 22:18:27 [INFO] bibliometrico.semantic_scholar:   S2 [GSUNVIP6]: tldr=no, embed=no, intents=4, venue=no
+2026-07-24 22:18:33 [INFO] bibliometrico.semantic_scholar:   S2 [B4EBYEKF]: tldr=no, embed=yes, intents=3, venue=no
+2026-07-24 22:18:35 [INFO] bibliometrico.semantic_scholar:   S2 [ZLBRXPDA]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:18:36 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:36 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:18:38 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [2IGUA9SF] DESIGNING A TOOL TO MEASURE INNOVATION COMPETENCE SELF-PERCE
+2026-07-24 22:18:38 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:38 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Assessing reflective thinking in solving design problems: Th
+2026-07-24 22:18:40 [INFO] bibliometrico.semantic_scholar: Title match (score=99.45945945945947): Assessing reflective thinking in solving design problems: Th
+2026-07-24 22:18:42 [INFO] bibliometrico.semantic_scholar:   S2 [RUGB95IU]: tldr=yes, embed=no, intents=13, venue=yes
+2026-07-24 22:18:44 [INFO] bibliometrico.semantic_scholar:   S2 [J8H6TD8Q]: tldr=no, embed=no, intents=9, venue=yes
+2026-07-24 22:18:45 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:10.18260/1-2--33117: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.18260/1-2--33117?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:45 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Modifying the VALUE Rubrics to Assess the Entrepreneurial Mi
+2026-07-24 22:18:46 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [UQVRIPCY] Modifying the VALUE Rubrics to Assess the Entrepreneurial Mi
+2026-07-24 22:18:47 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:47 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Motivational attitudes and behaviors in capstone projects: Q
+2026-07-24 22:18:48 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [CY59SPDS] Motivational attitudes and behaviors in capstone projects: Q
+2026-07-24 22:18:50 [INFO] bibliometrico.semantic_scholar:   S2 [LHGYXXJG]: tldr=no, embed=yes, intents=8, venue=yes
+2026-07-24 22:18:52 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:18:52 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Validity Evidence for the General Engineering Self-Efficacy 
+2026-07-24 22:18:52 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Validity Evidence for the General Engineering Self-Efficacy 
+2026-07-24 22:18:54 [INFO] bibliometrico.semantic_scholar:   S2 [2DDA52FC]: tldr=no, embed=no, intents=5, venue=no
+2026-07-24 22:18:57 [INFO] bibliometrico.semantic_scholar:   S2 [Z4ICDXEQ]: tldr=no, embed=yes, intents=0, venue=no
+2026-07-24 22:18:58 [INFO] bibliometrico.semantic_scholar:   S2 [PYM3MQNK]: tldr=no, embed=no, intents=4, venue=no
+2026-07-24 22:19:01 [INFO] bibliometrico.semantic_scholar:   S2 [49BIH9AZ]: tldr=yes, embed=yes, intents=3, venue=yes
+2026-07-24 22:19:02 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:19:02 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Examining the Engineering Self-Efficacy, Design Self-Efficac
+2026-07-24 22:19:03 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Examining the Engineering Self-Efficacy, Design Self-Efficac
+2026-07-24 22:19:07 [INFO] bibliometrico.semantic_scholar:   S2 [VG98XEQP]: tldr=no, embed=no, intents=0, venue=no
+2026-07-24 22:19:13 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/a256940f520d5d3c96ef2a70872199cc9df4a51f/citations: HTTPSConnectionPool(host='api.semanticscholar.org', port=443): Max retries exceeded with url: /graph/v1/paper/a256940f520d5d3c96ef2a70872199cc9df4a51f/citations?fields=intents%2CisInfluential&limit=500 (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:19:13 [INFO] bibliometrico.semantic_scholar:   S2 [CJPX792Z]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:19:18 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:10.53478/yuksekogretim.1466372: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.53478/yuksekogretim.1466372?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:19:18 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Adaptation of the Engineering Professional Responsibility As
+2026-07-24 22:19:21 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [IV425BDL] Adaptation of the Engineering Professional Responsibility As
+2026-07-24 22:19:22 [INFO] bibliometrico.semantic_scholar:   S2 [U374P6MT]: tldr=yes, embed=yes, intents=29, venue=no
+2026-07-24 22:19:24 [INFO] bibliometrico.semantic_scholar:   S2 [Y345N2W5]: tldr=yes, embed=no, intents=2, venue=no
+2026-07-24 22:19:28 [INFO] bibliometrico.semantic_scholar:   S2 [K9E5C83P]: tldr=no, embed=no, intents=0, venue=no
+2026-07-24 22:19:29 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:19:29 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:19:32 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [XT6BBTKW] Validation of the Ambassador Questionnaire for Undergraduate
+2026-07-24 22:19:34 [INFO] bibliometrico.semantic_scholar:   S2 [6XVSWITA]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:19:36 [INFO] bibliometrico.semantic_scholar:   S2 [I9G3834N]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:19:40 [INFO] bibliometrico.semantic_scholar:   S2 [IQD3WXLQ]: tldr=no, embed=yes, intents=0, venue=no
+2026-07-24 22:19:42 [INFO] bibliometrico.semantic_scholar:   S2 [DFVK7NR2]: tldr=no, embed=yes, intents=7, venue=yes
+2026-07-24 22:19:44 [INFO] bibliometrico.semantic_scholar:   S2 [J4L96ZTQ]: tldr=no, embed=yes, intents=100, venue=no
+2026-07-24 22:19:46 [INFO] bibliometrico.semantic_scholar:   S2 [4I9HTBU4]: tldr=no, embed=yes, intents=0, venue=no
+2026-07-24 22:19:48 [INFO] bibliometrico.semantic_scholar:   S2 [NLXE3X6S]: tldr=no, embed=yes, intents=30, venue=no
+2026-07-24 22:19:49 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:19:49 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Developing and validating a tool for assessing the apprentic
+2026-07-24 22:19:52 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Developing and validating a tool for assessing the apprentic
+2026-07-24 22:19:54 [INFO] bibliometrico.semantic_scholar:   S2 [9CXV3IJ6]: tldr=yes, embed=yes, intents=0, venue=no
+2026-07-24 22:19:54 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:10.4473/tpm24.4.2: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:10.4473/tpm24.4.2?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:19:54 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Using the gage R&R method to evaluate the reliability and as
+2026-07-24 22:19:56 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [YE4TP358] Using the gage R&R method to evaluate the reliability and as
+2026-07-24 22:19:57 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:19:57 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Professional competencies in engineering: examining validity
+2026-07-24 22:20:02 [INFO] bibliometrico.semantic_scholar: Title match (score=99.49238578680203): Professional competencies in engineering: examining validity
+2026-07-24 22:20:04 [INFO] bibliometrico.semantic_scholar:   S2 [KI4LCCHP]: tldr=no, embed=yes, intents=3, venue=no
+2026-07-24 22:20:06 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:20:06 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: DUAL PERSPECTIVE STUDY OF GRIT AND ENGINEERING MINDSET USING
+2026-07-24 22:20:06 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [PH5ZR5GA] DUAL PERSPECTIVE STUDY OF GRIT AND ENGINEERING MINDSET USING
+2026-07-24 22:20:08 [INFO] bibliometrico.semantic_scholar:   S2 [HX8CUXK4]: tldr=no, embed=yes, intents=5, venue=no
+2026-07-24 22:20:11 [INFO] bibliometrico.semantic_scholar:   S2 [XHXW8PNL]: tldr=no, embed=yes, intents=4, venue=yes
+2026-07-24 22:20:13 [INFO] bibliometrico.semantic_scholar:   S2 [FMII7TUT]: tldr=no, embed=yes, intents=1, venue=no
+2026-07-24 22:20:15 [INFO] bibliometrico.semantic_scholar:   S2 [DYIXSFV6]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:20:16 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:20:16 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: A measure of affect toward key elements of engineering profe
+2026-07-24 22:20:17 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): A measure of affect toward key elements of engineering profe
+2026-07-24 22:20:19 [INFO] bibliometrico.semantic_scholar:   S2 [FY6V7BET]: tldr=no, embed=yes, intents=10, venue=no
+2026-07-24 22:20:20 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:20:20 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Examining Validity of General Self-Efficacy Scale for Assess
+2026-07-24 22:20:24 [INFO] bibliometrico.semantic_scholar: Title match (score=98.98989898989899): Examining Validity of General Self-Efficacy Scale for Assess
+2026-07-24 22:20:26 [INFO] bibliometrico.semantic_scholar:   S2 [LLIXIBSQ]: tldr=no, embed=no, intents=3, venue=no
+2026-07-24 22:20:28 [INFO] bibliometrico.semantic_scholar:   S2 [Y27Q6N9A]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:20:29 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:20:29 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: WIP: Pilot study of an engineering education focused problem
+2026-07-24 22:20:31 [INFO] bibliometrico.semantic_scholar: Title match (score=88.53754940711462): WIP: Pilot study of an engineering education focused problem
+2026-07-24 22:20:32 [INFO] bibliometrico.semantic_scholar:   S2 [BQS3WMHF]: tldr=no, embed=yes, intents=0, venue=no
+2026-07-24 22:20:33 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:20:33 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Assessing Civil Engineering Students Perceptions of Their Pr
+2026-07-24 22:20:35 [WARNING] bibliometrico.semantic_scholar: No title match (best=46.889952153110045): Assessing Civil Engineering Students Perceptions of Their Pr
+2026-07-24 22:20:35 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [XQ7RZDGG] Assessing Civil Engineering Students Perceptions of Their Pr
+2026-07-24 22:20:36 [INFO] bibliometrico.semantic_scholar:   S2 [DCSSFS2C]: tldr=no, embed=yes, intents=0, venue=no
+2026-07-24 22:20:38 [INFO] bibliometrico.semantic_scholar:   S2 [WWJJIDI6]: tldr=no, embed=yes, intents=0, venue=no
+2026-07-24 22:20:41 [INFO] bibliometrico.semantic_scholar:   S2 [B7B4X2WE]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:20:43 [INFO] bibliometrico.semantic_scholar:   S2 [G3EUY2C2]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:20:43 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:20:43 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Psychometric Properties and Stability of the Student Attitud
+2026-07-24 22:20:45 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Psychometric Properties and Stability of the Student Attitud
+2026-07-24 22:20:47 [INFO] bibliometrico.semantic_scholar:   S2 [3R39PUCS]: tldr=no, embed=no, intents=3, venue=no
+2026-07-24 22:20:48 [INFO] bibliometrico.semantic_scholar:   S2 [FL269LXE]: tldr=no, embed=yes, intents=27, venue=no
+2026-07-24 22:20:54 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.jclepro.2021.126322: HTTPSConnectionPool(host='api.semanticscholar.org', port=443): Max retries exceeded with url: /graph/v1/paper/DOI:10.1016/j.jclepro.2021.126322?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:20:54 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Education for Sustainable Development in Spanish engineering
+2026-07-24 22:20:55 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Education for Sustainable Development in Spanish engineering
+2026-07-24 22:20:57 [INFO] bibliometrico.semantic_scholar:   S2 [VSFBSRZB]: tldr=no, embed=yes, intents=2, venue=yes
+2026-07-24 22:20:58 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:20:58 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Innovation self-efficacy: A very brief measure for engineeri
+2026-07-24 22:20:59 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Innovation self-efficacy: A very brief measure for engineeri
+2026-07-24 22:21:06 [INFO] bibliometrico.semantic_scholar:   S2 [FUDIEQYR]: tldr=no, embed=no, intents=24, venue=no
+2026-07-24 22:21:08 [INFO] bibliometrico.semantic_scholar:   S2 [QAJGLZ2K]: tldr=no, embed=no, intents=2, venue=yes
+2026-07-24 22:21:10 [INFO] bibliometrico.semantic_scholar:   S2 [UAN7XVF9]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:21:14 [INFO] bibliometrico.semantic_scholar:   S2 [SFEN9MC6]: tldr=no, embed=yes, intents=4, venue=no
+2026-07-24 22:21:15 [INFO] bibliometrico.semantic_scholar:   S2 [3TLQFJEJ]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:21:17 [INFO] bibliometrico.semantic_scholar:   S2 [IUF35Z2I]: tldr=no, embed=no, intents=0, venue=no
+2026-07-24 22:21:20 [INFO] bibliometrico.semantic_scholar:   S2 [5EXQUZSR]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:21:21 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:21:21 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: A Competency Model for Process Dynamics and Control and Its 
+2026-07-24 22:21:22 [INFO] bibliometrico.semantic_scholar: Title match (score=99.52606635071089): A Competency Model for Process Dynamics and Control and Its 
+2026-07-24 22:21:24 [INFO] bibliometrico.semantic_scholar:   S2 [PJNV7WSV]: tldr=no, embed=yes, intents=2, venue=no
+2026-07-24 22:21:26 [INFO] bibliometrico.semantic_scholar:   S2 [BQHZYQEC]: tldr=yes, embed=yes, intents=2, venue=yes
+2026-07-24 22:21:28 [INFO] bibliometrico.semantic_scholar:   S2 [QKJ5DVTR]: tldr=no, embed=yes, intents=2, venue=yes
+2026-07-24 22:21:32 [INFO] bibliometrico.semantic_scholar:   S2 [K7MJBLUQ]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:21:34 [INFO] bibliometrico.semantic_scholar:   S2 [WHKSKTII]: tldr=no, embed=no, intents=3, venue=yes
+2026-07-24 22:21:36 [INFO] bibliometrico.semantic_scholar:   S2 [TW2V2FRX]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:21:38 [INFO] bibliometrico.semantic_scholar:   S2 [7Y29KIN3]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:21:40 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:21:40 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Model-building in engineering education
+2026-07-24 22:21:41 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Model-building in engineering education
+2026-07-24 22:21:43 [INFO] bibliometrico.semantic_scholar:   S2 [IVLUCNC3]: tldr=yes, embed=yes, intents=0, venue=no
+2026-07-24 22:21:51 [INFO] bibliometrico.semantic_scholar:   S2 [BYNGELF4]: tldr=no, embed=no, intents=0, venue=no
+2026-07-24 22:21:51 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:21:51 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:21:53 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [C3YQG2PI] Validation of a Senior-Level Chemical Engineering Laboratory
+2026-07-24 22:21:55 [INFO] bibliometrico.semantic_scholar:   S2 [LQ8RTKIQ]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:21:57 [INFO] bibliometrico.semantic_scholar:   S2 [W6H25QK5]: tldr=no, embed=no, intents=1, venue=no
+2026-07-24 22:22:03 [INFO] bibliometrico.semantic_scholar:   S2 [9HKCQKDT]: tldr=no, embed=yes, intents=0, venue=yes
+2026-07-24 22:22:05 [INFO] bibliometrico.semantic_scholar:   S2 [JZEJCTN6]: tldr=no, embed=yes, intents=22, venue=no
+2026-07-24 22:22:06 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:22:06 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Development of the leadership self-efficacy scale for engine
+2026-07-24 22:22:09 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Development of the leadership self-efficacy scale for engine
+2026-07-24 22:22:11 [INFO] bibliometrico.semantic_scholar:   S2 [6ATWRP3C]: tldr=no, embed=no, intents=0, venue=no
+2026-07-24 22:22:12 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:22:12 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Validating a short form writing attitudes survey for enginee
+2026-07-24 22:22:13 [INFO] bibliometrico.semantic_scholar: Title match (score=100.0): Validating a short form writing attitudes survey for enginee
+2026-07-24 22:22:19 [INFO] bibliometrico.semantic_scholar:   S2 [6SNWQJMW]: tldr=no, embed=yes, intents=3, venue=no
+2026-07-24 22:22:22 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/DOI:nan: 404 Client Error: Not Found for url: https://api.semanticscholar.org/graph/v1/paper/DOI:nan?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf
+2026-07-24 22:22:22 [INFO] bibliometrico.semantic_scholar: DOI not found in S2, trying title: Measuring Biomedical Engineers' Self-Efficacy in Generating 
+2026-07-24 22:22:23 [INFO] bibliometrico.semantic_scholar: Title match (score=99.06542056074767): Measuring Biomedical Engineers' Self-Efficacy in Generating 
+2026-07-24 22:22:27 [WARNING] bibliometrico: Request failed for https://api.semanticscholar.org/graph/v1/paper/adf4e87b700111d2d167d32151685a2a41831b51: HTTPSConnectionPool(host='api.semanticscholar.org', port=443): Max retries exceeded with url: /graph/v1/paper/adf4e87b700111d2d167d32151685a2a41831b51?fields=paperId%2CexternalIds%2Ctitle%2Cabstract%2CcitationCount%2CinfluentialCitationCount%2Ctldr%2Cembedding%2Cs2FieldsOfStudy%2CcitationStyles%2CpublicationVenue%2CisOpenAccess%2CopenAccessPdf (Caused by ResponseError('too many 429 error responses'))
+2026-07-24 22:22:27 [WARNING] bibliometrico.semantic_scholar:   No S2 data: [95PYDLRQ] Measuring Biomedical Engineers' Self-Efficacy in Generating 
+2026-07-24 22:22:27 [INFO] bibliometrico.semantic_scholar: Enriquecidos via S2: 83/96
+2026-07-24 22:22:28 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:22:28 [INFO] bibliometrico.semantic_scholar: Checkpoint guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:22:28 [INFO] bibliometrico.semantic_scholar:   Con TLDR: 9
+2026-07-24 22:22:28 [INFO] bibliometrico.semantic_scholar:   Con embeddings: 60
+2026-07-24 22:22:28 [INFO] bibliometrico.semantic_scholar:   Con citation intents: 42
+2026-07-24 22:22:28 [INFO] bibliometrico.openalex_meta: === FASE 1d: Enriquecimiento OpenAlex Meta (Sources + Authors) ===
+2026-07-24 22:22:28 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.47772/ijriss.2026.100400021 -> International Journal of Research and Innovation i
+2026-07-24 22:22:33 [INFO] bibliometrico.openalex_meta: Fuente por nombre (score=100): 2019 ASEE Annual Conference & Exposition Proceedin -> 2019 ASEE Annual Conference & Exposition Proceedin
+2026-07-24 22:22:35 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.17275/per.14.02.1.1 -> Participatory Educational Research
+2026-07-24 22:22:37 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.1088/1742-6596/1160/1/012025 -> Journal of Physics Conference Series
+2026-07-24 22:22:40 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.1109/fie.2018.8659226 -> Rose-Hulman Scholar (Rose–Hulman Institute of Tech
+2026-07-24 22:22:41 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.1063/1.4965777 -> AIP conference proceedings
+2026-07-24 22:22:42 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.3991/ijep.v16i4.59871 -> International Journal of Engineering Pedagogy (iJE
+2026-07-24 22:22:42 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.1007/978-3-030-31343-2_52 -> Lecture notes in mechanical engineering
+2026-07-24 22:22:42 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.1109/fie.2017.8190616 -> Purdue e-Pubs (Purdue University System)
+2026-07-24 22:22:42 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.1115/imece2021-69400 -> Repositorio UTB
+2026-07-24 22:22:43 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.18260/1-2--29960 -> Papers on Engineering Education Repository (Americ
+2026-07-24 22:22:44 [INFO] bibliometrico.openalex_meta: Fuente por DOI: 10.1109/weef.2017.8467060 -> 2017 7th World Engineering Education Forum (WEEF)
+2026-07-24 22:22:46 [INFO] bibliometrico.openalex_meta: Journal metrics: 72/96
+2026-07-24 22:22:46 [INFO] bibliometrico.openalex_meta: Author metrics: 83/96
+2026-07-24 22:22:46 [INFO] bibliometrico.openalex_meta: Unique sources fetched: 73, Unique authors fetched: 267
+2026-07-24 22:22:46 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:22:46 [INFO] bibliometrico.openalex_meta: Checkpoint guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:22:46 [INFO] bibliometrico.scimago: === FASE 1e: Enriquecimiento SCImago ===
+2026-07-24 22:22:46 [INFO] bibliometrico.scimago: Loading SCImago CSV: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\scimagojr.csv
+2026-07-24 22:22:48 [INFO] bibliometrico.scimago: SCImago loaded: 106808 ISSN entries, 32181 title entries
+2026-07-24 22:22:48 [INFO] bibliometrico.scimago: SCImago enriched: 51/96
+2026-07-24 22:22:48 [INFO] bibliometrico.scimago:   Quartile distribution: {'Q1': 31, 'Q3': 7, 'Q2': 12, 'Q4': 1, '-': 2}
+2026-07-24 22:22:49 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:22:49 [INFO] bibliometrico.scimago: Checkpoint guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:22:49 [INFO] bibliometrico.opencitations: ============================================================
+2026-07-24 22:22:49 [INFO] bibliometrico.opencitations: FASE 1g: Enriquecimiento OpenCitations
+2026-07-24 22:22:49 [INFO] bibliometrico.opencitations:   Endpoints: citations (inbound) + references (outbound) + metadata
+2026-07-24 22:22:49 [INFO] bibliometrico.opencitations: ============================================================
+2026-07-24 22:23:56 [INFO] bibliometrico.opencitations: OpenCitations enriched: 44/96
+2026-07-24 22:23:56 [INFO] bibliometrico.opencitations:   Citations (inbound): 540 total
+2026-07-24 22:23:56 [INFO] bibliometrico.opencitations:   Author self-citation rate: 3.1% (17/540)
+2026-07-24 22:23:56 [INFO] bibliometrico.opencitations:   Citation velocity: mean=0.81, median=0.00 cites/year
+2026-07-24 22:23:56 [INFO] bibliometrico.opencitations:   References (outbound): +1266 DOIs added to referenced_works
+2026-07-24 22:23:56 [INFO] bibliometrico.opencitations:   Metadata gaps filled via OpenCitations Meta:
+2026-07-24 22:23:56 [INFO] bibliometrico.opencitations:     publisher: +3
+2026-07-24 22:23:57 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:23:57 [INFO] bibliometrico.opencitations: Checkpoint guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:23:57 [INFO] bibliometrico.unpaywall: === FASE 1h: Enriquecimiento Unpaywall ===
+2026-07-24 22:24:04 [INFO] bibliometrico.unpaywall: Unpaywall OA: 37/96
+2026-07-24 22:24:04 [INFO] bibliometrico.unpaywall: With PDF URL: 32
+2026-07-24 22:24:04 [INFO] bibliometrico.unpaywall:   OA color distribution: {'closed': 28, 'gold': 23, 'bronze': 6, 'green': 4, 'hybrid': 4}
+2026-07-24 22:24:04 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:24:04 [INFO] bibliometrico.unpaywall: Checkpoint guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:24:04 [INFO] bibliometrico.reference_resolver: ============================================================
+2026-07-24 22:24:04 [INFO] bibliometrico.reference_resolver: Phase 1i: Enhanced Reference Resolution
+2026-07-24 22:24:04 [INFO] bibliometrico.reference_resolver: ============================================================
+2026-07-24 22:24:04 [INFO] bibliometrico.reference_resolver: Unique referenced works: 3396
+2026-07-24 22:24:10 [INFO] bibliometrico.reference_resolver:   Cache check: 679/3396 (66 cached, 559 pending)
+2026-07-24 22:24:15 [INFO] bibliometrico.reference_resolver:   Cache check: 1358/3396 (125 cached, 1050 pending)
+2026-07-24 22:24:24 [INFO] bibliometrico.reference_resolver: Reference resolution: 222 cached (with concepts), 2123 to fetch, 34 omitidas (sin Work ID OpenAlex)
+2026-07-24 22:24:24 [INFO] bibliometrico.reference_resolver: Using OpenAlex API key (premium pool)
+2026-07-24 22:25:15 [INFO] bibliometrico.reference_resolver: Resolved 1993 new references (0 failed batches)
+2026-07-24 22:25:15 [INFO] bibliometrico.reference_resolver: References resolved: 2215/3396 (2215 with concepts)
+2026-07-24 22:25:16 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:25:16 [INFO] bibliometrico.reference_resolver: Phase 1i complete — references_resolved attached to articles
+2026-07-24 22:25:16 [INFO] bibliometrico.metadata_completer: ============================================================
+2026-07-24 22:25:16 [INFO] bibliometrico.metadata_completer: === FASE 1j: Metadata Completion ===
+2026-07-24 22:25:16 [INFO] bibliometrico.metadata_completer: Articles to process: 96
+2026-07-24 22:25:16 [INFO] bibliometrico.metadata_completer: Stage A: Extracting metadata from caches...
+2026-07-24 22:25:24 [INFO] bibliometrico.metadata_completer: Stage A complete: language=0, volume=0, issue=0, pages=0, issn=6, journal_abbrev=0, url=10
+2026-07-24 22:25:24 [INFO] bibliometrico.metadata_completer: Stage B: Fetching language for 2 articles via API...
+2026-07-24 22:25:25 [INFO] bibliometrico.metadata_completer: Stage B complete: 0 languages fetched via API
+2026-07-24 22:25:25 [INFO] bibliometrico.metadata_completer: Stage C: Fetching abbreviations for 7 unique sources...
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer: Stage C complete: 2 abbreviations set from 7 sources
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer: ============================================================
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer: Phase 1j: Metadata Completion Summary
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   language:       +0 from cache, +0 from API
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   journal_abbrev: +0 from cache, +2 from API
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   pages:          +0 filled
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   volume:         +0 filled
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   issue:          +0 filled
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   issn:           +6 filled
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   url:            +10 constructed from DOI
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer: ============================================================
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   Remaining gaps — language: 2/96
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   Remaining gaps — journal_abbrev: 30/96
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   Remaining gaps — pages: 18/96
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   Remaining gaps — volume: 19/96
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   Remaining gaps — issue: 36/96
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   Remaining gaps — issn: 30/96
+2026-07-24 22:25:27 [INFO] bibliometrico.metadata_completer:   Remaining gaps — url: 1/96
+2026-07-24 22:25:28 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_completer: Checkpoint saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler: ============================================================
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler: Fase 1k: Metadata Gap-Filler (Europe PMC, DOAJ, NLM, langdetect)
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler: ============================================================
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler: Gap-filler backends: Europe PMC, DOAJ, NLM Catalog, ISSN Portal
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler: Articles with gaps: 40 / 96
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler: Gap distribution before enrichment:
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   abstract: 2 missing
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   volume: 19 missing
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   issue: 36 missing
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   pages: 18 missing
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   language: 2 missing
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   journal_abbrev: 30 missing
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   issn: 30 missing
+2026-07-24 22:25:28 [INFO] bibliometrico.metadata_gap_filler:   url: 1 missing
+2026-07-24 22:26:10 [INFO] bibliometrico.metadata_gap_filler: Progress: 25/40 processed (0 enriched)
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler: Progress: 40/40 processed (0 enriched)
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler: ----------------------------------------
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler: Metadata gap-filler summary:
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler:   Articles processed: 40
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler:   Articles enriched: 0
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler:   Errors: 0
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler:   Fields filled:
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler:   By source:
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler: ----------------------------------------
+2026-07-24 22:26:24 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:26:24 [INFO] bibliometrico.metadata_gap_filler: Checkpoint saved after Phase 1k
+2026-07-24 22:26:25 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:26:25 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:26:25 [INFO] bibliometrico.main: Pipeline completado.
+2026-07-24 22:26:25 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:26:25 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:26:25 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_221646.json
+2026-07-24 22:26:25 [INFO] bibliometrico.provenance: Manifiesto de corrida: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_221646.json

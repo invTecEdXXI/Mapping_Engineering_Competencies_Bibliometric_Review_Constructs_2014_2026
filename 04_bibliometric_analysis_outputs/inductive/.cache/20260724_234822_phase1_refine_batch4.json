@@ -1,0 +1,55 @@
+{
+  "session_id": "20260724_234822",
+  "phase": "1_refine",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:51:45.041428",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 10
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Statistical Mediation and Correlation in Engineering Education Research",
+      "definition": "The application of statistical methods such as mediation analysis and correlation to explore and explain relationships between variables in engineering education. This includes examining how constructs like self-efficacy, motivation, or attitudes influence outcomes such as career intentions or academic performance.",
+      "subthemes": [
+        "Mediation effects in engineering education",
+        "Correlation analysis of affective and cognitive constructs",
+        "Predictive modeling of career trajectories"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Career-Related Constructs and Trajectories in Engineering Students",
+      "definition": "The study of factors influencing engineering students' career choices, intentions, and trajectories, including entrepreneurial motivation, leadership development, and writing attitudes. This theme explores how these constructs shape students' professional paths and long-term success in engineering fields.",
+      "subthemes": [
+        "Entrepreneurial career intentions",
+        "Leadership development and career readiness",
+        "Influence of affective dimensions on career trajectories"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "merge",
+      "target_index": 0
+    }
+  ]
+}

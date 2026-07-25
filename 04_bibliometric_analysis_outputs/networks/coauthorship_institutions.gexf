@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="long" />
+      <attribute id="1" title="total_cites" type="long" />
+      <attribute id="2" title="community" type="long" />
+      <attribute id="3" title="degree_centrality" type="double" />
+      <attribute id="4" title="betweenness_centrality" type="double" />
+      <attribute id="5" title="pagerank" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Universiti Teknologi MARA System" label="Universiti Teknologi MARA System">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Politecnica Salesiana University" label="Politecnica Salesiana University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Ação Educativa" label="Ação Educativa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Universidad de Guadalajara" label="Universidad de Guadalajara">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Tecnologie Avanzate (Italy)" label="Tecnologie Avanzate (Italy)">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Universitatea Națională de Știință și Tehnologie Politehnica București" label="Universitatea Națională de Știință și Tehnologie Politehnica București">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="The Federal Polytechnic, Ado-Ekiti" label="The Federal Polytechnic, Ado-Ekiti">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Electoral Commission" label="Electoral Commission">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Purdue University West Lafayette" label="Purdue University West Lafayette">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="58" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Rowan University" label="Rowan University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Saint Vincent College" label="Saint Vincent College">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="South Dakota School of Mines and Technology" label="South Dakota School of Mines and Technology">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="23" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Clarkson University" label="Clarkson University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Colorado State University" label="Colorado State University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="49" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="University of Georgia" label="University of Georgia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Lovely Professional University" label="Lovely Professional University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="International Social Security Association" label="International Social Security Association">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Ming Chuan University" label="Ming Chuan University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="National Taiwan Normal University" label="National Taiwan Normal University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="The University of Texas at Austin" label="The University of Texas at Austin">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="73" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Delft University of Technology" label="Delft University of Technology">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Louisiana Tech University" label="Louisiana Tech University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Clemson University" label="Clemson University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="301" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Universitas Negeri Surabaya" label="Universitas Negeri Surabaya">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Uppsala University" label="Uppsala University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="28" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.3333333333333333" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.11586644427748796" />
+        </attvalues>
+      </node>
+      <node id="Rose–Hulman Institute of Technology" label="Rose–Hulman Institute of Technology">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="33" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.5" />
+          <attvalue for="4" value="0.5333333333333333" />
+          <attvalue for="5" value="0.1595077122160952" />
+        </attvalues>
+      </node>
+      <node id="Gannon University" label="Gannon University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="28" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.3333333333333333" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.11586644427748796" />
+        </attvalues>
+      </node>
+      <node id="Universidad de Las Palmas de Gran Canaria" label="Universidad de Las Palmas de Gran Canaria">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="University of North Dakota" label="University of North Dakota">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="University of Missouri" label="University of Missouri">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Konkuk University" label="Konkuk University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Georgia State University" label="Georgia State University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="University of Denver" label="University of Denver">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Kocaeli Üniversitesi" label="Kocaeli Üniversitesi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Istanbul University-Cerrahpaşa" label="Istanbul University-Cerrahpaşa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Istanbul University" label="Istanbul University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Arizona State University" label="Arizona State University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="105" />
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </node>
+      <node id="Northern University" label="Northern University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="Ohio Northern University" label="Ohio Northern University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="The Ohio State University" label="The Ohio State University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="National Taipei University of Nursing and Health Science" label="National Taipei University of Nursing and Health Science">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="Fujian University of Technology" label="Fujian University of Technology">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="Suranaree University of Technology" label="Suranaree University of Technology">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="23" />
+        </attvalues>
+      </node>
+      <node id="Jaypee Institute of Information Technology" label="Jaypee Institute of Information Technology">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="24" />
+        </attvalues>
+      </node>
+      <node id="Bandırma Onyedi Eylül University" label="Bandırma Onyedi Eylül University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="25" />
+        </attvalues>
+      </node>
+      <node id="Istanbul Medeniyet University" label="Istanbul Medeniyet University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="25" />
+        </attvalues>
+      </node>
+      <node id="Çanakkale Onsekiz Mart Üniversitesi" label="Çanakkale Onsekiz Mart Üniversitesi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="25" />
+        </attvalues>
+      </node>
+      <node id="Mevlana University" label="Mevlana University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="42" />
+          <attvalue for="2" value="26" />
+        </attvalues>
+      </node>
+      <node id="Amasya Üniversitesi" label="Amasya Üniversitesi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="27" />
+        </attvalues>
+      </node>
+      <node id="Bilkent University" label="Bilkent University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="27" />
+        </attvalues>
+      </node>
+      <node id="Technical University of Denmark" label="Technical University of Denmark">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="University of Bamberg" label="University of Bamberg">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Worcester Polytechnic Institute" label="Worcester Polytechnic Institute">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="28" />
+        </attvalues>
+      </node>
+      <node id="Bucknell University" label="Bucknell University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="28" />
+        </attvalues>
+      </node>
+      <node id="Anyang University" label="Anyang University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="29" />
+        </attvalues>
+      </node>
+      <node id="Hanyang University" label="Hanyang University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="29" />
+        </attvalues>
+      </node>
+      <node id="University of Hong Kong" label="University of Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="30" />
+        </attvalues>
+      </node>
+      <node id="Education University of Hong Kong" label="Education University of Hong Kong">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="30" />
+        </attvalues>
+      </node>
+      <node id="University of Kentucky" label="University of Kentucky">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="296" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Tun Hussein Onn University of Malaysia" label="Tun Hussein Onn University of Malaysia">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="31" />
+        </attvalues>
+      </node>
+      <node id="University of Colorado Boulder" label="University of Colorado Boulder">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="75" />
+          <attvalue for="2" value="32" />
+        </attvalues>
+      </node>
+      <node id="Tufts University" label="Tufts University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="75" />
+          <attvalue for="2" value="32" />
+        </attvalues>
+      </node>
+      <node id="Michigan Technological University" label="Michigan Technological University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="75" />
+          <attvalue for="2" value="32" />
+        </attvalues>
+      </node>
+      <node id="Shahid Bahonar University of Kerman" label="Shahid Bahonar University of Kerman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="33" />
+        </attvalues>
+      </node>
+      <node id="Leibniz Institute for Science and Mathematics Education" label="Leibniz Institute for Science and Mathematics Education">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="34" />
+        </attvalues>
+      </node>
+      <node id="University of Stuttgart" label="University of Stuttgart">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="34" />
+        </attvalues>
+      </node>
+      <node id="University of Bremen" label="University of Bremen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="34" />
+        </attvalues>
+      </node>
+      <node id="Humboldt-Universität zu Berlin" label="Humboldt-Universität zu Berlin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="10" />
+          <attvalue for="2" value="34" />
+        </attvalues>
+      </node>
+      <node id="Polytechnic Institute of Porto" label="Polytechnic Institute of Porto">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="35" />
+          <attvalue for="2" value="35" />
+        </attvalues>
+      </node>
+      <node id="University of Trás-os-Montes and Alto Douro" label="University of Trás-os-Montes and Alto Douro">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="35" />
+        </attvalues>
+      </node>
+      <node id="Center for Interdisciplinary Studies" label="Center for Interdisciplinary Studies">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="35" />
+        </attvalues>
+      </node>
+      <node id="Autonomous University of Lisbon" label="Autonomous University of Lisbon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="26" />
+          <attvalue for="2" value="35" />
+        </attvalues>
+      </node>
+      <node id="Francisco de Paula Santander University" label="Francisco de Paula Santander University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="36" />
+        </attvalues>
+      </node>
+      <node id="Aalto University" label="Aalto University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="37" />
+        </attvalues>
+      </node>
+      <node id="University of Helsinki" label="University of Helsinki">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="37" />
+        </attvalues>
+      </node>
+      <node id="Häme University of Applied Sciences" label="Häme University of Applied Sciences">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="37" />
+        </attvalues>
+      </node>
+      <node id="American Society For Engineering Education" label="American Society For Engineering Education">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="The University of Texas at El Paso" label="The University of Texas at El Paso">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Liberal Arts University" label="Liberal Arts University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Australian Council for Educational Research" label="Australian Council for Educational Research">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="38" />
+        </attvalues>
+      </node>
+      <node id="Instituto Superior Miguel Torga" label="Instituto Superior Miguel Torga">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="39" />
+        </attvalues>
+      </node>
+      <node id="University of Coimbra" label="University of Coimbra">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="39" />
+        </attvalues>
+      </node>
+      <node id="Technological University Dublin" label="Technological University Dublin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="40" />
+        </attvalues>
+      </node>
+      <node id="University of Limerick" label="University of Limerick">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="40" />
+        </attvalues>
+      </node>
+      <node id="Technological University of the Shannon: Midlands Midwest" label="Technological University of the Shannon: Midlands Midwest">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="40" />
+        </attvalues>
+      </node>
+      <node id="Shannon Applied Biotechnology Centre" label="Shannon Applied Biotechnology Centre">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="40" />
+        </attvalues>
+      </node>
+      <node id="Pennsylvania State University" label="Pennsylvania State University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="71" />
+          <attvalue for="2" value="41" />
+        </attvalues>
+      </node>
+      <node id="University of Michigan" label="University of Michigan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="64" />
+          <attvalue for="2" value="41" />
+        </attvalues>
+      </node>
+      <node id="Carnegie Mellon University" label="Carnegie Mellon University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="64" />
+          <attvalue for="2" value="41" />
+        </attvalues>
+      </node>
+      <node id="Universidad Pablo de Olavide" label="Universidad Pablo de Olavide">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="48" />
+          <attvalue for="2" value="42" />
+        </attvalues>
+      </node>
+      <node id="Universidad de Cádiz" label="Universidad de Cádiz">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="48" />
+          <attvalue for="2" value="42" />
+        </attvalues>
+      </node>
+      <node id="Universitat Politècnica de Catalunya" label="Universitat Politècnica de Catalunya">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="48" />
+          <attvalue for="2" value="42" />
+        </attvalues>
+      </node>
+      <node id="California State University, Fullerton" label="California State University, Fullerton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.5" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.1408149143855476" />
+        </attvalues>
+      </node>
+      <node id="Gender Studies" label="Gender Studies">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.5" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.1408149143855476" />
+        </attvalues>
+      </node>
+      <node id="Stanford University" label="Stanford University">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.6666666666666666" />
+          <attvalue for="4" value="0.6" />
+          <attvalue for="5" value="0.1863146560722859" />
+        </attvalues>
+      </node>
+      <node id="California Institute of Technology" label="California Institute of Technology">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="15" />
+          <attvalue for="3" value="0.5" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.1408149143855476" />
+        </attvalues>
+      </node>
+      <node id="University of Córdoba" label="University of Córdoba">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="44" />
+        </attvalues>
+      </node>
+      <node id="Universidad Católica de Cuenca" label="Universidad Católica de Cuenca">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="44" />
+        </attvalues>
+      </node>
+      <node id="Queen's University" label="Queen's University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="15" />
+          <attvalue for="2" value="45" />
+        </attvalues>
+      </node>
+      <node id="Central University of Ecuador" label="Central University of Ecuador">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="46" />
+        </attvalues>
+      </node>
+      <node id="Universidad de las Fuerzas Armadas ESPE" label="Universidad de las Fuerzas Armadas ESPE">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="46" />
+        </attvalues>
+      </node>
+      <node id="State University of Malang" label="State University of Malang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="47" />
+        </attvalues>
+      </node>
+      <node id="TU Dortmund University" label="TU Dortmund University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="48" />
+        </attvalues>
+      </node>
+      <node id="Friedrich Schiller University Jena" label="Friedrich Schiller University Jena">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="48" />
+        </attvalues>
+      </node>
+      <node id="Selçuk University" label="Selçuk University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="49" />
+        </attvalues>
+      </node>
+      <node id="Necmettin Erbakan University" label="Necmettin Erbakan University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="49" />
+        </attvalues>
+      </node>
+      <node id="Kırklareli University" label="Kırklareli University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="49" />
+        </attvalues>
+      </node>
+      <node id="École Polytechnique Fédérale de Lausanne" label="École Polytechnique Fédérale de Lausanne">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="50" />
+        </attvalues>
+      </node>
+      <node id="Tecnológico de Monterrey" label="Tecnológico de Monterrey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="51" />
+        </attvalues>
+      </node>
+      <node id="Instituto Politécnico Nacional" label="Instituto Politécnico Nacional">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="51" />
+        </attvalues>
+      </node>
+      <node id="Universidad Tecnológica de Bolívar" label="Universidad Tecnológica de Bolívar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="52" />
+        </attvalues>
+      </node>
+      <node id="Popular University of Cesar" label="Popular University of Cesar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="52" />
+        </attvalues>
+      </node>
+      <node id="North Carolina Agricultural and Technical State University" label="North Carolina Agricultural and Technical State University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="53" />
+        </attvalues>
+      </node>
+      <node id="Instituto Tecnológico Metropolitano" label="Instituto Tecnológico Metropolitano">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="54" />
+        </attvalues>
+      </node>
+      <node id="Shibaura Institute of Technology" label="Shibaura Institute of Technology">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="55" />
+        </attvalues>
+      </node>
+      <node id="Northeast Normal University" label="Northeast Normal University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="56" />
+        </attvalues>
+      </node>
+      <node id="Mitchell Institute" label="Mitchell Institute">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="57" />
+        </attvalues>
+      </node>
+      <node id="Texas A&amp;M University" label="Texas A&amp;M University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="57" />
+        </attvalues>
+      </node>
+      <node id="University of California, Irvine" label="University of California, Irvine">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="41" />
+        </attvalues>
+      </node>
+      <node id="Vanderbilt University" label="Vanderbilt University">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="43" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Politecnica Salesiana University" target="Ação Educativa" id="0" weight="1" />
+      <edge source="Universidad de Guadalajara" target="Tecnologie Avanzate (Italy)" id="1" weight="1" />
+      <edge source="The Federal Polytechnic, Ado-Ekiti" target="Electoral Commission" id="2" weight="1" />
+      <edge source="Purdue University West Lafayette" target="Rowan University" id="3" weight="1" />
+      <edge source="Purdue University West Lafayette" target="Saint Vincent College" id="4" weight="1" />
+      <edge source="Purdue University West Lafayette" target="South Dakota School of Mines and Technology" id="5" weight="1" />
+      <edge source="Rowan University" target="Saint Vincent College" id="6" weight="1" />
+      <edge source="Rowan University" target="South Dakota School of Mines and Technology" id="7" weight="1" />
+      <edge source="Saint Vincent College" target="South Dakota School of Mines and Technology" id="8" weight="1" />
+      <edge source="Lovely Professional University" target="International Social Security Association" id="9" weight="1" />
+      <edge source="Ming Chuan University" target="National Taiwan Normal University" id="10" weight="1" />
+      <edge source="The University of Texas at Austin" target="American Society For Engineering Education" id="11" weight="1" />
+      <edge source="The University of Texas at Austin" target="The University of Texas at El Paso" id="12" weight="1" />
+      <edge source="The University of Texas at Austin" target="Liberal Arts University" id="13" weight="1" />
+      <edge source="Delft University of Technology" target="Technical University of Denmark" id="14" weight="1" />
+      <edge source="Delft University of Technology" target="University of Bamberg" id="15" weight="1" />
+      <edge source="Louisiana Tech University" target="Clemson University" id="16" weight="1" />
+      <edge source="Clemson University" target="University of Kentucky" id="17" weight="1" />
+      <edge source="Uppsala University" target="Rose–Hulman Institute of Technology" id="18" weight="1" />
+      <edge source="Uppsala University" target="Gannon University" id="19" weight="1" />
+      <edge source="Rose–Hulman Institute of Technology" target="Gannon University" id="20" weight="1" />
+      <edge source="Rose–Hulman Institute of Technology" target="Stanford University" id="21" weight="1" />
+      <edge source="University of North Dakota" target="University of Missouri" id="22" weight="1" />
+      <edge source="University of North Dakota" target="Konkuk University" id="23" weight="1" />
+      <edge source="University of North Dakota" target="Georgia State University" id="24" weight="1" />
+      <edge source="University of North Dakota" target="University of Denver" id="25" weight="1" />
+      <edge source="University of Missouri" target="Konkuk University" id="26" weight="1" />
+      <edge source="University of Missouri" target="Georgia State University" id="27" weight="1" />
+      <edge source="University of Missouri" target="University of Denver" id="28" weight="1" />
+      <edge source="Konkuk University" target="Georgia State University" id="29" weight="1" />
+      <edge source="Konkuk University" target="University of Denver" id="30" weight="1" />
+      <edge source="Georgia State University" target="University of Denver" id="31" weight="1" />
+      <edge source="Kocaeli Üniversitesi" target="Istanbul University-Cerrahpaşa" id="32" weight="1" />
+      <edge source="Kocaeli Üniversitesi" target="Istanbul University" id="33" weight="1" />
+      <edge source="Istanbul University-Cerrahpaşa" target="Istanbul University" id="34" weight="1" />
+      <edge source="Northern University" target="Ohio Northern University" id="35" weight="1" />
+      <edge source="National Taipei University of Nursing and Health Science" target="Fujian University of Technology" id="36" weight="1" />
+      <edge source="Bandırma Onyedi Eylül University" target="Istanbul Medeniyet University" id="37" weight="1" />
+      <edge source="Bandırma Onyedi Eylül University" target="Çanakkale Onsekiz Mart Üniversitesi" id="38" weight="1" />
+      <edge source="Istanbul Medeniyet University" target="Çanakkale Onsekiz Mart Üniversitesi" id="39" weight="1" />
+      <edge source="Amasya Üniversitesi" target="Bilkent University" id="40" weight="1" />
+      <edge source="Technical University of Denmark" target="University of Bamberg" id="41" weight="1" />
+      <edge source="Worcester Polytechnic Institute" target="Bucknell University" id="42" weight="1" />
+      <edge source="Anyang University" target="Hanyang University" id="43" weight="1" />
+      <edge source="University of Hong Kong" target="Education University of Hong Kong" id="44" weight="1" />
+      <edge source="University of Colorado Boulder" target="Tufts University" id="45" weight="1" />
+      <edge source="University of Colorado Boulder" target="Michigan Technological University" id="46" weight="1" />
+      <edge source="Tufts University" target="Michigan Technological University" id="47" weight="1" />
+      <edge source="Leibniz Institute for Science and Mathematics Education" target="University of Stuttgart" id="48" weight="1" />
+      <edge source="Leibniz Institute for Science and Mathematics Education" target="University of Bremen" id="49" weight="1" />
+      <edge source="Leibniz Institute for Science and Mathematics Education" target="Humboldt-Universität zu Berlin" id="50" weight="1" />
+      <edge source="University of Stuttgart" target="University of Bremen" id="51" weight="1" />
+      <edge source="University of Stuttgart" target="Humboldt-Universität zu Berlin" id="52" weight="1" />
+      <edge source="University of Bremen" target="Humboldt-Universität zu Berlin" id="53" weight="1" />
+      <edge source="Polytechnic Institute of Porto" target="University of Trás-os-Montes and Alto Douro" id="54" weight="1" />
+      <edge source="Polytechnic Institute of Porto" target="Center for Interdisciplinary Studies" id="55" weight="1" />
+      <edge source="Polytechnic Institute of Porto" target="Autonomous University of Lisbon" id="56" weight="1" />
+      <edge source="University of Trás-os-Montes and Alto Douro" target="Center for Interdisciplinary Studies" id="57" weight="1" />
+      <edge source="University of Trás-os-Montes and Alto Douro" target="Autonomous University of Lisbon" id="58" weight="1" />
+      <edge source="Center for Interdisciplinary Studies" target="Autonomous University of Lisbon" id="59" weight="1" />
+      <edge source="Aalto University" target="University of Helsinki" id="60" weight="1" />
+      <edge source="Aalto University" target="Häme University of Applied Sciences" id="61" weight="1" />
+      <edge source="University of Helsinki" target="Häme University of Applied Sciences" id="62" weight="1" />
+      <edge source="American Society For Engineering Education" target="The University of Texas at El Paso" id="63" weight="1" />
+      <edge source="American Society For Engineering Education" target="Liberal Arts University" id="64" weight="1" />
+      <edge source="The University of Texas at El Paso" target="Liberal Arts University" id="65" weight="1" />
+      <edge source="Instituto Superior Miguel Torga" target="University of Coimbra" id="66" weight="2" />
+      <edge source="Technological University Dublin" target="University of Limerick" id="67" weight="1" />
+      <edge source="Technological University Dublin" target="Technological University of the Shannon: Midlands Midwest" id="68" weight="1" />
+      <edge source="University of Limerick" target="Technological University of the Shannon: Midlands Midwest" id="69" weight="2" />
+      <edge source="University of Limerick" target="Shannon Applied Biotechnology Centre" id="70" weight="1" />
+      <edge source="Technological University of the Shannon: Midlands Midwest" target="Shannon Applied Biotechnology Centre" id="71" weight="1" />
+      <edge source="Pennsylvania State University" target="University of Michigan" id="72" weight="1" />
+      <edge source="Pennsylvania State University" target="Carnegie Mellon University" id="73" weight="1" />
+      <edge source="Pennsylvania State University" target="University of California, Irvine" id="74" weight="1" />
+      <edge source="University of Michigan" target="Carnegie Mellon University" id="75" weight="1" />
+      <edge source="Universidad Pablo de Olavide" target="Universidad de Cádiz" id="76" weight="1" />
+      <edge source="Universidad Pablo de Olavide" target="Universitat Politècnica de Catalunya" id="77" weight="1" />
+      <edge source="Universidad de Cádiz" target="Universitat Politècnica de Catalunya" id="78" weight="1" />
+      <edge source="California State University, Fullerton" target="Gender Studies" id="79" weight="1" />
+      <edge source="California State University, Fullerton" target="Stanford University" id="80" weight="1" />
+      <edge source="California State University, Fullerton" target="California Institute of Technology" id="81" weight="1" />
+      <edge source="Gender Studies" target="Stanford University" id="82" weight="1" />
+      <edge source="Gender Studies" target="California Institute of Technology" id="83" weight="1" />
+      <edge source="Stanford University" target="California Institute of Technology" id="84" weight="1" />
+      <edge source="University of Córdoba" target="Universidad Católica de Cuenca" id="85" weight="1" />
+      <edge source="Central University of Ecuador" target="Universidad de las Fuerzas Armadas ESPE" id="86" weight="1" />
+      <edge source="TU Dortmund University" target="Friedrich Schiller University Jena" id="87" weight="1" />
+      <edge source="Selçuk University" target="Necmettin Erbakan University" id="88" weight="1" />
+      <edge source="Selçuk University" target="Kırklareli University" id="89" weight="1" />
+      <edge source="Necmettin Erbakan University" target="Kırklareli University" id="90" weight="1" />
+      <edge source="Tecnológico de Monterrey" target="Instituto Politécnico Nacional" id="91" weight="1" />
+      <edge source="Universidad Tecnológica de Bolívar" target="Popular University of Cesar" id="92" weight="1" />
+      <edge source="Mitchell Institute" target="Texas A&amp;M University" id="93" weight="1" />
+    </edges>
+  </graph>
+</gexf>

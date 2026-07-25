@@ -1,0 +1,494 @@
+{
+  "session_id": "20260724_230900",
+  "phase": "1",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:09:26.789231",
+  "data": {
+    "themes": [
+      {
+        "name": "Assessment of Professional Competencies",
+        "definition": "The development, validation, and adaptation of instruments to measure professional competencies in engineering students, including employability skills, social responsibility, and workplace readiness.",
+        "evidence": [
+          "[LHGYXXJG] The study aims to identify indicators that can measure students' employability skills and attributes.",
+          "[IV425BDL] This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture.",
+          "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students."
+        ],
+        "articles": [
+          "LHGYXXJG",
+          "IV425BDL",
+          "K9E5C83P",
+          "Z4ICDXEQ",
+          "49BIH9AZ",
+          "KI4LCCHP",
+          "XHXW8PNL"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Employability skills",
+          "Social responsibility",
+          "Workplace readiness"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-Efficacy Measurement in Engineering",
+        "definition": "The study and validation of instruments to measure engineering self-efficacy, including programming self-efficacy, design self-efficacy, and general engineering self-efficacy.",
+        "evidence": [
+          "[2DDA52FC] Two scales for engineering self-efficacy have recently been developed for undergraduate students, with validity evidence relating self-efficacy responses to persistence and achievement in engineering.",
+          "[CJPX792Z] Contribution: This article has shown that self-efficacy in performing complex computer programming tasks and the self-regulation of electrical and electronics engineering undergraduate students varies with respect to the class standing and prior experience in computer programming.",
+          "[Y345N2W5] The aim of this study is to improve a measurement tool to evaluate the self-efficacy of Electrical-Electronics Engineering students through their basic electronics skills."
+        ],
+        "articles": [
+          "2DDA52FC",
+          "CJPX792Z",
+          "U374P6MT",
+          "Y345N2W5",
+          "J4L96ZTQ",
+          "VG98XEQP"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Programming self-efficacy",
+          "Design self-efficacy",
+          "General engineering self-efficacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Motivation and Learning Strategies Assessment",
+        "definition": "The validation and use of instruments to measure students' motivational attitudes, behaviors, and learning strategies in engineering education.",
+        "evidence": [
+          "[CY59SPDS] This research paper reports the quantitative validation of instruments for assessing engineering students' motivational attitudes and behaviors in their capstone design course.",
+          "[PYM3MQNK] The aims of this work were to investigate the dimensionality of the motivated strategies for learning questionnaire (MSLQ) and compare the validation of the three competing models.",
+          "[NLXE3X6S] Using the definition of sustainability from the Brundtland report and expectancy value theory, students’ sentiment toward SE was evaluated using items to assess SE self-efficacy, SE value and SE affect."
+        ],
+        "articles": [
+          "CY59SPDS",
+          "PYM3MQNK",
+          "NLXE3X6S",
+          "DYIXSFV6"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Motivational attitudes",
+          "Learning strategies",
+          "Sustainable engineering attitudes"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Entrepreneurial Mindset and Design Mindset",
+        "definition": "The development and validation of instruments to measure entrepreneurial mindset and design mindset in engineering students, including factors like connections, creating value, and ambiguity tolerance.",
+        "evidence": [
+          "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students.",
+          "[6XVSWITA] This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1), allowing us to measure and leverage statistical analyses to advance our understanding of its role in design."
+        ],
+        "articles": [
+          "K9E5C83P",
+          "6XVSWITA",
+          "PH5ZR5GA"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Entrepreneurial mindset",
+          "Design mindset",
+          "Ambiguity tolerance"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Internship and Work Experience Evaluation",
+        "definition": "The adaptation and validation of instruments to assess engineering students' internship experiences, workplace competencies, and professional development during work-based learning.",
+        "evidence": [
+          "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+          "[XHXW8PNL] The purpose of this paper is to assess engineering students’ perceptions of their internship experiences.",
+          "[9CXV3IJ6] This study aimed to develop and validate a tool for assessing the apprenticeship course in the field of occupational health and safety engineering in Iran."
+        ],
+        "articles": [
+          "DFVK7NR2",
+          "XHXW8PNL",
+          "9CXV3IJ6"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Internship evaluation",
+          "Workplace competencies",
+          "Apprenticeship assessment"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Systems Thinking and Problem-Solving Skills",
+        "definition": "The assessment of systems thinking skills and problem-solving competencies in engineering students, including the use of diagnostic activities and surveys.",
+        "evidence": [
+          "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+          "[4I9HTBU4] Thus, students need to equip themselves with proper oral communication skills before they enter the industry."
+        ],
+        "articles": [
+          "J8H6TD8Q",
+          "4I9HTBU4"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Systems thinking skills",
+          "Problem-solving competencies",
+          "Oral communication skills"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Psychometric Validation and Factor Analysis",
+        "definition": "The use of exploratory and confirmatory factor analysis, reliability testing, and psychometric validation to assess the validity of instruments in engineering education research.",
+        "evidence": [
+          "[IQD3WXLQ] A second-order confirmatory factor analysis (CFA) was conducted to examine the construct validity of the scale.",
+          "[XT6BBTKW] Exploratory and confirmatory factor analyses were used to examine construct validity, and internal consistency reliability analyses followed.",
+          "[YE4TP358] To test the former, the gage repeatability and reproducibility (R&R) method was applied innovatively."
+        ],
+        "articles": [
+          "IQD3WXLQ",
+          "XT6BBTKW",
+          "YE4TP358",
+          "FMII7TUT",
+          "I9G3834N"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Factor analysis",
+          "Reliability testing",
+          "Psychometric validation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Community-Partnered Projects and Real-World Learning",
+        "definition": "The assessment of students' perceptions, self-efficacy, and sense of belonging in community-partnered projects and real-world engineering problems.",
+        "evidence": [
+          "[VG98XEQP] Community-partnered projects (CPP) have been used in education from the 1990's and have been shown to demonstrate effective learning by working on real-time problems which are diverse and cultural, social, and environmental.",
+          "[IQD3WXLQ] Industry-Coupled Problem-Based Learning (IC-PBL) has become a central approach in engineering education, enabling students to bridge theoretical understanding with real-world application."
+        ],
+        "articles": [
+          "VG98XEQP",
+          "IQD3WXLQ"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Community-partnered projects",
+          "Real-world learning",
+          "Industry-coupled problem-based learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on the development, validation, and adaptation of assessment instruments in engineering education. There is a strong emphasis on psychometric validation techniques such as factor analysis, reliability testing, and confirmatory methods. Themes like self-efficacy, professional competencies, and motivation are recurring, reflecting current priorities in engineering education research. Some abstracts lack detailed results or conclusions, limiting the depth of analysis for certain themes.",
+    "grounding_notes": "All themes are grounded in explicit terminology and quotes from the abstracts. The frequency and confidence levels are assigned based on the number of articles supporting each theme and the clarity of the evidence. No external frameworks were imposed; themes emerged directly from the data.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.956,
+      "avg_quote_grounding": 0.938,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "Assessment of Professional Competencies",
+          "evidence_verified": [
+            {
+              "quote": "[LHGYXXJG] The study aims to identify indicators that can measure students' employability skills and attributes.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[IV425BDL] This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LHGYXXJG",
+            "IV425BDL",
+            "K9E5C83P",
+            "Z4ICDXEQ",
+            "49BIH9AZ",
+            "KI4LCCHP",
+            "XHXW8PNL"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Self-Efficacy Measurement in Engineering",
+          "evidence_verified": [
+            {
+              "quote": "[2DDA52FC] Two scales for engineering self-efficacy have recently been developed for undergraduate students, with validity evidence relating self-efficacy responses to persistence and achievement in engineering.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[CJPX792Z] Contribution: This article has shown that self-efficacy in performing complex computer programming tasks and the self-regulation of electrical and electronics engineering undergraduate students varies with respect to the class standing and prior experience in computer programming.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Y345N2W5] The aim of this study is to improve a measurement tool to evaluate the self-efficacy of Electrical-Electronics Engineering students through their basic electronics skills.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "2DDA52FC",
+            "CJPX792Z",
+            "U374P6MT",
+            "Y345N2W5",
+            "J4L96ZTQ",
+            "VG98XEQP"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Motivation and Learning Strategies Assessment",
+          "evidence_verified": [
+            {
+              "quote": "[CY59SPDS] This research paper reports the quantitative validation of instruments for assessing engineering students' motivational attitudes and behaviors in their capstone design course.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PYM3MQNK] The aims of this work were to investigate the dimensionality of the motivated strategies for learning questionnaire (MSLQ) and compare the validation of the three competing models.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[NLXE3X6S] Using the definition of sustainability from the Brundtland report and expectancy value theory, students’ sentiment toward SE was evaluated using items to assess SE self-efficacy, SE value and SE affect.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "CY59SPDS",
+            "PYM3MQNK",
+            "NLXE3X6S",
+            "DYIXSFV6"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Entrepreneurial Mindset and Design Mindset",
+          "evidence_verified": [
+            {
+              "quote": "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6XVSWITA] This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1), allowing us to measure and leverage statistical analyses to advance our understanding of its role in design.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "K9E5C83P",
+            "6XVSWITA",
+            "PH5ZR5GA"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Internship and Work Experience Evaluation",
+          "evidence_verified": [
+            {
+              "quote": "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[XHXW8PNL] The purpose of this paper is to assess engineering students’ perceptions of their internship experiences.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[9CXV3IJ6] This study aimed to develop and validate a tool for assessing the apprenticeship course in the field of occupational health and safety engineering in Iran.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "DFVK7NR2",
+            "XHXW8PNL",
+            "9CXV3IJ6"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Systems Thinking and Problem-Solving Skills",
+          "evidence_verified": [
+            {
+              "quote": "[4I9HTBU4] Thus, students need to equip themselves with proper oral communication skills before they enter the industry.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+              "score": 0.19,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "J8H6TD8Q",
+            "4I9HTBU4"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.19): '[J8H6TD8Q] It is widely acknowledged that systems ...'"
+          ]
+        },
+        {
+          "theme_name": "Psychometric Validation and Factor Analysis",
+          "evidence_verified": [
+            {
+              "quote": "[IQD3WXLQ] A second-order confirmatory factor analysis (CFA) was conducted to examine the construct validity of the scale.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[XT6BBTKW] Exploratory and confirmatory factor analyses were used to examine construct validity, and internal consistency reliability analyses followed.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[YE4TP358] To test the former, the gage repeatability and reproducibility (R&R) method was applied innovatively.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "IQD3WXLQ",
+            "XT6BBTKW",
+            "YE4TP358",
+            "FMII7TUT",
+            "I9G3834N"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Community-Partnered Projects and Real-World Learning",
+          "evidence_verified": [
+            {
+              "quote": "[VG98XEQP] Community-partnered projects (CPP) have been used in education from the 1990's and have been shown to demonstrate effective learning by working on real-time problems which are diverse and cultural, social, and environmental.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[IQD3WXLQ] Industry-Coupled Problem-Based Learning (IC-PBL) has become a central approach in engineering education, enabling students to bridge theoretical understanding with real-world application.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "VG98XEQP",
+            "IQD3WXLQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

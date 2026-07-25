@@ -1,0 +1,407 @@
+{
+  "session_id": "20260724_233550",
+  "phase": "1",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:43:28.141621",
+  "data": {
+    "themes": [
+      {
+        "name": "Development and Validation of Measurement Instruments for Engineering Students",
+        "definition": "Studies focus on creating, developing, and validating scales or surveys specifically designed to measure various non-technical attributes of engineering students, such as entrepreneurial motivation, leadership self-efficacy, writing attitudes, and domain-specific self-efficacy. These instruments aim to provide reliable and valid tools for assessment and research in engineering education.",
+        "evidence": [
+          "[JZEJCTN6] develops and tests an entrepreneurial motivation scale for engineering students",
+          "[6ATWRP3C] develop and validate a leadership self-efficacy scale for engineering students",
+          "[6SNWQJMW] development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing",
+          "[95PYDLRQ] create an instrument to determine how self-efficacy in biomedical engineering is related to a subject's abilities to identify and solve provocative questions relevant in a clinical environment and ability to write grant proposals related to those questions"
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "6SNWQJMW",
+          "95PYDLRQ"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Validity evidence",
+          "Scale refinement",
+          "Reliability testing"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-Efficacy as a Central Psychological Construct",
+        "definition": "Self-efficacy—both general and domain-specific—emerges as a key attribute being measured across several studies. It is often linked to academic success or career-related intentions, and appears as both a direct target of measurement and a mediating mechanism.",
+        "evidence": [
+          "[JZEJCTN6] venturing and technology self-efficacy",
+          "[6ATWRP3C] leadership self-efficacy scale for engineering students",
+          "[95PYDLRQ] Self-Efficacy has shown to be positively correlated with academic success [1-3]. ... general engineering self-efficacy"
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "95PYDLRQ"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Academic success",
+          "Mediation effects",
+          "Domain-specific self-efficacy"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Factor Analysis as the Primary Validation Method",
+        "definition": "Factor analysis, both exploratory and confirmatory, is consistently used to uncover underlying factor structures, reduce items, and establish construct validity of newly developed instruments. This methodological approach is central to scale refinement in engineering education research.",
+        "evidence": [
+          "[JZEJCTN6] examining factor structure and psychometric properties",
+          "[6ATWRP3C] exploratory factor analyses identified an underlying factor structure",
+          "[6SNWQJMW] employs confirmatory factor analysis to develop a short form survey",
+          "[95PYDLRQ] An exploratory factor analysis in the form of principal axis factoring was performed"
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "6SNWQJMW",
+          "95PYDLRQ"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Psychometric properties",
+          "Principal axis factoring",
+          "Cronbach's alpha"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Linking Student Attributes to Career Intentions and Professional Outcomes",
+        "definition": "Measured attributes such as entrepreneurial motivation, writing attitudes, and self-efficacy are explicitly connected to career-related outcomes, including entrepreneurial intention, career trajectory, persistence, and the ability to write grant proposals. This theme underscores the practical relevance of these attributes for engineering career development.",
+        "evidence": [
+          "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur",
+          "[6SNWQJMW] attitudes about writing have implications on career trajectory, persistence, and well-being in graduate school",
+          "[95PYDLRQ] ability to write grant proposals related to those questions"
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6SNWQJMW",
+          "95PYDLRQ"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Entrepreneurial intention",
+          "Persistence",
+          "Grant writing skills"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Affective and Motivational Dimensions of Professional Skill Development",
+        "definition": "Research highlights the role of emotions, feelings, personal interests, and motivation in the development of professional skills among engineering students. This includes factors like writing apprehension, writer's block, personal interests in entrepreneurship, and team motivation within leadership.",
+        "evidence": [
+          "[JZEJCTN6] Motivation for Personal Interests (MPS)",
+          "[6SNWQJMW] affective dimension of writing (feelings, emotions, writer's block, and writing apprehension)",
+          "[6ATWRP3C] Team Motivation"
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6SNWQJMW",
+          "6ATWRP3C"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Writer's block",
+          "Writing apprehension",
+          "Personal interests",
+          "Team motivation"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Engineering-Specific Contextual Adaptation of Instruments",
+        "definition": "Instruments are tailored to the unique tasks and contexts of engineering practice, incorporating engineering problem-solving, creation, innovative changes, and clinical problem identification. This ensures the measured constructs are directly relevant to the engineering domain rather than being generic psychological measures.",
+        "evidence": [
+          "[JZEJCTN6] Motivation for Creation and Solution (MCS)",
+          "[6ATWRP3C] Engineering Practice, Innovative Changes",
+          "[95PYDLRQ] Engineering Problem Identification in Surgery (IDENT), Engineering Problem Solving (SOLVE)",
+          "[6SNWQJMW] assess primary attitudes that engineering students hold as they approach academic writing"
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "95PYDLRQ",
+          "6SNWQJMW"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Innovative changes",
+          "Clinical environment",
+          "Academic writing",
+          "Problem identification"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "All four abstracts involve development or validation of instruments targeting engineering students' non-technical attributes. Three of the four explicitly measure self-efficacy in some form. Factor analysis (EFA or CFA) is uniformly used as the primary validation technique. Quality notes indicate missing results and low technical content in some abstracts; however, explicit statements about instrument development and factor structures are present. The writing attitudes survey (6SNWQJMW) differs slightly by focusing on an affective dimension and using confirmatory factor analysis for short-form development.",
+    "grounding_notes": "All evidence quotes are verbatim from the provided abstracts. For theme 'Linking Student Attributes to Career Intentions', 95PYDLRQ's evidence is indirect (the instrument aims to measure abilities related to grant writing, not career trajectory per se). For theme 'Self-Efficacy', 6SNWQJMW does not mention self-efficacy and is excluded. No fabricated quotes; only explicitly stated text is used. Some abstracts had quality notes indicating missing elements, but extracted evidence remains based solely on explicit text.",
+    "_hallucination_control": {
+      "total_themes": 6,
+      "avg_grounding_score": 0.922,
+      "avg_quote_grounding": 0.889,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 2,
+      "verification_details": [
+        {
+          "theme_name": "Development and Validation of Measurement Instruments for Engineering Students",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] develops and tests an entrepreneurial motivation scale for engineering students",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6ATWRP3C] develop and validate a leadership self-efficacy scale for engineering students",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] create an instrument to determine how self-efficacy in biomedical engineering is related to a subject's abilities to identify and solve provocative questions relevant in a clinical environment and ability to write grant proposals related to those questions",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "6SNWQJMW",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Self-Efficacy as a Central Psychological Construct",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] venturing and technology self-efficacy",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[6ATWRP3C] leadership self-efficacy scale for engineering students",
+              "score": 0.88,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[95PYDLRQ] Self-Efficacy has shown to be positively correlated with academic success [1-3]. ... general engineering self-efficacy",
+              "score": 0.72,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.72), not verbatim: '[95PYDLRQ] Self-Efficacy has shown to be positivel...'"
+          ]
+        },
+        {
+          "theme_name": "Factor Analysis as the Primary Validation Method",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] examining factor structure and psychometric properties",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[6ATWRP3C] exploratory factor analyses identified an underlying factor structure",
+              "score": 0.89,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[6SNWQJMW] employs confirmatory factor analysis to develop a short form survey",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] An exploratory factor analysis in the form of principal axis factoring was performed",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "6SNWQJMW",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Linking Student Attributes to Career Intentions and Professional Outcomes",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] attitudes about writing have implications on career trajectory, persistence, and well-being in graduate school",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] ability to write grant proposals related to those questions",
+              "score": 0.9,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6SNWQJMW",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Affective and Motivational Dimensions of Professional Skill Development",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] Motivation for Personal Interests (MPS)",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[6SNWQJMW] affective dimension of writing (feelings, emotions, writer's block, and writing apprehension)",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[6ATWRP3C] Team Motivation",
+              "score": 0.67,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6SNWQJMW",
+            "6ATWRP3C"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.67), not verbatim: '[6ATWRP3C] Team Motivation...'"
+          ]
+        },
+        {
+          "theme_name": "Engineering-Specific Contextual Adaptation of Instruments",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] Motivation for Creation and Solution (MCS)",
+              "score": 0.86,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[6ATWRP3C] Engineering Practice, Innovative Changes",
+              "score": 0.8,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[95PYDLRQ] Engineering Problem Identification in Surgery (IDENT), Engineering Problem Solving (SOLVE)",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] assess primary attitudes that engineering students hold as they approach academic writing",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "95PYDLRQ",
+            "6SNWQJMW"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

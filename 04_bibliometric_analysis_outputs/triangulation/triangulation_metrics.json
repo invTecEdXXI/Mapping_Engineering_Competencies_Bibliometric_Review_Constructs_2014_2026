@@ -1,0 +1,109 @@
+{
+  "generated_at": "2026-07-24T23:52:58.612282",
+  "model_a": "auto/deepseek-v4-pro",
+  "model_b": "mistral/mistral-large-latest",
+  "triangulation_session_id": "20260724_233549",
+  "phase_2e": {
+    "n_themes_a": 14,
+    "n_themes_b": 16,
+    "jaccard_names": 0.2921,
+    "jaccard_definitions": 0.2475,
+    "subtopic_overlap": 0.0198,
+    "n_matched": 13,
+    "greedy_matches": [
+      {
+        "theme_a": "Motivation and Engagement in Engineering Education",
+        "theme_b": "Motivational and Career-Related Constructs in Engineering Education",
+        "similarity_name": 0.4,
+        "similarity_definition": 0.2075,
+        "similarity_combined": 0.323
+      },
+      {
+        "theme_a": "Self-Efficacy and Engineering Identity Measurement",
+        "theme_b": "Self-Efficacy and Learning Experiences in Engineering Education",
+        "similarity_name": 0.4,
+        "similarity_definition": 0.1935,
+        "similarity_combined": 0.3174
+      },
+      {
+        "theme_a": "Instrument Development and Psychometric Validation in Engineering Education",
+        "theme_b": "Validation and Use of Competency Assessment Instruments in Engineering Education",
+        "similarity_name": 0.3846,
+        "similarity_definition": 0.2034,
+        "similarity_combined": 0.3121
+      },
+      {
+        "theme_a": "Assessment of Generic, Transversal, and Professional Competencies",
+        "theme_b": "Professional, Ethical, and Generic Competencies in Engineering Education",
+        "similarity_name": 0.3636,
+        "similarity_definition": 0.1186,
+        "similarity_combined": 0.2656
+      },
+      {
+        "theme_a": "Critical, Reflective, and Representational Thinking Assessment",
+        "theme_b": "Critical Thinking and Decision-Making in Engineering",
+        "similarity_name": 0.3,
+        "similarity_definition": 0.2045,
+        "similarity_combined": 0.2618
+      },
+      {
+        "theme_a": "Mindset and Dispositional Factors in Engineering",
+        "theme_b": "Innovation and Entrepreneurship Competencies in Engineering",
+        "similarity_name": 0.3333,
+        "similarity_definition": 0.1071,
+        "similarity_combined": 0.2429
+      },
+      {
+        "theme_a": "Attitudes Toward Engineering and Practical Learning Experiences",
+        "theme_b": "Metacognitive and Learning Orientation Tools in Engineering Education",
+        "similarity_name": 0.25,
+        "similarity_definition": 0.1346,
+        "similarity_combined": 0.2038
+      },
+      {
+        "theme_a": "Affective and Motivational Factors in Professional Skill Development",
+        "theme_b": "Measurement Invariance and Fairness in Engineering Education Assessments",
+        "similarity_name": 0.1429,
+        "similarity_definition": 0.2281,
+        "similarity_combined": 0.1769
+      },
+      {
+        "theme_a": "Research Competences and Investigative Skills",
+        "theme_b": "Research Competencies in Engineering Education",
+        "similarity_name": 0.1111,
+        "similarity_definition": 0.2195,
+        "similarity_combined": 0.1545
+      },
+      {
+        "theme_a": "Learning Environment and Pedagogical Practices Assessment",
+        "theme_b": "Impact of Experiential Learning on Engineering Student Outcomes",
+        "similarity_name": 0.0769,
+        "similarity_definition": 0.2586,
+        "similarity_combined": 0.1496
+      },
+      {
+        "theme_a": "Affective and Ethical Competence Assessment",
+        "theme_b": "Representational Competence in Engineering",
+        "similarity_name": 0.125,
+        "similarity_definition": 0.1636,
+        "similarity_combined": 0.1405
+      },
+      {
+        "theme_a": "Linking Student Attributes to Career Intentions and Professional Outcomes",
+        "theme_b": "Statistical Mediation and Correlation in Engineering Education Research",
+        "similarity_name": 0.0625,
+        "similarity_definition": 0.25,
+        "similarity_combined": 0.1375
+      },
+      {
+        "theme_a": "Rubric-Based Competency Assessment",
+        "theme_b": "Systems Thinking and Problem-Solving in Engineering",
+        "similarity_name": 0.0,
+        "similarity_definition": 0.1356,
+        "similarity_combined": 0.0542
+      }
+    ],
+    "grounding_a": 0.867,
+    "grounding_b": 0.896
+  }
+}

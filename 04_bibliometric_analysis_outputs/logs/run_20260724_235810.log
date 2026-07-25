@@ -1,0 +1,130 @@
+2026-07-24 23:58:10 [INFO] bibliometrico.main: ============================================================
+2026-07-24 23:58:10 [INFO] bibliometrico.main: Sistema de Analisis Bibliometrico de Frontera
+2026-07-24 23:58:10 [INFO] bibliometrico.main: Fases seleccionadas: [8]
+2026-07-24 23:58:10 [INFO] bibliometrico.main: ============================================================
+2026-07-24 23:58:10 [INFO] bibliometrico.main: Checkpoint cargado: 96 articulos
+2026-07-24 23:58:10 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map: PHASE 8 — Knowledge Map
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map: Knowledge Map — Layer A (algorithmic)
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map: Impact weights: {'significance': 0.4, 'recency': 0.2, 'triangulation': 0.4}
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map:   Phase 0b: 0 findings collected
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map:   Phase 2a: 4 findings collected
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map:   Phase 2e: 15 findings collected
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map:   Phase 2f: 2 findings collected
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map:   Phase 2g: 21 findings collected
+2026-07-24 23:58:10 [INFO] bibliometrico.knowledge_map:   Phase 2h: 20 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 2i: 20 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 2j: 4 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 3: 10 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.thematic_strategy: SCP/MCP: 61 SCP, 13 MCP (17.6% international), 22 unknown
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 3b: 1 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 5c: 0 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 6: 11 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 7: 3 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 9: 4 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   RDM collector: 15 findings from 96 articles
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase 10: 15 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map:   Phase meta: 6 findings collected
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map: Total findings collected: 136
+2026-07-24 23:58:11 [WARNING] bibliometrico.knowledge_map:   2/16 phases contributed 0 findings (empty: ['0b', '5c'], failed: none) — Knowledge Map may be incomplete.
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map: Triangulation: 244 cross-phase links found, 74 findings with ≥2 corroborations
+2026-07-24 23:58:11 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\knowledge_map_data.json
+2026-07-24 23:58:11 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\impact_weight_sensitivity.json
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map: Knowledge Map Layer A: 136 findings, 74 triangulated, 244 cross-links
+2026-07-24 23:58:11 [INFO] bibliometrico.knowledge_map: Knowledge Map — Layer B (LLM synthesis)
+2026-07-24 23:58:13 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map:     Hallucination control (themes): grounding=100%, no flags
+2026-07-24 23:58:22 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\knowledge_map_synthesis.json
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map:   LLM synthesis: 5 cross-cutting themes identified
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Knowledge Map HTML dashboard saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\knowledge_map_overview.html
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: ENHANCED ACADEMIC DRAFT — Model Recommendation
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: This feature generates a publication-ready academic draft across 8 interconnected results sections plus intro, methodology, and discussion proposals (11 LLM calls total).
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Uses a non-reasoning model by default (e.g. deepseek-v4-flash): this draft is meant to stay anchored to the already-computed deterministic impact ranking, and reasoning_content isn't persisted anywhere in this pipeline's trace log, so a reasoning model adds cost/latency without adding auditability.
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Current provider=auto, model=None
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Estimated cost: ~$0.50-2.00 USD for 11 LLM calls
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Knowledge Map — Layer B-Enhanced (academic draft generation)
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Parsed 96 BibTeX entries from resultados.bib
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Article-BibTeX mapping: 74 matched out of 96
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Figure registry: 251 items from 11 directories
+2026-07-24 23:58:22 [INFO] bibliometrico.thematic_strategy: SCP/MCP: 61 SCP, 13 MCP (17.6% international), 22 unknown
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map:   Results word budget: 1993 words across 9 active sections (target total: 2000)
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map:   Generating section 1/9: Perfil del corpus y crecimiento
+2026-07-24 23:58:22 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:22 [INFO] bibliometrico.knowledge_map: Phase 8 protocol loaded: 7293 chars from phase8_protocol.txt
+2026-07-24 23:58:23 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:27 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_1): grounding=100%, no flags
+2026-07-24 23:58:27 [INFO] bibliometrico.knowledge_map:     Section 1: 218 words generated
+2026-07-24 23:58:27 [INFO] bibliometrico.knowledge_map:   Generating section 2/9: Estructura intelectual (co-citacion, espectroscopia)
+2026-07-24 23:58:27 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:28 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:33 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_2): grounding=100%, no flags
+2026-07-24 23:58:33 [INFO] bibliometrico.knowledge_map:     Section 2: 281 words generated
+2026-07-24 23:58:33 [INFO] bibliometrico.knowledge_map:   Generating section 3/9: Estructura social (colaboracion, SCP/MCP)
+2026-07-24 23:58:33 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:34 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:37 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_3): grounding=100%, no flags
+2026-07-24 23:58:37 [INFO] bibliometrico.knowledge_map:     Section 3: 163 words generated
+2026-07-24 23:58:37 [INFO] bibliometrico.knowledge_map:   Generating section 4/9: Estructura conceptual (keywords, temas, clusters)
+2026-07-24 23:58:37 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:38 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:43 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_4): grounding=100%, no flags
+2026-07-24 23:58:43 [INFO] bibliometrico.knowledge_map:     Section 4: 252 words generated
+2026-07-24 23:58:43 [INFO] bibliometrico.knowledge_map:   Generating section 5/9: Frentes de investigacion y topicos emergentes
+2026-07-24 23:58:43 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:44 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:49 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_5): grounding=100%, no flags
+2026-07-24 23:58:49 [INFO] bibliometrico.knowledge_map:     Section 5: 253 words generated
+2026-07-24 23:58:49 [INFO] bibliometrico.knowledge_map:   Generating section 6/9: Vacios y direcciones futuras
+2026-07-24 23:58:49 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:50 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:55 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_6): grounding=100%, no flags
+2026-07-24 23:58:55 [INFO] bibliometrico.knowledge_map:     Section 6: 241 words generated
+2026-07-24 23:58:55 [INFO] bibliometrico.knowledge_map:   Generating section 7/9: Indicadores de impacto y calidad
+2026-07-24 23:58:55 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:58:56 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:58:59 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_7): grounding=100%, no flags
+2026-07-24 23:58:59 [INFO] bibliometrico.knowledge_map:     Section 7: 195 words generated
+2026-07-24 23:58:59 [INFO] bibliometrico.knowledge_map:   Generating section 8/9: Patrones transversales (hallazgos triangulados)
+2026-07-24 23:58:59 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:59:00 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:59:04 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_8): grounding=100%, no flags
+2026-07-24 23:59:04 [INFO] bibliometrico.knowledge_map:     Section 8: 231 words generated
+2026-07-24 23:59:04 [INFO] bibliometrico.knowledge_map:   Generating section 9/9: Dinamica investigativa 3D (Research Dynamics Manifold)
+2026-07-24 23:59:04 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:59:05 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:59:09 [INFO] bibliometrico.knowledge_map:     Hallucination control (section_9): grounding=100%, no flags
+2026-07-24 23:59:09 [INFO] bibliometrico.knowledge_map:     Section 9: 221 words generated
+2026-07-24 23:59:09 [INFO] bibliometrico.knowledge_map:   Enhanced hallucination control: grounding(applicable)=100% over 9/9 sections, flags=0, IDs ok=0/bad=0, cites ok=28/bad=0
+2026-07-24 23:59:09 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\hallucination_control_enhanced.json
+2026-07-24 23:59:09 [INFO] bibliometrico.knowledge_map: Enhanced results draft: 4350 words → G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\knowledge_map_results_draft.md
+2026-07-24 23:59:09 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:59:10 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:59:33 [INFO] bibliometrico.knowledge_map:     Hallucination control (introduction_plan): grounding=0%, no flags
+2026-07-24 23:59:33 [INFO] bibliometrico.knowledge_map: Introduction plan: 1485 words → G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\knowledge_map_introduction_proposal.md
+2026-07-24 23:59:33 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:59:34 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:59:55 [INFO] bibliometrico.knowledge_map:     Hallucination control (methodology_plan): grounding=0%, no flags
+2026-07-24 23:59:55 [INFO] bibliometrico.knowledge_map: Methodology plan: 1109 words → G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\knowledge_map_methodology_proposal.md
+2026-07-24 23:59:55 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:59:56 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-25 00:00:18 [INFO] bibliometrico.knowledge_map:     Hallucination control (discussion_plan): grounding=100%, no flags
+2026-07-25 00:00:18 [INFO] bibliometrico.knowledge_map: Discussion plan: 1131 words → G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\knowledge_map\knowledge_map_discussion_proposal.md
+2026-07-25 00:00:18 [INFO] bibliometrico.knowledge_map:   Enhanced drafts: results=4350w, intro=1485w, method=1109w, discussion=1131w
+2026-07-25 00:00:18 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-25 00:00:18 [INFO] bibliometrico.knowledge_map: Knowledge Map complete: 136 findings, 74 triangulated, LLM=yes, enhanced=yes
+2026-07-25 00:00:18 [INFO] bibliometrico.knowledge_map: ============================================================
+2026-07-25 00:00:18 [INFO] bibliometrico.main: Phase 8: Knowledge Map — 136 findings, 74 triangulated, LLM=yes
+2026-07-25 00:00:18 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-25 00:00:18 [INFO] bibliometrico.main: ============================================================
+2026-07-25 00:00:18 [INFO] bibliometrico.main: Pipeline completado.
+2026-07-25 00:00:18 [INFO] bibliometrico.main: ============================================================
+2026-07-25 00:00:18 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-25 00:00:19 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_235810.json
+2026-07-25 00:00:19 [INFO] bibliometrico.provenance: Manifiesto de corrida: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_235810.json

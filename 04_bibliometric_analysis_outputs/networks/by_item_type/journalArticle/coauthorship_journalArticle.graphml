@@ -1,0 +1,2002 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d3" for="node" attr.name="community" attr.type="long"/>
+<key id="d2" for="node" attr.name="total_cites" attr.type="long"/>
+<key id="d1" for="node" attr.name="frequency" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Jhon Herminson Arias-Rueda">
+  <data key="d0">Jhon Herminson Arias-Rueda</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+</node>
+<node id="César Augusto Arias-Rueda">
+  <data key="d0">César Augusto Arias-Rueda</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+</node>
+<node id="Vladimir Camelo Avedoy">
+  <data key="d0">Vladimir Camelo Avedoy</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Mario Humberto Ramírez Díaz">
+  <data key="d0">Mario Humberto Ramírez Díaz</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">3</data>
+</node>
+<node id="José Luis Santana Fajardo">
+  <data key="d0">José Luis Santana Fajardo</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Abigail Rojas González">
+  <data key="d0">Abigail Rojas González</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">3</data>
+</node>
+<node id="Beatrice Adriana Balgiu">
+  <data key="d0">Beatrice Adriana Balgiu</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">8</data>
+</node>
+<node id="Daniela Maricica Cotoară">
+  <data key="d0">Daniela Maricica Cotoară</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">8</data>
+</node>
+<node id="Andrei Simionescu‐Panait">
+  <data key="d0">Andrei Simionescu‐Panait</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">8</data>
+</node>
+<node id="Ayodeji Bolanle Balogun">
+  <data key="d0">Ayodeji Bolanle Balogun</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">10</data>
+</node>
+<node id="Olufunke Adewunmi Ayegbusi">
+  <data key="d0">Olufunke Adewunmi Ayegbusi</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">10</data>
+</node>
+<node id="Alejandro Baquero-Sierra">
+  <data key="d0">Alejandro Baquero-Sierra</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">13</data>
+</node>
+<node id="Cristián Vargas-Ordóñez">
+  <data key="d0">Cristián Vargas-Ordóñez</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">13</data>
+</node>
+<node id="Jacqueline Tawney">
+  <data key="d0">Jacqueline Tawney</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">13</data>
+</node>
+<node id="Michael J. Robinson">
+  <data key="d0">Michael J. Robinson</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">13</data>
+</node>
+<node id="B R Beena">
+  <data key="d0">B R Beena</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">16</data>
+</node>
+<node id="Suresh E S M.">
+  <data key="d0">Suresh E S M.</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">16</data>
+</node>
+<node id="Zinta S. Byrne">
+  <data key="d0">Zinta S. Byrne</data>
+  <data key="d1">1</data>
+  <data key="d2">49</data>
+  <data key="d3">17</data>
+</node>
+<node id="James W. Weston">
+  <data key="d0">James W. Weston</data>
+  <data key="d1">1</data>
+  <data key="d2">49</data>
+  <data key="d3">17</data>
+</node>
+<node id="Kelly A. Cave">
+  <data key="d0">Kelly A. Cave</data>
+  <data key="d1">1</data>
+  <data key="d2">49</data>
+  <data key="d3">17</data>
+</node>
+<node id="Rajesh Chakraborty">
+  <data key="d0">Rajesh Chakraborty</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">20</data>
+</node>
+<node id="Jasleen Kaur">
+  <data key="d0">Jasleen Kaur</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">20</data>
+</node>
+<node id="Omar Chamorro-Atalaya">
+  <data key="d0">Omar Chamorro-Atalaya</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Carlos Gamarra-Bustillos">
+  <data key="d0">Carlos Gamarra-Bustillos</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Víctor Villanueva-Acosta">
+  <data key="d0">Víctor Villanueva-Acosta</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Oscar Samanamud-Loyola">
+  <data key="d0">Oscar Samanamud-Loyola</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Antenor Leva-Apaza">
+  <data key="d0">Antenor Leva-Apaza</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Abel Alejandro Tasayco Jala">
+  <data key="d0">Abel Alejandro Tasayco Jala</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Almintor Torres-Quiroz">
+  <data key="d0">Almintor Torres-Quiroz</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Gutember Peralta-Eugenio">
+  <data key="d0">Gutember Peralta-Eugenio</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">22</data>
+</node>
+<node id="Yu‐Hung Chien">
+  <data key="d0">Yu‐Hung Chien</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">33</data>
+</node>
+<node id="Kuen‐Yi Lin">
+  <data key="d0">Kuen‐Yi Lin</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">33</data>
+</node>
+<node id="Hsien-Sheng Hsiao">
+  <data key="d0">Hsien-Sheng Hsiao</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">33</data>
+</node>
+<node id="Yu‐Shan Chang">
+  <data key="d0">Yu‐Shan Chang</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">33</data>
+</node>
+<node id="Shaio-Chung Chan">
+  <data key="d0">Shaio-Chung Chan</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">33</data>
+</node>
+<node id="Nathan Choe">
+  <data key="d0">Nathan Choe</data>
+  <data key="d1">1</data>
+  <data key="d2">41</data>
+  <data key="d3">36</data>
+</node>
+<node id="Maura Borrego">
+  <data key="d0">Maura Borrego</data>
+  <data key="d1">1</data>
+  <data key="d2">41</data>
+  <data key="d3">36</data>
+</node>
+<node id="Mariana Leandro Cruz">
+  <data key="d0">Mariana Leandro Cruz</data>
+  <data key="d1">1</data>
+  <data key="d2">17</data>
+  <data key="d3">40</data>
+</node>
+<node id="Maartje van den Bogaard">
+  <data key="d0">Maartje van den Bogaard</data>
+  <data key="d1">1</data>
+  <data key="d2">17</data>
+  <data key="d3">40</data>
+</node>
+<node id="Gillian Saunders-Smits">
+  <data key="d0">Gillian Saunders-Smits</data>
+  <data key="d1">1</data>
+  <data key="d2">17</data>
+  <data key="d3">40</data>
+</node>
+<node id="Pim Groen">
+  <data key="d0">Pim Groen</data>
+  <data key="d1">1</data>
+  <data key="d2">17</data>
+  <data key="d3">40</data>
+</node>
+<node id="Maurice Danaher">
+  <data key="d0">Maurice Danaher</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">43</data>
+</node>
+<node id="Anthony Rhodes">
+  <data key="d0">Anthony Rhodes</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">43</data>
+</node>
+<node id="Ashley Ater Kranov">
+  <data key="d0">Ashley Ater Kranov</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">43</data>
+</node>
+<node id="Endryansyah Endryansyah">
+  <data key="d0">Endryansyah Endryansyah</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">47</data>
+</node>
+<node id="Bambang Suprianto">
+  <data key="d0">Bambang Suprianto</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">47</data>
+</node>
+<node id="Puput Wanarti Rusimamto">
+  <data key="d0">Puput Wanarti Rusimamto</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">47</data>
+</node>
+<node id="Ratna Suhartini">
+  <data key="d0">Ratna Suhartini</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">47</data>
+</node>
+<node id="Aline Cazarini Felício">
+  <data key="d0">Aline Cazarini Felício</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">48</data>
+</node>
+<node id="Jorge Muniz">
+  <data key="d0">Jorge Muniz</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">48</data>
+</node>
+<node id="Stephen Frezza">
+  <data key="d0">Stephen Frezza</data>
+  <data key="d1">1</data>
+  <data key="d2">28</data>
+  <data key="d3">52</data>
+</node>
+<node id="Mats Daniels">
+  <data key="d0">Mats Daniels</data>
+  <data key="d1">1</data>
+  <data key="d2">28</data>
+  <data key="d3">52</data>
+</node>
+<node id="Anne Wilkin">
+  <data key="d0">Anne Wilkin</data>
+  <data key="d1">1</data>
+  <data key="d2">28</data>
+  <data key="d3">52</data>
+</node>
+<node id="Inmaculada Sánchez">
+  <data key="d0">Inmaculada Sánchez</data>
+  <data key="d1">1</data>
+  <data key="d2">22</data>
+  <data key="d3">53</data>
+</node>
+<node id="Domingo Verano Tacoronte">
+  <data key="d0">Domingo Verano Tacoronte</data>
+  <data key="d1">1</data>
+  <data key="d2">22</data>
+  <data key="d3">53</data>
+</node>
+<node id="Sara M. González-Betancor">
+  <data key="d0">Sara M. González-Betancor</data>
+  <data key="d1">1</data>
+  <data key="d2">22</data>
+  <data key="d3">53</data>
+</node>
+<node id="Margarita Fernández Monroy">
+  <data key="d0">Margarita Fernández Monroy</data>
+  <data key="d1">1</data>
+  <data key="d2">22</data>
+  <data key="d3">53</data>
+</node>
+<node id="Alicia Bolívar-Cruz">
+  <data key="d0">Alicia Bolívar-Cruz</data>
+  <data key="d1">1</data>
+  <data key="d2">22</data>
+  <data key="d3">53</data>
+</node>
+<node id="Patton O. Garriott">
+  <data key="d0">Patton O. Garriott</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Heather K. Hunt">
+  <data key="d0">Heather K. Hunt</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Rachel L. Navarro">
+  <data key="d0">Rachel L. Navarro</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Lisa Y. Flores">
+  <data key="d0">Lisa Y. Flores</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Bo Hyun Lee">
+  <data key="d0">Bo Hyun Lee</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Han Na Suh">
+  <data key="d0">Han Na Suh</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Julio Brionez">
+  <data key="d0">Julio Brionez</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Diana Slivensky">
+  <data key="d0">Diana Slivensky</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Hang-Shim Lee">
+  <data key="d0">Hang-Shim Lee</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">28</data>
+</node>
+<node id="Merve Gerçek">
+  <data key="d0">Merve Gerçek</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">29</data>
+</node>
+<node id="Sevgi Elmas Atay">
+  <data key="d0">Sevgi Elmas Atay</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">29</data>
+</node>
+<node id="Dilek Yılmaz Börekçi">
+  <data key="d0">Dilek Yılmaz Börekçi</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">29</data>
+</node>
+<node id="Yi‐Chun Hong">
+  <data key="d0">Yi‐Chun Hong</data>
+  <data key="d1">1</data>
+  <data key="d2">68</data>
+  <data key="d3">30</data>
+</node>
+<node id="Ikseon Choi">
+  <data key="d0">Ikseon Choi</data>
+  <data key="d1">1</data>
+  <data key="d2">68</data>
+  <data key="d3">30</data>
+</node>
+<node id="Andi Muhammad Idkhan">
+  <data key="d0">Andi Muhammad Idkhan</data>
+  <data key="d1">1</data>
+  <data key="d2">23</data>
+  <data key="d3">31</data>
+</node>
+<node id="Husain Syam">
+  <data key="d0">Husain Syam</data>
+  <data key="d1">1</data>
+  <data key="d2">23</data>
+  <data key="d3">31</data>
+</node>
+<node id="Sunardi Sunardi">
+  <data key="d0">Sunardi Sunardi</data>
+  <data key="d1">1</data>
+  <data key="d2">23</data>
+  <data key="d3">31</data>
+</node>
+<node id="Abdul Hasim">
+  <data key="d0">Abdul Hasim</data>
+  <data key="d1">1</data>
+  <data key="d2">23</data>
+  <data key="d3">31</data>
+</node>
+<node id="Jackson, Andrew">
+  <data key="d0">Jackson, Andrew</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">32</data>
+</node>
+<node id="Ming‐Der Jean">
+  <data key="d0">Ming‐Der Jean</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">34</data>
+</node>
+<node id="Jibin Jiang">
+  <data key="d0">Jibin Jiang</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">34</data>
+</node>
+<node id="Jia-Yi Chien">
+  <data key="d0">Jia-Yi Chien</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">34</data>
+</node>
+<node id="Buratin Khampirat">
+  <data key="d0">Buratin Khampirat</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">35</data>
+</node>
+<node id="Khushbu Khurana">
+  <data key="d0">Khushbu Khurana</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">37</data>
+</node>
+<node id="Rajnish Kumar Misra">
+  <data key="d0">Rajnish Kumar Misra</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">37</data>
+</node>
+<node id="Javeed Kittur">
+  <data key="d0">Javeed Kittur</data>
+  <data key="d1">1</data>
+  <data key="d2">37</data>
+  <data key="d3">38</data>
+</node>
+<node id="Güneş Korkmaz">
+  <data key="d0">Güneş Korkmaz</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">39</data>
+</node>
+<node id="Çetin Toraman">
+  <data key="d0">Çetin Toraman</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">39</data>
+</node>
+<node id="Engin Demir">
+  <data key="d0">Engin Demir</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">39</data>
+</node>
+<node id="Özgen Korkmaz">
+  <data key="d0">Özgen Korkmaz</data>
+  <data key="d1">2</data>
+  <data key="d2">48</data>
+  <data key="d3">41</data>
+</node>
+<node id="Halis Altun">
+  <data key="d0">Halis Altun</data>
+  <data key="d1">1</data>
+  <data key="d2">42</data>
+  <data key="d3">41</data>
+</node>
+<node id="Makbule Kübra Korkmaz">
+  <data key="d0">Makbule Kübra Korkmaz</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">41</data>
+</node>
+<node id="Jakob Clemen Lavrsen">
+  <data key="d0">Jakob Clemen Lavrsen</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">42</data>
+</node>
+<node id="Claus‐Christian Carbon">
+  <data key="d0">Claus‐Christian Carbon</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">42</data>
+</node>
+<node id="Jaap Daalhuizen">
+  <data key="d0">Jaap Daalhuizen</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">42</data>
+</node>
+<node id="Kimberly LeChasseur">
+  <data key="d0">Kimberly LeChasseur</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">44</data>
+</node>
+<node id="Sarah Wodin-Schwartz">
+  <data key="d0">Sarah Wodin-Schwartz</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">44</data>
+</node>
+<node id="Andrew Sloboda">
+  <data key="d0">Andrew Sloboda</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">44</data>
+</node>
+<node id="Adam Powell">
+  <data key="d0">Adam Powell</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">44</data>
+</node>
+<node id="Lillian Y. Y. Luk">
+  <data key="d0">Lillian Y. Y. Luk</data>
+  <data key="d1">1</data>
+  <data key="d2">27</data>
+  <data key="d3">45</data>
+</node>
+<node id="Cecilia Ka Yuk Chan">
+  <data key="d0">Cecilia Ka Yuk Chan</data>
+  <data key="d1">1</data>
+  <data key="d2">27</data>
+  <data key="d3">45</data>
+</node>
+<node id="Natasha A. Mamaril">
+  <data key="d0">Natasha A. Mamaril</data>
+  <data key="d1">1</data>
+  <data key="d2">296</data>
+  <data key="d3">46</data>
+</node>
+<node id="Ellen L. Usher">
+  <data key="d0">Ellen L. Usher</data>
+  <data key="d1">1</data>
+  <data key="d2">296</data>
+  <data key="d3">46</data>
+</node>
+<node id="Caihong R. Li">
+  <data key="d0">Caihong R. Li</data>
+  <data key="d1">1</data>
+  <data key="d2">296</data>
+  <data key="d3">46</data>
+</node>
+<node id="D. Ross Economy">
+  <data key="d0">D. Ross Economy</data>
+  <data key="d1">1</data>
+  <data key="d2">296</data>
+  <data key="d3">46</data>
+</node>
+<node id="Marian Kennedy">
+  <data key="d0">Marian Kennedy</data>
+  <data key="d1">1</data>
+  <data key="d2">296</data>
+  <data key="d3">46</data>
+</node>
+<node id="Masadliahani Masduki">
+  <data key="d0">Masadliahani Masduki</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">49</data>
+</node>
+<node id="Normah Zakaria">
+  <data key="d0">Normah Zakaria</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">49</data>
+</node>
+<node id="Mary McCormick">
+  <data key="d0">Mary McCormick</data>
+  <data key="d1">1</data>
+  <data key="d2">75</data>
+  <data key="d3">50</data>
+</node>
+<node id="Angela Bielefeldt">
+  <data key="d0">Angela Bielefeldt</data>
+  <data key="d1">1</data>
+  <data key="d2">75</data>
+  <data key="d3">50</data>
+</node>
+<node id="Christopher W. Swan">
+  <data key="d0">Christopher W. Swan</data>
+  <data key="d1">1</data>
+  <data key="d2">75</data>
+  <data key="d3">50</data>
+</node>
+<node id="Kurtis G. Paterson">
+  <data key="d0">Kurtis G. Paterson</data>
+  <data key="d1">1</data>
+  <data key="d2">75</data>
+  <data key="d3">50</data>
+</node>
+<node id="Morin, S.">
+  <data key="d0">Morin, S.</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">51</data>
+</node>
+<node id="Bourdeau, L. M.">
+  <data key="d0">Bourdeau, L. M.</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">51</data>
+</node>
+<node id="Robert, Jean-Marc">
+  <data key="d0">Robert, Jean-Marc</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">51</data>
+</node>
+<node id="Hossein Motahhari Nejad">
+  <data key="d0">Hossein Motahhari Nejad</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">54</data>
+</node>
+<node id="Irene Neumann">
+  <data key="d0">Irene Neumann</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">55</data>
+</node>
+<node id="Bettina Rösken-Winter">
+  <data key="d0">Bettina Rösken-Winter</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">55</data>
+</node>
+<node id="Malte Lehmann">
+  <data key="d0">Malte Lehmann</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">55</data>
+</node>
+<node id="Christoph Duchhardt">
+  <data key="d0">Christoph Duchhardt</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">55</data>
+</node>
+<node id="Aiso Heinze">
+  <data key="d0">Aiso Heinze</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">55</data>
+</node>
+<node id="Reinhold Nickolaus">
+  <data key="d0">Reinhold Nickolaus</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">55</data>
+</node>
+<node id="Teresa Nogueira">
+  <data key="d0">Teresa Nogueira</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">56</data>
+</node>
+<node id="José Magano">
+  <data key="d0">José Magano</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">56</data>
+</node>
+<node id="Eunice Fontão">
+  <data key="d0">Eunice Fontão</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">56</data>
+</node>
+<node id="Marina Sousa">
+  <data key="d0">Marina Sousa</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">56</data>
+</node>
+<node id="Ângela Leite">
+  <data key="d0">Ângela Leite</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">56</data>
+</node>
+<node id="Lauri Partanen">
+  <data key="d0">Lauri Partanen</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">0</data>
+</node>
+<node id="Viivi Virtanen">
+  <data key="d0">Viivi Virtanen</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">0</data>
+</node>
+<node id="Henna Asikainen">
+  <data key="d0">Henna Asikainen</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">0</data>
+</node>
+<node id="Liisa Myyry">
+  <data key="d0">Liisa Myyry</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">0</data>
+</node>
+<node id="Bimal Nepal">
+  <data key="d0">Bimal Nepal</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">2</data>
+</node>
+<node id="Michael Johnson">
+  <data key="d0">Michael Johnson</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">2</data>
+</node>
+<node id="Debapriyo Paul">
+  <data key="d0">Debapriyo Paul</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">2</data>
+</node>
+<node id="Timothy J. Jacobs">
+  <data key="d0">Timothy J. Jacobs</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">2</data>
+</node>
+<node id="Jacob Pearce">
+  <data key="d0">Jacob Pearce</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">4</data>
+</node>
+<node id="Adam R. Phillips">
+  <data key="d0">Adam R. Phillips</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">5</data>
+</node>
+<node id="Colin Lambie">
+  <data key="d0">Colin Lambie</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">5</data>
+</node>
+<node id="Jason Power">
+  <data key="d0">Jason Power</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">6</data>
+</node>
+<node id="David A. Tanner">
+  <data key="d0">David A. Tanner</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">6</data>
+</node>
+<node id="Jeffrey Buckley">
+  <data key="d0">Jeffrey Buckley</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">6</data>
+</node>
+<node id="Vanessa Egan">
+  <data key="d0">Vanessa Egan</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">6</data>
+</node>
+<node id="Geraldine Mooney Simmie">
+  <data key="d0">Geraldine Mooney Simmie</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">6</data>
+</node>
+<node id="Kenneth Reid">
+  <data key="d0">Kenneth Reid</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">7</data>
+</node>
+<node id="P.K. Imbrie">
+  <data key="d0">P.K. Imbrie</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">7</data>
+</node>
+<node id="Joe Lin">
+  <data key="d0">Joe Lin</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">7</data>
+</node>
+<node id="Teri Reed">
+  <data key="d0">Teri Reed</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">7</data>
+</node>
+<node id="Jason C. Immekus">
+  <data key="d0">Jason C. Immekus</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">7</data>
+</node>
+<node id="Hyun Kyoung Ro">
+  <data key="d0">Hyun Kyoung Ro</data>
+  <data key="d1">1</data>
+  <data key="d2">64</data>
+  <data key="d3">9</data>
+</node>
+<node id="Dan Merson">
+  <data key="d0">Dan Merson</data>
+  <data key="d1">1</data>
+  <data key="d2">64</data>
+  <data key="d3">9</data>
+</node>
+<node id="Lisa R. Lattuca">
+  <data key="d0">Lisa R. Lattuca</data>
+  <data key="d1">1</data>
+  <data key="d2">64</data>
+  <data key="d3">9</data>
+</node>
+<node id="Patrick T. Terenzini">
+  <data key="d0">Patrick T. Terenzini</data>
+  <data key="d1">1</data>
+  <data key="d2">64</data>
+  <data key="d3">9</data>
+</node>
+<node id="Fermín Sánchez Carracedo">
+  <data key="d0">Fermín Sánchez Carracedo</data>
+  <data key="d1">1</data>
+  <data key="d2">48</data>
+  <data key="d3">11</data>
+</node>
+<node id="Bàrbara Sureda Carbonell">
+  <data key="d0">Bàrbara Sureda Carbonell</data>
+  <data key="d1">1</data>
+  <data key="d2">48</data>
+  <data key="d3">11</data>
+</node>
+<node id="Francisco Manuel Moreno-Pino">
+  <data key="d0">Francisco Manuel Moreno-Pino</data>
+  <data key="d1">1</data>
+  <data key="d2">48</data>
+  <data key="d3">11</data>
+</node>
+<node id="Daniel Romero-Portillo">
+  <data key="d0">Daniel Romero-Portillo</data>
+  <data key="d1">1</data>
+  <data key="d2">48</data>
+  <data key="d3">11</data>
+</node>
+<node id="Jaime Segarra">
+  <data key="d0">Jaime Segarra</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">12</data>
+</node>
+<node id="Andres Galarza">
+  <data key="d0">Andres Galarza</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">12</data>
+</node>
+<node id="Leopoldo Pauta">
+  <data key="d0">Leopoldo Pauta</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">12</data>
+</node>
+<node id="Abel Cabrera-Martínez">
+  <data key="d0">Abel Cabrera-Martínez</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">12</data>
+</node>
+<node id="Natalie Simper">
+  <data key="d0">Natalie Simper</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">14</data>
+</node>
+<node id="Jake Kaupp">
+  <data key="d0">Jake Kaupp</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">14</data>
+</node>
+<node id="Brian Frank">
+  <data key="d0">Brian Frank</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">14</data>
+</node>
+<node id="Jill Scott">
+  <data key="d0">Jill Scott</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">14</data>
+</node>
+<node id="Ana-Lucía Pérez-Suasnavas">
+  <data key="d0">Ana-Lucía Pérez-Suasnavas</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">15</data>
+</node>
+<node id="Karina Cela">
+  <data key="d0">Karina Cela</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">15</data>
+</node>
+<node id="Universitas Negeri Yogyakarta">
+  <data key="d0">Universitas Negeri Yogyakarta</data>
+  <data key="d1">4</data>
+  <data key="d2">8</data>
+  <data key="d3">18</data>
+</node>
+<node id="Tafakur">
+  <data key="d0">Tafakur</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">18</data>
+</node>
+<node id="Samsul Hadi">
+  <data key="d0">Samsul Hadi</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">18</data>
+</node>
+<node id="Zainul Arifin">
+  <data key="d0">Zainul Arifin</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">18</data>
+</node>
+<node id="Sudji Munadi">
+  <data key="d0">Sudji Munadi</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">18</data>
+</node>
+<node id="Päivi Taskinen">
+  <data key="d0">Päivi Taskinen</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">19</data>
+</node>
+<node id="Jochen Steimel">
+  <data key="d0">Jochen Steimel</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">19</data>
+</node>
+<node id="Linda Gräfe">
+  <data key="d0">Linda Gräfe</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">19</data>
+</node>
+<node id="Sebastian Engell">
+  <data key="d0">Sebastian Engell</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">19</data>
+</node>
+<node id="Andreas Frey">
+  <data key="d0">Andreas Frey</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">19</data>
+</node>
+<node id="Roland Tormey">
+  <data key="d0">Roland Tormey</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">21</data>
+</node>
+<node id="Marc Laperrouza">
+  <data key="d0">Marc Laperrouza</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">21</data>
+</node>
+<node id="Jesús Diego Tuero-O'Donnell">
+  <data key="d0">Jesús Diego Tuero-O'Donnell</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">23</data>
+</node>
+<node id="Gilberto Castrejón">
+  <data key="d0">Gilberto Castrejón</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">23</data>
+</node>
+<node id="Pamela Olivo">
+  <data key="d0">Pamela Olivo</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">23</data>
+</node>
+<node id="Clara Viegas">
+  <data key="d0">Clara Viegas</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">24</data>
+</node>
+<node id="Natércia Lima">
+  <data key="d0">Natércia Lima</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">24</data>
+</node>
+<node id="Alexandra R. Costa">
+  <data key="d0">Alexandra R. Costa</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">24</data>
+</node>
+<node id="John William Atehortúa-Mosquera">
+  <data key="d0">John William Atehortúa-Mosquera</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">25</data>
+</node>
+<node id="Iliana Ramírez-Velásquez">
+  <data key="d0">Iliana Ramírez-Velásquez</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">25</data>
+</node>
+<node id="Kunyue Yang">
+  <data key="d0">Kunyue Yang</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">26</data>
+</node>
+<node id="Dong Han">
+  <data key="d0">Dong Han</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">26</data>
+</node>
+<node id="Soohyun Yi">
+  <data key="d0">Soohyun Yi</data>
+  <data key="d1">1</data>
+  <data key="d2">52</data>
+  <data key="d3">27</data>
+</node>
+<node id="Nathalie Duval‐Couetil">
+  <data key="d0">Nathalie Duval‐Couetil</data>
+  <data key="d1">1</data>
+  <data key="d2">52</data>
+  <data key="d3">27</data>
+</node>
+<edge source="Jhon Herminson Arias-Rueda" target="César Augusto Arias-Rueda">
+  <data key="d4">1</data>
+</edge>
+<edge source="Vladimir Camelo Avedoy" target="Mario Humberto Ramírez Díaz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Vladimir Camelo Avedoy" target="José Luis Santana Fajardo">
+  <data key="d4">1</data>
+</edge>
+<edge source="Vladimir Camelo Avedoy" target="Abigail Rojas González">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mario Humberto Ramírez Díaz" target="José Luis Santana Fajardo">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mario Humberto Ramírez Díaz" target="Abigail Rojas González">
+  <data key="d4">1</data>
+</edge>
+<edge source="José Luis Santana Fajardo" target="Abigail Rojas González">
+  <data key="d4">1</data>
+</edge>
+<edge source="Beatrice Adriana Balgiu" target="Daniela Maricica Cotoară">
+  <data key="d4">1</data>
+</edge>
+<edge source="Beatrice Adriana Balgiu" target="Andrei Simionescu‐Panait">
+  <data key="d4">1</data>
+</edge>
+<edge source="Daniela Maricica Cotoară" target="Andrei Simionescu‐Panait">
+  <data key="d4">1</data>
+</edge>
+<edge source="Ayodeji Bolanle Balogun" target="Olufunke Adewunmi Ayegbusi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Alejandro Baquero-Sierra" target="Cristián Vargas-Ordóñez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Alejandro Baquero-Sierra" target="Jacqueline Tawney">
+  <data key="d4">1</data>
+</edge>
+<edge source="Alejandro Baquero-Sierra" target="Michael J. Robinson">
+  <data key="d4">1</data>
+</edge>
+<edge source="Cristián Vargas-Ordóñez" target="Jacqueline Tawney">
+  <data key="d4">1</data>
+</edge>
+<edge source="Cristián Vargas-Ordóñez" target="Michael J. Robinson">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jacqueline Tawney" target="Michael J. Robinson">
+  <data key="d4">1</data>
+</edge>
+<edge source="B R Beena" target="Suresh E S M.">
+  <data key="d4">1</data>
+</edge>
+<edge source="Zinta S. Byrne" target="James W. Weston">
+  <data key="d4">1</data>
+</edge>
+<edge source="Zinta S. Byrne" target="Kelly A. Cave">
+  <data key="d4">1</data>
+</edge>
+<edge source="James W. Weston" target="Kelly A. Cave">
+  <data key="d4">1</data>
+</edge>
+<edge source="Rajesh Chakraborty" target="Jasleen Kaur">
+  <data key="d4">1</data>
+</edge>
+<edge source="Omar Chamorro-Atalaya" target="Carlos Gamarra-Bustillos">
+  <data key="d4">1</data>
+</edge>
+<edge source="Omar Chamorro-Atalaya" target="Víctor Villanueva-Acosta">
+  <data key="d4">1</data>
+</edge>
+<edge source="Omar Chamorro-Atalaya" target="Oscar Samanamud-Loyola">
+  <data key="d4">1</data>
+</edge>
+<edge source="Omar Chamorro-Atalaya" target="Antenor Leva-Apaza">
+  <data key="d4">1</data>
+</edge>
+<edge source="Omar Chamorro-Atalaya" target="Abel Alejandro Tasayco Jala">
+  <data key="d4">1</data>
+</edge>
+<edge source="Omar Chamorro-Atalaya" target="Almintor Torres-Quiroz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Omar Chamorro-Atalaya" target="Gutember Peralta-Eugenio">
+  <data key="d4">1</data>
+</edge>
+<edge source="Carlos Gamarra-Bustillos" target="Víctor Villanueva-Acosta">
+  <data key="d4">1</data>
+</edge>
+<edge source="Carlos Gamarra-Bustillos" target="Oscar Samanamud-Loyola">
+  <data key="d4">1</data>
+</edge>
+<edge source="Carlos Gamarra-Bustillos" target="Antenor Leva-Apaza">
+  <data key="d4">1</data>
+</edge>
+<edge source="Carlos Gamarra-Bustillos" target="Abel Alejandro Tasayco Jala">
+  <data key="d4">1</data>
+</edge>
+<edge source="Carlos Gamarra-Bustillos" target="Almintor Torres-Quiroz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Carlos Gamarra-Bustillos" target="Gutember Peralta-Eugenio">
+  <data key="d4">1</data>
+</edge>
+<edge source="Víctor Villanueva-Acosta" target="Oscar Samanamud-Loyola">
+  <data key="d4">1</data>
+</edge>
+<edge source="Víctor Villanueva-Acosta" target="Antenor Leva-Apaza">
+  <data key="d4">1</data>
+</edge>
+<edge source="Víctor Villanueva-Acosta" target="Abel Alejandro Tasayco Jala">
+  <data key="d4">1</data>
+</edge>
+<edge source="Víctor Villanueva-Acosta" target="Almintor Torres-Quiroz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Víctor Villanueva-Acosta" target="Gutember Peralta-Eugenio">
+  <data key="d4">1</data>
+</edge>
+<edge source="Oscar Samanamud-Loyola" target="Antenor Leva-Apaza">
+  <data key="d4">1</data>
+</edge>
+<edge source="Oscar Samanamud-Loyola" target="Abel Alejandro Tasayco Jala">
+  <data key="d4">1</data>
+</edge>
+<edge source="Oscar Samanamud-Loyola" target="Almintor Torres-Quiroz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Oscar Samanamud-Loyola" target="Gutember Peralta-Eugenio">
+  <data key="d4">1</data>
+</edge>
+<edge source="Antenor Leva-Apaza" target="Abel Alejandro Tasayco Jala">
+  <data key="d4">1</data>
+</edge>
+<edge source="Antenor Leva-Apaza" target="Almintor Torres-Quiroz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Antenor Leva-Apaza" target="Gutember Peralta-Eugenio">
+  <data key="d4">1</data>
+</edge>
+<edge source="Abel Alejandro Tasayco Jala" target="Almintor Torres-Quiroz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Abel Alejandro Tasayco Jala" target="Gutember Peralta-Eugenio">
+  <data key="d4">1</data>
+</edge>
+<edge source="Almintor Torres-Quiroz" target="Gutember Peralta-Eugenio">
+  <data key="d4">1</data>
+</edge>
+<edge source="Yu‐Hung Chien" target="Kuen‐Yi Lin">
+  <data key="d4">1</data>
+</edge>
+<edge source="Yu‐Hung Chien" target="Hsien-Sheng Hsiao">
+  <data key="d4">1</data>
+</edge>
+<edge source="Yu‐Hung Chien" target="Yu‐Shan Chang">
+  <data key="d4">1</data>
+</edge>
+<edge source="Yu‐Hung Chien" target="Shaio-Chung Chan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kuen‐Yi Lin" target="Hsien-Sheng Hsiao">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kuen‐Yi Lin" target="Yu‐Shan Chang">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kuen‐Yi Lin" target="Shaio-Chung Chan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Hsien-Sheng Hsiao" target="Yu‐Shan Chang">
+  <data key="d4">1</data>
+</edge>
+<edge source="Hsien-Sheng Hsiao" target="Shaio-Chung Chan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Yu‐Shan Chang" target="Shaio-Chung Chan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Nathan Choe" target="Maura Borrego">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mariana Leandro Cruz" target="Maartje van den Bogaard">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mariana Leandro Cruz" target="Gillian Saunders-Smits">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mariana Leandro Cruz" target="Pim Groen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Maartje van den Bogaard" target="Gillian Saunders-Smits">
+  <data key="d4">1</data>
+</edge>
+<edge source="Maartje van den Bogaard" target="Pim Groen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gillian Saunders-Smits" target="Pim Groen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Maurice Danaher" target="Anthony Rhodes">
+  <data key="d4">1</data>
+</edge>
+<edge source="Maurice Danaher" target="Ashley Ater Kranov">
+  <data key="d4">1</data>
+</edge>
+<edge source="Anthony Rhodes" target="Ashley Ater Kranov">
+  <data key="d4">1</data>
+</edge>
+<edge source="Endryansyah Endryansyah" target="Bambang Suprianto">
+  <data key="d4">1</data>
+</edge>
+<edge source="Endryansyah Endryansyah" target="Puput Wanarti Rusimamto">
+  <data key="d4">1</data>
+</edge>
+<edge source="Endryansyah Endryansyah" target="Ratna Suhartini">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bambang Suprianto" target="Puput Wanarti Rusimamto">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bambang Suprianto" target="Ratna Suhartini">
+  <data key="d4">1</data>
+</edge>
+<edge source="Puput Wanarti Rusimamto" target="Ratna Suhartini">
+  <data key="d4">1</data>
+</edge>
+<edge source="Aline Cazarini Felício" target="Jorge Muniz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Stephen Frezza" target="Mats Daniels">
+  <data key="d4">1</data>
+</edge>
+<edge source="Stephen Frezza" target="Anne Wilkin">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mats Daniels" target="Anne Wilkin">
+  <data key="d4">1</data>
+</edge>
+<edge source="Inmaculada Sánchez" target="Domingo Verano Tacoronte">
+  <data key="d4">1</data>
+</edge>
+<edge source="Inmaculada Sánchez" target="Sara M. González-Betancor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Inmaculada Sánchez" target="Margarita Fernández Monroy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Inmaculada Sánchez" target="Alicia Bolívar-Cruz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Domingo Verano Tacoronte" target="Sara M. González-Betancor">
+  <data key="d4">1</data>
+</edge>
+<edge source="Domingo Verano Tacoronte" target="Margarita Fernández Monroy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Domingo Verano Tacoronte" target="Alicia Bolívar-Cruz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Sara M. González-Betancor" target="Margarita Fernández Monroy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Sara M. González-Betancor" target="Alicia Bolívar-Cruz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Margarita Fernández Monroy" target="Alicia Bolívar-Cruz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Heather K. Hunt">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Rachel L. Navarro">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Lisa Y. Flores">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Bo Hyun Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Han Na Suh">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Julio Brionez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Diana Slivensky">
+  <data key="d4">1</data>
+</edge>
+<edge source="Patton O. Garriott" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Heather K. Hunt" target="Rachel L. Navarro">
+  <data key="d4">1</data>
+</edge>
+<edge source="Heather K. Hunt" target="Lisa Y. Flores">
+  <data key="d4">1</data>
+</edge>
+<edge source="Heather K. Hunt" target="Bo Hyun Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Heather K. Hunt" target="Han Na Suh">
+  <data key="d4">1</data>
+</edge>
+<edge source="Heather K. Hunt" target="Julio Brionez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Heather K. Hunt" target="Diana Slivensky">
+  <data key="d4">1</data>
+</edge>
+<edge source="Heather K. Hunt" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Rachel L. Navarro" target="Lisa Y. Flores">
+  <data key="d4">1</data>
+</edge>
+<edge source="Rachel L. Navarro" target="Bo Hyun Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Rachel L. Navarro" target="Han Na Suh">
+  <data key="d4">1</data>
+</edge>
+<edge source="Rachel L. Navarro" target="Julio Brionez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Rachel L. Navarro" target="Diana Slivensky">
+  <data key="d4">1</data>
+</edge>
+<edge source="Rachel L. Navarro" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lisa Y. Flores" target="Bo Hyun Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lisa Y. Flores" target="Han Na Suh">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lisa Y. Flores" target="Julio Brionez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lisa Y. Flores" target="Diana Slivensky">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lisa Y. Flores" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bo Hyun Lee" target="Han Na Suh">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bo Hyun Lee" target="Julio Brionez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bo Hyun Lee" target="Diana Slivensky">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bo Hyun Lee" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Han Na Suh" target="Julio Brionez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Han Na Suh" target="Diana Slivensky">
+  <data key="d4">1</data>
+</edge>
+<edge source="Han Na Suh" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Julio Brionez" target="Diana Slivensky">
+  <data key="d4">1</data>
+</edge>
+<edge source="Julio Brionez" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Diana Slivensky" target="Hang-Shim Lee">
+  <data key="d4">1</data>
+</edge>
+<edge source="Merve Gerçek" target="Sevgi Elmas Atay">
+  <data key="d4">1</data>
+</edge>
+<edge source="Merve Gerçek" target="Dilek Yılmaz Börekçi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Sevgi Elmas Atay" target="Dilek Yılmaz Börekçi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Yi‐Chun Hong" target="Ikseon Choi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Andi Muhammad Idkhan" target="Husain Syam">
+  <data key="d4">1</data>
+</edge>
+<edge source="Andi Muhammad Idkhan" target="Sunardi Sunardi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Andi Muhammad Idkhan" target="Abdul Hasim">
+  <data key="d4">1</data>
+</edge>
+<edge source="Husain Syam" target="Sunardi Sunardi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Husain Syam" target="Abdul Hasim">
+  <data key="d4">1</data>
+</edge>
+<edge source="Sunardi Sunardi" target="Abdul Hasim">
+  <data key="d4">1</data>
+</edge>
+<edge source="Ming‐Der Jean" target="Jibin Jiang">
+  <data key="d4">1</data>
+</edge>
+<edge source="Ming‐Der Jean" target="Jia-Yi Chien">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jibin Jiang" target="Jia-Yi Chien">
+  <data key="d4">1</data>
+</edge>
+<edge source="Khushbu Khurana" target="Rajnish Kumar Misra">
+  <data key="d4">1</data>
+</edge>
+<edge source="Güneş Korkmaz" target="Çetin Toraman">
+  <data key="d4">1</data>
+</edge>
+<edge source="Güneş Korkmaz" target="Engin Demir">
+  <data key="d4">1</data>
+</edge>
+<edge source="Çetin Toraman" target="Engin Demir">
+  <data key="d4">1</data>
+</edge>
+<edge source="Özgen Korkmaz" target="Halis Altun">
+  <data key="d4">1</data>
+</edge>
+<edge source="Özgen Korkmaz" target="Makbule Kübra Korkmaz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jakob Clemen Lavrsen" target="Claus‐Christian Carbon">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jakob Clemen Lavrsen" target="Jaap Daalhuizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Claus‐Christian Carbon" target="Jaap Daalhuizen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kimberly LeChasseur" target="Sarah Wodin-Schwartz">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kimberly LeChasseur" target="Andrew Sloboda">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kimberly LeChasseur" target="Adam Powell">
+  <data key="d4">1</data>
+</edge>
+<edge source="Sarah Wodin-Schwartz" target="Andrew Sloboda">
+  <data key="d4">1</data>
+</edge>
+<edge source="Sarah Wodin-Schwartz" target="Adam Powell">
+  <data key="d4">1</data>
+</edge>
+<edge source="Andrew Sloboda" target="Adam Powell">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lillian Y. Y. Luk" target="Cecilia Ka Yuk Chan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natasha A. Mamaril" target="Ellen L. Usher">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natasha A. Mamaril" target="Caihong R. Li">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natasha A. Mamaril" target="D. Ross Economy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natasha A. Mamaril" target="Marian Kennedy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Ellen L. Usher" target="Caihong R. Li">
+  <data key="d4">1</data>
+</edge>
+<edge source="Ellen L. Usher" target="D. Ross Economy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Ellen L. Usher" target="Marian Kennedy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Caihong R. Li" target="D. Ross Economy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Caihong R. Li" target="Marian Kennedy">
+  <data key="d4">1</data>
+</edge>
+<edge source="D. Ross Economy" target="Marian Kennedy">
+  <data key="d4">1</data>
+</edge>
+<edge source="Masadliahani Masduki" target="Normah Zakaria">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mary McCormick" target="Angela Bielefeldt">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mary McCormick" target="Christopher W. Swan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Mary McCormick" target="Kurtis G. Paterson">
+  <data key="d4">1</data>
+</edge>
+<edge source="Angela Bielefeldt" target="Christopher W. Swan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Angela Bielefeldt" target="Kurtis G. Paterson">
+  <data key="d4">1</data>
+</edge>
+<edge source="Christopher W. Swan" target="Kurtis G. Paterson">
+  <data key="d4">1</data>
+</edge>
+<edge source="Morin, S." target="Bourdeau, L. M.">
+  <data key="d4">1</data>
+</edge>
+<edge source="Morin, S." target="Robert, Jean-Marc">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bourdeau, L. M." target="Robert, Jean-Marc">
+  <data key="d4">1</data>
+</edge>
+<edge source="Irene Neumann" target="Bettina Rösken-Winter">
+  <data key="d4">1</data>
+</edge>
+<edge source="Irene Neumann" target="Malte Lehmann">
+  <data key="d4">1</data>
+</edge>
+<edge source="Irene Neumann" target="Christoph Duchhardt">
+  <data key="d4">1</data>
+</edge>
+<edge source="Irene Neumann" target="Aiso Heinze">
+  <data key="d4">1</data>
+</edge>
+<edge source="Irene Neumann" target="Reinhold Nickolaus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bettina Rösken-Winter" target="Malte Lehmann">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bettina Rösken-Winter" target="Christoph Duchhardt">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bettina Rösken-Winter" target="Aiso Heinze">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bettina Rösken-Winter" target="Reinhold Nickolaus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Malte Lehmann" target="Christoph Duchhardt">
+  <data key="d4">1</data>
+</edge>
+<edge source="Malte Lehmann" target="Aiso Heinze">
+  <data key="d4">1</data>
+</edge>
+<edge source="Malte Lehmann" target="Reinhold Nickolaus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Christoph Duchhardt" target="Aiso Heinze">
+  <data key="d4">1</data>
+</edge>
+<edge source="Christoph Duchhardt" target="Reinhold Nickolaus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Aiso Heinze" target="Reinhold Nickolaus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Teresa Nogueira" target="José Magano">
+  <data key="d4">1</data>
+</edge>
+<edge source="Teresa Nogueira" target="Eunice Fontão">
+  <data key="d4">1</data>
+</edge>
+<edge source="Teresa Nogueira" target="Marina Sousa">
+  <data key="d4">1</data>
+</edge>
+<edge source="Teresa Nogueira" target="Ângela Leite">
+  <data key="d4">1</data>
+</edge>
+<edge source="José Magano" target="Eunice Fontão">
+  <data key="d4">1</data>
+</edge>
+<edge source="José Magano" target="Marina Sousa">
+  <data key="d4">1</data>
+</edge>
+<edge source="José Magano" target="Ângela Leite">
+  <data key="d4">1</data>
+</edge>
+<edge source="Eunice Fontão" target="Marina Sousa">
+  <data key="d4">1</data>
+</edge>
+<edge source="Eunice Fontão" target="Ângela Leite">
+  <data key="d4">1</data>
+</edge>
+<edge source="Marina Sousa" target="Ângela Leite">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lauri Partanen" target="Viivi Virtanen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lauri Partanen" target="Henna Asikainen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lauri Partanen" target="Liisa Myyry">
+  <data key="d4">1</data>
+</edge>
+<edge source="Viivi Virtanen" target="Henna Asikainen">
+  <data key="d4">1</data>
+</edge>
+<edge source="Viivi Virtanen" target="Liisa Myyry">
+  <data key="d4">1</data>
+</edge>
+<edge source="Henna Asikainen" target="Liisa Myyry">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bimal Nepal" target="Michael Johnson">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bimal Nepal" target="Debapriyo Paul">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bimal Nepal" target="Timothy J. Jacobs">
+  <data key="d4">1</data>
+</edge>
+<edge source="Michael Johnson" target="Debapriyo Paul">
+  <data key="d4">1</data>
+</edge>
+<edge source="Michael Johnson" target="Timothy J. Jacobs">
+  <data key="d4">1</data>
+</edge>
+<edge source="Debapriyo Paul" target="Timothy J. Jacobs">
+  <data key="d4">1</data>
+</edge>
+<edge source="Adam R. Phillips" target="Colin Lambie">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jason Power" target="David A. Tanner">
+  <data key="d4">2</data>
+</edge>
+<edge source="Jason Power" target="Jeffrey Buckley">
+  <data key="d4">2</data>
+</edge>
+<edge source="Jason Power" target="Vanessa Egan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jason Power" target="Geraldine Mooney Simmie">
+  <data key="d4">1</data>
+</edge>
+<edge source="David A. Tanner" target="Jeffrey Buckley">
+  <data key="d4">2</data>
+</edge>
+<edge source="David A. Tanner" target="Vanessa Egan">
+  <data key="d4">1</data>
+</edge>
+<edge source="David A. Tanner" target="Geraldine Mooney Simmie">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jeffrey Buckley" target="Vanessa Egan">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jeffrey Buckley" target="Geraldine Mooney Simmie">
+  <data key="d4">1</data>
+</edge>
+<edge source="Vanessa Egan" target="Geraldine Mooney Simmie">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kenneth Reid" target="P.K. Imbrie">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kenneth Reid" target="Joe Lin">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kenneth Reid" target="Teri Reed">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kenneth Reid" target="Jason C. Immekus">
+  <data key="d4">1</data>
+</edge>
+<edge source="P.K. Imbrie" target="Joe Lin">
+  <data key="d4">1</data>
+</edge>
+<edge source="P.K. Imbrie" target="Teri Reed">
+  <data key="d4">1</data>
+</edge>
+<edge source="P.K. Imbrie" target="Jason C. Immekus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Joe Lin" target="Teri Reed">
+  <data key="d4">1</data>
+</edge>
+<edge source="Joe Lin" target="Jason C. Immekus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Teri Reed" target="Jason C. Immekus">
+  <data key="d4">1</data>
+</edge>
+<edge source="Hyun Kyoung Ro" target="Dan Merson">
+  <data key="d4">1</data>
+</edge>
+<edge source="Hyun Kyoung Ro" target="Lisa R. Lattuca">
+  <data key="d4">1</data>
+</edge>
+<edge source="Hyun Kyoung Ro" target="Patrick T. Terenzini">
+  <data key="d4">1</data>
+</edge>
+<edge source="Dan Merson" target="Lisa R. Lattuca">
+  <data key="d4">1</data>
+</edge>
+<edge source="Dan Merson" target="Patrick T. Terenzini">
+  <data key="d4">1</data>
+</edge>
+<edge source="Lisa R. Lattuca" target="Patrick T. Terenzini">
+  <data key="d4">1</data>
+</edge>
+<edge source="Fermín Sánchez Carracedo" target="Bàrbara Sureda Carbonell">
+  <data key="d4">1</data>
+</edge>
+<edge source="Fermín Sánchez Carracedo" target="Francisco Manuel Moreno-Pino">
+  <data key="d4">1</data>
+</edge>
+<edge source="Fermín Sánchez Carracedo" target="Daniel Romero-Portillo">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bàrbara Sureda Carbonell" target="Francisco Manuel Moreno-Pino">
+  <data key="d4">1</data>
+</edge>
+<edge source="Bàrbara Sureda Carbonell" target="Daniel Romero-Portillo">
+  <data key="d4">1</data>
+</edge>
+<edge source="Francisco Manuel Moreno-Pino" target="Daniel Romero-Portillo">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jaime Segarra" target="Andres Galarza">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jaime Segarra" target="Leopoldo Pauta">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jaime Segarra" target="Abel Cabrera-Martínez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Andres Galarza" target="Leopoldo Pauta">
+  <data key="d4">1</data>
+</edge>
+<edge source="Andres Galarza" target="Abel Cabrera-Martínez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Leopoldo Pauta" target="Abel Cabrera-Martínez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natalie Simper" target="Jake Kaupp">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natalie Simper" target="Brian Frank">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natalie Simper" target="Jill Scott">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jake Kaupp" target="Brian Frank">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jake Kaupp" target="Jill Scott">
+  <data key="d4">1</data>
+</edge>
+<edge source="Brian Frank" target="Jill Scott">
+  <data key="d4">1</data>
+</edge>
+<edge source="Ana-Lucía Pérez-Suasnavas" target="Karina Cela">
+  <data key="d4">1</data>
+</edge>
+<edge source="Universitas Negeri Yogyakarta" target="Tafakur">
+  <data key="d4">4</data>
+</edge>
+<edge source="Universitas Negeri Yogyakarta" target="Samsul Hadi">
+  <data key="d4">4</data>
+</edge>
+<edge source="Universitas Negeri Yogyakarta" target="Universitas Negeri Yogyakarta">
+  <data key="d4">6</data>
+</edge>
+<edge source="Universitas Negeri Yogyakarta" target="Zainul Arifin">
+  <data key="d4">4</data>
+</edge>
+<edge source="Universitas Negeri Yogyakarta" target="Sudji Munadi">
+  <data key="d4">4</data>
+</edge>
+<edge source="Tafakur" target="Samsul Hadi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Tafakur" target="Zainul Arifin">
+  <data key="d4">1</data>
+</edge>
+<edge source="Tafakur" target="Sudji Munadi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Samsul Hadi" target="Zainul Arifin">
+  <data key="d4">1</data>
+</edge>
+<edge source="Samsul Hadi" target="Sudji Munadi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Zainul Arifin" target="Sudji Munadi">
+  <data key="d4">1</data>
+</edge>
+<edge source="Päivi Taskinen" target="Jochen Steimel">
+  <data key="d4">1</data>
+</edge>
+<edge source="Päivi Taskinen" target="Linda Gräfe">
+  <data key="d4">1</data>
+</edge>
+<edge source="Päivi Taskinen" target="Sebastian Engell">
+  <data key="d4">1</data>
+</edge>
+<edge source="Päivi Taskinen" target="Andreas Frey">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jochen Steimel" target="Linda Gräfe">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jochen Steimel" target="Sebastian Engell">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jochen Steimel" target="Andreas Frey">
+  <data key="d4">1</data>
+</edge>
+<edge source="Linda Gräfe" target="Sebastian Engell">
+  <data key="d4">1</data>
+</edge>
+<edge source="Linda Gräfe" target="Andreas Frey">
+  <data key="d4">1</data>
+</edge>
+<edge source="Sebastian Engell" target="Andreas Frey">
+  <data key="d4">1</data>
+</edge>
+<edge source="Roland Tormey" target="Marc Laperrouza">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jesús Diego Tuero-O'Donnell" target="Gilberto Castrejón">
+  <data key="d4">1</data>
+</edge>
+<edge source="Jesús Diego Tuero-O'Donnell" target="Pamela Olivo">
+  <data key="d4">1</data>
+</edge>
+<edge source="Gilberto Castrejón" target="Pamela Olivo">
+  <data key="d4">1</data>
+</edge>
+<edge source="Clara Viegas" target="Natércia Lima">
+  <data key="d4">1</data>
+</edge>
+<edge source="Clara Viegas" target="Alexandra R. Costa">
+  <data key="d4">1</data>
+</edge>
+<edge source="Natércia Lima" target="Alexandra R. Costa">
+  <data key="d4">1</data>
+</edge>
+<edge source="John William Atehortúa-Mosquera" target="Iliana Ramírez-Velásquez">
+  <data key="d4">1</data>
+</edge>
+<edge source="Kunyue Yang" target="Dong Han">
+  <data key="d4">1</data>
+</edge>
+<edge source="Soohyun Yi" target="Nathalie Duval‐Couetil">
+  <data key="d4">1</data>
+</edge>
+</graph></graphml>

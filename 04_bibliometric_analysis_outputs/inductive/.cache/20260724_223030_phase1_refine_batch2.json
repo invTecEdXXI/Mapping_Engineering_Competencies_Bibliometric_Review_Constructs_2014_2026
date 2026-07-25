@@ -1,0 +1,76 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T22:31:57.130437",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 3
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 4
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Internship and Work Experience Evaluation",
+      "definition": "Studies that adapt or validate questionnaires to assess engineering students' perceptions of their internship or work experiences, focusing on factors like workplace support, university support, and the development of generic competencies.",
+      "subthemes": [
+        "Work Experience Questionnaire (WEQ)",
+        "Internship experience",
+        "Workplace support",
+        "Generic competencies"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Entrepreneurial and Design Mindset Assessment",
+      "definition": "Research that develops or validates instruments to measure constructs related to entrepreneurial mindset (e.g., connections, creating value) or design mindset (e.g., iteration, co-creation) in engineering education contexts.",
+      "subthemes": [
+        "Entrepreneurial mindset (EM)",
+        "Design Mindset Inventory",
+        "Iteration",
+        "Creating Value"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Grit and Engineering Mindset Measurement",
+      "definition": "Studies that examine the psychometric properties of instruments measuring grit (perseverance and passion for long-term goals) and engineering mindset (iterative, failure-tolerant approach) using advanced statistical methods such as SEM and IRT.",
+      "subthemes": [
+        "Grit-S scale",
+        "Engineering Mindset Inventory (EMI)",
+        "SEM",
+        "IRT"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Competence Assessment in Mathematics and Engineering Fundamentals",
+      "definition": "Studies that develop or validate instruments to assess engineering students' competences in foundational areas such as mathematics, vector calculus, or basic electronics skills, often using Rasch analysis or rubric-based approaches.",
+      "subthemes": [
+        "Mathematical competences",
+        "Vector calculus",
+        "Rasch analysis",
+        "MICRORUBRI"
+      ]
+    }
+  ]
+}

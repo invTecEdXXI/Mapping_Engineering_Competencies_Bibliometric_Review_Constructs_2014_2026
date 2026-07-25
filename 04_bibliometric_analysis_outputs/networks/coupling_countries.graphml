@@ -1,0 +1,856 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d6" for="node" attr.name="pagerank" attr.type="double"/>
+<key id="d5" for="node" attr.name="betweenness_centrality" attr.type="double"/>
+<key id="d4" for="node" attr.name="degree_centrality" attr.type="double"/>
+<key id="d3" for="node" attr.name="community" attr.type="long"/>
+<key id="d2" for="node" attr.name="num_refs" attr.type="long"/>
+<key id="d1" for="node" attr.name="total_cites" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="MY">
+  <data key="d0">MY</data>
+  <data key="d1">1</data>
+  <data key="d2">101</data>
+  <data key="d3">0</data>
+  <data key="d4">0.03571428571428571</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0056785825511588475</data>
+</node>
+<node id="BR">
+  <data key="d0">BR</data>
+  <data key="d1">1</data>
+  <data key="d2">36</data>
+  <data key="d3">0</data>
+  <data key="d4">0.39285714285714285</data>
+  <data key="d5">0.006722936088015453</data>
+  <data key="d6">0.021927944238756658</data>
+</node>
+<node id="EC">
+  <data key="d0">EC</data>
+  <data key="d1">1</data>
+  <data key="d2">70</data>
+  <data key="d3">0</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.1580929285294365</data>
+  <data key="d6">0.037631321213853</data>
+</node>
+<node id="RO">
+  <data key="d0">RO</data>
+  <data key="d1">5</data>
+  <data key="d2">118</data>
+  <data key="d3">2</data>
+  <data key="d4">0.6428571428571428</data>
+  <data key="d5">0.15195263290501387</data>
+  <data key="d6">0.017981137787014684</data>
+</node>
+<node id="US">
+  <data key="d0">US</data>
+  <data key="d1">876</data>
+  <data key="d2">1326</data>
+  <data key="d3">2</data>
+  <data key="d4">0.8928571428571428</data>
+  <data key="d5">0.0006613756613756613</data>
+  <data key="d6">0.1456724480776592</data>
+</node>
+<node id="IN">
+  <data key="d0">IN</data>
+  <data key="d1">32</data>
+  <data key="d2">154</data>
+  <data key="d3">3</data>
+  <data key="d4">0.6428571428571428</data>
+  <data key="d5">0.08637461157302428</data>
+  <data key="d6">0.057970393069675594</data>
+</node>
+<node id="CH">
+  <data key="d0">CH</data>
+  <data key="d1">8</data>
+  <data key="d2">96</data>
+  <data key="d3">3</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.07442680776014109</data>
+  <data key="d6">0.03448860743910897</data>
+</node>
+<node id="TW">
+  <data key="d0">TW</data>
+  <data key="d1">15</data>
+  <data key="d2">149</data>
+  <data key="d3">4</data>
+  <data key="d4">0.3571428571428571</data>
+  <data key="d5">0.033445662215503484</data>
+  <data key="d6">0.034943796326650976</data>
+</node>
+<node id="NL">
+  <data key="d0">NL</data>
+  <data key="d1">20</data>
+  <data key="d2">179</data>
+  <data key="d3">5</data>
+  <data key="d4">0.6071428571428571</data>
+  <data key="d5">0.07451499118165784</data>
+  <data key="d6">0.07655116660025707</data>
+</node>
+<node id="SE">
+  <data key="d0">SE</data>
+  <data key="d1">28</data>
+  <data key="d2">27</data>
+  <data key="d3">2</data>
+  <data key="d4">0.10714285714285714</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.012997082301399069</data>
+</node>
+<node id="ES">
+  <data key="d0">ES</data>
+  <data key="d1">70</data>
+  <data key="d2">152</data>
+  <data key="d3">0</data>
+  <data key="d4">0.5357142857142857</data>
+  <data key="d5">0.12497060552616109</data>
+  <data key="d6">0.023332369997945787</data>
+</node>
+<node id="KR">
+  <data key="d0">KR</data>
+  <data key="d1">12</data>
+  <data key="d2">99</data>
+  <data key="d3">2</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.022621147224321826</data>
+  <data key="d6">0.04927992651806618</data>
+</node>
+<node id="TR">
+  <data key="d0">TR</data>
+  <data key="d1">62</data>
+  <data key="d2">190</data>
+  <data key="d3">2</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.018648694045519446</data>
+  <data key="d6">0.04359480596438521</data>
+</node>
+<node id="PK">
+  <data key="d0">PK</data>
+  <data key="d1">8</data>
+  <data key="d2">22</data>
+  <data key="d3">2</data>
+  <data key="d4">0.14285714285714285</data>
+  <data key="d5">0.031775426219870666</data>
+  <data key="d6">0.011547662173133555</data>
+</node>
+<node id="CN">
+  <data key="d0">CN</data>
+  <data key="d1">4</data>
+  <data key="d2">79</data>
+  <data key="d3">4</data>
+  <data key="d4">0.21428571428571427</data>
+  <data key="d5">0.07596896783404719</data>
+  <data key="d6">0.02523966378751947</data>
+</node>
+<node id="TH">
+  <data key="d0">TH</data>
+  <data key="d1">15</data>
+  <data key="d2">91</data>
+  <data key="d3">0</data>
+  <data key="d4">0.5714285714285714</data>
+  <data key="d5">0.17582304526748965</data>
+  <data key="d6">0.020841978855704373</data>
+</node>
+<node id="DE">
+  <data key="d0">DE</data>
+  <data key="d1">18</data>
+  <data key="d2">173</data>
+  <data key="d3">5</data>
+  <data key="d4">0.5357142857142857</data>
+  <data key="d5">0.009268707482993197</data>
+  <data key="d6">0.061323339272829125</data>
+</node>
+<node id="DK">
+  <data key="d0">DK</data>
+  <data key="d1">3</data>
+  <data key="d2">110</data>
+  <data key="d3">5</data>
+  <data key="d4">0.5357142857142857</data>
+  <data key="d5">0.009268707482993197</data>
+  <data key="d6">0.06060681959434796</data>
+</node>
+<node id="HK">
+  <data key="d0">HK</data>
+  <data key="d1">27</data>
+  <data key="d2">112</data>
+  <data key="d3">3</data>
+  <data key="d4">0.6428571428571428</data>
+  <data key="d5">0.0008818342151675485</data>
+  <data key="d6">0.038435520316768466</data>
+</node>
+<node id="IR">
+  <data key="d0">IR</data>
+  <data key="d1">7</data>
+  <data key="d2">58</data>
+  <data key="d3">2</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.024443604602334763</data>
+  <data key="d6">0.01967716745817249</data>
+</node>
+<node id="PT">
+  <data key="d0">PT</data>
+  <data key="d1">36</data>
+  <data key="d2">298</data>
+  <data key="d3">3</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.06515295171234273</data>
+</node>
+<node id="CO">
+  <data key="d0">CO</data>
+  <data key="d1">9</data>
+  <data key="d2">83</data>
+  <data key="d3">0</data>
+  <data key="d4">0.5</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.015898316327854753</data>
+</node>
+<node id="FI">
+  <data key="d0">FI</data>
+  <data key="d1">7</data>
+  <data key="d2">163</data>
+  <data key="d3">5</data>
+  <data key="d4">0.5714285714285714</data>
+  <data key="d5">0.08604182413706223</data>
+  <data key="d6">0.016978210153173263</data>
+</node>
+<node id="RU">
+  <data key="d0">RU</data>
+  <data key="d1">18</data>
+  <data key="d2">27</data>
+  <data key="d3">2</data>
+  <data key="d4">0.07142857142857142</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.012196534121497921</data>
+</node>
+<node id="AU">
+  <data key="d0">AU</data>
+  <data key="d1">15</data>
+  <data key="d2">17</data>
+  <data key="d3">6</data>
+</node>
+<node id="IE">
+  <data key="d0">IE</data>
+  <data key="d1">20</data>
+  <data key="d2">202</data>
+  <data key="d3">2</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.0021164021164021165</data>
+  <data key="d6">0.04042071225641178</data>
+</node>
+<node id="CZ">
+  <data key="d0">CZ</data>
+  <data key="d1">45</data>
+  <data key="d2">55</data>
+  <data key="d3">2</data>
+  <data key="d4">0.6785714285714285</data>
+  <data key="d5">0.13271814898799023</data>
+  <data key="d6">0.030240002864621328</data>
+</node>
+<node id="CA">
+  <data key="d0">CA</data>
+  <data key="d1">15</data>
+  <data key="d2">33</data>
+  <data key="d3">0</data>
+  <data key="d4">0.14285714285714285</data>
+  <data key="d5">0.0004409171075837742</data>
+  <data key="d6">0.008325337012970344</data>
+</node>
+<node id="ID">
+  <data key="d0">ID</data>
+  <data key="d1">6</data>
+  <data key="d2">12</data>
+  <data key="d3">5</data>
+  <data key="d4">0.03571428571428571</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.005597672259343797</data>
+</node>
+<node id="MX">
+  <data key="d0">MX</data>
+  <data key="d1">0</data>
+  <data key="d2">66</data>
+  <data key="d3">3</data>
+  <data key="d4">0.03571428571428571</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.005468529747377683</data>
+</node>
+<node id="JP">
+  <data key="d0">JP</data>
+  <data key="d1">2</data>
+  <data key="d2">6</data>
+  <data key="d3">1</data>
+</node>
+<edge source="MY" target="TH">
+  <data key="d7">1</data>
+</edge>
+<edge source="BR" target="EC">
+  <data key="d7">36</data>
+</edge>
+<edge source="BR" target="US">
+  <data key="d7">2</data>
+</edge>
+<edge source="BR" target="IN">
+  <data key="d7">4</data>
+</edge>
+<edge source="BR" target="CH">
+  <data key="d7">2</data>
+</edge>
+<edge source="BR" target="KR">
+  <data key="d7">2</data>
+</edge>
+<edge source="BR" target="HK">
+  <data key="d7">2</data>
+</edge>
+<edge source="BR" target="IR">
+  <data key="d7">1</data>
+</edge>
+<edge source="BR" target="PT">
+  <data key="d7">4</data>
+</edge>
+<edge source="BR" target="CO">
+  <data key="d7">2</data>
+</edge>
+<edge source="BR" target="IE">
+  <data key="d7">2</data>
+</edge>
+<edge source="BR" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="US">
+  <data key="d7">6</data>
+</edge>
+<edge source="EC" target="IN">
+  <data key="d7">4</data>
+</edge>
+<edge source="EC" target="CH">
+  <data key="d7">2</data>
+</edge>
+<edge source="EC" target="NL">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="ES">
+  <data key="d7">34</data>
+</edge>
+<edge source="EC" target="KR">
+  <data key="d7">3</data>
+</edge>
+<edge source="EC" target="TR">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="TH">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="DE">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="DK">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="HK">
+  <data key="d7">2</data>
+</edge>
+<edge source="EC" target="IR">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="PT">
+  <data key="d7">4</data>
+</edge>
+<edge source="EC" target="CO">
+  <data key="d7">3</data>
+</edge>
+<edge source="EC" target="FI">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="IE">
+  <data key="d7">2</data>
+</edge>
+<edge source="EC" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="CA">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="US">
+  <data key="d7">15</data>
+</edge>
+<edge source="RO" target="IN">
+  <data key="d7">3</data>
+</edge>
+<edge source="RO" target="CH">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="NL">
+  <data key="d7">4</data>
+</edge>
+<edge source="RO" target="SE">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="KR">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="TR">
+  <data key="d7">3</data>
+</edge>
+<edge source="RO" target="PK">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="TH">
+  <data key="d7">2</data>
+</edge>
+<edge source="RO" target="DE">
+  <data key="d7">3</data>
+</edge>
+<edge source="RO" target="DK">
+  <data key="d7">3</data>
+</edge>
+<edge source="RO" target="HK">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="IR">
+  <data key="d7">2</data>
+</edge>
+<edge source="RO" target="PT">
+  <data key="d7">5</data>
+</edge>
+<edge source="RO" target="CO">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="FI">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="IE">
+  <data key="d7">1</data>
+</edge>
+<edge source="RO" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="US" target="IN">
+  <data key="d7">11</data>
+</edge>
+<edge source="US" target="CH">
+  <data key="d7">11</data>
+</edge>
+<edge source="US" target="TW">
+  <data key="d7">19</data>
+</edge>
+<edge source="US" target="NL">
+  <data key="d7">17</data>
+</edge>
+<edge source="US" target="SE">
+  <data key="d7">27</data>
+</edge>
+<edge source="US" target="ES">
+  <data key="d7">9</data>
+</edge>
+<edge source="US" target="KR">
+  <data key="d7">87</data>
+</edge>
+<edge source="US" target="TR">
+  <data key="d7">50</data>
+</edge>
+<edge source="US" target="PK">
+  <data key="d7">22</data>
+</edge>
+<edge source="US" target="CN">
+  <data key="d7">1</data>
+</edge>
+<edge source="US" target="TH">
+  <data key="d7">9</data>
+</edge>
+<edge source="US" target="DE">
+  <data key="d7">5</data>
+</edge>
+<edge source="US" target="DK">
+  <data key="d7">5</data>
+</edge>
+<edge source="US" target="HK">
+  <data key="d7">13</data>
+</edge>
+<edge source="US" target="IR">
+  <data key="d7">11</data>
+</edge>
+<edge source="US" target="PT">
+  <data key="d7">20</data>
+</edge>
+<edge source="US" target="CO">
+  <data key="d7">7</data>
+</edge>
+<edge source="US" target="FI">
+  <data key="d7">7</data>
+</edge>
+<edge source="US" target="RU">
+  <data key="d7">27</data>
+</edge>
+<edge source="US" target="IE">
+  <data key="d7">53</data>
+</edge>
+<edge source="US" target="CZ">
+  <data key="d7">55</data>
+</edge>
+<edge source="US" target="CA">
+  <data key="d7">4</data>
+</edge>
+<edge source="IN" target="CH">
+  <data key="d7">25</data>
+</edge>
+<edge source="IN" target="TW">
+  <data key="d7">1</data>
+</edge>
+<edge source="IN" target="ES">
+  <data key="d7">1</data>
+</edge>
+<edge source="IN" target="KR">
+  <data key="d7">2</data>
+</edge>
+<edge source="IN" target="TR">
+  <data key="d7">2</data>
+</edge>
+<edge source="IN" target="CN">
+  <data key="d7">1</data>
+</edge>
+<edge source="IN" target="TH">
+  <data key="d7">2</data>
+</edge>
+<edge source="IN" target="HK">
+  <data key="d7">40</data>
+</edge>
+<edge source="IN" target="IR">
+  <data key="d7">2</data>
+</edge>
+<edge source="IN" target="PT">
+  <data key="d7">96</data>
+</edge>
+<edge source="IN" target="CO">
+  <data key="d7">4</data>
+</edge>
+<edge source="IN" target="RU">
+  <data key="d7">1</data>
+</edge>
+<edge source="IN" target="IE">
+  <data key="d7">3</data>
+</edge>
+<edge source="IN" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="CH" target="NL">
+  <data key="d7">12</data>
+</edge>
+<edge source="CH" target="ES">
+  <data key="d7">2</data>
+</edge>
+<edge source="CH" target="KR">
+  <data key="d7">3</data>
+</edge>
+<edge source="CH" target="TR">
+  <data key="d7">5</data>
+</edge>
+<edge source="CH" target="TH">
+  <data key="d7">1</data>
+</edge>
+<edge source="CH" target="DE">
+  <data key="d7">2</data>
+</edge>
+<edge source="CH" target="DK">
+  <data key="d7">2</data>
+</edge>
+<edge source="CH" target="HK">
+  <data key="d7">6</data>
+</edge>
+<edge source="CH" target="IR">
+  <data key="d7">3</data>
+</edge>
+<edge source="CH" target="PT">
+  <data key="d7">9</data>
+</edge>
+<edge source="CH" target="CO">
+  <data key="d7">2</data>
+</edge>
+<edge source="CH" target="IE">
+  <data key="d7">8</data>
+</edge>
+<edge source="CH" target="CZ">
+  <data key="d7">2</data>
+</edge>
+<edge source="CH" target="MX">
+  <data key="d7">1</data>
+</edge>
+<edge source="TW" target="KR">
+  <data key="d7">1</data>
+</edge>
+<edge source="TW" target="TR">
+  <data key="d7">1</data>
+</edge>
+<edge source="TW" target="CN">
+  <data key="d7">63</data>
+</edge>
+<edge source="TW" target="TH">
+  <data key="d7">1</data>
+</edge>
+<edge source="TW" target="IR">
+  <data key="d7">2</data>
+</edge>
+<edge source="TW" target="PT">
+  <data key="d7">2</data>
+</edge>
+<edge source="TW" target="IE">
+  <data key="d7">10</data>
+</edge>
+<edge source="TW" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="NL" target="ES">
+  <data key="d7">3</data>
+</edge>
+<edge source="NL" target="KR">
+  <data key="d7">2</data>
+</edge>
+<edge source="NL" target="TR">
+  <data key="d7">7</data>
+</edge>
+<edge source="NL" target="PK">
+  <data key="d7">1</data>
+</edge>
+<edge source="NL" target="DE">
+  <data key="d7">112</data>
+</edge>
+<edge source="NL" target="DK">
+  <data key="d7">110</data>
+</edge>
+<edge source="NL" target="HK">
+  <data key="d7">6</data>
+</edge>
+<edge source="NL" target="IR">
+  <data key="d7">4</data>
+</edge>
+<edge source="NL" target="PT">
+  <data key="d7">12</data>
+</edge>
+<edge source="NL" target="FI">
+  <data key="d7">7</data>
+</edge>
+<edge source="NL" target="IE">
+  <data key="d7">4</data>
+</edge>
+<edge source="NL" target="CZ">
+  <data key="d7">2</data>
+</edge>
+<edge source="NL" target="ID">
+  <data key="d7">2</data>
+</edge>
+<edge source="SE" target="TR">
+  <data key="d7">3</data>
+</edge>
+<edge source="ES" target="KR">
+  <data key="d7">1</data>
+</edge>
+<edge source="ES" target="TR">
+  <data key="d7">1</data>
+</edge>
+<edge source="ES" target="PK">
+  <data key="d7">1</data>
+</edge>
+<edge source="ES" target="TH">
+  <data key="d7">1</data>
+</edge>
+<edge source="ES" target="DE">
+  <data key="d7">1</data>
+</edge>
+<edge source="ES" target="DK">
+  <data key="d7">1</data>
+</edge>
+<edge source="ES" target="HK">
+  <data key="d7">2</data>
+</edge>
+<edge source="ES" target="CO">
+  <data key="d7">2</data>
+</edge>
+<edge source="ES" target="FI">
+  <data key="d7">1</data>
+</edge>
+<edge source="ES" target="CA">
+  <data key="d7">1</data>
+</edge>
+<edge source="KR" target="TR">
+  <data key="d7">36</data>
+</edge>
+<edge source="KR" target="DE">
+  <data key="d7">2</data>
+</edge>
+<edge source="KR" target="DK">
+  <data key="d7">2</data>
+</edge>
+<edge source="KR" target="HK">
+  <data key="d7">2</data>
+</edge>
+<edge source="KR" target="IR">
+  <data key="d7">3</data>
+</edge>
+<edge source="KR" target="PT">
+  <data key="d7">2</data>
+</edge>
+<edge source="KR" target="CO">
+  <data key="d7">3</data>
+</edge>
+<edge source="KR" target="FI">
+  <data key="d7">1</data>
+</edge>
+<edge source="KR" target="IE">
+  <data key="d7">12</data>
+</edge>
+<edge source="KR" target="CZ">
+  <data key="d7">8</data>
+</edge>
+<edge source="TR" target="CN">
+  <data key="d7">1</data>
+</edge>
+<edge source="TR" target="DE">
+  <data key="d7">5</data>
+</edge>
+<edge source="TR" target="DK">
+  <data key="d7">5</data>
+</edge>
+<edge source="TR" target="HK">
+  <data key="d7">5</data>
+</edge>
+<edge source="TR" target="IR">
+  <data key="d7">5</data>
+</edge>
+<edge source="TR" target="PT">
+  <data key="d7">5</data>
+</edge>
+<edge source="TR" target="FI">
+  <data key="d7">3</data>
+</edge>
+<edge source="TR" target="IE">
+  <data key="d7">9</data>
+</edge>
+<edge source="TR" target="CZ">
+  <data key="d7">5</data>
+</edge>
+<edge source="CN" target="TH">
+  <data key="d7">1</data>
+</edge>
+<edge source="CN" target="FI">
+  <data key="d7">1</data>
+</edge>
+<edge source="TH" target="IR">
+  <data key="d7">2</data>
+</edge>
+<edge source="TH" target="PT">
+  <data key="d7">6</data>
+</edge>
+<edge source="TH" target="CO">
+  <data key="d7">2</data>
+</edge>
+<edge source="TH" target="FI">
+  <data key="d7">1</data>
+</edge>
+<edge source="TH" target="IE">
+  <data key="d7">1</data>
+</edge>
+<edge source="TH" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="TH" target="CA">
+  <data key="d7">3</data>
+</edge>
+<edge source="DE" target="DK">
+  <data key="d7">110</data>
+</edge>
+<edge source="DE" target="HK">
+  <data key="d7">2</data>
+</edge>
+<edge source="DE" target="IR">
+  <data key="d7">1</data>
+</edge>
+<edge source="DE" target="PT">
+  <data key="d7">2</data>
+</edge>
+<edge source="DE" target="FI">
+  <data key="d7">8</data>
+</edge>
+<edge source="DE" target="IE">
+  <data key="d7">4</data>
+</edge>
+<edge source="DE" target="CZ">
+  <data key="d7">2</data>
+</edge>
+<edge source="DK" target="HK">
+  <data key="d7">2</data>
+</edge>
+<edge source="DK" target="IR">
+  <data key="d7">1</data>
+</edge>
+<edge source="DK" target="PT">
+  <data key="d7">2</data>
+</edge>
+<edge source="DK" target="FI">
+  <data key="d7">7</data>
+</edge>
+<edge source="DK" target="IE">
+  <data key="d7">4</data>
+</edge>
+<edge source="DK" target="CZ">
+  <data key="d7">2</data>
+</edge>
+<edge source="HK" target="IR">
+  <data key="d7">2</data>
+</edge>
+<edge source="HK" target="PT">
+  <data key="d7">41</data>
+</edge>
+<edge source="HK" target="CO">
+  <data key="d7">2</data>
+</edge>
+<edge source="HK" target="FI">
+  <data key="d7">2</data>
+</edge>
+<edge source="HK" target="IE">
+  <data key="d7">2</data>
+</edge>
+<edge source="HK" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="IR" target="PT">
+  <data key="d7">6</data>
+</edge>
+<edge source="IR" target="CO">
+  <data key="d7">3</data>
+</edge>
+<edge source="IR" target="FI">
+  <data key="d7">1</data>
+</edge>
+<edge source="IR" target="IE">
+  <data key="d7">2</data>
+</edge>
+<edge source="IR" target="CZ">
+  <data key="d7">2</data>
+</edge>
+<edge source="PT" target="CO">
+  <data key="d7">4</data>
+</edge>
+<edge source="PT" target="FI">
+  <data key="d7">2</data>
+</edge>
+<edge source="PT" target="IE">
+  <data key="d7">6</data>
+</edge>
+<edge source="PT" target="CZ">
+  <data key="d7">3</data>
+</edge>
+<edge source="CO" target="IE">
+  <data key="d7">2</data>
+</edge>
+<edge source="CO" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="FI" target="IE">
+  <data key="d7">4</data>
+</edge>
+<edge source="FI" target="CZ">
+  <data key="d7">2</data>
+</edge>
+<edge source="IE" target="CZ">
+  <data key="d7">7</data>
+</edge>
+</graph></graphml>

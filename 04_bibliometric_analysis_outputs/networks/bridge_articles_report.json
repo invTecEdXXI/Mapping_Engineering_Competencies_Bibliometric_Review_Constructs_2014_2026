@@ -1,0 +1,333 @@
+{
+  "top_n": 20,
+  "bridge_articles": [
+    {
+      "key": "J4L96ZTQ",
+      "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+      "year": 2016,
+      "citations": 296,
+      "betweenness": 0.112743,
+      "community": 5,
+      "connected_communities": [
+        1,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.7619,
+      "burt_constraint": 0.0801
+    },
+    {
+      "key": "LPJSUJ9V",
+      "title": "Validation of the Internet entrepreneurial self-efficacy scale among Romanian technical students.",
+      "year": 2024,
+      "citations": 5,
+      "betweenness": 0.111199,
+      "community": 1,
+      "connected_communities": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.5556,
+      "burt_constraint": 0.0941
+    },
+    {
+      "key": "PYM3MQNK",
+      "title": "Validation of Motivated Strategies for Learning Questionnaire: Comparison of Three Competing Models",
+      "year": 2021,
+      "citations": 15,
+      "betweenness": 0.076644,
+      "community": 6,
+      "connected_communities": [
+        1,
+        5,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.75,
+      "burt_constraint": 0.0939
+    },
+    {
+      "key": "DYIXSFV6",
+      "title": "Chemical engineering students' perceptions of peer and self-assessment.",
+      "year": 2024,
+      "citations": 7,
+      "betweenness": 0.076635,
+      "community": 8,
+      "connected_communities": [
+        1,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.8333,
+      "burt_constraint": 0.1113
+    },
+    {
+      "key": "K9E5C83P",
+      "title": "WIP: Confirmatory Factor Analysis of Instruments to Measure Connections and Creating Value in First-Year Engineering Stu",
+      "year": 2025,
+      "citations": 0,
+      "betweenness": 0.071678,
+      "community": 1,
+      "connected_communities": [
+        5,
+        6,
+        8
+      ],
+      "n_communities_bridged": 3,
+      "interdisciplinarity_score": 0.44,
+      "burt_constraint": 0.1117
+    },
+    {
+      "key": "KU4TN5MB",
+      "title": "Development of a Questionnaire to Measure Students' Attitudes and Perceptions of Sociotechnical Engineering",
+      "year": 2023,
+      "citations": 2,
+      "betweenness": 0.070193,
+      "community": 1,
+      "connected_communities": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.4615,
+      "burt_constraint": 0.1078
+    },
+    {
+      "key": "LHGYXXJG",
+      "title": "The Employability Skills of Engineering Students': Assessment at the University",
+      "year": 2021,
+      "citations": 23,
+      "betweenness": 0.067566,
+      "community": 6,
+      "connected_communities": [
+        1,
+        5,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.7083,
+      "burt_constraint": 0.0956
+    },
+    {
+      "key": "LQ8RTKIQ",
+      "title": "Modeling the integration of ethics, social responsibility, and sustainability in university contexts",
+      "year": 2025,
+      "citations": 0,
+      "betweenness": 0.044816,
+      "community": 1,
+      "connected_communities": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.4231,
+      "burt_constraint": 0.1092
+    },
+    {
+      "key": "U374P6MT",
+      "title": "Adapting Computer Programming Self-Efficacy Scale and Engineering Students' Self-Efficacy Perceptions",
+      "year": 2014,
+      "citations": 42,
+      "betweenness": 0.042387,
+      "community": 7,
+      "connected_communities": [
+        1,
+        5
+      ],
+      "n_communities_bridged": 2,
+      "interdisciplinarity_score": 0.3,
+      "burt_constraint": 0.1923
+    },
+    {
+      "key": "FL269LXE",
+      "title": "Validity of the Contextual Competence Scale for Engineering Students.",
+      "year": 2015,
+      "citations": 64,
+      "betweenness": 0.039901,
+      "community": 7,
+      "connected_communities": [
+        1,
+        5,
+        6,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.6111,
+      "burt_constraint": 0.1093
+    },
+    {
+      "key": "UAN7XVF9",
+      "title": "Understanding student motivation and self-efficacy in differential calculus: Evidence from a technology-based learning a",
+      "year": 2026,
+      "citations": 0,
+      "betweenness": 0.039814,
+      "community": 6,
+      "connected_communities": [
+        1,
+        5,
+        8
+      ],
+      "n_communities_bridged": 3,
+      "interdisciplinarity_score": 0.7,
+      "burt_constraint": 0.1522
+    },
+    {
+      "key": "KI4LCCHP",
+      "title": "Professional competencies in engineering: examining validity and measurement invariance of a scale.",
+      "year": 2021,
+      "citations": 7,
+      "betweenness": 0.038393,
+      "community": 1,
+      "connected_communities": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.5152,
+      "burt_constraint": 0.0962
+    },
+    {
+      "key": "QKJ5DVTR",
+      "title": "The development, validation and use of an interprofessional project management questionnaire in engineering education.",
+      "year": 2023,
+      "citations": 6,
+      "betweenness": 0.034669,
+      "community": 1,
+      "connected_communities": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.3929,
+      "burt_constraint": 0.1036
+    },
+    {
+      "key": "WHKSKTII",
+      "title": "Testing for measurement invariance in engineering identity constructs for first-generation college students",
+      "year": 2017,
+      "citations": 4,
+      "betweenness": 0.03455,
+      "community": 6,
+      "connected_communities": [
+        1,
+        5,
+        8
+      ],
+      "n_communities_bridged": 3,
+      "interdisciplinarity_score": 0.7778,
+      "burt_constraint": 0.1009
+    },
+    {
+      "key": "FUDIEQYR",
+      "title": "Innovation self-efficacy: A very brief measure for engineering students",
+      "year": 2017,
+      "citations": 45,
+      "betweenness": 0.031393,
+      "community": 5,
+      "connected_communities": [
+        1,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.7419,
+      "burt_constraint": 0.1026
+    },
+    {
+      "key": "UQVRIPCY",
+      "title": "Modifying the VALUE Rubrics to Assess the Entrepreneurial Mind-set",
+      "year": 2019,
+      "citations": 8,
+      "betweenness": 0.030769,
+      "community": 1,
+      "connected_communities": [],
+      "n_communities_bridged": 0,
+      "interdisciplinarity_score": 0.0,
+      "burt_constraint": 0.3531
+    },
+    {
+      "key": "PJNV7WSV",
+      "title": "A Competency Model for Process Dynamics and Control and Its Use for Test Construction at University Level.",
+      "year": 2015,
+      "citations": 5,
+      "betweenness": 0.030769,
+      "community": 1,
+      "connected_communities": [
+        8
+      ],
+      "n_communities_bridged": 1,
+      "interdisciplinarity_score": 0.3333,
+      "burt_constraint": 0.3333
+    },
+    {
+      "key": "NLXE3X6S",
+      "title": "Assessing students' motivation to engage in sustainable engineering.",
+      "year": 2015,
+      "citations": 75,
+      "betweenness": 0.028671,
+      "community": 7,
+      "connected_communities": [
+        1,
+        5,
+        6,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.5789,
+      "burt_constraint": 0.1102
+    },
+    {
+      "key": "B4EBYEKF",
+      "title": "Development and initial validation of the Engineering Learning Experiences Scale",
+      "year": 2021,
+      "citations": 11,
+      "betweenness": 0.028277,
+      "community": 8,
+      "connected_communities": [
+        1,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.9118,
+      "burt_constraint": 0.098
+    },
+    {
+      "key": "SL7257LZ",
+      "title": "Testing the Validity and Reliability of an Instrument Measuring Engineering Students’ Perceptions of Transversal Compete",
+      "year": 2021,
+      "citations": 17,
+      "betweenness": 0.027588,
+      "community": 1,
+      "connected_communities": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "n_communities_bridged": 4,
+      "interdisciplinarity_score": 0.35,
+      "burt_constraint": 0.0912
+    }
+  ],
+  "n_total_nodes": 73
+}

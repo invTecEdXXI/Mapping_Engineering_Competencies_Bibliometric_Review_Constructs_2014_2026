@@ -1,0 +1,139 @@
+{
+  "session_id": "20260724_230304",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-07-24T23:04:26.430045",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Competency Assessment in Engineering Education",
+        "theme_b": "Psychometric Properties and Instrument Development",
+        "relationship_type": "complementary",
+        "description": "Competency Assessment in Engineering Education frequently relies on Psychometric Properties and Instrument Development for validating measurement tools, as evidenced by overlapping subthemes (e.g., reliability testing, factor analysis).",
+        "n_studies_support": 20,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Affective, Motivational, and Socio-Emotional Competencies in Engineering",
+        "theme_b": "Psychometric Properties and Instrument Development",
+        "relationship_type": "complementary",
+        "description": "Studies on affective, motivational, and socio-emotional competencies often employ psychometric validation techniques (e.g., Cronbach's alpha, factor analysis) to ensure robust measurement of these constructs.",
+        "n_studies_support": 21,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Transversal and Professional Skills Assessment in Engineering",
+        "theme_b": "Competency Assessment in Engineering Education",
+        "relationship_type": "complementary",
+        "description": "Transversal and professional skills assessment is a core component of Competency Assessment in Engineering Education, with shared subthemes like 'Professional and transversal skills'.",
+        "n_studies_support": 16,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Sustainability, Ethics, and Innovation Competencies in Engineering",
+        "theme_b": "Contextual and Domain-Specific Competence Scales",
+        "relationship_type": "complementary",
+        "description": "Sustainability and ethics competencies are often measured using domain-specific scales aligned with SDGs and societal needs, as reflected in overlapping subthemes.",
+        "n_studies_support": 5,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Systems Thinking and Complex Problem-Solving Competencies",
+        "theme_b": "Transversal and Professional Skills Assessment in Engineering",
+        "relationship_type": "association",
+        "description": "Systems thinking and complex problem-solving competencies are frequently assessed alongside transversal skills like critical thinking and problem-solving, suggesting a link between these constructs.",
+        "n_studies_support": 3,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Workplace and Internship Competency Assessment",
+        "theme_b": "Transversal and Professional Skills Assessment in Engineering",
+        "relationship_type": "association",
+        "description": "Workplace and internship competency assessments often evaluate transversal skills (e.g., teamwork, communication) in real-world contexts, indicating a practical application of these skills.",
+        "n_studies_support": 3,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Gender and Diversity in Engineering Education Assessment",
+        "theme_b": "Psychometric Properties and Instrument Development",
+        "relationship_type": "complementary",
+        "description": "Gender and diversity studies often employ psychometric techniques (e.g., gender invariance testing) to ensure equitable assessment instruments.",
+        "n_studies_support": 2,
+        "robustness": "Low"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Psychometric validation of competency assessments",
+        "components": [
+          "Competency Assessment in Engineering Education",
+          "Psychometric Properties and Instrument Development"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Assessment of transversal skills in academic and workplace contexts",
+        "components": [
+          "Transversal and Professional Skills Assessment in Engineering",
+          "Workplace and Internship Competency Assessment"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Integration of sustainability and ethics into competency scales",
+        "components": [
+          "Sustainability, Ethics, and Innovation Competencies in Engineering",
+          "Contextual and Domain-Specific Competence Scales"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Affective and motivational competencies measured with psychometric rigor",
+        "components": [
+          "Affective, Motivational, and Socio-Emotional Competencies in Engineering",
+          "Psychometric Properties and Instrument Development"
+        ],
+        "frequency": "High"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Psychometric Rigor in Competency Assessment",
+        "justification": "A dominant axis where studies prioritize rigorous validation of assessment instruments (e.g., factor analysis, reliability testing) to ensure robust measurement of engineering competencies.",
+        "coverage": "~40%",
+        "research_potential": "Could inform best practices for instrument development and validation in engineering education."
+      },
+      {
+        "axis": "Transversal Skills in Academic and Workplace Contexts",
+        "justification": "A recurring theme where transversal skills (e.g., teamwork, problem-solving) are assessed both in academic settings and through workplace/internship experiences.",
+        "coverage": "~25%",
+        "research_potential": "Could guide curriculum design and industry-academia collaboration for competency development."
+      },
+      {
+        "axis": "Sustainability and Ethics Integration",
+        "justification": "An emerging axis where sustainability, ethics, and innovation competencies are measured using domain-specific scales aligned with global challenges (e.g., SDGs).",
+        "coverage": "~10%",
+        "research_potential": "Could explore how these competencies are integrated into engineering curricula and assessed."
+      },
+      {
+        "axis": "Affective and Motivational Competencies",
+        "justification": "A significant axis focusing on the measurement of affective, motivational, and socio-emotional competencies, often using psychometric tools.",
+        "coverage": "~22%",
+        "research_potential": "Could inform strategies to support student well-being and engagement in engineering programs."
+      }
+    ],
+    "gaps_and_contradictions": [
+      "Limited studies on Professional Identity, Leadership, and Values Formation (n=4) despite its importance in engineering education.",
+      "Minimal research on Representational Competence in Engineering Mechanics (n=1) and Biomedical Engineering Self-Efficacy in Clinical Contexts (n=1), suggesting under-explored domains.",
+      "Contradiction: While Gender and Diversity in Engineering Education Assessment is a growing area, its methodological robustness (e.g., psychometric validation) is underdeveloped (robustness: Medium/Low).",
+      "Lack of studies explicitly linking Systems Thinking and Complex Problem-Solving Competencies to Sustainability, Ethics, and Innovation Competencies, despite potential overlaps."
+    ],
+    "_theme_reference_check": {
+      "valid_references": 14,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "session_id": "20260724_233014",
+  "phase": "1_refine",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:34:01.491709",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 5
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 9
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Gender Differences in Engineering Competencies and Self-Efficacy",
+      "definition": "The examination of how gender influences engineering students' self-efficacy, competencies, and experiences, including the identification of gaps, gendered experiences, and the development of strategies to address disparities through curricular interventions.",
+      "subthemes": [
+        "Gendered experiences in engineering education",
+        "Self-efficacy gaps between genders",
+        "Curricular interventions to reduce gender disparities"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Psychometric Evaluation of Engineering Assessment Instruments",
+      "definition": "The evaluation of the reliability, validity, and structural properties (e.g., factor analysis, confirmatory factor analysis) of tools used to measure engineering competencies, self-efficacy, and other affective or cognitive constructs in engineering education.",
+      "subthemes": [
+        "Reliability and validity testing",
+        "Factor analysis and measurement invariance",
+        "Development of psychometrically sound instruments"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "merge",
+      "target_index": 4
+    },
+    {
+      "new_theme_index": 8,
+      "action": "merge",
+      "target_index": 6
+    },
+    {
+      "new_theme_index": 9,
+      "action": "new",
+      "theme": "Innovation and Entrepreneurship Competencies in Engineering",
+      "definition": "The assessment and development of competencies related to innovation, entrepreneurship, and the ability to create or adapt to new technologies and business models in engineering students. This includes the measurement of innovation self-efficacy and entrepreneurial competencies.",
+      "subthemes": [
+        "Innovation self-efficacy",
+        "Entrepreneurial competencies",
+        "Career aspirations in engineering innovation"
+      ]
+    }
+  ]
+}

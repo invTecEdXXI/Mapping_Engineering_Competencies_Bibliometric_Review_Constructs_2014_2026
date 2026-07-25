@@ -1,0 +1,8 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_232146,3,Scale Development and Validation,High,high,4,4,1.0,1.0,1.0,0,True,Item generation; Psychometric evaluation; Validity evidence; Reliability testing
+20260724_232146,3,Self-Efficacy Measurement,High,high,3,3,1.0,1.0,1.0,0,True,General self-efficacy; Domain-specific self-efficacy; Self-efficacy and performance; Mediation effects
+20260724_232146,3,Factor Structure Investigation,High,high,4,4,1.0,1.0,1.0,0,True,Exploratory factor analysis; Confirmatory factor analysis; Factor loading; Principal axis factoring; Item reduction
+20260724_232146,3,Psychometric Evidence (Reliability and Validity),High,high,4,4,1.0,1.0,1.0,0,True,Cronbach's alpha; Content-related validity; Construct validity; Response process validity; Reliability evidence
+20260724_232146,3,Motivation and Affective Constructs in Engineering Students,Medium,high,2,3,1.0,1.0,1.0,0,True,Entrepreneurial motivation; Writing attitudes; Affect and emotion; Writer's block
+20260724_232146,3,Engineering Education Context,High,high,4,4,1.0,1.0,1.0,0,True,Accreditation requirements; Curriculum design; Skill development; Engineering identity
+20260724_232146,3,Career and Professional Development,High,high,4,4,1.0,1.0,1.0,0,True,Entrepreneurial intention; Graduate persistence; Leadership development; Grant writing skills

@@ -1,0 +1,147 @@
+{
+  "session_id": "20260724_231535",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-07-24T23:17:18.545687",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "theme_b": "Assessment Instrument Development and Validation",
+        "relationship_type": "complementary",
+        "description": "The majority of studies in 'Engineering Competencies, Attitudes, and Professional Skills Assessment' rely on validated instruments developed under 'Assessment Instrument Development and Validation'. This suggests a strong methodological dependency where competency assessments require robust psychometric tools.",
+        "n_studies_support": 54,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "theme_b": "Educational Contexts and Assessment Environments",
+        "relationship_type": "association",
+        "description": "Competency assessments are frequently conducted in diverse educational contexts (e.g., laboratories, internships), indicating that assessment methods are tailored to specific environments.",
+        "n_studies_support": 23,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Advanced Cognitive and Systems Thinking Skills Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Higher-order cognitive skills (e.g., critical thinking, systems thinking) are often evaluated as part of broader competency assessments, suggesting these skills are considered core to engineering proficiency.",
+        "n_studies_support": 9,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Sustainability, Ethics, and Leadership Competencies Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Sustainability, ethics, and leadership competencies are frequently assessed alongside broader professional skills, indicating their integration into standard competency frameworks.",
+        "n_studies_support": 5,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Experiential and Active Learning Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Experiential learning outcomes (e.g., workplace assessments) are often evaluated in relation to professional skills and competencies, highlighting the practical application of these skills.",
+        "n_studies_support": 5,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Diversity and Inclusion in Engineering Assessment",
+        "theme_b": "Assessment Instrument Development and Validation",
+        "relationship_type": "complementary",
+        "description": "Studies on diversity and inclusion frequently involve the development or adaptation of assessment instruments to ensure equity and cultural relevance, relying on validation methodologies.",
+        "n_studies_support": 4,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Pedagogical Interventions and Learning Outcomes Assessment",
+        "theme_b": "Experiential and Active Learning Assessment",
+        "relationship_type": "association",
+        "description": "Pedagogical interventions (e.g., flipped classrooms) are often evaluated for their impact on experiential and active learning outcomes, suggesting a focus on applied learning strategies.",
+        "n_studies_support": 3,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Mathematical and Technical Competency Assessment",
+        "theme_b": "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+        "relationship_type": "association",
+        "description": "Foundational mathematical and technical competencies are assessed as part of broader engineering competencies, particularly in early academic stages.",
+        "n_studies_support": 2,
+        "robustness": "Medium"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Competency assessment frameworks that integrate both technical and non-technical skills, often validated through psychometric tools.",
+        "components": [
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+          "Assessment Instrument Development and Validation"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Assessments conducted in diverse educational contexts (e.g., laboratories, internships) to evaluate competencies.",
+        "components": [
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+          "Educational Contexts and Assessment Environments"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Studies combining higher-order cognitive skills assessment with broader competency evaluations.",
+        "components": [
+          "Advanced Cognitive and Systems Thinking Skills Assessment",
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Interdisciplinary assessments involving sustainability, ethics, and leadership competencies alongside professional skills.",
+        "components": [
+          "Sustainability, Ethics, and Leadership Competencies Assessment",
+          "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+        ],
+        "frequency": "Medium"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Methodological Rigor in Competency Assessment",
+        "justification": "The majority of studies (54) focus on developing and validating assessment instruments, indicating a strong emphasis on methodological rigor. This axis explores how different themes rely on validated tools to ensure reliability and validity.",
+        "coverage": "~57%",
+        "research_potential": "Could inform best practices for designing and validating assessment tools across diverse competency domains."
+      },
+      {
+        "axis": "Integration of Non-Technical Skills in Engineering Education",
+        "justification": "Multiple themes (e.g., 'Sustainability, Ethics, and Leadership Competencies Assessment', 'Advanced Cognitive and Systems Thinking Skills Assessment') highlight the growing importance of non-technical skills in engineering curricula.",
+        "coverage": "~30%",
+        "research_potential": "Could guide curriculum development to better align with industry demands for holistic engineering competencies."
+      },
+      {
+        "axis": "Contextual Variability in Assessment",
+        "justification": "Themes like 'Educational Contexts and Assessment Environments' and 'Experiential and Active Learning Assessment' emphasize the need to tailor assessments to specific learning environments.",
+        "coverage": "~25%",
+        "research_potential": "Could inform the design of context-specific assessment strategies that enhance learning outcomes."
+      },
+      {
+        "axis": "Equity and Inclusion in Assessment Outcomes",
+        "justification": "The 'Diversity and Inclusion in Engineering Assessment' theme, though smaller in study count, addresses critical gaps in ensuring fair and equitable assessment practices.",
+        "coverage": "~4%",
+        "research_potential": "Could drive policy changes and institutional practices to promote diversity and inclusion in engineering education."
+      }
+    ],
+    "gaps_and_contradictions": [
+      "Limited studies on 'Reflective Practices and Metacognition in Engineering Education' (n=1), despite its potential importance in fostering lifelong learning and professional growth.",
+      "Contradiction between the high number of studies on 'Assessment Instrument Development and Validation' and the relatively low focus on 'Reflective Practices and Metacognition', suggesting a gap in assessing higher-order cognitive processes.",
+      "Minimal integration of 'Large-Scale and Cross-Cultural Competency Benchmarking' (n=3) with other themes, indicating a lack of global comparative studies in engineering education assessment.",
+      "No explicit contradictions identified, but potential gaps exist in the assessment of interdisciplinary competencies and their alignment with real-world engineering challenges."
+    ],
+    "_theme_reference_check": {
+      "valid_references": 16,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

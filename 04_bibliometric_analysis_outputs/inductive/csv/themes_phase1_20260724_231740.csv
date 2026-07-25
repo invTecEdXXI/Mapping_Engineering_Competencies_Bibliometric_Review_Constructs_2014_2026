@@ -1,0 +1,34 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_231740,0,Assessment Instrument Development and Validation,High,high,15,3,0.767,0.667,1.0,1,True,Psychometric validation; Factor analysis; Reliability testing
+20260724_231740,0,Engineering Competencies and Skills,High,high,6,3,0.767,0.667,1.0,1,True,Professional skills; Transversal competencies; Research competences
+20260724_231740,0,Psychometric Properties and Statistical Analysis,High,high,12,3,0.533,0.333,1.0,2,True,Reliability testing; Factor analysis; Structural equation modeling
+20260724_231740,0,Engineering Identity and Self-Efficacy,Medium,high,3,3,0.533,0.333,1.0,2,True,Self-efficacy; Engineering identity; Research identity
+20260724_231740,0,Critical Thinking and Problem-Solving,Medium,high,4,3,0.3,0.0,1.0,3,False,Representational competence; Problem-solving skills; Technology-based assessment
+20260724_231740,0,Attitudes and Perceptions in Engineering Education,Medium,high,5,3,0.3,0.0,1.0,3,False,Student attitudes; Self-perception; Learning environment
+20260724_231740,0,Resilience and Academic Performance,Low,medium,2,2,0.3,0.0,1.0,2,False,Academic resilience; Protective factors; Student retention
+20260724_231740,0,Online and Virtual Learning Contexts,Low,medium,2,2,0.3,0.0,1.0,2,False,Virtual learning; Online discussion forums; ICT integration
+20260724_231740,0,Professional and Ethical Values,Low,medium,2,2,0.65,0.5,1.0,1,True,Ethical values; Global engineering; Socio-emotional competencies
+20260724_231740,1,Assessment of Professional Competencies,High,high,7,3,1.0,1.0,1.0,0,True,Employability skills; Self-efficacy; Professional responsibility; Workplace competencies
+20260724_231740,1,Self-Efficacy Measurement in Engineering,High,high,5,3,1.0,1.0,1.0,0,True,Programming self-efficacy; Design self-efficacy; General engineering self-efficacy
+20260724_231740,1,Motivation and Learning Strategies Assessment,Medium,high,4,3,1.0,1.0,1.0,0,True,Motivational attitudes; Learning strategies; Sustainable engineering attitudes
+20260724_231740,1,Entrepreneurial Mindset and Design Skills,Medium,high,4,3,0.767,0.667,1.0,1,True,Entrepreneurial mindset; Design mindset; Creativity assessment
+20260724_231740,1,Internship and Workplace Experience Evaluation,Medium,high,3,3,1.0,1.0,1.0,0,True,Internship evaluation; Workplace competencies; Apprenticeship assessment
+20260724_231740,1,Systems Thinking and Problem-Solving Skills,Low,medium,2,2,0.65,0.5,1.0,1,True,Systems thinking; Problem-based learning; Diagnostic activities
+20260724_231740,1,Communication Skills Assessment,Low,medium,2,2,1.0,1.0,1.0,0,True,Oral communication skills; Ambassador professional development; Outreach evaluation
+20260724_231740,1,Mathematical and Technical Competence Measurement,Low,medium,2,2,0.65,0.5,1.0,1,True,Mathematical competence; Technical skills; Rasch analysis
+20260724_231740,2,Engineering Self-Efficacy Measurement,High,high,6,3,1.0,1.0,1.0,0,True,Domain-specific vs. general instruments; Gender differences in self-efficacy; Sources of self-efficacy
+20260724_231740,2,Transferable and Vocational Competencies,High,high,5,3,1.0,1.0,1.0,0,True,Employability skills; Critical thinking; Contextual competence
+20260724_231740,2,Problem-Solving and Critical Thinking Assessment,High,high,5,3,1.0,1.0,1.0,0,True,Self-assessment instruments; Meta-cognitive processes; Technical problem-solving
+20260724_231740,2,Contextual and Sustainable Competencies,Medium,high,3,3,1.0,1.0,1.0,0,True,Sustainability education; Ethical principles; Social responsibility
+20260724_231740,2,Instrument Development and Validation,High,high,5,3,1.0,1.0,1.0,0,True,Psychometric properties; Factor analysis; Reliability and validity
+20260724_231740,2,Gender and Demographic Differences in Competencies,Medium,high,4,3,1.0,1.0,1.0,0,True,First-generation students; Gender disparities; Demographic impacts
+20260724_231740,2,Industry and Workplace Readiness,Medium,high,4,3,1.0,1.0,1.0,0,True,Internship programs; Employability skills; Industry alignment
+20260724_231740,2,Pandemic Impact on Learning and Self-Efficacy,Low,high,1,1,0.3,0.0,1.0,1,False,Online learning; Autonomy; Emotional resources
+20260724_231740,2,Global and Intercultural Competencies,Low,high,1,1,0.3,0.0,1.0,1,False,Intercultural communication; Language proficiency; Global engineering practice
+20260724_231740,3,Entrepreneurial Motivation in Engineering Students,High,high,1,2,1.0,1.0,1.0,0,True,Self-efficacy; Career intention; Educational impact
+20260724_231740,3,Leadership Self-Efficacy in Engineering Education,High,high,1,2,1.0,1.0,1.0,0,True,Leadership development; Factor structure; Reliability
+20260724_231740,3,Writing Attitudes and Affective Dimensions in Engineering,High,high,1,2,1.0,1.0,1.0,0,True,Writing apprehension; Career trajectory; Survey validation
+20260724_231740,3,Self-Efficacy in Biomedical Engineering Contexts,High,high,1,2,1.0,1.0,1.0,0,True,Task-specific self-efficacy; Clinical relevance; Survey design
+20260724_231740,3,Instrument Development and Validation in Engineering Education,High,high,4,2,1.0,1.0,1.0,0,True,Psychometric properties; Factor analysis; Reliability evidence
+20260724_231740,3,Educational Impact and Career Trajectory,Medium,high,2,2,1.0,1.0,1.0,0,True,Career intention; Persistence; Academic success
+20260724_231740,3,Factor Structure and Psychometric Properties,High,high,3,2,1.0,1.0,1.0,0,True,Exploratory factor analysis; Reliability statistics; Validity evidence

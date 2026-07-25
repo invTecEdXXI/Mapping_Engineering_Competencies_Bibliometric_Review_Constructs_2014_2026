@@ -1,0 +1,83 @@
+{
+  "session_id": "20260724_233014",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:33:53.971946",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Motivation and Learning Strategies in Engineering Education",
+      "definition": "The assessment of students' motivational attitudes, behaviors, and strategies for learning in engineering contexts, including intrinsic and extrinsic motivation, self-regulated learning, and expectancy-value frameworks. This theme emphasizes the development and validation of instruments to measure these constructs and their impact on academic performance and persistence.",
+      "subthemes": [
+        "Intrinsic and extrinsic motivation",
+        "Self-regulated learning strategies",
+        "Expectancy-value theory in engineering"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Assessment of Professional Ethics and Social Responsibility in Engineering",
+      "definition": "The development and validation of tools to measure engineering students' professional ethics, social responsibility, and sustainability attitudes. This theme includes the assessment of students' awareness of ethical dilemmas, social implications of engineering, and commitment to responsible practice.",
+      "subthemes": [
+        "Ethics education and assessment",
+        "Social responsibility in engineering",
+        "Sustainability attitudes"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Community-Partnered and Experiential Learning in Engineering",
+      "definition": "The use of real-world, community-based projects, internships, or problem-based learning to enhance engineering students' professional skills, sense of belonging, and practical competencies. This theme includes the assessment of learning outcomes from experiential and collaborative educational approaches.",
+      "subthemes": [
+        "Problem-based learning outcomes",
+        "Internship and workplace experience",
+        "Community-engaged engineering projects"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Measurement of Creativity and Design Mindset in Engineering",
+      "definition": "The development and validation of instruments to assess creativity, design thinking, and related constructs such as ambiguity tolerance and innovation in engineering students. This theme focuses on the psychometric evaluation of tools designed to capture these often-elusive competencies.",
+      "subthemes": [
+        "Creativity assessment in engineering",
+        "Design mindset and innovation",
+        "Ambiguity tolerance"
+      ]
+    },
+    {
+      "new_theme_index": 8,
+      "action": "new",
+      "theme": "Cultural and Linguistic Adaptation of Engineering Assessment Tools",
+      "definition": "The process of translating, adapting, and validating assessment instruments for use in diverse cultural or linguistic settings. This theme includes ensuring measurement invariance, cross-cultural validity, and linguistic equivalence to maintain the reliability and validity of engineering education assessments.",
+      "subthemes": [
+        "Cross-cultural validation of instruments",
+        "Measurement invariance testing",
+        "Linguistic adaptation of assessments"
+      ]
+    }
+  ]
+}

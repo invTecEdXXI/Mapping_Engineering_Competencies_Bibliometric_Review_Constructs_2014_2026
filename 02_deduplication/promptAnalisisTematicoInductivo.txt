@@ -1,0 +1,73 @@
+
+---
+
+## Prompt Cero: Ingesta de `propuestaRevision.txt` y Conformación Dinámica del Equipo
+
+Copia este prompt en cualquier chatbot cuando le entregues el archivo `propuestaRevision.txt`:
+
+> **[PROMPT CERO: RECEPCIÓN DE PROPUESTA Y CONFORMACIÓN DEL EQUIPO SENIOR]**
+> **Rol del Asistente:** Actúa como un Orquestador y Coordinador Senior de Soporte al Investigador para Revisiones Sistemáticas.
+> **Objetivo:** Leer, interpretar y procesar el contenido del archivo de entrada `propuestaRevision.txt` para constituir el equipo senior de trabajo, adaptar la metodología a los requerimientos del investigador y preparar la fase de análisis inductivo **sin definir ni sugerir ejes temáticos a priori**.
+> **Instrucciones de Procesamiento:**
+> 1. **Lectura e Ingesta:** Analiza en detalle el archivo `propuestaRevision.txt` suministrado a continuación.
+> 2. **Conformación del Equipo Senior:** Con base en las necesidades, alcance y protocolo expuestos en el texto, define los roles/agentes del equipo de soporte (ej. Auditor de Criterios, Codificador *In Vivo*, Sintetizador Axial) y explica brevemente cómo colaborarán.
+> 3. **Aceptación de Reglas Inductivas:**
+> * Reafirma explícitamente que **NO se establecerán ni asumirán ejes temáticos predeterminados**.
+> * Confirma que las categorías y ejes emergerán estrictamente de abajo hacia arriba (*bottom-up*) a partir de los datos de los resúmenes (*Abstracts*).
+> 
+> 
+> 4. **Alineación Operativa:** Muestra un resumen ejecutivo del protocolo detectado (objetivo, criterio de inclusión, número de registros si se menciona) y propone la estrategia de procesamiento por lotes (*batches*) con trazabilidad mediante identificadores únicos (`Keys`).
+> 5. **Solicitud de Inicio:** Finaliza la respuesta solicitando la lista de `Keys` o el primer lote de registros para arrancar el trabajo.
+> 
+> 
+> ---
+> 
+> 
+> ## **[CONTENIDO DEL ARCHIVO propuestaRevision.txt]**
+> *(Pega aquí el contenido textual de tu propuesta de revisión o adjunta el archivo)*
+> 
+> 
+
+---
+
+## Flujo Operativo Agnosítico Guiado por `propuestaRevision.txt`
+
+Una vez que el chatbot recibe la propuesta mediante el Prompt Cero, la secuencia ejecutable queda estructurada en 4 pasos claros:
+
+```
+                  [ ENTRADA: propuestaRevision.txt ]
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ PASO 0: Ingesta de la Propuesta & Formación del Equipo Senior       │
+│ • El chatbot analiza propuestaRevision.txt.                         │
+│ • Constituye los roles del equipo senior adaptados al documento.    │
+│ • Confirma el compromiso de NO usar temas a priori.                 │
+└─────────────────────────────────────────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ PASO 1: Organización de Lotes y Trazabilidad por Keys               │
+│ • Se recibe la lista global de Keys.                                │
+│ • El equipo organiza la secuencia de batches (15–20 por lote).      │
+└─────────────────────────────────────────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ PASO 2: Extracción Inductiva In Vivo por Lote (Paso Repetitivo)     │
+│ • Entrada: Lote N (Keys + Abstracts).                               │
+│ • Salida: Extracción literal de Constructo, Instrumento, Métodos    │
+│   y Contexto (relación 1:1 con la Key).                             │
+└─────────────────────────────────────────────────────────────────────┘
+                                   │
+                                   ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│ PASO 3: Codificación Axial, Saturación y Ejes Emergentes            │
+│ • El equipo senior sintetiza la totalidad de los datos In Vivo.     │
+│ • Emergen las subcategorías axiales y los Ejes Temáticos finales.   │
+│ • Salida final estructurada y exportación en JSON.                  │
+└─────────────────────────────────────────────────────────────────────┘
+
+```
+
+Con esta aproximación, el proceso queda **100 % guiado por el archivo de entrada del usuario**, garantizando que la conformación del equipo responda exactamente a las directrices de `propuestaRevision.txt` y respetando de principio a fin el principio de inducción pura sin sesgos previos.

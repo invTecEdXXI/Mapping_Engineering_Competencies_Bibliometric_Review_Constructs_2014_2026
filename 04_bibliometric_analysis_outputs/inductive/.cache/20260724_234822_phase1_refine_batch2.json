@@ -1,0 +1,73 @@
+{
+  "session_id": "20260724_234822",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:51:29.863562",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Motivational Attitudes and Behaviors in Engineering Education",
+      "definition": "The study of students' intrinsic and extrinsic motivations, attitudes, and learning strategies in engineering contexts. This includes the development and validation of instruments to measure motivational constructs and their impact on academic performance, persistence, and career-related outcomes.",
+      "subthemes": [
+        "Intrinsic motivation",
+        "Extrinsic motivation",
+        "Learning strategies",
+        "Expectancy value theory"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Assessment of Professional and Ethical Competencies in Engineering",
+      "definition": "The evaluation of students' understanding and application of professional and ethical standards in engineering practice. This includes the development of tools to measure social responsibility, ethical reasoning, and professional identity formation.",
+      "subthemes": [
+        "Social responsibility",
+        "Ethical skills",
+        "Professional identity"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Systems Thinking and Problem-Solving in Engineering",
+      "definition": "The assessment of students' ability to approach complex engineering problems holistically, considering interdependencies and broader systems. This theme includes the development of tools to evaluate design mindset, iterative problem-solving, and competency in handling complex systems.",
+      "subthemes": [
+        "Design mindset",
+        "Iterative problem-solving",
+        "Complex systems"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Impact of Experiential Learning on Engineering Student Outcomes",
+      "definition": "The exploration of how hands-on, real-world learning experiences such as internships, community-partnered projects, and apprenticeships influence the development of students' skills, self-efficacy, and professional readiness. This includes the assessment of workplace learning and its role in shaping career trajectories.",
+      "subthemes": [
+        "Internship evaluation",
+        "Community engagement",
+        "Workplace learning"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "merge",
+      "target_index": 0
+    }
+  ]
+}

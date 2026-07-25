@@ -1,0 +1,33 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_230900,0,Competency Assessment in Engineering Education,High,high,11,3,1.0,1.0,1.0,0,True,Rubric-based assessment; Psychometric validation; Factor analysis; Reliability testing
+20260724_230900,0,Psychometric Instrument Development and Validation,High,high,17,3,1.0,1.0,1.0,0,True,Factor analysis; Reliability testing; Expert judgment; Content validity
+20260724_230900,0,Transversal and Professional Skills in Engineering,High,high,7,3,1.0,1.0,1.0,0,True,Soft skills; Entrepreneurial self-efficacy; Professional identity; Teamwork
+20260724_230900,0,Rubric-Based Assessment in Engineering Education,Medium,high,4,3,1.0,1.0,1.0,0,True,Performance assessment; Competency evaluation; Laboratory assessment
+20260724_230900,0,Engineering Identity and Self-Efficacy,Medium,high,4,3,1.0,1.0,1.0,0,True,Self-efficacy; Identity development; Academic performance; Retention
+20260724_230900,0,Critical Thinking and Problem-Solving Assessment,Medium,high,3,3,1.0,1.0,1.0,0,True,Problem-solving skills; Representational competence; Technical assessment
+20260724_230900,0,Research Competencies and Academic Skills,Medium,high,3,3,1.0,1.0,1.0,0,True,Research training; Academic writing; Scientific literacy
+20260724_230900,0,Resilience and Academic Performance,Low,medium,2,2,1.0,1.0,1.0,0,True,Academic resilience; Student retention; Protective factors
+20260724_230900,0,Gender and Diversity in Engineering Education,Low,medium,2,2,1.0,1.0,1.0,0,True,Gender invariance; Diversity; Inclusivity
+20260724_230900,1,Assessment of Professional Competencies,High,high,7,3,1.0,1.0,1.0,0,True,Employability skills; Social responsibility; Workplace readiness
+20260724_230900,1,Self-Efficacy Measurement in Engineering,High,high,6,3,1.0,1.0,1.0,0,True,Programming self-efficacy; Design self-efficacy; General engineering self-efficacy
+20260724_230900,1,Motivation and Learning Strategies Assessment,Medium,high,4,3,1.0,1.0,1.0,0,True,Motivational attitudes; Learning strategies; Sustainable engineering attitudes
+20260724_230900,1,Entrepreneurial Mindset and Design Mindset,Medium,high,3,2,1.0,1.0,1.0,0,True,Entrepreneurial mindset; Design mindset; Ambiguity tolerance
+20260724_230900,1,Internship and Work Experience Evaluation,Medium,high,3,3,1.0,1.0,1.0,0,True,Internship evaluation; Workplace competencies; Apprenticeship assessment
+20260724_230900,1,Systems Thinking and Problem-Solving Skills,Low,medium,2,2,0.65,0.5,1.0,1,True,Systems thinking skills; Problem-solving competencies; Oral communication skills
+20260724_230900,1,Psychometric Validation and Factor Analysis,High,high,5,3,1.0,1.0,1.0,0,True,Factor analysis; Reliability testing; Psychometric validation
+20260724_230900,1,Community-Partnered Projects and Real-World Learning,Low,medium,2,2,1.0,1.0,1.0,0,True,Community-partnered projects; Real-world learning; Industry-coupled problem-based learning
+20260724_230900,2,Self-efficacy measurement in engineering education,High,high,7,3,1.0,1.0,1.0,0,True,Engineering identity; Innovation self-efficacy; Work self-efficacy; Contextual competence
+20260724_230900,2,Transferable and employability skills assessment,High,high,5,3,0.767,0.667,1.0,1,True,Vocational competencies; Contextual competence; Critical thinking; Interprofessional skills
+20260724_230900,2,Problem-solving and critical thinking assessment tools,High,high,4,3,0.767,0.667,1.0,1,True,Self-efficacy; Metacognition; Engineering identity; Sustainability competencies
+20260724_230900,2,Competency-based and outcomes-focused assessment,Medium,high,4,3,0.3,0.0,1.0,3,False,ABET criteria; Vocational competencies; Contextual competence; Sustainability competencies
+20260724_230900,2,Gender and diversity in engineering education assessment,Medium,high,4,3,1.0,1.0,1.0,0,True,Engineering identity; Self-efficacy; Transfer status; First-generation college students
+20260724_230900,2,Sustainability and ethics in engineering education,Medium,high,3,3,0.3,0.0,1.0,3,False,Ethics; Social responsibility; Sustainability competencies; Technical communication
+20260724_230900,2,Psychometric validation of assessment instruments,High,high,5,3,0.533,0.333,1.0,2,True,Factor analysis; Reliability; Validity; Internal consistency
+20260724_230900,2,Engineering identity and professional development,Low,medium,3,3,0.767,0.667,1.0,1,True,Self-efficacy; Professional placement; First-generation college students
+20260724_230900,3,Entrepreneurial Motivation in Engineering Students,Low,high,1,2,1.0,1.0,1.0,0,True,Self-efficacy; Career intention
+20260724_230900,3,Self-Efficacy Measurement in Engineering,Medium,high,2,2,1.0,1.0,1.0,0,True,Leadership development; Domain-specific skills; Scale validation
+20260724_230900,3,Leadership Development in Engineering Education,Low,high,1,2,1.0,1.0,1.0,0,True,Leadership self-efficacy; Engineering competencies
+20260724_230900,3,Writing Attitudes and Academic Success in Engineering,Low,high,1,2,1.0,1.0,1.0,0,True,Writing apprehension; Affective factors; Career trajectory
+20260724_230900,3,Scale Development and Validation in Engineering Education,High,high,4,2,1.0,1.0,1.0,0,True,Factor analysis; Psychometric properties; Instrument reliability
+20260724_230900,3,Domain-Specific Self-Efficacy in Biomedical Engineering,Low,high,1,1,1.0,1.0,1.0,0,True,Clinical relevance; Grant writing; Interdisciplinary skills
+20260724_230900,3,Impact of Affective Factors on Engineering Education,Medium,high,2,2,1.0,1.0,1.0,0,True,Motivation; Psychological factors; Academic performance

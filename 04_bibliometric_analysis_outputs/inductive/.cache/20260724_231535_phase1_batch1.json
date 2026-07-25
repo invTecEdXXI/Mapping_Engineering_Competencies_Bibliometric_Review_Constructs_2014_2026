@@ -1,0 +1,714 @@
+{
+  "session_id": "20260724_231535",
+  "phase": "1",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:15:53.744262",
+  "data": {
+    "themes": [
+      {
+        "name": "Assessment Instrument Development and Validation",
+        "definition": "The process of creating, refining, and validating tools (e.g., scales, rubrics, questionnaires) to measure engineering students' competencies, attitudes, or skills. This includes psychometric testing such as reliability (Cronbach's alpha, McDonald's omega) and validity (construct, content, discriminant) analyses.",
+        "evidence": [
+          "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+          "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+          "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instrument, and Cronbach's alpha was used to assess its reliability."
+        ],
+        "articles": [
+          "PP8YRX22",
+          "WE7WVA4B",
+          "ECTTSUXE",
+          "LPJSUJ9V",
+          "RGASR6Q5",
+          "QU82N8PC",
+          "9HGRHX6A",
+          "KU4TN5MB",
+          "PD6ENBV2",
+          "SL7257LZ",
+          "CU9IWP4L",
+          "PNGM9L8J",
+          "EPIKGTEL",
+          "A3WRUNHT",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "ZLBRXPDA",
+          "2IGUA9SF",
+          "RUGB95IU"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Psychometric validation",
+          "Factor analysis",
+          "Reliability testing"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Engineering Competencies and Skills",
+        "definition": "The identification, assessment, and development of technical and non-technical (transversal) competencies required for engineering students, including professional skills (e.g., teamwork, communication), research skills, and practical knowledge (e.g., electricity, magnetism).",
+        "evidence": [
+          "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solving using mental models'.",
+          "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competencies.",
+          "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation."
+        ],
+        "articles": [
+          "PP8YRX22",
+          "WE7WVA4B",
+          "ECTTSUXE",
+          "RGASR6Q5",
+          "QU82N8PC",
+          "KU4TN5MB",
+          "PD6ENBV2",
+          "SL7257LZ",
+          "CU9IWP4L",
+          "PNGM9L8J",
+          "EPIKGTEL",
+          "A3WRUNHT",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "2IGUA9SF",
+          "RUGB95IU"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Professional skills",
+          "Transversal competencies",
+          "Research competences",
+          "Practical knowledge"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Psychometric Properties and Statistical Methods",
+        "definition": "The use of statistical techniques (e.g., Cronbach's alpha, factor analysis, structural equation modeling) to evaluate the quality of assessment instruments, including reliability, validity, and structural integrity.",
+        "evidence": [
+          "[WE7WVA4B] The instrument's reliability was confirmed with high Cronbach's alpha values (>0.90), and exploratory (EFA) and confirmatory factor analyses (CFA) supported its structural validity.",
+          "[LPJSUJ9V] McDonald’s omega and Cronbach's alpha coefficients were used to assess reliability... Internal consistency is excellent because α and ω values range between 0.834 and 0.919.",
+          "[RGASR6Q5] The overall reliability of the instrument was excellent (α = 0.931), and the subscales also showed high reliability (α = 0.78-0.96)."
+        ],
+        "articles": [
+          "PP8YRX22",
+          "WE7WVA4B",
+          "ECTTSUXE",
+          "LPJSUJ9V",
+          "RGASR6Q5",
+          "QU82N8PC",
+          "9HGRHX6A",
+          "KU4TN5MB",
+          "PD6ENBV2",
+          "SL7257LZ",
+          "CU9IWP4L",
+          "PNGM9L8J",
+          "EPIKGTEL",
+          "A3WRUNHT",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "ZLBRXPDA",
+          "2IGUA9SF",
+          "RUGB95IU"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Reliability testing",
+          "Factor analysis",
+          "Structural validity"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Engineering Education Contexts and Settings",
+        "definition": "The diverse educational environments in which engineering students are assessed, including internships, laboratories, virtual learning, and graduate programs. This theme captures the contextual factors influencing competency development and assessment.",
+        "evidence": [
+          "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+          "[ECTTSUXE] The instrument was designed to assess the level of competency development in undergraduate engineering students at the electromagnetism laboratory of the University Center of Exact Sciences and Engineering (CUCEI), University of Guadalajara, Mexico.",
+          "[Y4ZKXXH4] The study focuses on analyzing the self-perception of the acquisition of research competences of mechanical and electrical engineering students at the National Technological University of Lima Sur, located in Peru."
+        ],
+        "articles": [
+          "PP8YRX22",
+          "WE7WVA4B",
+          "ECTTSUXE",
+          "RGASR6Q5",
+          "QU82N8PC",
+          "9HGRHX6A",
+          "KU4TN5MB",
+          "PD6ENBV2",
+          "I9QV6W8G",
+          "NKWQH4PB",
+          "Y4ZKXXH4",
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "SL7257LZ",
+          "CU9IWP4L",
+          "AKZVTZER",
+          "PNGM9L8J",
+          "A3WRUNHT",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "ZLBRXPDA",
+          "2IGUA9SF",
+          "RUGB95IU"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Internships",
+          "Laboratory settings",
+          "Virtual learning",
+          "Graduate education"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-Efficacy and Attitudes",
+        "definition": "The measurement and analysis of students' self-efficacy (confidence in their abilities) and attitudes toward learning, engineering, and professional skills. This includes factors like resilience, identity, and engagement.",
+        "evidence": [
+          "[LPJSUJ9V] The three factors are associated with the internet and traditional entrepreneurial intention, and the components from the theory of planned behavior (attitudes, subjective norms, and perceived behavioral control).",
+          "[RGASR6Q5] The EFA revealed a clear four-factor structure... Student Self-Efficacy and Engagement (5.4%).",
+          "[PVT4UE9C] Engineering identity development has mainly been investigated with undergraduate engineering students... we incorporate findings from previous qualitative studies of engineering identity and researcher identity."
+        ],
+        "articles": [
+          "PP8YRX22",
+          "WE7WVA4B",
+          "ECTTSUXE",
+          "LPJSUJ9V",
+          "RGASR6Q5",
+          "GMEMS46N",
+          "QU82N8PC",
+          "KU4TN5MB",
+          "PD6ENBV2",
+          "I9QV6W8G",
+          "NKWQH4PB",
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "SL7257LZ",
+          "CU9IWP4L",
+          "PNGM9L8J",
+          "A3WRUNHT",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "ZLBRXPDA",
+          "2IGUA9SF"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Resilience",
+          "Engineering identity",
+          "Entrepreneurial self-efficacy"
+        ],
+        "_verification": {
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Rubric-Based Assessment",
+        "definition": "The use of rubrics as structured scoring tools to evaluate students' performance in specific tasks (e.g., oral presentations, design problems, laboratory work). This includes the development, validation, and application of rubrics.",
+        "evidence": [
+          "[ECTTSUXE] This study aims to validate a rubric based on Ribes' five functional levels... Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale.",
+          "[9HGRHX6A] The importance of a properly designed rubric in the competency-based assessment process is emphasized... The study used Cronbach's alpha and the Pearson coefficient to quantify the correlation between the criteria and parameters.",
+          "[GSUNVIP6] Oral presentation is one of the most important transversal competences for the professional career of Electrical Engineers... A pilot experiment was carried out... to develop and assess this competence, scoring rubrics are useful academic tools."
+        ],
+        "articles": [
+          "ECTTSUXE",
+          "9HGRHX6A",
+          "A3WRUNHT",
+          "GSUNVIP6"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Scoring rubrics",
+          "Competency-based assessment",
+          "Expert judgment"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Critical Thinking and Problem-Solving",
+        "definition": "The assessment of students' ability to think critically and solve problems, particularly in technical domains like electrical engineering, statics, and automation. This includes the use of technology-based tools for evaluation.",
+        "evidence": [
+          "[EPIKGTEL] This study developes and validates an Automation Studio-based critical thinking assessment instrument for electrical engineering students, focusing on the ladder diagram concepts in automation control systems.",
+          "[AKZVTZER] The term representational competence refers to the ability to interpret, switch between, and use multiple representations of a concept as appropriate for learning, communication and analysis... We developed the assessment over two successive terms in statics courses."
+        ],
+        "articles": [
+          "EPIKGTEL",
+          "AKZVTZER"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Representational competence",
+          "Automation-based assessment",
+          "Problem-solving skills"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Reflective Thinking and Learning",
+        "definition": "The development and validation of tools to assess students' reflective thinking, particularly in design problem-solving contexts. This includes the timing, objects, and levels of reflection.",
+        "evidence": [
+          "[RUGB95IU] In this study, we have developed and validated a novel self‐reporting questionnaire as an efficient instrument to explore reflection, called Assessing Reflective Thinking in Solving Design Problems (ARTiD)."
+        ],
+        "articles": [
+          "RUGB95IU"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Reflective practice",
+          "Design problem-solving",
+          "Self-reporting instruments"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Cultural and Gender Considerations in Assessment",
+        "definition": "The examination of how cultural background, gender, and other demographic factors influence students' competencies, attitudes, and assessment outcomes in engineering education.",
+        "evidence": [
+          "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+          "[I9QV6W8G] Differences between gender and race groups in terms of resilience and academic performance were insignificant."
+        ],
+        "articles": [
+          "LPJSUJ9V",
+          "I9QV6W8G",
+          "PVT4UE9C",
+          "W2PMJWMT"
+        ],
+        "frequency": "Low",
+        "confidence": "medium",
+        "related_concepts": [
+          "Gender invariance",
+          "Cultural adaptation",
+          "Demographic factors"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on the development and validation of assessment instruments for engineering students, with a strong emphasis on psychometric properties (e.g., reliability, validity) and the use of factor analysis. Many studies are situated in specific educational contexts (e.g., internships, laboratories, virtual learning) and address a wide range of competencies (e.g., professional skills, research skills, self-efficacy). There is limited focus on critical thinking and reflective thinking, which appear in only a few abstracts. The term 'transversal competencies' is used in multiple abstracts to describe non-technical skills like teamwork and communication.",
+    "grounding_notes": "All themes and evidence are grounded in verbatim quotes from the provided abstracts. No external frameworks or assumptions were imposed. The frequency of themes is based on the number of abstracts that explicitly mention the theme. Some abstracts have quality notes indicating missing elements (e.g., no quantitative data, missing objective), which were not inferred. The closed set of article keys was strictly adhered to, and no additional keys were introduced.",
+    "_hallucination_control": {
+      "total_themes": 9,
+      "avg_grounding_score": 0.754,
+      "avg_quote_grounding": 0.648,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 9,
+      "verification_details": [
+        {
+          "theme_name": "Assessment Instrument Development and Validation",
+          "evidence_verified": [
+            {
+              "quote": "[PP8YRX22] The aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[RGASR6Q5] A cross-sectional survey design was used to collect data from 338 engineering students... Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instrument, and Cronbach's alpha was used to assess its reliability.",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "PP8YRX22",
+            "WE7WVA4B",
+            "ECTTSUXE",
+            "LPJSUJ9V",
+            "RGASR6Q5",
+            "QU82N8PC",
+            "9HGRHX6A",
+            "KU4TN5MB",
+            "PD6ENBV2",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "PNGM9L8J",
+            "EPIKGTEL",
+            "A3WRUNHT",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.62), not verbatim: '[RGASR6Q5] A cross-sectional survey design was use...'"
+          ]
+        },
+        {
+          "theme_name": "Engineering Competencies and Skills",
+          "evidence_verified": [
+            {
+              "quote": "[PP8YRX22] The test focuses on the six main domains of electricity which are 'the meaning of parallel', 'practical knowledge of current, voltage and resistance', 'circuit connection' and 'problem solving using mental models'.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PD6ENBV2] Validity evidence supported five distinct dimensions in leadership in teams, communication, civic and public engagement, cultural adaptability, and innovation.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach... focusing on Clear Goals, Workplace Support, University Support, and Generic Competencies.",
+              "score": 0.54,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "PP8YRX22",
+            "WE7WVA4B",
+            "ECTTSUXE",
+            "RGASR6Q5",
+            "QU82N8PC",
+            "KU4TN5MB",
+            "PD6ENBV2",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "PNGM9L8J",
+            "EPIKGTEL",
+            "A3WRUNHT",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "2IGUA9SF",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.54): '[WE7WVA4B] This study assessed these competencies ...'"
+          ]
+        },
+        {
+          "theme_name": "Psychometric Properties and Statistical Methods",
+          "evidence_verified": [
+            {
+              "quote": "[WE7WVA4B] The instrument's reliability was confirmed with high Cronbach's alpha values (>0.90), and exploratory (EFA) and confirmatory factor analyses (CFA) supported its structural validity.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[RGASR6Q5] The overall reliability of the instrument was excellent (α = 0.931), and the subscales also showed high reliability (α = 0.78-0.96).",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[LPJSUJ9V] McDonald’s omega and Cronbach's alpha coefficients were used to assess reliability... Internal consistency is excellent because α and ω values range between 0.834 and 0.919.",
+              "score": 0.53,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "PP8YRX22",
+            "WE7WVA4B",
+            "ECTTSUXE",
+            "LPJSUJ9V",
+            "RGASR6Q5",
+            "QU82N8PC",
+            "9HGRHX6A",
+            "KU4TN5MB",
+            "PD6ENBV2",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "PNGM9L8J",
+            "EPIKGTEL",
+            "A3WRUNHT",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.53): '[LPJSUJ9V] McDonald’s omega and Cronbach's alpha c...'"
+          ]
+        },
+        {
+          "theme_name": "Engineering Education Contexts and Settings",
+          "evidence_verified": [
+            {
+              "quote": "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ECTTSUXE] The instrument was designed to assess the level of competency development in undergraduate engineering students at the electromagnetism laboratory of the University Center of Exact Sciences and Engineering (CUCEI), University of Guadalajara, Mexico.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[Y4ZKXXH4] The study focuses on analyzing the self-perception of the acquisition of research competences of mechanical and electrical engineering students at the National Technological University of Lima Sur, located in Peru.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "PP8YRX22",
+            "WE7WVA4B",
+            "ECTTSUXE",
+            "RGASR6Q5",
+            "QU82N8PC",
+            "9HGRHX6A",
+            "KU4TN5MB",
+            "PD6ENBV2",
+            "I9QV6W8G",
+            "NKWQH4PB",
+            "Y4ZKXXH4",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "AKZVTZER",
+            "PNGM9L8J",
+            "A3WRUNHT",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Self-Efficacy and Attitudes",
+          "evidence_verified": [
+            {
+              "quote": "[LPJSUJ9V] The three factors are associated with the internet and traditional entrepreneurial intention, and the components from the theory of planned behavior (attitudes, subjective norms, and perceived behavioral control).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[RGASR6Q5] The EFA revealed a clear four-factor structure... Student Self-Efficacy and Engagement (5.4%).",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[PVT4UE9C] Engineering identity development has mainly been investigated with undergraduate engineering students... we incorporate findings from previous qualitative studies of engineering identity and researcher identity.",
+              "score": 0.52,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "PP8YRX22",
+            "WE7WVA4B",
+            "ECTTSUXE",
+            "LPJSUJ9V",
+            "RGASR6Q5",
+            "GMEMS46N",
+            "QU82N8PC",
+            "KU4TN5MB",
+            "PD6ENBV2",
+            "I9QV6W8G",
+            "NKWQH4PB",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "PNGM9L8J",
+            "A3WRUNHT",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[RGASR6Q5] The EFA revealed a clear four-factor st...'",
+            "Quote not found in source texts (score=0.52): '[PVT4UE9C] Engineering identity development has ma...'"
+          ]
+        },
+        {
+          "theme_name": "Rubric-Based Assessment",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[ECTTSUXE] This study aims to validate a rubric based on Ribes' five functional levels... Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale.",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[9HGRHX6A] The importance of a properly designed rubric in the competency-based assessment process is emphasized... The study used Cronbach's alpha and the Pearson coefficient to quantify the correlation between the criteria and parameters.",
+              "score": 0.54,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[GSUNVIP6] Oral presentation is one of the most important transversal competences for the professional career of Electrical Engineers... A pilot experiment was carried out... to develop and assess this competence, scoring rubrics are useful academic tools.",
+              "score": 0.47,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "ECTTSUXE",
+            "9HGRHX6A",
+            "A3WRUNHT",
+            "GSUNVIP6"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.62), not verbatim: '[ECTTSUXE] This study aims to validate a rubric ba...'",
+            "Quote not found in source texts (score=0.54): '[9HGRHX6A] The importance of a properly designed r...'",
+            "Quote not found in source texts (score=0.47): '[GSUNVIP6] Oral presentation is one of the most im...'"
+          ]
+        },
+        {
+          "theme_name": "Critical Thinking and Problem-Solving",
+          "evidence_verified": [
+            {
+              "quote": "[EPIKGTEL] This study developes and validates an Automation Studio-based critical thinking assessment instrument for electrical engineering students, focusing on the ladder diagram concepts in automation control systems.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[AKZVTZER] The term representational competence refers to the ability to interpret, switch between, and use multiple representations of a concept as appropriate for learning, communication and analysis... We developed the assessment over two successive terms in statics courses.",
+              "score": 0.68,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "EPIKGTEL",
+            "AKZVTZER"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.68), not verbatim: '[AKZVTZER] The term representational competence re...'"
+          ]
+        },
+        {
+          "theme_name": "Reflective Thinking and Learning",
+          "evidence_verified": [
+            {
+              "quote": "[RUGB95IU] In this study, we have developed and validated a novel self‐reporting questionnaire as an efficient instrument to explore reflection, called Assessing Reflective Thinking in Solving Design Problems (ARTiD).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Cultural and Gender Considerations in Assessment",
+          "evidence_verified": [
+            {
+              "quote": "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[I9QV6W8G] Differences between gender and race groups in terms of resilience and academic performance were insignificant.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LPJSUJ9V",
+            "I9QV6W8G",
+            "PVT4UE9C",
+            "W2PMJWMT"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

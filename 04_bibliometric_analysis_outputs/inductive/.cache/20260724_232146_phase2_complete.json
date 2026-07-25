@@ -1,0 +1,119 @@
+{
+  "session_id": "20260724_232146",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-07-24T23:29:20.819230",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Scale Development and Psychometric Evaluation",
+        "theme_b": "Self-Efficacy Measurement",
+        "relationship_type": "association",
+        "description": "Scale Development and Psychometric Evaluation is frequently used to design and validate instruments measuring self-efficacy constructs, including general and domain-specific self-efficacy, often within engineering contexts.",
+        "n_studies_support": "Approx. 8-10",
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Scale Development and Psychometric Evaluation",
+        "theme_b": "Motivation and Affective Constructs in Engineering Students",
+        "relationship_type": "association",
+        "description": "Instruments developed through rigorous psychometric processes are applied to assess entrepreneurial motivation, writing attitudes, affect, and writer's block, linking scale construction to motivational constructs.",
+        "n_studies_support": "Approx. 7-9",
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Scale Development and Psychometric Evaluation",
+        "theme_b": "Career and Professional Development",
+        "relationship_type": "association",
+        "description": "Psychometric scales are developed to measure career-related outcomes such as entrepreneurial intention, graduate persistence, and leadership development, ensuring reliable assessment of professional trajectories.",
+        "n_studies_support": "Approx. 6-8",
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Self-Efficacy Measurement",
+        "theme_b": "Motivation and Affective Constructs in Engineering Students",
+        "relationship_type": "association",
+        "description": "Self-efficacy often mediates the relationship between motivational/affective factors and outcomes; studies explore how self-efficacy beliefs influence entrepreneurial motivation and writing attitudes.",
+        "n_studies_support": "Approx. 3-5",
+        "robustness": "Low"
+      },
+      {
+        "theme_a": "Motivation and Affective Constructs in Engineering Students",
+        "theme_b": "Career and Professional Development",
+        "relationship_type": "association",
+        "description": "Entrepreneurial motivation and positive writing attitudes are linked to entrepreneurial intentions and grant writing skills, showing a direct association between affective constructs and career development.",
+        "n_studies_support": "Approx. 2-4",
+        "robustness": "Low"
+      },
+      {
+        "theme_a": "Engineering Education Context",
+        "theme_b": "All other main themes",
+        "relationship_type": "complementary",
+        "description": "All identified themes are situated within the engineering education context, which provides the curricular, accreditation, and skill-development framework shaping the measurement and professional development of students.",
+        "n_studies_support": "94 (overall)",
+        "robustness": "High"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Instrument development and validation for engineering-specific self-efficacy and career outcomes",
+        "components": [
+          "Scale Development and Psychometric Evaluation",
+          "Self-Efficacy Measurement",
+          "Engineering Education Context",
+          "Career and Professional Development"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Psychometric measurement of motivational and affective constructs predicting entrepreneurial and professional trajectories",
+        "components": [
+          "Scale Development and Psychometric Evaluation",
+          "Motivation and Affective Constructs in Engineering Students",
+          "Engineering Education Context",
+          "Career and Professional Development"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Self-efficacy as a mediator between engineering students' motivational states and career intentions",
+        "components": [
+          "Self-Efficacy Measurement",
+          "Motivation and Affective Constructs in Engineering Students",
+          "Career and Professional Development"
+        ],
+        "frequency": "Low"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Psychometric Instrumentation for Engineering Education Outcomes",
+        "justification": "A central focus is the creation and validation of scales tailored to engineering students' self-efficacy, motivation, and career readiness, reflecting the need for context-specific measurement tools.",
+        "coverage": "~20% of studies",
+        "research_potential": "Enables systematic benchmarking of affective and professional competencies across engineering programs, supporting evidence-based curriculum design and accreditation compliance."
+      },
+      {
+        "axis": "Affective and Cognitive Pathways to Professional Development",
+        "justification": "Studies intertwine self-efficacy, motivation, and emotions to explain career intentions and persistence, highlighting mediation and direct effects.",
+        "coverage": "~15% of studies",
+        "research_potential": "Informs interventions targeting specific psychological drivers (e.g., entrepreneurial self-efficacy) to boost retention and transition into engineering careers."
+      },
+      {
+        "axis": "Contextualizing Scale Validation within Accreditation and Skill Frameworks",
+        "justification": "The engineering education setting imposes unique accreditation requirements and skill development goals, making instrument validation a means to demonstrate program effectiveness.",
+        "coverage": "~10% of studies",
+        "research_potential": "Provides a framework for aligning psychometric evidence with ABET outcomes, improving accountability and graduate preparedness."
+      }
+    ],
+    "gaps_and_contradictions": "Notable gaps include a lack of longitudinal studies tracking how self-efficacy and motivation evolve across the engineering curriculum, and limited cross-institutional validation of scales. Contradictions may arise between the use of general versus domain-specific self-efficacy measures, as the taxonomy includes both but does not indicate resolution of their predictive value. The robustness ratings of many themes are moderate, indicating that additional primary research is needed to solidify these inductive findings.",
+    "_theme_reference_check": {
+      "valid_references": 11,
+      "invalid_references": 1,
+      "invalid_details": [
+        "Relationship: All other main themes"
+      ],
+      "grounded": false,
+      "theme_reference_grounding": 0.917
+    }
+  }
+}

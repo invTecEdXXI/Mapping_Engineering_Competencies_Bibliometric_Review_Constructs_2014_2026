@@ -1,0 +1,6232 @@
+{
+  "quality_metrics": {
+    "modularity_q": 0.1356,
+    "mean_silhouette": 0.092,
+    "cluster_silhouettes": {
+      "1": 0.0084,
+      "2": 0.148,
+      "3": 0.0951,
+      "4": 0.0367,
+      "0": 0.5322
+    }
+  },
+  "burst_detection": {
+    "keywords": [
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 68,
+        "duration": 13,
+        "entity": "psychology",
+        "entity_type": "keywords",
+        "total_occurrences": 68
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 62,
+        "duration": 13,
+        "entity": "engineering education",
+        "entity_type": "keywords",
+        "total_occurrences": 62
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2025,
+        "strength": 53,
+        "duration": 12,
+        "entity": "computer science",
+        "entity_type": "keywords",
+        "total_occurrences": 53
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 49,
+        "duration": 13,
+        "entity": "engineering",
+        "entity_type": "keywords",
+        "total_occurrences": 49
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 44,
+        "duration": 11,
+        "entity": "students",
+        "entity_type": "keywords",
+        "total_occurrences": 44
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 42,
+        "duration": 13,
+        "entity": "mathematics education",
+        "entity_type": "keywords",
+        "total_occurrences": 42
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2025,
+        "strength": 32,
+        "duration": 12,
+        "entity": "scale (ratio)",
+        "entity_type": "keywords",
+        "total_occurrences": 32
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 30,
+        "duration": 13,
+        "entity": "engineering management",
+        "entity_type": "keywords",
+        "total_occurrences": 30
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 29,
+        "duration": 11,
+        "entity": "confirmatory factor analysis",
+        "entity_type": "keywords",
+        "total_occurrences": 29
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 28,
+        "duration": 11,
+        "entity": "medicine",
+        "entity_type": "keywords",
+        "total_occurrences": 28
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2025,
+        "strength": 27,
+        "duration": 12,
+        "entity": "psychometrics",
+        "entity_type": "keywords",
+        "total_occurrences": 27
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 27,
+        "duration": 11,
+        "entity": "medical education",
+        "entity_type": "keywords",
+        "total_occurrences": 27
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 26,
+        "duration": 13,
+        "entity": "factor analysis",
+        "entity_type": "keywords",
+        "total_occurrences": 26
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 25,
+        "duration": 12,
+        "entity": "reliability (semiconductor)",
+        "entity_type": "keywords",
+        "total_occurrences": 25
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 25,
+        "duration": 13,
+        "entity": "social psychology",
+        "entity_type": "keywords",
+        "total_occurrences": 25
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 24,
+        "duration": 10,
+        "entity": "structural equation modeling",
+        "entity_type": "keywords",
+        "total_occurrences": 24
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 23,
+        "duration": 11,
+        "entity": "engineering students",
+        "entity_type": "keywords",
+        "total_occurrences": 23
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 23,
+        "duration": 11,
+        "entity": "pedagogy",
+        "entity_type": "keywords",
+        "total_occurrences": 23
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 22,
+        "duration": 13,
+        "entity": "self-efficacy",
+        "entity_type": "keywords",
+        "total_occurrences": 22
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 18,
+        "duration": 11,
+        "entity": "mathematics",
+        "entity_type": "keywords",
+        "total_occurrences": 18
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2025,
+        "strength": 16,
+        "duration": 12,
+        "entity": "reliability",
+        "entity_type": "keywords",
+        "total_occurrences": 16
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 16,
+        "duration": 13,
+        "entity": "exploratory factor analysis",
+        "entity_type": "keywords",
+        "total_occurrences": 16
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 16,
+        "duration": 10,
+        "entity": "professional aspects",
+        "entity_type": "keywords",
+        "total_occurrences": 16
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 15,
+        "duration": 11,
+        "entity": "cronbach's alpha",
+        "entity_type": "keywords",
+        "total_occurrences": 15
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 15,
+        "duration": 8,
+        "entity": "knowledge management",
+        "entity_type": "keywords",
+        "total_occurrences": 15
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2024,
+        "strength": 14,
+        "duration": 9,
+        "entity": "clinical psychology",
+        "entity_type": "keywords",
+        "total_occurrences": 14
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2025,
+        "strength": 14,
+        "duration": 12,
+        "entity": "self efficacy",
+        "entity_type": "keywords",
+        "total_occurrences": 14
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2024,
+        "strength": 14,
+        "duration": 10,
+        "entity": "applied psychology",
+        "entity_type": "keywords",
+        "total_occurrences": 14
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2025,
+        "strength": 14,
+        "duration": 12,
+        "entity": "validity",
+        "entity_type": "keywords",
+        "total_occurrences": 14
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 13,
+        "duration": 10,
+        "entity": "statistics",
+        "entity_type": "keywords",
+        "total_occurrences": 13
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 13,
+        "duration": 9,
+        "entity": "curriculum",
+        "entity_type": "keywords",
+        "total_occurrences": 13
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2021,
+        "strength": 13,
+        "duration": 7,
+        "entity": "surveys",
+        "entity_type": "keywords",
+        "total_occurrences": 13
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 12,
+        "duration": 13,
+        "entity": "perception",
+        "entity_type": "keywords",
+        "total_occurrences": 12
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 11,
+        "duration": 11,
+        "entity": "education",
+        "entity_type": "keywords",
+        "total_occurrences": 11
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 11,
+        "duration": 11,
+        "entity": "higher education",
+        "entity_type": "keywords",
+        "total_occurrences": 11
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2026,
+        "strength": 10,
+        "duration": 13,
+        "entity": "context (archaeology)",
+        "entity_type": "keywords",
+        "total_occurrences": 10
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 10,
+        "duration": 11,
+        "entity": "construct validity",
+        "entity_type": "keywords",
+        "total_occurrences": 10
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2024,
+        "strength": 10,
+        "duration": 11,
+        "entity": "foreign countries",
+        "entity_type": "keywords",
+        "total_occurrences": 10
+      },
+      {
+        "level": 2,
+        "begin_year": 2018,
+        "end_year": 2025,
+        "strength": 10,
+        "duration": 8,
+        "entity": "curricula",
+        "entity_type": "keywords",
+        "total_occurrences": 10
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 9,
+        "duration": 11,
+        "entity": "sociology",
+        "entity_type": "keywords",
+        "total_occurrences": 9
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 9,
+        "duration": 10,
+        "entity": "political science",
+        "entity_type": "keywords",
+        "total_occurrences": 9
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 9,
+        "duration": 11,
+        "entity": "work (physics)",
+        "entity_type": "keywords",
+        "total_occurrences": 9
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2024,
+        "strength": 9,
+        "duration": 9,
+        "entity": "undergraduate students",
+        "entity_type": "keywords",
+        "total_occurrences": 9
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 8,
+        "duration": 11,
+        "entity": "instruments",
+        "entity_type": "keywords",
+        "total_occurrences": 8
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 8,
+        "duration": 12,
+        "entity": "rubric",
+        "entity_type": "keywords",
+        "total_occurrences": 8
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 8,
+        "duration": 11,
+        "entity": "artificial intelligence",
+        "entity_type": "keywords",
+        "total_occurrences": 8
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 8,
+        "duration": 11,
+        "entity": "undergraduate engineering students",
+        "entity_type": "keywords",
+        "total_occurrences": 8
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 8,
+        "duration": 10,
+        "entity": "multivariant analysis",
+        "entity_type": "keywords",
+        "total_occurrences": 8
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 7,
+        "duration": 12,
+        "entity": "test (biology)",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 7,
+        "duration": 9,
+        "entity": "education computing",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 7,
+        "duration": 12,
+        "entity": "process (computing)",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 7,
+        "duration": 9,
+        "entity": "measure (data warehouse)",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 7,
+        "duration": 11,
+        "entity": "geography",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 7,
+        "duration": 11,
+        "entity": "construct (python library)",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2019,
+        "end_year": 2025,
+        "strength": 7,
+        "duration": 7,
+        "entity": "test validity",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 7,
+        "duration": 12,
+        "entity": "engineering ethics",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 7,
+        "duration": 11,
+        "entity": "mechanical engineering",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 7,
+        "duration": 12,
+        "entity": "critical thinking",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2023,
+        "strength": 7,
+        "duration": 9,
+        "entity": "college students",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2024,
+        "strength": 7,
+        "duration": 11,
+        "entity": "developmental psychology",
+        "entity_type": "keywords",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 6,
+        "duration": 10,
+        "entity": "fit indexes",
+        "entity_type": "keywords",
+        "total_occurrences": 6
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 6,
+        "duration": 9,
+        "entity": "likert scale",
+        "entity_type": "keywords",
+        "total_occurrences": 6
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 6,
+        "duration": 9,
+        "entity": "engineering research",
+        "entity_type": "keywords",
+        "total_occurrences": 6
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2019,
+        "strength": 6,
+        "duration": 6,
+        "entity": "competence (human resources)",
+        "entity_type": "keywords",
+        "total_occurrences": 6
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 5,
+        "entity": "sample (material)",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2018,
+        "end_year": 2024,
+        "strength": 5,
+        "duration": 7,
+        "entity": "entrepreneurship",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 11,
+        "entity": "internal consistency",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2024,
+        "strength": 5,
+        "duration": 10,
+        "entity": "student attitudes",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 7,
+        "entity": "professional skills",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 5,
+        "duration": 8,
+        "entity": "soft skills",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 10,
+        "entity": "academic achievement",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2021,
+        "strength": 5,
+        "duration": 5,
+        "entity": "graduate students",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2018,
+        "end_year": 2023,
+        "strength": 5,
+        "duration": 6,
+        "entity": "teamwork",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 7,
+        "entity": "machine learning",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 10,
+        "entity": "first-year engineering",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 11,
+        "entity": "assessment",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 9,
+        "entity": "validation",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2021,
+        "strength": 5,
+        "duration": 6,
+        "entity": "employability",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2023,
+        "strength": 5,
+        "duration": 7,
+        "entity": "business",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2024,
+        "strength": 5,
+        "duration": 9,
+        "entity": "questionnaires",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 12,
+        "entity": "women",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2024,
+        "strength": 5,
+        "duration": 10,
+        "entity": "internship",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 11,
+        "entity": "beliefs",
+        "entity_type": "keywords",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 9,
+        "entity": "problem solving",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2020,
+        "strength": 4,
+        "duration": 5,
+        "entity": "electrical engineering",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 8,
+        "entity": "cognition",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2022,
+        "strength": 4,
+        "duration": 7,
+        "entity": "population",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 5,
+        "entity": "student perceptions",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 5,
+        "entity": "professional development",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2021,
+        "strength": 4,
+        "duration": 3,
+        "entity": "scale development",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 8,
+        "entity": "engineering profession",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 8,
+        "entity": "teaching",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 9,
+        "entity": "data mining",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2021,
+        "strength": 4,
+        "duration": 7,
+        "entity": "correlation",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 9,
+        "entity": "employment",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 8,
+        "entity": "engineers",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 11,
+        "entity": "experiential learning",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 6,
+        "entity": "career",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 9,
+        "entity": "gender",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 7,
+        "entity": "communication skills",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 11,
+        "entity": "competence",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 12,
+        "entity": "measurement",
+        "entity_type": "keywords",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 6,
+        "entity": "skills",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2024,
+        "strength": 3,
+        "duration": 10,
+        "entity": "discriminant validity",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2024,
+        "strength": 3,
+        "duration": 9,
+        "entity": "model",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 7,
+        "entity": "article",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 7,
+        "entity": "questionnaire",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 7,
+        "entity": "human",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2023,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 3,
+        "entity": "student",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 6,
+        "entity": "quality (philosophy)",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2022,
+        "strength": 3,
+        "duration": 5,
+        "entity": "accreditation",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 8,
+        "entity": "psychometric analysis",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 7,
+        "entity": "science education",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 4,
+        "entity": "knowledge",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2020,
+        "strength": 3,
+        "duration": 3,
+        "entity": "exploratory factor-analysis",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 4,
+        "entity": "management",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2022,
+        "strength": 3,
+        "duration": 6,
+        "entity": "social science",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "identity (music)",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "engineering graduate students",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2022,
+        "strength": 3,
+        "duration": 4,
+        "entity": "survey",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2022,
+        "strength": 3,
+        "duration": 4,
+        "entity": "identity",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 2,
+        "entity": "student perception",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "engineering curriculum",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 3,
+        "entity": "test reliability",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 2,
+        "entity": "reliability and validity",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 5,
+        "entity": "exploratory factor analysis (efa)",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 2,
+        "entity": "learning outcomes",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 6,
+        "entity": "programming language",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 7,
+        "entity": "marketing",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 7,
+        "entity": "satisfaction",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 6,
+        "entity": "social cognitive theory",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "learning experiences",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 3,
+        "entity": "choice",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 12,
+        "entity": "turkish",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 5,
+        "entity": "adaptation (eye)",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 11,
+        "entity": "self-assessment",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 5,
+        "entity": "engineering undergraduates",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 11,
+        "entity": "value (mathematics)",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 6,
+        "entity": "perceptions",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 12,
+        "entity": "technology",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 7,
+        "entity": "colleges, universities, and professional schools",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 5,
+        "entity": "measurement invariance",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 9,
+        "entity": "achievement",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "regression analysis",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 10,
+        "entity": "physics",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2020,
+        "strength": 3,
+        "duration": 5,
+        "entity": "cartography",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 4,
+        "entity": "personnel training",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2024,
+        "strength": 3,
+        "duration": 6,
+        "entity": "learning",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 5,
+        "entity": "content validity",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "portuguese",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2024,
+        "strength": 3,
+        "duration": 10,
+        "entity": "vocational education",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2022,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 5,
+        "entity": "university",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2018,
+        "strength": 3,
+        "duration": 3,
+        "entity": "graduation (instrument)",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 10,
+        "entity": "testing",
+        "entity_type": "keywords",
+        "total_occurrences": 3
+      }
+    ],
+    "authors": [],
+    "references": [
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 20,
+        "duration": 11,
+        "entity": "Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+        "entity_type": "references",
+        "total_occurrences": 20
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 14,
+        "duration": 11,
+        "entity": "omid:br/062302408377 10.1080/10705519909540118 openalex:W2071666535",
+        "entity_type": "references",
+        "total_occurrences": 14
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 10,
+        "duration": 9,
+        "entity": "Unknown (2007) — Confirmatory factor analysis for applied research",
+        "entity_type": "references",
+        "total_occurrences": 10
+      },
+      {
+        "level": 2,
+        "begin_year": 2018,
+        "end_year": 2025,
+        "strength": 10,
+        "duration": 8,
+        "entity": "Cecilia Ka Yuk Chan (2017) — A Validated and Reliable Instrument Investigating Engineering Students’ Percepti",
+        "entity_type": "references",
+        "total_occurrences": 10
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 9,
+        "duration": 9,
+        "entity": "Unknown (1997) — Self-efficacy: the exercise of control",
+        "entity_type": "references",
+        "total_occurrences": 9
+      },
+      {
+        "level": 2,
+        "begin_year": 2018,
+        "end_year": 2025,
+        "strength": 8,
+        "duration": 8,
+        "entity": "omid:br/06503770548 10.1002/jee.20165 openalex:W2606937270",
+        "entity_type": "references",
+        "total_occurrences": 8
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 8,
+        "duration": 12,
+        "entity": "Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling",
+        "entity_type": "references",
+        "total_occurrences": 8
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2026,
+        "strength": 8,
+        "duration": 10,
+        "entity": "Natasha A. Mamaril (2016) — Measuring Undergraduate Students' Engineering Self‐Efficacy: A Validation Study",
+        "entity_type": "references",
+        "total_occurrences": 8
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2026,
+        "strength": 8,
+        "duration": 10,
+        "entity": "Albert Bandura (1977) — Self-efficacy: Toward a unifying theory of behavioral change.",
+        "entity_type": "references",
+        "total_occurrences": 8
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 7,
+        "duration": 8,
+        "entity": "Barbara G. Tabachnick (1983) — Using multivariate statistics",
+        "entity_type": "references",
+        "total_occurrences": 7
+      },
+      {
+        "level": 2,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 6,
+        "duration": 5,
+        "entity": "Claes Fornell (1981) — Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "entity_type": "references",
+        "total_occurrences": 6
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2023,
+        "strength": 6,
+        "duration": 7,
+        "entity": "Nassim Tabri (2012) — Principles and Practice of Structural Equation Modeling",
+        "entity_type": "references",
+        "total_occurrences": 6
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 6,
+        "duration": 11,
+        "entity": "Adam Carberry (2010) — Measuring Engineering Design Self‐Efficacy",
+        "entity_type": "references",
+        "total_occurrences": 6
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2026,
+        "strength": 6,
+        "duration": 12,
+        "entity": "Albert Bandura (1999) — Self-Efficacy: The Exercise of Control",
+        "entity_type": "references",
+        "total_occurrences": 6
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 6,
+        "duration": 11,
+        "entity": "OA:W6678283156",
+        "entity_type": "references",
+        "total_occurrences": 6
+      },
+      {
+        "level": 2,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 6,
+        "duration": 9,
+        "entity": "omid:br/06401494427 10.1037/0033-295x.84.2.191 openalex:W4292808503",
+        "entity_type": "references",
+        "total_occurrences": 6
+      },
+      {
+        "level": 2,
+        "begin_year": 2014,
+        "end_year": 2021,
+        "strength": 6,
+        "duration": 8,
+        "entity": "OA:W4285719527",
+        "entity_type": "references",
+        "total_occurrences": 6
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 10,
+        "entity": "Philip M. Podsakoff (2003) — Common method biases in behavioral research: A critical review of the literature",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 11,
+        "entity": "Mimi Bong (2001) — Role of Self-Efficacy and Task-Value in Predicting College Students' Course Perf",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 11,
+        "entity": "Todd D. Fantz (2011) — Pre‐Collegiate Factors Influencing the Self‐Efficacy of Engineering Students",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 8,
+        "entity": "Nassim Tabri (2012) — Principles and Practice of Structural Equation Modeling",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 10,
+        "entity": "Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 11,
+        "entity": "Frank Pajares (2006) — Self-Efficacy Beliefs of Adolescents",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2021,
+        "strength": 5,
+        "duration": 6,
+        "entity": "Craig C. Lundberg (2000) — Toward an Emotion Nuanced Sensemaking Perspective of Organizational Consultation",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 11,
+        "entity": "Rose M. Marra (2009) — Women Engineering Students and Self‐Efficacy: A Multi‐Year, Multi‐Institution St",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 5,
+        "duration": 11,
+        "entity": "Michael K. Ponton (2001) — Understanding the Role of Self‐Efficacy in Engineering Education",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 9,
+        "entity": "Albert Bandura (1977) — Self-efficacy: Toward a unifying theory of behavioral change.",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 2,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 5,
+        "duration": 10,
+        "entity": "Henry F. Kaiser (1960) — The Application of Electronic Computers to Factor Analysis",
+        "entity_type": "references",
+        "total_occurrences": 5
+      },
+      {
+        "level": 1,
+        "begin_year": 2014,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 11,
+        "entity": "OA:W3214923421",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 6,
+        "entity": "omid:br/06801484601 10.1037/0021-9010.88.5.879 openalex:W2106096361 pmid:14516251",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 7,
+        "entity": "OA:W6637522636",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2020,
+        "strength": 4,
+        "duration": 3,
+        "entity": "Kerrie Douglas (2015) — Validity: Meaning and Relevancy in Assessment for Engineering Education Research",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 5,
+        "entity": "Randall E. Schumacker (2004) — A Beginner's Guide to Structural Equation Modeling",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 11,
+        "entity": "omid:br/06503771137 10.1002/j.2168-9830.2011.tb00028.x openalex:W2028978584",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 9,
+        "entity": "omid:br/06503770580 10.1002/jee.20121 openalex:W101591081",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 11,
+        "entity": "omid:br/06503770793 10.1002/j.2168-9830.2010.tb01043.x openalex:W2121528951",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 4,
+        "duration": 3,
+        "entity": "Heidi B. Carlone (2007) — Understanding the science experiences of successful women of color: Science iden",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 4,
+        "duration": 3,
+        "entity": "Allison Godwin (2016) — The Development of a Measure of Engineering Identity",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2021,
+        "strength": 4,
+        "duration": 3,
+        "entity": "Andy P. Field (2000) — Discovering Statistics Using SPSS",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 10,
+        "entity": "omid:br/06503770575 10.1002/jee.20118 openalex:W2342731957",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 5,
+        "entity": "Alf Lizzio (2004) — First‐year students' perceptions of capability",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 5,
+        "entity": "Inês Direito (2012) — Engineering Undergraduates’ Perceptions of Soft Skills: Relations with Self-Effi",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 5,
+        "entity": "omid:br/061501474039 10.1016/j.sbspro.2012.09.571 openalex:W2065958076",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 8,
+        "entity": "Robert W. Lent (1994) — Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choic",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 8,
+        "entity": "Robert W. Lent (2008) — Longitudinal relations of self-efficacy to outcome expectations, interests, and ",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 6,
+        "entity": "Hung‐Bin Sheu (2018) — Sources of self-efficacy and outcome expectations in science, technology, engine",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 8,
+        "entity": "Robert W. Lent (2007) — Relation of Social-Cognitive Factors to Academic Satisfaction in Engineering Stu",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 8,
+        "entity": "Robert W. Lent (2005) — Social Cognitive Predictors of Academic Interests and Goals in Engineering: Util",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 6,
+        "entity": "omid:br/061902257825 10.1016/j.jvb.2018.10.003 openalex:W2896938397",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 4,
+        "duration": 8,
+        "entity": "omid:br/062102249040 10.1016/j.jvb.2008.07.005 openalex:W2045798253",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 5,
+        "entity": "Henry F. Kaiser (1974) — An Index of Factorial Simplicity",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 5,
+        "entity": "omid:br/062101296335 10.1007/bf02291575 openalex:W1993760488",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2024,
+        "strength": 4,
+        "duration": 10,
+        "entity": "Lee J. Cronbach (1951) — Coefficient Alpha and the Internal Structure of Tests",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 2,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 9,
+        "entity": "Yves Rosseel (2012) — <b>lavaan</b>: An<i>R</i>Package for Structural Equation Modeling",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 11,
+        "entity": "Thomas F. Schubert (2011) — Student perceptions and learning of the engineering design process: an assessmen",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 2,
+        "begin_year": 2015,
+        "end_year": 2021,
+        "strength": 4,
+        "duration": 7,
+        "entity": "Unknown (2009) — Educating the engineer of 2020: Adapting engineering education to the new centur",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2026,
+        "strength": 4,
+        "duration": 10,
+        "entity": "OA:W6633838850",
+        "entity_type": "references",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2024,
+        "strength": 3,
+        "duration": 7,
+        "entity": "Icek Ajzen (1991) — The theory of planned behavior",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "omid:br/061503328042 10.1177/002224378101800104 openalex:W4235678817",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2024,
+        "strength": 3,
+        "duration": 7,
+        "entity": "omid:br/0643030347 10.1016/0749-5978(91)90020-t openalex:W2099697766",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 8,
+        "entity": "Erin A. Cech (2013) — Culture of Disengagement in Engineering Education?",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2022,
+        "strength": 3,
+        "duration": 5,
+        "entity": "Anna B. Costello (2020) — Best practices in exploratory factor analysis: four recommendations for getting ",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Mariana Leandro Cruz (2019) — Evaluation of competency methods in engineering education: a systematic review",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 9,
+        "entity": "Suzanne G. Brainard (1998) — A Six‐Year Longitudinal Study of Undergraduate Women in Engineering and Science*",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Honor J. Passow (2017) — What Competencies Should Undergraduate Engineering Programs Emphasize? A Systema",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2020,
+        "strength": 3,
+        "duration": 6,
+        "entity": "James P. Stevens (2012) — Applied Multivariate Statistics for the Social Sciences",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Larry J. Shuman (2005) — The ABET “Professional Skills” - Can They Be Taught? Can They Be Assessed?",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 3,
+        "entity": "omid:br/06503771128 10.1002/j.2168-9830.2005.tb00828.x openalex:W2164788747",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2020,
+        "strength": 3,
+        "duration": 3,
+        "entity": "omid:br/06503770609 10.1002/jee.20070 openalex:W1505584671",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2022,
+        "strength": 3,
+        "duration": 7,
+        "entity": "Unknown (2006) — Experimental Design and Analysis",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "James Concannon (2009) — A Cross-Sectional Study of Engineering Students’ Self-Efficacy by Gender, Ethnic",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2022,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 5,
+        "entity": "OA:W6831834494",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "omid:br/0625096252 10.1007/s10956-008-9141-3 openalex:W2060438610",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Kerry Meyers (2012) — Factors relating to engineering identity",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Zahra Hazari (2010) — Connecting high school physics experiences, outcome expectations, physics identi",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Alexis Prybutok (2016) — Cross-sectional Survey Study of Undergraduate Engineering Identity",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Olga Pierrakos (2009) — On the development of a professional identity: engineering persisters vs enginee",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Justin Kruger (1999) — Unskilled and unaware of it: How difficulties in recognizing one's own incompete",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "Cecilia Ka Yuk Chan (2018) — Disciplinary differences and implications for the development of generic skills:",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 3,
+        "entity": "omid:br/0637039159 10.1037/0022-3514.77.6.1121 openalex:W2146006411",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "omid:br/06102792560 10.1080/03043797.2018.1462766 openalex:W2802657218",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "omid:br/061701026753 10.1080/1234567032000164903 openalex:W2142629872",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "R Core Team (2000) — R: A Language and Environment for Statistical Computing",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 8,
+        "entity": "Barry J. Zimmerman (2002) — Becoming a Self-Regulated Learner: An Overview",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 9,
+        "entity": "Linda Vanasupa (2009) — The Four‐Domain Development Diagram: A Guide for Holistic Design of Effective Le",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 9,
+        "entity": "omid:br/06603755942 10.1002/j.2168-9830.2009.tb01006.x openalex:W2052180882",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 6,
+        "entity": "Ellen L. Usher (2008) — Sources of self-efficacy in mathematics: A validation study",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "Lisa Y. Flores (2014) — PREDICTORS OF ENGINEERING-RELATED SELF-EFFICACY AND OUTCOME EXPECTATIONS ACROSS ",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Charles W. Mueller (1994) — Testing Structural Equation Models.",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 10,
+        "entity": "Roger L. Worthington (2006) — Scale Development Research",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "omid:br/0640551976 10.1615/jwomenminorscieneng.2014007902 openalex:W1980855821",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2023,
+        "strength": 3,
+        "duration": 8,
+        "entity": "omid:br/062501474277 10.1037/0022-0167.52.1.84 openalex:W2153202568",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2018,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Norman R. Augustine (2006) — Rising Above The Gathering Storm: Energizing and Employing America for a Brighte",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "Marcel Robles (2012) — Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 2,
+        "entity": "Donna Harrington (2008) — Confirmatory Factor Analysis",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2022,
+        "strength": 3,
+        "duration": 2,
+        "entity": "OA:W6743681256",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 6,
+        "entity": "Robert W. Lent (1986) — Self-efficacy in the prediction of academic performance and perceived career opt",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "Paul R. Pintrich (2004) — A Conceptual Framework for Assessing Motivation and Self-Regulated Learning in C",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2021,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 5,
+        "entity": "José M. Cortina (1993) — What is coefficient alpha? An examination of theory and applications.",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 6,
+        "entity": "Paul R. Pintrich (1991) — A Manual for the Use of the Motivated Strategies for Learning Questionnaire (MSL",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 9,
+        "entity": "William A. Lucas (2009) — Industry placement, authentic experience and the development of venturing and te",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 9,
+        "entity": "omid:br/06150251161 10.1016/j.technovation.2009.06.002 openalex:W1986990815",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2024,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Marley W. Watkins (2018) — Exploratory Factor Analysis: A Guide to Best Practice",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2025,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 2,
+        "entity": "omid:br/06503770987 10.1002/j.2168-9830.2009.tb01003.x openalex:W2139708753",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2020,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 6,
+        "entity": "omid:br/062301197916 10.1177/001316446002000116 openalex:W2160172778",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 4,
+        "entity": "Peter M. Bentler (1980) — Significance tests and goodness of fit in the analysis of covariance structures.",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 4,
+        "entity": "omid:br/062601499119 10.1037/0033-2909.88.3.588 openalex:W2149608872",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "Paul Schreuders (2009) — Pipeline or personal preference: women in engineering",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2018,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Daniel R. Eignor (2013) — The standards for educational and psychological testing.",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2016,
+        "strength": 3,
+        "duration": 2,
+        "entity": "James P. Stevens (2002) — Applied multivariate statistics for the social sciences, 4th ed.",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "Frank Pajares (1995) — Mathematics self-efficacy and mathematics performances: The need for specificity",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 10,
+        "entity": "James Concannon (2009) — Men’s and Women’s Intentions to Persist in Undergraduate Engineering Degree Prog",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "Amy Lapin Zeldin (2000) — Against the Odds: Self-Efficacy Beliefs of Women in Mathematical, Scientific, an",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "Ellen L. Usher (2008) — Sources of Self-Efficacy in School: Critical Review of the Literature and Future",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2025,
+        "strength": 3,
+        "duration": 10,
+        "entity": "omid:br/0625096207 10.1007/s10956-009-9187-x openalex:W1984007261",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "omid:br/062503324311 10.1006/ceps.2000.1048 openalex:W2126119924 pmid:11681832",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "omid:br/06210648861 10.3102/0034654308321456 openalex:W2149759799",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "omid:br/061102028984 10.1007/s00163-011-0121-x openalex:W2030476498",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "omid:br/062301480062 10.1037/0022-0167.42.2.190 openalex:W2057960049",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2016,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 11,
+        "entity": "omid:br/06102793161 10.1080/03043790902721488 openalex:W2023119445",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2024,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 3,
+        "entity": "Ernesto Panadero (2017) — Effects of self-assessment on self-regulated learning and self-efficacy: Four me",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2024,
+        "strength": 3,
+        "duration": 10,
+        "entity": "omid:br/061901308263 10.1007/bf02310555 openalex:W2159306398",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2024,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 3,
+        "entity": "omid:br/061703075212 10.1016/j.edurev.2017.08.004 openalex:W2745915040",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2023,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 4,
+        "entity": "Nathaniel Hunsu (2023) — Investigating students' motivational goals and self‐efficacy and task beliefs in",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 9,
+        "entity": "Barry J. Zimmerman (1992) — Self-Motivation for Academic Attainment: The Role of Self-Efficacy Beliefs and P",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 9,
+        "entity": "omid:br/061901546694 10.3102/00028312029003663 openalex:W4244342442",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2023,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 4,
+        "entity": "omid:br/0638087202 10.1002/jee.20500 openalex:W4320007704",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2023,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 4,
+        "entity": "omid:br/06603755968 10.1002/j.2168-9830.2001.tb00599.x openalex:W2017410074",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2026,
+        "strength": 3,
+        "duration": 10,
+        "entity": "Albert Bandura (2001) — Social Cognitive Theory: An Agentic Perspective",
+        "entity_type": "references",
+        "total_occurrences": 3
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2019,
+        "strength": 3,
+        "duration": 3,
+        "entity": "James B. Schreiber (2006) — Reporting Structural Equation Modeling and Confirmatory Factor Analysis Results:",
+        "entity_type": "references",
+        "total_occurrences": 3
+      }
+    ],
+    "journals": [
+      {
+        "level": 1,
+        "begin_year": 2018,
+        "end_year": 2024,
+        "strength": 6,
+        "duration": 7,
+        "entity": "International Journal of Engineering Education",
+        "entity_type": "journals",
+        "total_occurrences": 6
+      },
+      {
+        "level": 1,
+        "begin_year": 2017,
+        "end_year": 2025,
+        "strength": 4,
+        "duration": 9,
+        "entity": "European Journal of Engineering Education",
+        "entity_type": "journals",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2015,
+        "end_year": 2020,
+        "strength": 4,
+        "duration": 6,
+        "entity": "Journal of Engineering Education",
+        "entity_type": "journals",
+        "total_occurrences": 4
+      },
+      {
+        "level": 1,
+        "begin_year": 2019,
+        "end_year": 2021,
+        "strength": 3,
+        "duration": 3,
+        "entity": "IEEE Transactions on Education",
+        "entity_type": "journals",
+        "total_occurrences": 3
+      }
+    ]
+  },
+  "pivot_nodes": [
+    {
+      "node": "Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+      "cluster": 2,
+      "betweenness": 0.230179,
+      "n_neighbor_clusters": 4,
+      "neighbor_clusters": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "bridge_score": 0.920716,
+      "degree": 250
+    },
+    {
+      "node": "omid:br/062302408377 10.1080/10705519909540118 openalex:W2071666535",
+      "cluster": 1,
+      "betweenness": 0.167045,
+      "n_neighbor_clusters": 4,
+      "neighbor_clusters": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "bridge_score": 0.668182,
+      "degree": 225
+    },
+    {
+      "node": "Unknown (1997) — Self-efficacy: the exercise of control",
+      "cluster": 4,
+      "betweenness": 0.050108,
+      "n_neighbor_clusters": 4,
+      "neighbor_clusters": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "bridge_score": 0.20043,
+      "degree": 82
+    },
+    {
+      "node": "Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling",
+      "cluster": 5,
+      "betweenness": 0.040968,
+      "n_neighbor_clusters": 4,
+      "neighbor_clusters": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "bridge_score": 0.163874,
+      "degree": 109
+    },
+    {
+      "node": "Albert Bandura (1999) — Self-Efficacy: The Exercise of Control",
+      "cluster": 2,
+      "betweenness": 0.0355,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        4,
+        5
+      ],
+      "bridge_score": 0.1065,
+      "degree": 66
+    },
+    {
+      "node": "Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En",
+      "cluster": 5,
+      "betweenness": 0.028455,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        2,
+        8
+      ],
+      "bridge_score": 0.085364,
+      "degree": 84
+    },
+    {
+      "node": "Unknown (2007) — Confirmatory factor analysis for applied research",
+      "cluster": 2,
+      "betweenness": 0.027796,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        3,
+        4
+      ],
+      "bridge_score": 0.083388,
+      "degree": 33
+    },
+    {
+      "node": "omid:br/06503770575 10.1002/jee.20118 openalex:W2342731957",
+      "cluster": 5,
+      "betweenness": 0.026825,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        2,
+        8
+      ],
+      "bridge_score": 0.080475,
+      "degree": 83
+    },
+    {
+      "node": "Barbara G. Tabachnick (1983) — Using multivariate statistics",
+      "cluster": 2,
+      "betweenness": 0.026138,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        3,
+        5
+      ],
+      "bridge_score": 0.078413,
+      "degree": 27
+    },
+    {
+      "node": "omid:br/06503770548 10.1002/jee.20165 openalex:W2606937270",
+      "cluster": 3,
+      "betweenness": 0.025363,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        2,
+        4
+      ],
+      "bridge_score": 0.076089,
+      "degree": 87
+    },
+    {
+      "node": "Cecilia Ka Yuk Chan (2017) — A Validated and Reliable Instrument Investigating Engineering Students’ Percepti",
+      "cluster": 3,
+      "betweenness": 0.025056,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        2,
+        4
+      ],
+      "bridge_score": 0.075168,
+      "degree": 93
+    },
+    {
+      "node": "Albert Bandura (1977) — Self-efficacy: Toward a unifying theory of behavioral change.",
+      "cluster": 2,
+      "betweenness": 0.015416,
+      "n_neighbor_clusters": 4,
+      "neighbor_clusters": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "bridge_score": 0.061663,
+      "degree": 50
+    },
+    {
+      "node": "Nassim Tabri (2012) — Principles and Practice of Structural Equation Modeling",
+      "cluster": 2,
+      "betweenness": 0.028132,
+      "n_neighbor_clusters": 2,
+      "neighbor_clusters": [
+        3,
+        5
+      ],
+      "bridge_score": 0.056264,
+      "degree": 13
+    },
+    {
+      "node": "Hung‐Bin Sheu (2018) — Sources of self-efficacy and outcome expectations in science, technology, engine",
+      "cluster": 5,
+      "betweenness": 0.01805,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        2,
+        4
+      ],
+      "bridge_score": 0.05415,
+      "degree": 114
+    },
+    {
+      "node": "omid:br/061902257825 10.1016/j.jvb.2018.10.003 openalex:W2896938397",
+      "cluster": 5,
+      "betweenness": 0.01805,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        2,
+        4
+      ],
+      "bridge_score": 0.05415,
+      "degree": 114
+    },
+    {
+      "node": "Robert W. Lent (2008) — Longitudinal relations of self-efficacy to outcome expectations, interests, and ",
+      "cluster": 4,
+      "betweenness": 0.012016,
+      "n_neighbor_clusters": 4,
+      "neighbor_clusters": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "bridge_score": 0.048063,
+      "degree": 61
+    },
+    {
+      "node": "omid:br/062102249040 10.1016/j.jvb.2008.07.005 openalex:W2045798253",
+      "cluster": 4,
+      "betweenness": 0.012016,
+      "n_neighbor_clusters": 4,
+      "neighbor_clusters": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "bridge_score": 0.048063,
+      "degree": 61
+    },
+    {
+      "node": "James P. Stevens (2012) — Applied Multivariate Statistics for the Social Sciences",
+      "cluster": 2,
+      "betweenness": 0.019652,
+      "n_neighbor_clusters": 2,
+      "neighbor_clusters": [
+        1,
+        3
+      ],
+      "bridge_score": 0.039303,
+      "degree": 9
+    },
+    {
+      "node": "omid:br/062501474277 10.1037/0022-0167.52.1.84 openalex:W2153202568",
+      "cluster": 4,
+      "betweenness": 0.010494,
+      "n_neighbor_clusters": 3,
+      "neighbor_clusters": [
+        1,
+        2,
+        5
+      ],
+      "bridge_score": 0.031482,
+      "degree": 44
+    },
+    {
+      "node": "James P. Stevens (2002) — Applied multivariate statistics for the social sciences, 4th ed.",
+      "cluster": 2,
+      "betweenness": 0.029929,
+      "n_neighbor_clusters": 1,
+      "neighbor_clusters": [
+        6
+      ],
+      "bridge_score": 0.029929,
+      "degree": 6
+    }
+  ],
+  "sigma_rankings": [
+    {
+      "node": "Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+      "betweenness": 0.230179,
+      "burstness": 20,
+      "sigma": 63.003596,
+      "degree": 250
+    },
+    {
+      "node": "omid:br/062302408377 10.1080/10705519909540118 openalex:W2071666535",
+      "betweenness": 0.167045,
+      "burstness": 14,
+      "sigma": 8.694175,
+      "degree": 225
+    },
+    {
+      "node": "Unknown (1997) — Self-efficacy: the exercise of control",
+      "betweenness": 0.050108,
+      "burstness": 9,
+      "sigma": 1.552759,
+      "degree": 82
+    },
+    {
+      "node": "Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling",
+      "betweenness": 0.040968,
+      "burstness": 8,
+      "sigma": 1.378798,
+      "degree": 109
+    },
+    {
+      "node": "Unknown (2007) — Confirmatory factor analysis for applied research",
+      "betweenness": 0.027796,
+      "burstness": 10,
+      "sigma": 1.315434,
+      "degree": 33
+    },
+    {
+      "node": "Cecilia Ka Yuk Chan (2017) — A Validated and Reliable Instrument Investigating Engineering Students’ Percepti",
+      "betweenness": 0.025056,
+      "burstness": 10,
+      "sigma": 1.280784,
+      "degree": 93
+    },
+    {
+      "node": "Albert Bandura (1999) — Self-Efficacy: The Exercise of Control",
+      "betweenness": 0.0355,
+      "burstness": 6,
+      "sigma": 1.232823,
+      "degree": 66
+    },
+    {
+      "node": "omid:br/06503770548 10.1002/jee.20165 openalex:W2606937270",
+      "betweenness": 0.025363,
+      "burstness": 8,
+      "sigma": 1.221861,
+      "degree": 87
+    },
+    {
+      "node": "Barbara G. Tabachnick (1983) — Using multivariate statistics",
+      "betweenness": 0.026138,
+      "burstness": 7,
+      "sigma": 1.197953,
+      "degree": 27
+    },
+    {
+      "node": "Nassim Tabri (2012) — Principles and Practice of Structural Equation Modeling",
+      "betweenness": 0.028132,
+      "burstness": 6,
+      "sigma": 1.181119,
+      "degree": 13
+    },
+    {
+      "node": "Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En",
+      "betweenness": 0.028455,
+      "burstness": 5,
+      "sigma": 1.150605,
+      "degree": 84
+    },
+    {
+      "node": "Albert Bandura (1977) — Self-efficacy: Toward a unifying theory of behavioral change.",
+      "betweenness": 0.015416,
+      "burstness": 8,
+      "sigma": 1.13019,
+      "degree": 50
+    },
+    {
+      "node": "omid:br/06503770575 10.1002/jee.20118 openalex:W2342731957",
+      "betweenness": 0.026825,
+      "burstness": 4,
+      "sigma": 1.111695,
+      "degree": 83
+    },
+    {
+      "node": "Unknown (2009) — Educating the engineer of 2020: Adapting engineering education to the new centur",
+      "betweenness": 0.025819,
+      "burstness": 4,
+      "sigma": 1.107345,
+      "degree": 4
+    },
+    {
+      "node": "James P. Stevens (2002) — Applied multivariate statistics for the social sciences, 4th ed.",
+      "betweenness": 0.029929,
+      "burstness": 3,
+      "sigma": 1.092502,
+      "degree": 6
+    },
+    {
+      "node": "OA:W4285719527",
+      "betweenness": 0.012969,
+      "burstness": 6,
+      "sigma": 1.080378,
+      "degree": 2
+    },
+    {
+      "node": "Hung‐Bin Sheu (2018) — Sources of self-efficacy and outcome expectations in science, technology, engine",
+      "betweenness": 0.01805,
+      "burstness": 4,
+      "sigma": 1.074178,
+      "degree": 114
+    },
+    {
+      "node": "omid:br/061902257825 10.1016/j.jvb.2018.10.003 openalex:W2896938397",
+      "betweenness": 0.01805,
+      "burstness": 4,
+      "sigma": 1.074178,
+      "degree": 114
+    },
+    {
+      "node": "James P. Stevens (2012) — Applied Multivariate Statistics for the Social Sciences",
+      "betweenness": 0.019652,
+      "burstness": 3,
+      "sigma": 1.060121,
+      "degree": 9
+    },
+    {
+      "node": "Heidi B. Carlone (2007) — Understanding the science experiences of successful women of color: Science iden",
+      "betweenness": 0.013994,
+      "burstness": 4,
+      "sigma": 1.057164,
+      "degree": 22
+    },
+    {
+      "node": "Allison Godwin (2016) — The Development of a Measure of Engineering Identity",
+      "betweenness": 0.013994,
+      "burstness": 4,
+      "sigma": 1.057164,
+      "degree": 22
+    },
+    {
+      "node": "OA:W6678283156",
+      "betweenness": 0.008665,
+      "burstness": 6,
+      "sigma": 1.053128,
+      "degree": 103
+    },
+    {
+      "node": "Lee J. Cronbach (1951) — Coefficient Alpha and the Internal Structure of Tests",
+      "betweenness": 0.012969,
+      "burstness": 4,
+      "sigma": 1.052892,
+      "degree": 4
+    },
+    {
+      "node": "Unknown (2006) — Experimental Design and Analysis",
+      "betweenness": 0.017293,
+      "burstness": 3,
+      "sigma": 1.052783,
+      "degree": 14
+    },
+    {
+      "node": "Natasha A. Mamaril (2016) — Measuring Undergraduate Students' Engineering Self‐Efficacy: A Validation Study",
+      "betweenness": 0.006041,
+      "burstness": 8,
+      "sigma": 1.049365,
+      "degree": 99
+    },
+    {
+      "node": "Robert W. Lent (2008) — Longitudinal relations of self-efficacy to outcome expectations, interests, and ",
+      "betweenness": 0.012016,
+      "burstness": 4,
+      "sigma": 1.048936,
+      "degree": 61
+    },
+    {
+      "node": "omid:br/062102249040 10.1016/j.jvb.2008.07.005 openalex:W2045798253",
+      "betweenness": 0.012016,
+      "burstness": 4,
+      "sigma": 1.048936,
+      "degree": 61
+    },
+    {
+      "node": "Philip M. Podsakoff (2003) — Common method biases in behavioral research: A critical review of the literature",
+      "betweenness": 0.009246,
+      "burstness": 5,
+      "sigma": 1.047092,
+      "degree": 71
+    },
+    {
+      "node": "omid:br/06401494427 10.1037/0033-295x.84.2.191 openalex:W4292808503",
+      "betweenness": 0.006939,
+      "burstness": 6,
+      "sigma": 1.042364,
+      "degree": 29
+    },
+    {
+      "node": "Zahra Hazari (2010) — Connecting high school physics experiences, outcome expectations, physics identi",
+      "betweenness": 0.013256,
+      "burstness": 3,
+      "sigma": 1.040296,
+      "degree": 18
+    },
+    {
+      "node": "Kerrie Douglas (2015) — Validity: Meaning and Relevancy in Assessment for Engineering Education Research",
+      "betweenness": 0.009897,
+      "burstness": 4,
+      "sigma": 1.040181,
+      "degree": 13
+    },
+    {
+      "node": "Suzanne G. Brainard (1998) — A Six‐Year Longitudinal Study of Undergraduate Women in Engineering and Science*",
+      "betweenness": 0.012969,
+      "burstness": 3,
+      "sigma": 1.039413,
+      "degree": 4
+    },
+    {
+      "node": "Adam Carberry (2010) — Measuring Engineering Design Self‐Efficacy",
+      "betweenness": 0.006388,
+      "burstness": 6,
+      "sigma": 1.038945,
+      "degree": 95
+    },
+    {
+      "node": "Inês Direito (2012) — Engineering Undergraduates’ Perceptions of Soft Skills: Relations with Self-Effi",
+      "betweenness": 0.008727,
+      "burstness": 4,
+      "sigma": 1.035369,
+      "degree": 71
+    },
+    {
+      "node": "omid:br/061501474039 10.1016/j.sbspro.2012.09.571 openalex:W2065958076",
+      "betweenness": 0.008727,
+      "burstness": 4,
+      "sigma": 1.035369,
+      "degree": 71
+    },
+    {
+      "node": "OA:W3214923421",
+      "betweenness": 0.008669,
+      "burstness": 4,
+      "sigma": 1.035131,
+      "degree": 3
+    },
+    {
+      "node": "Craig C. Lundberg (2000) — Toward an Emotion Nuanced Sensemaking Perspective of Organizational Consultation",
+      "betweenness": 0.006761,
+      "burstness": 5,
+      "sigma": 1.034264,
+      "degree": 50
+    },
+    {
+      "node": "Claes Fornell (1981) — Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+      "betweenness": 0.005374,
+      "burstness": 6,
+      "sigma": 1.03268,
+      "degree": 9
+    },
+    {
+      "node": "omid:br/062501474277 10.1037/0022-0167.52.1.84 openalex:W2153202568",
+      "betweenness": 0.010494,
+      "burstness": 3,
+      "sigma": 1.031814,
+      "degree": 44
+    },
+    {
+      "node": "Albert Bandura (1977) — Self-efficacy: Toward a unifying theory of behavioral change.",
+      "betweenness": 0.005994,
+      "burstness": 5,
+      "sigma": 1.030331,
+      "degree": 23
+    },
+    {
+      "node": "Olga Pierrakos (2009) — On the development of a professional identity: engineering persisters vs enginee",
+      "betweenness": 0.009066,
+      "burstness": 3,
+      "sigma": 1.027444,
+      "degree": 15
+    },
+    {
+      "node": "Daniel R. Eignor (2013) — The standards for educational and psychological testing.",
+      "betweenness": 0.008678,
+      "burstness": 3,
+      "sigma": 1.026261,
+      "degree": 7
+    },
+    {
+      "node": "Todd D. Fantz (2011) — Pre‐Collegiate Factors Influencing the Self‐Efficacy of Engineering Students",
+      "betweenness": 0.00517,
+      "burstness": 5,
+      "sigma": 1.026116,
+      "degree": 91
+    },
+    {
+      "node": "Robert W. Lent (1994) — Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choic",
+      "betweenness": 0.006457,
+      "burstness": 4,
+      "sigma": 1.026079,
+      "degree": 48
+    },
+    {
+      "node": "Robert W. Lent (2007) — Relation of Social-Cognitive Factors to Academic Satisfaction in Engineering Stu",
+      "betweenness": 0.006457,
+      "burstness": 4,
+      "sigma": 1.026079,
+      "degree": 48
+    },
+    {
+      "node": "Robert W. Lent (2005) — Social Cognitive Predictors of Academic Interests and Goals in Engineering: Util",
+      "betweenness": 0.006457,
+      "burstness": 4,
+      "sigma": 1.026079,
+      "degree": 48
+    },
+    {
+      "node": "Lisa Y. Flores (2014) — PREDICTORS OF ENGINEERING-RELATED SELF-EFFICACY AND OUTCOME EXPECTATIONS ACROSS ",
+      "betweenness": 0.008251,
+      "burstness": 3,
+      "sigma": 1.024958,
+      "degree": 41
+    },
+    {
+      "node": "omid:br/0640551976 10.1615/jwomenminorscieneng.2014007902 openalex:W1980855821",
+      "betweenness": 0.008251,
+      "burstness": 3,
+      "sigma": 1.024958,
+      "degree": 41
+    },
+    {
+      "node": "Marcel Robles (2012) — Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace",
+      "betweenness": 0.006392,
+      "burstness": 3,
+      "sigma": 1.019299,
+      "degree": 66
+    },
+    {
+      "node": "Frank Pajares (2006) — Self-Efficacy Beliefs of Adolescents",
+      "betweenness": 0.003829,
+      "burstness": 5,
+      "sigma": 1.01929,
+      "degree": 98
+    }
+  ],
+  "research_fronts": [
+    {
+      "cluster_id": 2,
+      "intellectual_base_size": 91,
+      "research_front_size": 43,
+      "citing_articles": [
+        "WE7WVA4B",
+        "LPJSUJ9V",
+        "GMEMS46N",
+        "KU4TN5MB",
+        "PD6ENBV2",
+        "NKWQH4PB",
+        "AIPHQE23",
+        "W2PMJWMT",
+        "PNGM9L8J",
+        "B4EBYEKF",
+        "ZLBRXPDA",
+        "LHGYXXJG",
+        "2DDA52FC",
+        "PYM3MQNK",
+        "49BIH9AZ",
+        "K9E5C83P",
+        "6XVSWITA",
+        "I9G3834N",
+        "DFVK7NR2",
+        "J4L96ZTQ"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "psychology",
+        "confirmatory factor analysis",
+        "engineering",
+        "computer science",
+        "students",
+        "mathematics education",
+        "self-efficacy",
+        "psychometrics",
+        "scale (ratio)"
+      ],
+      "label": "engineering education; psychology; confirmatory factor analysis",
+      "year_range": [
+        2015,
+        2026
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "intellectual_base_size": 87,
+      "research_front_size": 23,
+      "citing_articles": [
+        "NKWQH4PB",
+        "AIPHQE23",
+        "W2PMJWMT",
+        "B4EBYEKF",
+        "ZLBRXPDA",
+        "RUGB95IU",
+        "2DDA52FC",
+        "PYM3MQNK",
+        "CJPX792Z",
+        "6XVSWITA",
+        "I9G3834N",
+        "J4L96ZTQ",
+        "DYIXSFV6",
+        "B7B4X2WE",
+        "G3EUY2C2",
+        "FUDIEQYR",
+        "QAJGLZ2K",
+        "QKJ5DVTR",
+        "WHKSKTII",
+        "7Y29KIN3"
+      ],
+      "top_keywords": [
+        "psychology",
+        "engineering education",
+        "self-efficacy",
+        "engineering",
+        "mathematics education",
+        "computer science",
+        "social psychology",
+        "engineering management",
+        "confirmatory factor analysis",
+        "engineering students"
+      ],
+      "label": "psychology; engineering education; self-efficacy",
+      "year_range": [
+        2015,
+        2026
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "intellectual_base_size": 77,
+      "research_front_size": 17,
+      "citing_articles": [
+        "LPJSUJ9V",
+        "QU82N8PC",
+        "KU4TN5MB",
+        "PD6ENBV2",
+        "W2PMJWMT",
+        "SL7257LZ",
+        "PNGM9L8J",
+        "ZLBRXPDA",
+        "LHGYXXJG",
+        "DFVK7NR2",
+        "J4L96ZTQ",
+        "KI4LCCHP",
+        "DCSSFS2C",
+        "WWJJIDI6",
+        "VSFBSRZB",
+        "QAJGLZ2K",
+        "QKJ5DVTR"
+      ],
+      "top_keywords": [
+        "psychology",
+        "engineering education",
+        "confirmatory factor analysis",
+        "engineering",
+        "students",
+        "psychometrics",
+        "computer science",
+        "factor analysis",
+        "engineering management",
+        "structural equation modeling"
+      ],
+      "label": "psychology; engineering education; confirmatory factor analysis",
+      "year_range": [
+        2016,
+        2025
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "intellectual_base_size": 37,
+      "research_front_size": 15,
+      "citing_articles": [
+        "WE7WVA4B",
+        "PD6ENBV2",
+        "B4EBYEKF",
+        "I9G3834N",
+        "DFVK7NR2",
+        "J4L96ZTQ",
+        "XHXW8PNL",
+        "FMII7TUT",
+        "DCSSFS2C",
+        "WWJJIDI6",
+        "B7B4X2WE",
+        "G3EUY2C2",
+        "QAJGLZ2K",
+        "QKJ5DVTR",
+        "JZEJCTN6"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "psychology",
+        "engineering",
+        "mathematics education",
+        "self-efficacy",
+        "scale (ratio)",
+        "students",
+        "computer science",
+        "psychometrics",
+        "engineering management"
+      ],
+      "label": "engineering education; psychology; engineering",
+      "year_range": [
+        2016,
+        2026
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "intellectual_base_size": 51,
+      "research_front_size": 15,
+      "citing_articles": [
+        "LPJSUJ9V",
+        "B4EBYEKF",
+        "ZLBRXPDA",
+        "LHGYXXJG",
+        "6XVSWITA",
+        "DFVK7NR2",
+        "J4L96ZTQ",
+        "KI4LCCHP",
+        "DYIXSFV6",
+        "B7B4X2WE",
+        "FUDIEQYR",
+        "QAJGLZ2K",
+        "UAN7XVF9",
+        "LQ8RTKIQ",
+        "JZEJCTN6"
+      ],
+      "top_keywords": [
+        "confirmatory factor analysis",
+        "psychology",
+        "self-efficacy",
+        "engineering education",
+        "engineering",
+        "psychometrics",
+        "students",
+        "scale (ratio)",
+        "social psychology",
+        "structural equation modeling"
+      ],
+      "label": "confirmatory factor analysis; psychology; self-efficacy",
+      "year_range": [
+        2016,
+        2026
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "intellectual_base_size": 7,
+      "research_front_size": 11,
+      "citing_articles": [
+        "LPJSUJ9V",
+        "DNK3JI3N",
+        "ZLBRXPDA",
+        "J8H6TD8Q",
+        "Z4ICDXEQ",
+        "49BIH9AZ",
+        "U374P6MT",
+        "NLXE3X6S",
+        "KI4LCCHP",
+        "FL269LXE",
+        "6ATWRP3C"
+      ],
+      "top_keywords": [
+        "psychology",
+        "engineering education",
+        "psychometrics",
+        "computer science",
+        "scale (ratio)",
+        "self-efficacy",
+        "students",
+        "social psychology",
+        "medical education",
+        "medicine"
+      ],
+      "label": "psychology; engineering education; psychometrics",
+      "year_range": [
+        2014,
+        2024
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "intellectual_base_size": 20,
+      "research_front_size": 5,
+      "citing_articles": [
+        "KU4TN5MB",
+        "PVT4UE9C",
+        "W2PMJWMT",
+        "FY6V7BET",
+        "WHKSKTII"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "factor analysis",
+        "students",
+        "psychology",
+        "computer science",
+        "engineering management",
+        "engineering",
+        "confirmatory factor analysis",
+        "engineering graduate students",
+        "engineering research"
+      ],
+      "label": "engineering education; factor analysis; students",
+      "year_range": [
+        2017,
+        2023
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "intellectual_base_size": 3,
+      "research_front_size": 4,
+      "citing_articles": [
+        "QU82N8PC",
+        "CJPX792Z",
+        "G3EUY2C2",
+        "JZEJCTN6"
+      ],
+      "top_keywords": [
+        "engineering",
+        "psychology",
+        "mathematics education",
+        "engineering education",
+        "factor analysis",
+        "structural equation modeling",
+        "self-efficacy",
+        "exploratory factor analysis",
+        "psychometrics",
+        "electrical engineering"
+      ],
+      "label": "engineering; psychology; mathematics education",
+      "year_range": [
+        2018,
+        2026
+      ]
+    },
+    {
+      "cluster_id": 20,
+      "intellectual_base_size": 3,
+      "research_front_size": 3,
+      "citing_articles": [
+        "PYM3MQNK",
+        "UAN7XVF9",
+        "SFEN9MC6"
+      ],
+      "top_keywords": [
+        "confirmatory factor analysis",
+        "learning strategies",
+        "reliability",
+        "self-efficacy",
+        "validity",
+        "factor analysis",
+        "psychology",
+        "mathematics education",
+        "metacognition",
+        "achievement"
+      ],
+      "label": "confirmatory factor analysis; learning strategies; reliability",
+      "year_range": [
+        2016,
+        2026
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "PD6ENBV2",
+        "FL269LXE"
+      ],
+      "top_keywords": [
+        "psychology",
+        "scale (ratio)",
+        "mathematics education",
+        "geography",
+        "social psychology",
+        "acceptance",
+        "attitudes",
+        "elaboration likelihood model",
+        "engineering",
+        "exploratory factor-analysis"
+      ],
+      "label": "psychology; scale (ratio); mathematics education",
+      "year_range": [
+        2015,
+        2020
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "PVT4UE9C",
+        "6SNWQJMW"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "engineering research",
+        "factor analysis",
+        "students",
+        "surveys",
+        "graduate students",
+        "psychology",
+        "mathematics education",
+        "pedagogy",
+        "correlation methods"
+      ],
+      "label": "engineering education; engineering research; factor analysis",
+      "year_range": [
+        2017,
+        2019
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "SL7257LZ",
+        "PJNV7WSV"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "psychometrics",
+        "psychology",
+        "reliability (semiconductor)",
+        "construct validity",
+        "engineering",
+        "computer science",
+        "engineering management",
+        "mathematics",
+        "artificial intelligence"
+      ],
+      "label": "engineering education; psychometrics; psychology",
+      "year_range": [
+        2015,
+        2021
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "SL7257LZ",
+        "7Y29KIN3"
+      ],
+      "top_keywords": [
+        "perception",
+        "engineering education",
+        "engineering students",
+        "psychometrics",
+        "teamwork",
+        "psychology",
+        "medical education",
+        "engineering",
+        "medicine",
+        "self-efficacy"
+      ],
+      "label": "perception; engineering education; engineering students",
+      "year_range": [
+        2021,
+        2023
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "intellectual_base_size": 4,
+      "research_front_size": 2,
+      "citing_articles": [
+        "SL7257LZ",
+        "I9G3834N"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "artificial intelligence",
+        "psychometrics",
+        "students",
+        "test validity",
+        "psychology",
+        "computer science",
+        "statics",
+        "competency level measurement",
+        "confirmatory factor analyses (cfa)"
+      ],
+      "label": "engineering education; artificial intelligence; psychometrics",
+      "year_range": [
+        2021,
+        2025
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "SL7257LZ",
+        "IUF35Z2I"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "psychometrics",
+        "soft skills",
+        "psychology",
+        "medical education",
+        "engineering",
+        "pedagogy",
+        "computer science",
+        "medicine",
+        "competency level measurement"
+      ],
+      "label": "engineering education; psychometrics; soft skills",
+      "year_range": [
+        2016,
+        2021
+      ]
+    },
+    {
+      "cluster_id": 15,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "PNGM9L8J",
+        "SFEN9MC6"
+      ],
+      "top_keywords": [
+        "confirmatory factor analysis",
+        "correlation",
+        "exploratory factor analysis",
+        "engineering education",
+        "psychology",
+        "metacognition",
+        "adaptation models",
+        "confirmatory factor analyses (cfa)",
+        "decision making",
+        "decision-making"
+      ],
+      "label": "confirmatory factor analysis; correlation; exploratory factor analysis",
+      "year_range": [
+        2016,
+        2019
+      ]
+    },
+    {
+      "cluster_id": 16,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "DNK3JI3N",
+        "FL269LXE"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "students",
+        "psychology",
+        "affective domain",
+        "affective domain assessment",
+        "affective measures",
+        "alumni",
+        "assessment instruments",
+        "college students",
+        "computer science education"
+      ],
+      "label": "engineering education; students; psychology",
+      "year_range": [
+        2015,
+        2019
+      ]
+    },
+    {
+      "cluster_id": 17,
+      "intellectual_base_size": 3,
+      "research_front_size": 2,
+      "citing_articles": [
+        "B4EBYEKF",
+        "JZEJCTN6"
+      ],
+      "top_keywords": [
+        "engineering",
+        "engineering education",
+        "psychology",
+        "scale (ratio)",
+        "mathematics education",
+        "entrepreneurship",
+        "academic satisfaction",
+        "career",
+        "choice",
+        "contextual supports"
+      ],
+      "label": "engineering; engineering education; psychology",
+      "year_range": [
+        2018,
+        2021
+      ]
+    },
+    {
+      "cluster_id": 18,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "LHGYXXJG",
+        "IUF35Z2I"
+      ],
+      "top_keywords": [
+        "communication skills",
+        "confirmatory factor analysis",
+        "soft skills",
+        "employability",
+        "psychology",
+        "skills management",
+        "medical education",
+        "work (physics)",
+        "study skills",
+        "mathematics education"
+      ],
+      "label": "communication skills; confirmatory factor analysis; soft skills",
+      "year_range": [
+        2016,
+        2021
+      ]
+    },
+    {
+      "cluster_id": 19,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "LHGYXXJG",
+        "49BIH9AZ"
+      ],
+      "top_keywords": [
+        "confirmatory factor analysis",
+        "employability",
+        "computer science",
+        "communication skills",
+        "teamwork",
+        "psychology",
+        "medical education",
+        "pedagogy",
+        "structural equation modeling",
+        "college graduates"
+      ],
+      "label": "confirmatory factor analysis; employability; computer science",
+      "year_range": [
+        2021,
+        2021
+      ]
+    },
+    {
+      "cluster_id": 21,
+      "intellectual_base_size": 3,
+      "research_front_size": 2,
+      "citing_articles": [
+        "CJPX792Z",
+        "U374P6MT"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "electrical engineering",
+        "factor analysis",
+        "context (archaeology)",
+        "computer science",
+        "exploratory factor analysis",
+        "mathematics education",
+        "engineering",
+        "psychology",
+        "engineering management"
+      ],
+      "label": "engineering education; electrical engineering; factor analysis",
+      "year_range": [
+        2014,
+        2020
+      ]
+    },
+    {
+      "cluster_id": 22,
+      "intellectual_base_size": 3,
+      "research_front_size": 2,
+      "citing_articles": [
+        "U374P6MT",
+        "Y345N2W5"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "factor analysis",
+        "self-efficacy",
+        "scale (ratio)",
+        "computer science",
+        "psychology",
+        "engineering",
+        "social psychology",
+        "psychometrics",
+        "computer science education"
+      ],
+      "label": "engineering education; factor analysis; self-efficacy",
+      "year_range": [
+        2014,
+        2016
+      ]
+    },
+    {
+      "cluster_id": 23,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "NLXE3X6S",
+        "VSFBSRZB"
+      ],
+      "top_keywords": [
+        "engineering",
+        "self-efficacy",
+        "sustainable development",
+        "achievement task values",
+        "american society of civil engineers",
+        "attitude (psychology)",
+        "classroom",
+        "college students",
+        "correlation",
+        "diversity"
+      ],
+      "label": "engineering; self-efficacy; sustainable development",
+      "year_range": [
+        2015,
+        2021
+      ]
+    },
+    {
+      "cluster_id": 24,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "NLXE3X6S",
+        "SFEN9MC6"
+      ],
+      "top_keywords": [
+        "correlation",
+        "engineering education",
+        "reliability",
+        "self efficacy",
+        "self-efficacy",
+        "student motivation",
+        "validity",
+        "psychology",
+        "mathematics education",
+        "metacognition"
+      ],
+      "label": "correlation; engineering education; reliability",
+      "year_range": [
+        2015,
+        2016
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "intellectual_base_size": 2,
+      "research_front_size": 2,
+      "citing_articles": [
+        "NLXE3X6S",
+        "JZEJCTN6"
+      ],
+      "top_keywords": [
+        "engineering education",
+        "self-efficacy",
+        "education",
+        "engineering",
+        "engineering students",
+        "reliability",
+        "validity",
+        "psychology",
+        "construct validity",
+        "mathematics education"
+      ],
+      "label": "engineering education; self-efficacy; education",
+      "year_range": [
+        2015,
+        2018
+      ]
+    }
+  ],
+  "cluster_labels": {
+    "0": {
+      "cluster_id": 0,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "se",
+          "score": 0.5452
+        },
+        {
+          "term": "motivation",
+          "score": 0.2545
+        },
+        {
+          "term": "entrepreneurial motivation",
+          "score": 0.2181
+        },
+        {
+          "term": "se self",
+          "score": 0.1938
+        },
+        {
+          "term": "entrepreneurial",
+          "score": 0.1863
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "motivation",
+          "score": 26.3073
+        },
+        {
+          "term": "value",
+          "score": 15.236
+        },
+        {
+          "term": "affect",
+          "score": 14.8635
+        },
+        {
+          "term": "entrepreneurial",
+          "score": 14.0064
+        },
+        {
+          "term": "high",
+          "score": 9.585
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "explored",
+          "score": 3.4854
+        },
+        {
+          "term": "could",
+          "score": 3.3049
+        },
+        {
+          "term": "impact",
+          "score": 2.8688
+        },
+        {
+          "term": "construct",
+          "score": 2.4854
+        },
+        {
+          "term": "motivation",
+          "score": 2.1444
+        }
+      ],
+      "label_tfidf": "se; motivation; entrepreneurial motivation",
+      "label_llr": "motivation; value; affect"
+    },
+    "1": {
+      "cluster_id": 1,
+      "size": 37,
+      "n_citing_articles": 15,
+      "tfidf_terms": [
+        {
+          "term": "efficacy",
+          "score": 0.2558
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.2493
+        },
+        {
+          "term": "skills",
+          "score": 0.2459
+        },
+        {
+          "term": "engineering self",
+          "score": 0.1732
+        },
+        {
+          "term": "internship",
+          "score": 0.1719
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "internship",
+          "score": 16.6155
+        },
+        {
+          "term": "transferable",
+          "score": 12.2712
+        },
+        {
+          "term": "generic",
+          "score": 12.0271
+        },
+        {
+          "term": "portuguese",
+          "score": 10.5536
+        },
+        {
+          "term": "weq",
+          "score": 9.8641
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "polytechnic",
+          "score": 2.4854
+        },
+        {
+          "term": "satisfaction",
+          "score": 2.4854
+        },
+        {
+          "term": "allow",
+          "score": 2.1635
+        },
+        {
+          "term": "descriptive",
+          "score": 2.1635
+        },
+        {
+          "term": "foster",
+          "score": 2.1635
+        }
+      ],
+      "label_tfidf": "efficacy; self efficacy; skills",
+      "label_llr": "internship; transferable; generic"
+    },
+    "2": {
+      "cluster_id": 2,
+      "size": 91,
+      "n_citing_articles": 43,
+      "tfidf_terms": [
+        {
+          "term": "efficacy",
+          "score": 0.2599
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.257
+        },
+        {
+          "term": "scale",
+          "score": 0.2199
+        },
+        {
+          "term": "skills",
+          "score": 0.1933
+        },
+        {
+          "term": "validity",
+          "score": 0.1319
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "compassion",
+          "score": 24.1499
+        },
+        {
+          "term": "connections",
+          "score": 16.0999
+        },
+        {
+          "term": "creating",
+          "score": 16.0999
+        },
+        {
+          "term": "step",
+          "score": 13.4166
+        },
+        {
+          "term": "oral",
+          "score": 13.4166
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "every",
+          "score": 1.9661
+        },
+        {
+          "term": "minimum",
+          "score": 1.9661
+        },
+        {
+          "term": "requirement",
+          "score": 1.9661
+        },
+        {
+          "term": "step",
+          "score": 1.9661
+        },
+        {
+          "term": "rmsea",
+          "score": 1.551
+        }
+      ],
+      "label_tfidf": "efficacy; self efficacy; scale",
+      "label_llr": "compassion; connections; creating"
+    },
+    "3": {
+      "cluster_id": 3,
+      "size": 77,
+      "n_citing_articles": 17,
+      "tfidf_terms": [
+        {
+          "term": "skills",
+          "score": 0.3454
+        },
+        {
+          "term": "professional",
+          "score": 0.1684
+        },
+        {
+          "term": "scale",
+          "score": 0.1627
+        },
+        {
+          "term": "transferable skills",
+          "score": 0.1505
+        },
+        {
+          "term": "efficacy",
+          "score": 0.1502
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "skills",
+          "score": 22.3288
+        },
+        {
+          "term": "motivation",
+          "score": 11.1224
+        },
+        {
+          "term": "transferable",
+          "score": 10.6325
+        },
+        {
+          "term": "self",
+          "score": 8.6379
+        },
+        {
+          "term": "questionnaire",
+          "score": 8.604
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "composite",
+          "score": 1.9829
+        },
+        {
+          "term": "gspq",
+          "score": 1.7199
+        },
+        {
+          "term": "translate",
+          "score": 1.7199
+        },
+        {
+          "term": "voluntarily",
+          "score": 1.7199
+        },
+        {
+          "term": "competitive",
+          "score": 1.7199
+        }
+      ],
+      "label_tfidf": "skills; professional; scale",
+      "label_llr": "skills; motivation; transferable"
+    },
+    "4": {
+      "cluster_id": 4,
+      "size": 51,
+      "n_citing_articles": 15,
+      "tfidf_terms": [
+        {
+          "term": "efficacy",
+          "score": 0.335
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.3284
+        },
+        {
+          "term": "scale",
+          "score": 0.1642
+        },
+        {
+          "term": "engineering self",
+          "score": 0.1387
+        },
+        {
+          "term": "skills",
+          "score": 0.1299
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "ers",
+          "score": 13.8918
+        },
+        {
+          "term": "efficacy",
+          "score": 9.7673
+        },
+        {
+          "term": "self",
+          "score": 9.3021
+        },
+        {
+          "term": "innovation",
+          "score": 7.5893
+        },
+        {
+          "term": "development",
+          "score": 7.3223
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "complemented",
+          "score": 1.9005
+        },
+        {
+          "term": "reproduction",
+          "score": 1.9005
+        },
+        {
+          "term": "attribution",
+          "score": 1.9005
+        },
+        {
+          "term": "distribution",
+          "score": 1.9005
+        },
+        {
+          "term": "unrestricted",
+          "score": 1.9005
+        }
+      ],
+      "label_tfidf": "efficacy; self efficacy; scale",
+      "label_llr": "ers; efficacy; self"
+    },
+    "5": {
+      "cluster_id": 5,
+      "size": 87,
+      "n_citing_articles": 23,
+      "tfidf_terms": [
+        {
+          "term": "efficacy",
+          "score": 0.3726
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.3681
+        },
+        {
+          "term": "engineering self",
+          "score": 0.158
+        },
+        {
+          "term": "design",
+          "score": 0.1574
+        },
+        {
+          "term": "scale",
+          "score": 0.1436
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "self",
+          "score": 24.2136
+        },
+        {
+          "term": "competencies",
+          "score": 22.0075
+        },
+        {
+          "term": "efficacy",
+          "score": 20.4365
+        },
+        {
+          "term": "reflection",
+          "score": 15.026
+        },
+        {
+          "term": "design",
+          "score": 13.5436
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "abstract",
+          "score": 2.2838
+        },
+        {
+          "term": "participate",
+          "score": 2.2838
+        },
+        {
+          "term": "recruited",
+          "score": 2.2838
+        },
+        {
+          "term": "teachers",
+          "score": 1.8688
+        },
+        {
+          "term": "task",
+          "score": 1.8688
+        }
+      ],
+      "label_tfidf": "efficacy; self efficacy; engineering self",
+      "label_llr": "self; competencies; efficacy"
+    },
+    "6": {
+      "cluster_id": 6,
+      "size": 7,
+      "n_citing_articles": 11,
+      "tfidf_terms": [
+        {
+          "term": "scale",
+          "score": 0.3058
+        },
+        {
+          "term": "professional",
+          "score": 0.2406
+        },
+        {
+          "term": "se",
+          "score": 0.2393
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.2039
+        },
+        {
+          "term": "efficacy",
+          "score": 0.2039
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "systems",
+          "score": 27.872
+        },
+        {
+          "term": "values",
+          "score": 25.8403
+        },
+        {
+          "term": "nanotechnology",
+          "score": 22.2976
+        },
+        {
+          "term": "sts",
+          "score": 19.7505
+        },
+        {
+          "term": "sputtering",
+          "score": 16.7232
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "focused",
+          "score": 3.3479
+        },
+        {
+          "term": "expert",
+          "score": 2.7105
+        },
+        {
+          "term": "requirements",
+          "score": 2.611
+        },
+        {
+          "term": "representative",
+          "score": 2.3479
+        },
+        {
+          "term": "greater",
+          "score": 2.3479
+        }
+      ],
+      "label_tfidf": "scale; professional; se",
+      "label_llr": "systems; values; nanotechnology"
+    },
+    "7": {
+      "cluster_id": 7,
+      "size": 3,
+      "n_citing_articles": 4,
+      "tfidf_terms": [
+        {
+          "term": "programming",
+          "score": 0.3283
+        },
+        {
+          "term": "motivation",
+          "score": 0.194
+        },
+        {
+          "term": "programming tasks",
+          "score": 0.1912
+        },
+        {
+          "term": "entrepreneurial motivation",
+          "score": 0.1847
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.1749
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "programming",
+          "score": 26.9126
+        },
+        {
+          "term": "tasks",
+          "score": 15.3277
+        },
+        {
+          "term": "electrical",
+          "score": 14.8181
+        },
+        {
+          "term": "pse",
+          "score": 14.7818
+        },
+        {
+          "term": "motivation",
+          "score": 12.9106
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "policy",
+          "score": 2.3923
+        },
+        {
+          "term": "established",
+          "score": 2.3923
+        },
+        {
+          "term": "participants",
+          "score": 2.3049
+        },
+        {
+          "term": "final",
+          "score": 2.3049
+        },
+        {
+          "term": "over",
+          "score": 2.3049
+        }
+      ],
+      "label_tfidf": "programming; motivation; programming tasks",
+      "label_llr": "programming; tasks; electrical"
+    },
+    "8": {
+      "cluster_id": 8,
+      "size": 20,
+      "n_citing_articles": 5,
+      "tfidf_terms": [
+        {
+          "term": "identity",
+          "score": 0.6295
+        },
+        {
+          "term": "engineering identity",
+          "score": 0.3953
+        },
+        {
+          "term": "graduate",
+          "score": 0.2206
+        },
+        {
+          "term": "graduate students",
+          "score": 0.205
+        },
+        {
+          "term": "fgcs",
+          "score": 0.1875
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "identity",
+          "score": 143.9671
+        },
+        {
+          "term": "engineering",
+          "score": 60.6751
+        },
+        {
+          "term": "graduate",
+          "score": 50.0988
+        },
+        {
+          "term": "fgcs",
+          "score": 32.8329
+        },
+        {
+          "term": "non",
+          "score": 26.1433
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "math",
+          "score": 4.4854
+        },
+        {
+          "term": "individuals",
+          "score": 4.0704
+        },
+        {
+          "term": "generated",
+          "score": 3.7485
+        },
+        {
+          "term": "interviews",
+          "score": 3.7485
+        },
+        {
+          "term": "identity",
+          "score": 3.611
+        }
+      ],
+      "label_tfidf": "identity; engineering identity; graduate",
+      "label_llr": "identity; engineering; graduate"
+    },
+    "9": {
+      "cluster_id": 9,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "contextual competence",
+          "score": 0.3653
+        },
+        {
+          "term": "scale",
+          "score": 0.3422
+        },
+        {
+          "term": "contextual",
+          "score": 0.3005
+        },
+        {
+          "term": "competence",
+          "score": 0.2446
+        },
+        {
+          "term": "professional",
+          "score": 0.2281
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "contextual",
+          "score": 35.9691
+        },
+        {
+          "term": "scale",
+          "score": 24.7163
+        },
+        {
+          "term": "competence",
+          "score": 23.0
+        },
+        {
+          "term": "towards",
+          "score": 17.5571
+        },
+        {
+          "term": "professional",
+          "score": 13.5852
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "experts",
+          "score": 3.8074
+        },
+        {
+          "term": "review",
+          "score": 3.585
+        },
+        {
+          "term": "assessing",
+          "score": 2.9329
+        },
+        {
+          "term": "may",
+          "score": 2.585
+        },
+        {
+          "term": "obtained",
+          "score": 2.585
+        }
+      ],
+      "label_tfidf": "contextual competence; scale; contextual",
+      "label_llr": "contextual; scale; competence"
+    },
+    "10": {
+      "cluster_id": 10,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "identity",
+          "score": 0.5385
+        },
+        {
+          "term": "writing",
+          "score": 0.418
+        },
+        {
+          "term": "graduate",
+          "score": 0.305
+        },
+        {
+          "term": "engineering identity",
+          "score": 0.2564
+        },
+        {
+          "term": "research identity",
+          "score": 0.2299
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "writing",
+          "score": 73.5596
+        },
+        {
+          "term": "identity",
+          "score": 67.4622
+        },
+        {
+          "term": "graduate",
+          "score": 53.1512
+        },
+        {
+          "term": "interest",
+          "score": 16.9941
+        },
+        {
+          "term": "identities",
+          "score": 16.3138
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "affect",
+          "score": 3.9329
+        },
+        {
+          "term": "graduate",
+          "score": 3.3049
+        },
+        {
+          "term": "american",
+          "score": 3.0
+        },
+        {
+          "term": "understand",
+          "score": 2.9329
+        },
+        {
+          "term": "skill",
+          "score": 2.9329
+        }
+      ],
+      "label_tfidf": "identity; writing; graduate",
+      "label_llr": "writing; identity; graduate"
+    },
+    "11": {
+      "cluster_id": 11,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "competencies",
+          "score": 0.3669
+        },
+        {
+          "term": "competency",
+          "score": 0.3357
+        },
+        {
+          "term": "transversal",
+          "score": 0.2578
+        },
+        {
+          "term": "model",
+          "score": 0.1942
+        },
+        {
+          "term": "based",
+          "score": 0.1793
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "competency",
+          "score": 29.731
+        },
+        {
+          "term": "competencies",
+          "score": 28.8486
+        },
+        {
+          "term": "transversal",
+          "score": 20.8902
+        },
+        {
+          "term": "dynamics",
+          "score": 18.5341
+        },
+        {
+          "term": "test",
+          "score": 15.1733
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "testing",
+          "score": 3.8074
+        },
+        {
+          "term": "competency",
+          "score": 2.9329
+        },
+        {
+          "term": "demonstrated",
+          "score": 2.8688
+        },
+        {
+          "term": "level",
+          "score": 2.3049
+        },
+        {
+          "term": "how",
+          "score": 2.3049
+        }
+      ],
+      "label_tfidf": "competencies; competency; transversal",
+      "label_llr": "competency; competencies; transversal"
+    },
+    "12": {
+      "cluster_id": 12,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "transversal",
+          "score": 0.2574
+        },
+        {
+          "term": "competency",
+          "score": 0.2514
+        },
+        {
+          "term": "resources",
+          "score": 0.2503
+        },
+        {
+          "term": "competencies",
+          "score": 0.1831
+        },
+        {
+          "term": "transversal competencies",
+          "score": 0.1748
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "resources",
+          "score": 21.4631
+        },
+        {
+          "term": "transversal",
+          "score": 18.1576
+        },
+        {
+          "term": "pandemic",
+          "score": 17.8356
+        },
+        {
+          "term": "competency",
+          "score": 15.7287
+        },
+        {
+          "term": "teamwork",
+          "score": 12.8139
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "teamwork",
+          "score": 4.0704
+        },
+        {
+          "term": "less",
+          "score": 3.6919
+        },
+        {
+          "term": "perceived",
+          "score": 3.2224
+        },
+        {
+          "term": "most",
+          "score": 3.1444
+        },
+        {
+          "term": "levels",
+          "score": 3.0704
+        }
+      ],
+      "label_tfidf": "transversal; competency; resources",
+      "label_llr": "resources; transversal; pandemic"
+    },
+    "13": {
+      "cluster_id": 13,
+      "size": 4,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "transversal",
+          "score": 0.244
+        },
+        {
+          "term": "competency",
+          "score": 0.2383
+        },
+        {
+          "term": "learning",
+          "score": 0.2091
+        },
+        {
+          "term": "statics",
+          "score": 0.178
+        },
+        {
+          "term": "active learning",
+          "score": 0.178
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "transversal",
+          "score": 18.6271
+        },
+        {
+          "term": "competency",
+          "score": 16.2647
+        },
+        {
+          "term": "active",
+          "score": 13.101
+        },
+        {
+          "term": "statics",
+          "score": 13.101
+        },
+        {
+          "term": "salg",
+          "score": 13.101
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "less",
+          "score": 3.6919
+        },
+        {
+          "term": "demonstrated",
+          "score": 2.8688
+        },
+        {
+          "term": "technology",
+          "score": 2.3049
+        },
+        {
+          "term": "reliable",
+          "score": 2.263
+        },
+        {
+          "term": "scales",
+          "score": 2.0348
+        }
+      ],
+      "label_tfidf": "transversal; competency; learning",
+      "label_llr": "transversal; competency; active"
+    },
+    "14": {
+      "cluster_id": 14,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "skills",
+          "score": 0.4885
+        },
+        {
+          "term": "employability",
+          "score": 0.2746
+        },
+        {
+          "term": "employability skills",
+          "score": 0.2746
+        },
+        {
+          "term": "transversal",
+          "score": 0.2289
+        },
+        {
+          "term": "competency",
+          "score": 0.2235
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "skills",
+          "score": 32.9769
+        },
+        {
+          "term": "employability",
+          "score": 20.6236
+        },
+        {
+          "term": "transversal",
+          "score": 20.32
+        },
+        {
+          "term": "competency",
+          "score": 18.2082
+        },
+        {
+          "term": "model",
+          "score": 14.6316
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "technology",
+          "score": 2.3049
+        },
+        {
+          "term": "valid",
+          "score": 2.3049
+        },
+        {
+          "term": "model",
+          "score": 1.5343
+        },
+        {
+          "term": "learning",
+          "score": 1.1829
+        },
+        {
+          "term": "development",
+          "score": 1.0525
+        }
+      ],
+      "label_tfidf": "skills; employability; employability skills",
+      "label_llr": "skills; employability; transversal"
+    },
+    "15": {
+      "cluster_id": 15,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "decision",
+          "score": 0.378
+        },
+        {
+          "term": "decision making",
+          "score": 0.378
+        },
+        {
+          "term": "tlo",
+          "score": 0.315
+        },
+        {
+          "term": "making",
+          "score": 0.2334
+        },
+        {
+          "term": "year",
+          "score": 0.1955
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "decision",
+          "score": 31.1607
+        },
+        {
+          "term": "tlo",
+          "score": 25.9673
+        },
+        {
+          "term": "making",
+          "score": 24.3237
+        },
+        {
+          "term": "year",
+          "score": 18.1096
+        },
+        {
+          "term": "orientations",
+          "score": 15.5804
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "choice",
+          "score": 4.2224
+        },
+        {
+          "term": "second",
+          "score": 3.4854
+        },
+        {
+          "term": "courses",
+          "score": 3.2224
+        },
+        {
+          "term": "first",
+          "score": 2.7485
+        },
+        {
+          "term": "year",
+          "score": 2.3923
+        }
+      ],
+      "label_tfidf": "decision; decision making; tlo",
+      "label_llr": "decision; tlo; making"
+    },
+    "16": {
+      "cluster_id": 16,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "contextual competence",
+          "score": 0.3441
+        },
+        {
+          "term": "professional values",
+          "score": 0.3192
+        },
+        {
+          "term": "contextual",
+          "score": 0.283
+        },
+        {
+          "term": "values",
+          "score": 0.2573
+        },
+        {
+          "term": "professional",
+          "score": 0.2417
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "values",
+          "score": 46.2958
+        },
+        {
+          "term": "contextual",
+          "score": 34.2343
+        },
+        {
+          "term": "global",
+          "score": 23.6549
+        },
+        {
+          "term": "valuing",
+          "score": 22.7924
+        },
+        {
+          "term": "competence",
+          "score": 21.3857
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "alumni",
+          "score": 4.8074
+        },
+        {
+          "term": "expert",
+          "score": 4.585
+        },
+        {
+          "term": "representative",
+          "score": 4.2224
+        },
+        {
+          "term": "ability",
+          "score": 4.0704
+        },
+        {
+          "term": "needed",
+          "score": 3.8074
+        }
+      ],
+      "label_tfidf": "contextual competence; professional values; contextual",
+      "label_llr": "values; contextual; global"
+    },
+    "17": {
+      "cluster_id": 17,
+      "size": 3,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "motivation",
+          "score": 0.3173
+        },
+        {
+          "term": "entrepreneurial motivation",
+          "score": 0.3021
+        },
+        {
+          "term": "entrepreneurial",
+          "score": 0.2581
+        },
+        {
+          "term": "learning experiences",
+          "score": 0.2431
+        },
+        {
+          "term": "experiences",
+          "score": 0.2025
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "motivation",
+          "score": 24.9834
+        },
+        {
+          "term": "entrepreneurial",
+          "score": 16.3171
+        },
+        {
+          "term": "experiences",
+          "score": 12.5862
+        },
+        {
+          "term": "entrepreneurship",
+          "score": 8.8885
+        },
+        {
+          "term": "eles",
+          "score": 8.07
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "sources",
+          "score": 2.9329
+        },
+        {
+          "term": "initial",
+          "score": 2.8688
+        },
+        {
+          "term": "variables",
+          "score": 2.8074
+        },
+        {
+          "term": "developed",
+          "score": 2.0704
+        },
+        {
+          "term": "studies",
+          "score": 2.0
+        }
+      ],
+      "label_tfidf": "motivation; entrepreneurial motivation; entrepreneurial",
+      "label_llr": "motivation; entrepreneurial; experiences"
+    },
+    "18": {
+      "cluster_id": 18,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "skills",
+          "score": 0.6244
+        },
+        {
+          "term": "employability",
+          "score": 0.3979
+        },
+        {
+          "term": "employability skills",
+          "score": 0.3581
+        },
+        {
+          "term": "work",
+          "score": 0.1774
+        },
+        {
+          "term": "indicators",
+          "score": 0.1428
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "skills",
+          "score": 66.6493
+        },
+        {
+          "term": "employability",
+          "score": 45.3743
+        },
+        {
+          "term": "indicators",
+          "score": 14.5548
+        },
+        {
+          "term": "respondents",
+          "score": 14.2412
+        },
+        {
+          "term": "work",
+          "score": 13.9932
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "variable",
+          "score": 4.585
+        },
+        {
+          "term": "respondents",
+          "score": 4.585
+        },
+        {
+          "term": "job",
+          "score": 4.585
+        },
+        {
+          "term": "employability",
+          "score": 4.0704
+        },
+        {
+          "term": "samples",
+          "score": 4.0704
+        }
+      ],
+      "label_tfidf": "skills; employability; employability skills",
+      "label_llr": "skills; employability; indicators"
+    },
+    "19": {
+      "cluster_id": 19,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "employability",
+          "score": 0.4356
+        },
+        {
+          "term": "skills",
+          "score": 0.376
+        },
+        {
+          "term": "employability skills",
+          "score": 0.2722
+        },
+        {
+          "term": "indicators",
+          "score": 0.1955
+        },
+        {
+          "term": "cfa",
+          "score": 0.1693
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "employability",
+          "score": 33.0169
+        },
+        {
+          "term": "indicators",
+          "score": 14.8168
+        },
+        {
+          "term": "skills",
+          "score": 14.4329
+        },
+        {
+          "term": "covers",
+          "score": 10.9488
+        },
+        {
+          "term": "cfa",
+          "score": 10.3456
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "employability",
+          "score": 4.0704
+        },
+        {
+          "term": "global",
+          "score": 3.4854
+        },
+        {
+          "term": "graduates",
+          "score": 3.0704
+        },
+        {
+          "term": "identify",
+          "score": 2.9329
+        },
+        {
+          "term": "cfa",
+          "score": 2.7485
+        }
+      ],
+      "label_tfidf": "employability; skills; employability skills",
+      "label_llr": "employability; indicators; skills"
+    },
+    "20": {
+      "cluster_id": 20,
+      "size": 3,
+      "n_citing_articles": 3,
+      "tfidf_terms": [
+        {
+          "term": "models",
+          "score": 0.2935
+        },
+        {
+          "term": "tlo",
+          "score": 0.2763
+        },
+        {
+          "term": "learning",
+          "score": 0.247
+        },
+        {
+          "term": "mslq",
+          "score": 0.2373
+        },
+        {
+          "term": "competing",
+          "score": 0.2211
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "models",
+          "score": 26.7217
+        },
+        {
+          "term": "mslq",
+          "score": 22.7057
+        },
+        {
+          "term": "tlo",
+          "score": 22.7057
+        },
+        {
+          "term": "competing",
+          "score": 18.1645
+        },
+        {
+          "term": "second",
+          "score": 16.6946
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "mslq",
+          "score": 4.2224
+        },
+        {
+          "term": "motivated",
+          "score": 4.2224
+        },
+        {
+          "term": "models",
+          "score": 3.4854
+        },
+        {
+          "term": "implemented",
+          "score": 3.3479
+        },
+        {
+          "term": "confirmed",
+          "score": 3.1069
+        }
+      ],
+      "label_tfidf": "models; tlo; learning",
+      "label_llr": "models; mslq; tlo"
+    },
+    "21": {
+      "cluster_id": 21,
+      "size": 3,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "programming",
+          "score": 0.5453
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.2178
+        },
+        {
+          "term": "efficacy",
+          "score": 0.2178
+        },
+        {
+          "term": "computer",
+          "score": 0.2107
+        },
+        {
+          "term": "electrical",
+          "score": 0.2045
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "programming",
+          "score": 78.4958
+        },
+        {
+          "term": "computer",
+          "score": 29.7691
+        },
+        {
+          "term": "electrical",
+          "score": 27.3021
+        },
+        {
+          "term": "electronics",
+          "score": 24.4706
+        },
+        {
+          "term": "tasks",
+          "score": 21.2637
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "programming",
+          "score": 4.8074
+        },
+        {
+          "term": "own",
+          "score": 4.8074
+        },
+        {
+          "term": "electrical",
+          "score": 4.585
+        },
+        {
+          "term": "electronics",
+          "score": 4.2224
+        },
+        {
+          "term": "computer",
+          "score": 3.6919
+        }
+      ],
+      "label_tfidf": "programming; self efficacy; efficacy",
+      "label_llr": "programming; computer; electrical"
+    },
+    "22": {
+      "cluster_id": 22,
+      "size": 3,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "scale",
+          "score": 0.3838
+        },
+        {
+          "term": "electronics",
+          "score": 0.3152
+        },
+        {
+          "term": "programming",
+          "score": 0.2882
+        },
+        {
+          "term": "self efficacy",
+          "score": 0.2814
+        },
+        {
+          "term": "efficacy",
+          "score": 0.2814
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "electronics",
+          "score": 31.7205
+        },
+        {
+          "term": "distinctiveness",
+          "score": 26.3737
+        },
+        {
+          "term": "scale",
+          "score": 20.5463
+        },
+        {
+          "term": "programming",
+          "score": 17.6197
+        },
+        {
+          "term": "level",
+          "score": 17.6197
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "electrical",
+          "score": 4.585
+        },
+        {
+          "term": "electronics",
+          "score": 4.2224
+        },
+        {
+          "term": "meaningful",
+          "score": 4.0704
+        },
+        {
+          "term": "determine",
+          "score": 3.585
+        },
+        {
+          "term": "consistency",
+          "score": 3.0704
+        }
+      ],
+      "label_tfidf": "scale; electronics; programming",
+      "label_llr": "electronics; distinctiveness; scale"
+    },
+    "23": {
+      "cluster_id": 23,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "se",
+          "score": 0.5915
+        },
+        {
+          "term": "se self",
+          "score": 0.2103
+        },
+        {
+          "term": "degrees",
+          "score": 0.1959
+        },
+        {
+          "term": "affect",
+          "score": 0.1858
+        },
+        {
+          "term": "sustainability",
+          "score": 0.1858
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "sustainability",
+          "score": 20.2693
+        },
+        {
+          "term": "degrees",
+          "score": 20.0474
+        },
+        {
+          "term": "value",
+          "score": 16.2994
+        },
+        {
+          "term": "affect",
+          "score": 15.6667
+        },
+        {
+          "term": "sustainable",
+          "score": 13.9961
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "effort",
+          "score": 4.0704
+        },
+        {
+          "term": "sustainability",
+          "score": 4.0704
+        },
+        {
+          "term": "sustainable",
+          "score": 3.585
+        },
+        {
+          "term": "methodology",
+          "score": 2.8074
+        },
+        {
+          "term": "year",
+          "score": 2.3923
+        }
+      ],
+      "label_tfidf": "se; se self; degrees",
+      "label_llr": "sustainability; degrees; value"
+    },
+    "24": {
+      "cluster_id": 24,
+      "size": 2,
+      "n_citing_articles": 2,
+      "tfidf_terms": [
+        {
+          "term": "se",
+          "score": 0.5819
+        },
+        {
+          "term": "tlo",
+          "score": 0.2409
+        },
+        {
+          "term": "se self",
+          "score": 0.2069
+        },
+        {
+          "term": "value",
+          "score": 0.1836
+        },
+        {
+          "term": "affect",
+          "score": 0.1828
+        }
+      ],
+      "llr_terms": [
+        {
+          "term": "tlo",
+          "score": 24.7669
+        },
+        {
+          "term": "value",
+          "score": 20.1739
+        },
+        {
+          "term": "affect",
+          "score": 15.3904
+        },
+        {
+          "term": "orientations",
+          "score": 14.8601
+        },
+        {
+          "term": "year",
+          "score": 12.2538
+        }
+      ],
+      "mi_terms": [
+        {
+          "term": "engage",
+          "score": 3.8074
+        },
+        {
+          "term": "correlations",
+          "score": 3.3923
+        },
+        {
+          "term": "first",
+          "score": 2.7485
+        },
+        {
+          "term": "group",
+          "score": 2.6919
+        },
+        {
+          "term": "year",
+          "score": 2.3923
+        }
+      ],
+      "label_tfidf": "se; tlo; se self",
+      "label_llr": "tlo; value; affect"
+    }
+  },
+  "keyword_clusters": {
+    "1": {
+      "cluster_id": 1,
+      "size": 74,
+      "tfidf_terms": [
+        {
+          "term": "engineering education",
+          "score": 62.0
+        },
+        {
+          "term": "computer science",
+          "score": 53.0
+        },
+        {
+          "term": "engineering",
+          "score": 49.0
+        },
+        {
+          "term": "students",
+          "score": 44.0
+        },
+        {
+          "term": "engineering management",
+          "score": 30.0
+        }
+      ],
+      "label_tfidf": "engineering education; computer science; engineering",
+      "label_llr": ""
+    },
+    "2": {
+      "cluster_id": 2,
+      "size": 30,
+      "tfidf_terms": [
+        {
+          "term": "confirmatory factor analysis",
+          "score": 29.0
+        },
+        {
+          "term": "psychometrics",
+          "score": 27.0
+        },
+        {
+          "term": "reliability (semiconductor)",
+          "score": 25.0
+        },
+        {
+          "term": "structural equation modeling",
+          "score": 24.0
+        },
+        {
+          "term": "mathematics",
+          "score": 18.0
+        }
+      ],
+      "label_tfidf": "confirmatory factor analysis; psychometrics; reliability (semiconductor)",
+      "label_llr": ""
+    },
+    "3": {
+      "cluster_id": 3,
+      "size": 38,
+      "tfidf_terms": [
+        {
+          "term": "medicine",
+          "score": 28.0
+        },
+        {
+          "term": "medical education",
+          "score": 27.0
+        },
+        {
+          "term": "pedagogy",
+          "score": 23.0
+        },
+        {
+          "term": "curriculum",
+          "score": 13.0
+        },
+        {
+          "term": "perception",
+          "score": 12.0
+        }
+      ],
+      "label_tfidf": "medicine; medical education; pedagogy",
+      "label_llr": ""
+    },
+    "4": {
+      "cluster_id": 4,
+      "size": 40,
+      "tfidf_terms": [
+        {
+          "term": "psychology",
+          "score": 68.0
+        },
+        {
+          "term": "mathematics education",
+          "score": 42.0
+        },
+        {
+          "term": "scale (ratio)",
+          "score": 32.0
+        },
+        {
+          "term": "social psychology",
+          "score": 25.0
+        },
+        {
+          "term": "self-efficacy",
+          "score": 22.0
+        }
+      ],
+      "label_tfidf": "psychology; mathematics education; scale (ratio)",
+      "label_llr": ""
+    },
+    "0": {
+      "cluster_id": 0,
+      "size": 15,
+      "tfidf_terms": [
+        {
+          "term": "reliability",
+          "score": 16.0
+        },
+        {
+          "term": "internal consistency",
+          "score": 5.0
+        },
+        {
+          "term": "entrepreneurship",
+          "score": 5.0
+        },
+        {
+          "term": "article",
+          "score": 3.0
+        },
+        {
+          "term": "human",
+          "score": 3.0
+        }
+      ],
+      "label_tfidf": "reliability; internal consistency; entrepreneurship",
+      "label_llr": ""
+    }
+  }
+}

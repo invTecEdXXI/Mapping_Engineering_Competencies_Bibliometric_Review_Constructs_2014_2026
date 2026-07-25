@@ -1,0 +1,9 @@
+{
+  "session_id": "20260724_232146",
+  "phase": "1",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:26:51.460598",
+  "data": {
+    "raw_response": "{\n  \"themes\": [\n    {\n      \"name\": \"Engineering Self-Efficacy Assessment and Development\",\n      \"definition\": \"Studies that develop or validate instruments to measure self-efficacy beliefs among engineering students in various contexts, including general, domain-specific, innovation, and work self-efficacy, often examining how self-efficacy relates to academic outcomes, motivation, and changes over time, and sometimes noting gender differences.\",\n      \"evidence\": [\n        \"[LLIXIBSQ] Self-efficacy has been found to be one of the key factors that are responsible for academic success of engineering students.\",\n        \"["
+  }
+}

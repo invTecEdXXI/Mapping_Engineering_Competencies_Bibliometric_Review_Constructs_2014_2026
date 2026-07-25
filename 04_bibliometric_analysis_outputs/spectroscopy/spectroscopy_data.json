@@ -1,0 +1,4971 @@
+{
+  "n_refs_analyzed": 2206,
+  "n_concepts": 1670,
+  "n_top_concepts": 30,
+  "top_concepts": [
+    {
+      "name": "Psychology",
+      "frequency": 1473
+    },
+    {
+      "name": "Computer science",
+      "frequency": 644
+    },
+    {
+      "name": "Mathematics education",
+      "frequency": 641
+    },
+    {
+      "name": "Social psychology",
+      "frequency": 429
+    },
+    {
+      "name": "Pedagogy",
+      "frequency": 387
+    },
+    {
+      "name": "Medical education",
+      "frequency": 364
+    },
+    {
+      "name": "Engineering",
+      "frequency": 314
+    },
+    {
+      "name": "Engineering ethics",
+      "frequency": 290
+    },
+    {
+      "name": "Engineering education",
+      "frequency": 276
+    },
+    {
+      "name": "Sociology",
+      "frequency": 265
+    },
+    {
+      "name": "Higher education",
+      "frequency": 202
+    },
+    {
+      "name": "Statistics",
+      "frequency": 180
+    },
+    {
+      "name": "Knowledge management",
+      "frequency": 173
+    },
+    {
+      "name": "Curriculum",
+      "frequency": 167
+    },
+    {
+      "name": "Political science",
+      "frequency": 164
+    },
+    {
+      "name": "Applied psychology",
+      "frequency": 163
+    },
+    {
+      "name": "Context (archaeology)",
+      "frequency": 155
+    },
+    {
+      "name": "Self-efficacy",
+      "frequency": 152
+    },
+    {
+      "name": "Mathematics",
+      "frequency": 149
+    },
+    {
+      "name": "Scale (ratio)",
+      "frequency": 145
+    },
+    {
+      "name": "Perception",
+      "frequency": 141
+    },
+    {
+      "name": "Business",
+      "frequency": 137
+    },
+    {
+      "name": "Work (physics)",
+      "frequency": 134
+    },
+    {
+      "name": "Cognition",
+      "frequency": 134
+    },
+    {
+      "name": "Process (computing)",
+      "frequency": 132
+    },
+    {
+      "name": "Engineering management",
+      "frequency": 131
+    },
+    {
+      "name": "Structural equation modeling",
+      "frequency": 128
+    },
+    {
+      "name": "Public relations",
+      "frequency": 124
+    },
+    {
+      "name": "Developmental psychology",
+      "frequency": 124
+    },
+    {
+      "name": "Cognitive psychology",
+      "frequency": 115
+    }
+  ],
+  "rpys": {
+    "peak_years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "total_refs": 2206,
+    "year_range": [
+      1951,
+      2026
+    ],
+    "deviation_std": 1.55
+  },
+  "heatmap": {
+    "n_concepts": 30,
+    "year_range": [
+      1951,
+      2026
+    ]
+  },
+  "lifecycles": [
+    {
+      "concept": "Psychology",
+      "emergence_year": 1956,
+      "growth_year": 1993,
+      "peak_year": 2020,
+      "decline_year": 2021,
+      "last_year": 2026,
+      "total_refs": 1473,
+      "max_annual": 73
+    },
+    {
+      "concept": "Computer science",
+      "emergence_year": 1956,
+      "growth_year": 1994,
+      "peak_year": 2020,
+      "decline_year": 2021,
+      "last_year": 2025,
+      "total_refs": 644,
+      "max_annual": 53
+    },
+    {
+      "concept": "Mathematics education",
+      "emergence_year": 1979,
+      "growth_year": 1999,
+      "peak_year": 2018,
+      "decline_year": 2022,
+      "last_year": 2026,
+      "total_refs": 641,
+      "max_annual": 38
+    },
+    {
+      "concept": "Social psychology",
+      "emergence_year": 1959,
+      "growth_year": 1989,
+      "peak_year": 2018,
+      "decline_year": 2019,
+      "last_year": 2025,
+      "total_refs": 429,
+      "max_annual": 19
+    },
+    {
+      "concept": "Pedagogy",
+      "emergence_year": 1973,
+      "growth_year": 2000,
+      "peak_year": 2018,
+      "decline_year": 2021,
+      "last_year": 2025,
+      "total_refs": 387,
+      "max_annual": 27
+    },
+    {
+      "concept": "Medical education",
+      "emergence_year": 1987,
+      "growth_year": 2001,
+      "peak_year": 2020,
+      "decline_year": 2021,
+      "last_year": 2025,
+      "total_refs": 364,
+      "max_annual": 34
+    },
+    {
+      "concept": "Engineering",
+      "emergence_year": 1987,
+      "growth_year": 2003,
+      "peak_year": 2020,
+      "decline_year": 2020,
+      "last_year": 2025,
+      "total_refs": 314,
+      "max_annual": 37
+    },
+    {
+      "concept": "Engineering ethics",
+      "emergence_year": 1987,
+      "growth_year": 2002,
+      "peak_year": 2020,
+      "decline_year": 2021,
+      "last_year": 2025,
+      "total_refs": 290,
+      "max_annual": 25
+    },
+    {
+      "concept": "Engineering education",
+      "emergence_year": 1981,
+      "growth_year": 2004,
+      "peak_year": 2020,
+      "decline_year": 2021,
+      "last_year": 2025,
+      "total_refs": 276,
+      "max_annual": 38
+    },
+    {
+      "concept": "Sociology",
+      "emergence_year": 1973,
+      "growth_year": 2000,
+      "peak_year": 2009,
+      "decline_year": 2021,
+      "last_year": 2025,
+      "total_refs": 265,
+      "max_annual": 20
+    },
+    {
+      "concept": "Higher education",
+      "emergence_year": 1987,
+      "growth_year": 2000,
+      "peak_year": 2017,
+      "decline_year": 2022,
+      "last_year": 2026,
+      "total_refs": 202,
+      "max_annual": 16
+    },
+    {
+      "concept": "Statistics",
+      "emergence_year": 1951,
+      "growth_year": 1977,
+      "peak_year": 2008,
+      "decline_year": 2016,
+      "last_year": 2024,
+      "total_refs": 180,
+      "max_annual": 10
+    },
+    {
+      "concept": "Knowledge management",
+      "emergence_year": 1978,
+      "growth_year": 2003,
+      "peak_year": 2020,
+      "decline_year": 2021,
+      "last_year": 2024,
+      "total_refs": 173,
+      "max_annual": 21
+    },
+    {
+      "concept": "Curriculum",
+      "emergence_year": 1989,
+      "growth_year": 2003,
+      "peak_year": 2020,
+      "decline_year": 2020,
+      "last_year": 2024,
+      "total_refs": 167,
+      "max_annual": 24
+    },
+    {
+      "concept": "Political science",
+      "emergence_year": 1981,
+      "growth_year": 2002,
+      "peak_year": 2015,
+      "decline_year": 2021,
+      "last_year": 2025,
+      "total_refs": 164,
+      "max_annual": 12
+    }
+  ],
+  "seminal_works": {
+    "n_rows": 502,
+    "rows": [
+      {
+        "concept": "Psychology",
+        "decade": "1950s",
+        "year": 1959,
+        "first_author": "Holland",
+        "title": "A theory of vocational choice.",
+        "cited_by_count": 1412,
+        "openalex_id": "https://openalex.org/W2112528081"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1950s",
+        "year": 1956,
+        "first_author": "Freedman",
+        "title": "The Passage Through College",
+        "cited_by_count": 74,
+        "openalex_id": "https://openalex.org/W2025541486"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1966,
+        "first_author": "Cattell",
+        "title": "The Scree Test For The Number Of Factors",
+        "cited_by_count": 13559,
+        "openalex_id": "https://openalex.org/W2133097426"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1960,
+        "first_author": "Kaiser",
+        "title": "The Application of Electronic Computers to Factor Analysis",
+        "cited_by_count": 12251,
+        "openalex_id": "https://openalex.org/W2160172778"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1961,
+        "first_author": "Unknown",
+        "title": "Probabilistic Models for Some Intelligence and Attainment Tests",
+        "cited_by_count": 7010,
+        "openalex_id": "https://openalex.org/W2127374659"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 42860,
+        "openalex_id": "https://openalex.org/W4292808503"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 35552,
+        "openalex_id": "https://openalex.org/W2134049139"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change",
+        "cited_by_count": 10604,
+        "openalex_id": "https://openalex.org/W2179683524"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Muller",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 83904,
+        "openalex_id": "https://openalex.org/W4300870773"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Baron",
+        "title": "The moderator-mediator variable distinction in social psychological research: Co",
+        "cited_by_count": 72194,
+        "openalex_id": "https://openalex.org/W1971440513"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Baron",
+        "title": "The moderator–mediator variable distinction in social psychological research: Co",
+        "cited_by_count": 70918,
+        "openalex_id": "https://openalex.org/W4292811746"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior",
+        "cited_by_count": 85640,
+        "openalex_id": "https://openalex.org/W2099697766"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Cohen",
+        "title": "A power primer.",
+        "cited_by_count": 42406,
+        "openalex_id": "https://openalex.org/W2037557484"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Bandura",
+        "title": "Self-Efficacy: The Exercise of Control",
+        "cited_by_count": 40901,
+        "openalex_id": "https://openalex.org/W1562208008"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Braun",
+        "title": "Using thematic analysis in psychology",
+        "cited_by_count": 186680,
+        "openalex_id": "https://openalex.org/W1979290264"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Podsakoff",
+        "title": "Common method biases in behavioral research: A critical review of the literature",
+        "cited_by_count": 77739,
+        "openalex_id": "https://openalex.org/W2106096361"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Hsieh",
+        "title": "Three Approaches to Qualitative Content Analysis",
+        "cited_by_count": 44366,
+        "openalex_id": "https://openalex.org/W2142225512"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Tabri",
+        "title": "Principles and Practice of Structural Equation Modeling",
+        "cited_by_count": 26068,
+        "openalex_id": "https://openalex.org/W2118338381"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Cohen",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 24302,
+        "openalex_id": "https://openalex.org/W4299627282"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Unknown",
+        "title": "Self-Determination Theory: Basic Psychological Needs in Motivation, Development,",
+        "cited_by_count": 11965,
+        "openalex_id": "https://openalex.org/W2902999784"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Costello",
+        "title": "Best practices in exploratory factor analysis: four recommendations for getting ",
+        "cited_by_count": 10262,
+        "openalex_id": "https://openalex.org/W2896548965"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Loades",
+        "title": "Rapid Systematic Review: The Impact of Social Isolation and Loneliness on the Me",
+        "cited_by_count": 2965,
+        "openalex_id": "https://openalex.org/W3032994313"
+      },
+      {
+        "concept": "Psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1461,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1950s",
+        "year": 1956,
+        "first_author": "Freedman",
+        "title": "The Passage Through College",
+        "cited_by_count": 74,
+        "openalex_id": "https://openalex.org/W2025541486"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1960s",
+        "year": 1966,
+        "first_author": "Cattell",
+        "title": "The Scree Test For The Number Of Factors",
+        "cited_by_count": 13559,
+        "openalex_id": "https://openalex.org/W2133097426"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1960s",
+        "year": 1960,
+        "first_author": "Kaiser",
+        "title": "The Application of Electronic Computers to Factor Analysis",
+        "cited_by_count": 12251,
+        "openalex_id": "https://openalex.org/W2160172778"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1960s",
+        "year": 1961,
+        "first_author": "Unknown",
+        "title": "Probabilistic Models for Some Intelligence and Attainment Tests",
+        "cited_by_count": 7010,
+        "openalex_id": "https://openalex.org/W2127374659"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Landis",
+        "title": "The Measurement of Observer Agreement for Categorical Data",
+        "cited_by_count": 79667,
+        "openalex_id": "https://openalex.org/W2164777277"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Dempster",
+        "title": "Maximum Likelihood from Incomplete Data Via the <i>EM</i> Algorithm",
+        "cited_by_count": 49755,
+        "openalex_id": "https://openalex.org/W2049633694"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Herne",
+        "title": "Multivariate Data Analysis.",
+        "cited_by_count": 35865,
+        "openalex_id": "https://openalex.org/W3015634246"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Muller",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 83904,
+        "openalex_id": "https://openalex.org/W4300870773"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Fornell",
+        "title": "Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "cited_by_count": 68902,
+        "openalex_id": "https://openalex.org/W4235678817"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Fornell",
+        "title": "Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "cited_by_count": 60951,
+        "openalex_id": "https://openalex.org/W1987258130"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Patton",
+        "title": "Qualitative evaluation and research methods",
+        "cited_by_count": 21753,
+        "openalex_id": "https://openalex.org/W3214833809"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Ellis",
+        "title": "Qualitative evaluation and research methods",
+        "cited_by_count": 18152,
+        "openalex_id": "https://openalex.org/W2390008750"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Leonard‐Barton",
+        "title": "Core capabilities and core rigidities: A paradox in managing new product develop",
+        "cited_by_count": 6441,
+        "openalex_id": "https://openalex.org/W2025579080"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Team",
+        "title": "R: A Language and Environment for Statistical Computing",
+        "cited_by_count": 353209,
+        "openalex_id": "https://openalex.org/W2582743722"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Harris",
+        "title": "Research electronic data capture (REDCap)—A metadata-driven methodology and work",
+        "cited_by_count": 52257,
+        "openalex_id": "https://openalex.org/W2093274439"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Hsieh",
+        "title": "Three Approaches to Qualitative Content Analysis",
+        "cited_by_count": 44366,
+        "openalex_id": "https://openalex.org/W2142225512"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Tabri",
+        "title": "Principles and Practice of Structural Equation Modeling",
+        "cited_by_count": 26068,
+        "openalex_id": "https://openalex.org/W2118338381"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Rosseel",
+        "title": "<b>lavaan</b>: An<i>R</i>Package for Structural Equation Modeling",
+        "cited_by_count": 25758,
+        "openalex_id": "https://openalex.org/W1913957972"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2010s",
+        "year": 2019,
+        "first_author": "Harris",
+        "title": "The REDCap consortium: Building an international community of software platform ",
+        "cited_by_count": 24399,
+        "openalex_id": "https://openalex.org/W2944434778"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2020s",
+        "year": 2025,
+        "first_author": "Otnes",
+        "title": "Advances in Consumer Research",
+        "cited_by_count": 13461,
+        "openalex_id": "https://openalex.org/W2902225836"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Costello",
+        "title": "Best practices in exploratory factor analysis: four recommendations for getting ",
+        "cited_by_count": 10262,
+        "openalex_id": "https://openalex.org/W2896548965"
+      },
+      {
+        "concept": "Computer science",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Rönkkö",
+        "title": "An Updated Guideline for Assessing Discriminant Validity",
+        "cited_by_count": 1189,
+        "openalex_id": "https://openalex.org/W3108789059"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Mourad",
+        "title": "Construct Validity of the Self-Directed Learning Readiness Scale",
+        "cited_by_count": 22,
+        "openalex_id": "https://openalex.org/W151892100"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Strauss",
+        "title": "Qualitative Analysis for Social Scientists",
+        "cited_by_count": 11769,
+        "openalex_id": "https://openalex.org/W2085081981"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Schön",
+        "title": "Educating the Reflective Practitioner. Toward a New Design for Teaching and Lear",
+        "cited_by_count": 1631,
+        "openalex_id": "https://openalex.org/W177986179"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Rampaul",
+        "title": "Educational Psychology: Theory and Practice",
+        "cited_by_count": 1341,
+        "openalex_id": "https://openalex.org/W2795885688"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Pintrich",
+        "title": "Motivational and self-regulated learning components of classroom academic perfor",
+        "cited_by_count": 7805,
+        "openalex_id": "https://openalex.org/W2106760415"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Ames",
+        "title": "Classrooms: Goals, structures, and student motivation.",
+        "cited_by_count": 6192,
+        "openalex_id": "https://openalex.org/W2056855771"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Zimmerman",
+        "title": "Self-Regulated Learning and Academic Achievement: An Overview",
+        "cited_by_count": 3625,
+        "openalex_id": "https://openalex.org/W2064754950"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Field",
+        "title": "Discovering Statistics Using SPSS",
+        "cited_by_count": 27799,
+        "openalex_id": "https://openalex.org/W1573234480"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Krathwohl",
+        "title": "A Revision of Bloom's Taxonomy: An Overview",
+        "cited_by_count": 7605,
+        "openalex_id": "https://openalex.org/W2162821268"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 7057,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Field",
+        "title": "Discovering Statistics Using Ibm Spss Statistics",
+        "cited_by_count": 16562,
+        "openalex_id": "https://openalex.org/W2249595199"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Taber",
+        "title": "The Use of Cronbach’s Alpha When Developing and Reporting Research Instruments i",
+        "cited_by_count": 10286,
+        "openalex_id": "https://openalex.org/W2623703952"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Freeman",
+        "title": "Active learning increases student performance in science, engineering, and mathe",
+        "cited_by_count": 9386,
+        "openalex_id": "https://openalex.org/W2010593734"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1461,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2020s",
+        "year": 2025,
+        "first_author": "Slavin",
+        "title": "Educational Psychology: Theory and Practice",
+        "cited_by_count": 1348,
+        "openalex_id": "https://openalex.org/W2044653300"
+      },
+      {
+        "concept": "Mathematics education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Mertler",
+        "title": "Designing scoring rubrics for your classroom",
+        "cited_by_count": 435,
+        "openalex_id": "https://openalex.org/W1548183903"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1950s",
+        "year": 1959,
+        "first_author": "Holland",
+        "title": "A theory of vocational choice.",
+        "cited_by_count": 1412,
+        "openalex_id": "https://openalex.org/W2112528081"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1960s",
+        "year": 1962,
+        "first_author": "Budner",
+        "title": "Intolerance of ambiguity as a personality variable1",
+        "cited_by_count": 1996,
+        "openalex_id": "https://openalex.org/W2107605390"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1960s",
+        "year": 1963,
+        "first_author": "Fishbein",
+        "title": "An Investigation of the Relationships between Beliefs about an Object and the At",
+        "cited_by_count": 1639,
+        "openalex_id": "https://openalex.org/W2103591548"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1960s",
+        "year": 1967,
+        "first_author": "Super",
+        "title": "The Psychology of Vocational Choice: A Theory of Personality Types and Model and",
+        "cited_by_count": 213,
+        "openalex_id": "https://openalex.org/W1605855779"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 35552,
+        "openalex_id": "https://openalex.org/W2134049139"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change",
+        "cited_by_count": 10604,
+        "openalex_id": "https://openalex.org/W2179683524"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Ajzen",
+        "title": "Attitude-behavior relations: A theoretical analysis and review of empirical rese",
+        "cited_by_count": 7275,
+        "openalex_id": "https://openalex.org/W1981018178"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Baron",
+        "title": "The moderator-mediator variable distinction in social psychological research: Co",
+        "cited_by_count": 72194,
+        "openalex_id": "https://openalex.org/W1971440513"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Baron",
+        "title": "The moderator–mediator variable distinction in social psychological research: Co",
+        "cited_by_count": 70918,
+        "openalex_id": "https://openalex.org/W4292811746"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Watson",
+        "title": "Development and validation of brief measures of positive and negative affect: Th",
+        "cited_by_count": 32302,
+        "openalex_id": "https://openalex.org/W4292994367"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior",
+        "cited_by_count": 85640,
+        "openalex_id": "https://openalex.org/W2099697766"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Bandura",
+        "title": "Self-Efficacy: The Exercise of Control",
+        "cited_by_count": 40901,
+        "openalex_id": "https://openalex.org/W1562208008"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Fabrigar",
+        "title": "Evaluating the use of exploratory factor analysis in psychological research.",
+        "cited_by_count": 8944,
+        "openalex_id": "https://openalex.org/W1977775666"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Ryan",
+        "title": "Self-determination theory and the facilitation of intrinsic motivation, social d",
+        "cited_by_count": 34912,
+        "openalex_id": "https://openalex.org/W4242883546"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Preacher",
+        "title": "Asymptotic and resampling strategies for assessing and comparing indirect effect",
+        "cited_by_count": 33012,
+        "openalex_id": "https://openalex.org/W2038702827"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Deci",
+        "title": "The \"What\" and \"Why\" of Goal Pursuits: Human Needs and the Self-Determination of",
+        "cited_by_count": 32549,
+        "openalex_id": "https://openalex.org/W2122517769"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Unknown",
+        "title": "Self-Determination Theory: Basic Psychological Needs in Motivation, Development,",
+        "cited_by_count": 11965,
+        "openalex_id": "https://openalex.org/W2902999784"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Golafshani",
+        "title": "Understanding Reliability and Validity in Qualitative Research",
+        "cited_by_count": 5197,
+        "openalex_id": "https://openalex.org/W2113537253"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Elliot",
+        "title": "Handbook of Competence and Motivation",
+        "cited_by_count": 4688,
+        "openalex_id": "https://openalex.org/W1529024143"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Howard",
+        "title": "Student Motivation and Associated Outcomes: A Meta-Analysis From Self-Determinat",
+        "cited_by_count": 875,
+        "openalex_id": "https://openalex.org/W3129603262"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Neff",
+        "title": "Self-Compassion: Theory, Method, Research, and Intervention",
+        "cited_by_count": 842,
+        "openalex_id": "https://openalex.org/W4290932423"
+      },
+      {
+        "concept": "Social psychology",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Maheshwari",
+        "title": "Investigating the relationship between educational support and entrepreneurial i",
+        "cited_by_count": 171,
+        "openalex_id": "https://openalex.org/W3200772852"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Holland",
+        "title": "Making Vocational Choices: A Theory of Vocational Personalities and Work Environ",
+        "cited_by_count": 5065,
+        "openalex_id": "https://openalex.org/W1617412188"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Schön",
+        "title": "Educating the Reflective Practitioner. Toward a New Design for Teaching and Lear",
+        "cited_by_count": 1631,
+        "openalex_id": "https://openalex.org/W177986179"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Rampaul",
+        "title": "Educational Psychology: Theory and Practice",
+        "cited_by_count": 1341,
+        "openalex_id": "https://openalex.org/W2795885688"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Boud",
+        "title": "Quantitative studies of student self-assessment in higher education: a critical ",
+        "cited_by_count": 608,
+        "openalex_id": "https://openalex.org/W2008112310"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lave",
+        "title": "Situated Learning",
+        "cited_by_count": 32306,
+        "openalex_id": "https://openalex.org/W4245961435"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Pintrich",
+        "title": "Motivational and self-regulated learning components of classroom academic perfor",
+        "cited_by_count": 7805,
+        "openalex_id": "https://openalex.org/W2106760415"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Ames",
+        "title": "Classrooms: Goals, structures, and student motivation.",
+        "cited_by_count": 6192,
+        "openalex_id": "https://openalex.org/W2056855771"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 7057,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Zimmerman",
+        "title": "Becoming a Self-Regulated Learner: An Overview",
+        "cited_by_count": 6683,
+        "openalex_id": "https://openalex.org/W2117766479"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Hmelo‐Silver",
+        "title": "Problem-Based Learning: What and How Do Students Learn?",
+        "cited_by_count": 5061,
+        "openalex_id": "https://openalex.org/W2101338329"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Michelene",
+        "title": "The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes",
+        "cited_by_count": 2668,
+        "openalex_id": "https://openalex.org/W2108617939"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Pellegrino",
+        "title": "Knowing What Students Know: The Science and Design of Educational Assessment",
+        "cited_by_count": 2424,
+        "openalex_id": "https://openalex.org/W325314667"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Kahu",
+        "title": "Framing student engagement in higher education",
+        "cited_by_count": 1965,
+        "openalex_id": "https://openalex.org/W2047706901"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1461,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2020s",
+        "year": 2025,
+        "first_author": "Slavin",
+        "title": "Educational Psychology: Theory and Practice",
+        "cited_by_count": 1348,
+        "openalex_id": "https://openalex.org/W2044653300"
+      },
+      {
+        "concept": "Pedagogy",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Feraco",
+        "title": "An integrated model of school students’ academic achievement and life satisfacti",
+        "cited_by_count": 194,
+        "openalex_id": "https://openalex.org/W4210522989"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Schön",
+        "title": "Educating the Reflective Practitioner. Toward a New Design for Teaching and Lear",
+        "cited_by_count": 1631,
+        "openalex_id": "https://openalex.org/W177986179"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Buck",
+        "title": "They're Trained, But Are They Employable?.",
+        "cited_by_count": 55,
+        "openalex_id": "https://openalex.org/W12182182"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Stark",
+        "title": "Strengthening the Ties That Bind: Integrating Undergraduate Liberal and Professi",
+        "cited_by_count": 29,
+        "openalex_id": "https://openalex.org/W24009719"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Miller",
+        "title": "The assessment of clinical skills/competence/performance",
+        "cited_by_count": 4816,
+        "openalex_id": "https://openalex.org/W1991635648"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Topping",
+        "title": "Peer Assessment Between Students in Colleges and Universities",
+        "cited_by_count": 2022,
+        "openalex_id": "https://openalex.org/W2151242492"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Bazerman",
+        "title": "Academic tribes and territories: Intellectual enquiry and the culture of the dis",
+        "cited_by_count": 1353,
+        "openalex_id": "https://openalex.org/W220607211"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Lizzio",
+        "title": "University Students' Perceptions of the Learning Environment and Academic Outcom",
+        "cited_by_count": 1420,
+        "openalex_id": "https://openalex.org/W2121224052"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Kuh",
+        "title": "Assessing What Really Matters to Student Learning<i>Inside The National Survey o",
+        "cited_by_count": 1188,
+        "openalex_id": "https://openalex.org/W2074724594"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Shuman",
+        "title": "The ABET “Professional Skills” - Can They Be Taught? Can They Be Assessed?",
+        "cited_by_count": 1166,
+        "openalex_id": "https://openalex.org/W2164788747"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Williams",
+        "title": "Exploratory Factor Analysis: A Five-Step Guide for Novices",
+        "cited_by_count": 2730,
+        "openalex_id": "https://openalex.org/W2118934859"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Tsang",
+        "title": "Guidelines for developing, translating, and validating a questionnaire in periop",
+        "cited_by_count": 1700,
+        "openalex_id": "https://openalex.org/W2618872266"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Robles",
+        "title": "Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace",
+        "cited_by_count": 1576,
+        "openalex_id": "https://openalex.org/W2143291310"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1461,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Andrade",
+        "title": "Student perspectives on rubric-referenced assessment",
+        "cited_by_count": 332,
+        "openalex_id": "https://openalex.org/W2321692370"
+      },
+      {
+        "concept": "Medical education",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Meng",
+        "title": "The Influence of Academic Self-Efficacy on University Students’ Academic Perform",
+        "cited_by_count": 177,
+        "openalex_id": "https://openalex.org/W4361007030"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Unknown",
+        "title": "ENGINEERING EDUCATION",
+        "cited_by_count": 327,
+        "openalex_id": "https://openalex.org/W4213301475"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Unknown",
+        "title": "Engineering Education for 2001?",
+        "cited_by_count": 261,
+        "openalex_id": "https://openalex.org/W4235830671"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Felder",
+        "title": "ON CREATING CREATIVE ENGINEERS",
+        "cited_by_count": 100,
+        "openalex_id": "https://openalex.org/W1584201682"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Strauss",
+        "title": "Science and Engineering Indicators—1989",
+        "cited_by_count": 981,
+        "openalex_id": "https://openalex.org/W2083610746"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Brainard",
+        "title": "A Six‐Year Longitudinal Study of Undergraduate Women in Engineering and Science*",
+        "cited_by_count": 460,
+        "openalex_id": "https://openalex.org/W1967041140"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Humphrey",
+        "title": "Introduction to the Team Software Process",
+        "cited_by_count": 443,
+        "openalex_id": "https://openalex.org/W1559302762"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 7057,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Washington",
+        "title": "Science and Engineering Indicators",
+        "cited_by_count": 2845,
+        "openalex_id": "https://openalex.org/W3134853862"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Nardo",
+        "title": "Handbook on Constructing Composite Indicators",
+        "cited_by_count": 2627,
+        "openalex_id": "https://openalex.org/W1484750607"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Crawley",
+        "title": "Rethinking Engineering Education: The CDIO Approach",
+        "cited_by_count": 900,
+        "openalex_id": "https://openalex.org/W154435716"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Lozano",
+        "title": "Connecting Competences and Pedagogical Approaches for Sustainable Development in",
+        "cited_by_count": 844,
+        "openalex_id": "https://openalex.org/W2766634624"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Kelley",
+        "title": "Creative Confidence: Unleashing the Creative Potential Within Us All",
+        "cited_by_count": 650,
+        "openalex_id": "https://openalex.org/W1579089997"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Ivanov",
+        "title": "The Industry 5.0 framework: viability-based integration of the resilience, susta",
+        "cited_by_count": 754,
+        "openalex_id": "https://openalex.org/W4295249297"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Beemt",
+        "title": "Interdisciplinary engineering education: A review of vision, teaching, and suppo",
+        "cited_by_count": 370,
+        "openalex_id": "https://openalex.org/W3021051128"
+      },
+      {
+        "concept": "Engineering",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Gutierrez-Bucheli",
+        "title": "Sustainability in engineering education: A review of learning outcomes",
+        "cited_by_count": 137,
+        "openalex_id": "https://openalex.org/W3216348128"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Strauss",
+        "title": "Qualitative Analysis for Social Scientists",
+        "cited_by_count": 11769,
+        "openalex_id": "https://openalex.org/W2085081981"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Unknown",
+        "title": "ENGINEERING EDUCATION",
+        "cited_by_count": 327,
+        "openalex_id": "https://openalex.org/W4213301475"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Felder",
+        "title": "ON CREATING CREATIVE ENGINEERS",
+        "cited_by_count": 100,
+        "openalex_id": "https://openalex.org/W1584201682"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Unknown",
+        "title": "Research design in counseling",
+        "cited_by_count": 1067,
+        "openalex_id": "https://openalex.org/W1678075479"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Strauss",
+        "title": "Science and Engineering Indicators—1989",
+        "cited_by_count": 981,
+        "openalex_id": "https://openalex.org/W2083610746"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Lent",
+        "title": "Social Cognitive Approach to Career Development: An Overview",
+        "cited_by_count": 533,
+        "openalex_id": "https://openalex.org/W1974245483"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 7057,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Johnson",
+        "title": "Educational Research: Quantitative, Qualitative, and Mixed Approaches",
+        "cited_by_count": 6441,
+        "openalex_id": "https://openalex.org/W1486953525"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Johnson",
+        "title": "Toward a Definition of Mixed Methods Research",
+        "cited_by_count": 6307,
+        "openalex_id": "https://openalex.org/W2165935007"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Bagozzi",
+        "title": "Specification, evaluation, and interpretation of structural equation models",
+        "cited_by_count": 3673,
+        "openalex_id": "https://openalex.org/W2053515873"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Wiek",
+        "title": "Key competencies in sustainability: a reference framework for academic program d",
+        "cited_by_count": 2820,
+        "openalex_id": "https://openalex.org/W2165820560"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Pellegrino",
+        "title": "Knowing What Students Know: The Science and Design of Educational Assessment",
+        "cited_by_count": 2424,
+        "openalex_id": "https://openalex.org/W325314667"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Beemt",
+        "title": "Interdisciplinary engineering education: A review of vision, teaching, and suppo",
+        "cited_by_count": 370,
+        "openalex_id": "https://openalex.org/W3021051128"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Paul",
+        "title": "Digital entrepreneurship research: A systematic review",
+        "cited_by_count": 216,
+        "openalex_id": "https://openalex.org/W4311422602"
+      },
+      {
+        "concept": "Engineering ethics",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Rodríguez",
+        "title": "Teaching Soft Skills in Engineering Education: An European Perspective",
+        "cited_by_count": 196,
+        "openalex_id": "https://openalex.org/W3129818834"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Unknown",
+        "title": "ENGINEERING EDUCATION",
+        "cited_by_count": 327,
+        "openalex_id": "https://openalex.org/W4213301475"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Unknown",
+        "title": "Engineering Education for 2001?",
+        "cited_by_count": 261,
+        "openalex_id": "https://openalex.org/W4235830671"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Boud",
+        "title": "Self and Peer Marking in an Undergraduate Engineering Course",
+        "cited_by_count": 32,
+        "openalex_id": "https://openalex.org/W1973961093"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Brainard",
+        "title": "A Six‐Year Longitudinal Study of Undergraduate Women in Engineering and Science*",
+        "cited_by_count": 460,
+        "openalex_id": "https://openalex.org/W1967041140"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Besterfield‐Sacre",
+        "title": "Characteristics of Freshman Engineering Students: Models for Determining Student",
+        "cited_by_count": 439,
+        "openalex_id": "https://openalex.org/W2030318182"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "1990s",
+        "year": 1993,
+        "first_author": "Bordogna",
+        "title": "Engineering Education: Innovation Through Integration",
+        "cited_by_count": 263,
+        "openalex_id": "https://openalex.org/W1977631153"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Smith",
+        "title": "Pedagogies of Engagement: Classroom-Based Practices",
+        "cited_by_count": 1545,
+        "openalex_id": "https://openalex.org/W2091227467"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Unknown",
+        "title": "Educating the engineer of 2020: Adapting engineering education to the new centur",
+        "cited_by_count": 1254,
+        "openalex_id": "https://openalex.org/W198316168"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Shuman",
+        "title": "The ABET “Professional Skills” - Can They Be Taught? Can They Be Assessed?",
+        "cited_by_count": 1166,
+        "openalex_id": "https://openalex.org/W2164788747"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Crawley",
+        "title": "Rethinking Engineering Education: The CDIO Approach",
+        "cited_by_count": 900,
+        "openalex_id": "https://openalex.org/W154435716"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Cech",
+        "title": "Culture of Disengagement in Engineering Education?",
+        "cited_by_count": 801,
+        "openalex_id": "https://openalex.org/W2066216368"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Crismond",
+        "title": "The Informed Design Teaching and Learning Matrix",
+        "cited_by_count": 647,
+        "openalex_id": "https://openalex.org/W2080583317"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Beemt",
+        "title": "Interdisciplinary engineering education: A review of vision, teaching, and suppo",
+        "cited_by_count": 370,
+        "openalex_id": "https://openalex.org/W3021051128"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Rodríguez",
+        "title": "Teaching Soft Skills in Engineering Education: An European Perspective",
+        "cited_by_count": 196,
+        "openalex_id": "https://openalex.org/W3129818834"
+      },
+      {
+        "concept": "Engineering education",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Gutierrez-Bucheli",
+        "title": "Sustainability in engineering education: A review of learning outcomes",
+        "cited_by_count": 137,
+        "openalex_id": "https://openalex.org/W3216348128"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Holland",
+        "title": "Making Vocational Choices: A Theory of Vocational Personalities and Work Environ",
+        "cited_by_count": 5065,
+        "openalex_id": "https://openalex.org/W1617412188"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Holland",
+        "title": "Making vocational choices : a theory of careers",
+        "cited_by_count": 2173,
+        "openalex_id": "https://openalex.org/W1589430467"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Eisenhardt",
+        "title": "Building Theories from Case Study Research",
+        "cited_by_count": 23190,
+        "openalex_id": "https://openalex.org/W2141951329"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Strauss",
+        "title": "Qualitative Analysis for Social Scientists",
+        "cited_by_count": 11769,
+        "openalex_id": "https://openalex.org/W2085081981"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Spenner",
+        "title": "Career Choice and Development.",
+        "cited_by_count": 3191,
+        "openalex_id": "https://openalex.org/W2042053466"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lave",
+        "title": "Situated Learning",
+        "cited_by_count": 32306,
+        "openalex_id": "https://openalex.org/W4245961435"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Ellis",
+        "title": "Qualitative evaluation and research methods",
+        "cited_by_count": 18152,
+        "openalex_id": "https://openalex.org/W2390008750"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Schunk",
+        "title": "Learning Theories: An Educational Perspective",
+        "cited_by_count": 3751,
+        "openalex_id": "https://openalex.org/W1568871075"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Braun",
+        "title": "Using thematic analysis in psychology",
+        "cited_by_count": 186680,
+        "openalex_id": "https://openalex.org/W1979290264"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Bandura",
+        "title": "Social Cognitive Theory: An Agentic Perspective",
+        "cited_by_count": 14910,
+        "openalex_id": "https://openalex.org/W3044291841"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Bandura",
+        "title": "Social Foundations of Thought and Action",
+        "cited_by_count": 9975,
+        "openalex_id": "https://openalex.org/W1596801600"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Taylor",
+        "title": "Social Research Methods",
+        "cited_by_count": 14211,
+        "openalex_id": "https://openalex.org/W1557459633"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Schwartz",
+        "title": "An Overview of the Schwartz Theory of Basic Values",
+        "cited_by_count": 4012,
+        "openalex_id": "https://openalex.org/W1986829999"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Biklen",
+        "title": "Qualitative Research for Education: An Introduction to Theories and Methods",
+        "cited_by_count": 3361,
+        "openalex_id": "https://openalex.org/W3198277862"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Paul",
+        "title": "Digital entrepreneurship research: A systematic review",
+        "cited_by_count": 216,
+        "openalex_id": "https://openalex.org/W4311422602"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Fissi",
+        "title": "The path toward a sustainable green university: The case of the University of Fl",
+        "cited_by_count": 182,
+        "openalex_id": "https://openalex.org/W3049658900"
+      },
+      {
+        "concept": "Sociology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Aleixo",
+        "title": "Are the sustainable development goals being implemented in the Portuguese higher",
+        "cited_by_count": 157,
+        "openalex_id": "https://openalex.org/W3008693692"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Boud",
+        "title": "Quantitative studies of student self-assessment in higher education: a critical ",
+        "cited_by_count": 608,
+        "openalex_id": "https://openalex.org/W2008112310"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Unknown",
+        "title": "ENGINEERING EDUCATION",
+        "cited_by_count": 327,
+        "openalex_id": "https://openalex.org/W4213301475"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Stark",
+        "title": "Faculty Perceptions of Professional Preparation Environments: Testing a Conceptu",
+        "cited_by_count": 14,
+        "openalex_id": "https://openalex.org/W2325219576"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Topping",
+        "title": "Peer Assessment Between Students in Colleges and Universities",
+        "cited_by_count": 2022,
+        "openalex_id": "https://openalex.org/W2151242492"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ramsden",
+        "title": "A performance indicator of teaching quality in higher education: The Course Expe",
+        "cited_by_count": 1294,
+        "openalex_id": "https://openalex.org/W2051162681"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Scouller",
+        "title": "The influence of assessment method on students' learning approaches: Multiple ch",
+        "cited_by_count": 723,
+        "openalex_id": "https://openalex.org/W2122120648"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Lizzio",
+        "title": "University Students' Perceptions of the Learning Environment and Academic Outcom",
+        "cited_by_count": 1420,
+        "openalex_id": "https://openalex.org/W2121224052"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Sax",
+        "title": "Assessing Response Rates and Nonresponse Bias in Web and Paper Surveys",
+        "cited_by_count": 1288,
+        "openalex_id": "https://openalex.org/W2130835641"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Falchikov",
+        "title": "Student Peer Assessment in Higher Education: A Meta-Analysis Comparing Peer and ",
+        "cited_by_count": 1158,
+        "openalex_id": "https://openalex.org/W2141413057"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Kahu",
+        "title": "Framing student engagement in higher education",
+        "cited_by_count": 1965,
+        "openalex_id": "https://openalex.org/W2047706901"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Lozano",
+        "title": "Connecting Competences and Pedagogical Approaches for Sustainable Development in",
+        "cited_by_count": 844,
+        "openalex_id": "https://openalex.org/W2766634624"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Palvia",
+        "title": "Online Education: Worldwide Status, Challenges, Trends, and Implications",
+        "cited_by_count": 824,
+        "openalex_id": "https://openalex.org/W2902246157"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1461,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Žalėnienė",
+        "title": "Higher Education For Sustainability: A Global Perspective",
+        "cited_by_count": 625,
+        "openalex_id": "https://openalex.org/W3163995701"
+      },
+      {
+        "concept": "Higher education",
+        "decade": "2020s",
+        "year": 2026,
+        "first_author": "Unknown",
+        "title": "European Journal of Contemporary Education",
+        "cited_by_count": 243,
+        "openalex_id": "https://openalex.org/W4247443777"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1950s",
+        "year": 1951,
+        "first_author": "Cronbach",
+        "title": "Coefficient Alpha and the Internal Structure of Tests",
+        "cited_by_count": 43432,
+        "openalex_id": "https://openalex.org/W2159306398"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1960s",
+        "year": 1966,
+        "first_author": "Cattell",
+        "title": "The Scree Test For The Number Of Factors",
+        "cited_by_count": 13559,
+        "openalex_id": "https://openalex.org/W2133097426"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Shapiro",
+        "title": "An Analysis of Variance Test for Normality (Complete Samples)",
+        "cited_by_count": 5937,
+        "openalex_id": "https://openalex.org/W4229977739"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1960s",
+        "year": 1966,
+        "first_author": "Baker",
+        "title": "Weak Measurements vs. Strong Statistics: An Empirical Critique of S. S. Stevens'",
+        "cited_by_count": 217,
+        "openalex_id": "https://openalex.org/W2074345600"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Landis",
+        "title": "The Measurement of Observer Agreement for Categorical Data",
+        "cited_by_count": 79667,
+        "openalex_id": "https://openalex.org/W2164777277"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Herne",
+        "title": "Multivariate Data Analysis.",
+        "cited_by_count": 35865,
+        "openalex_id": "https://openalex.org/W3015634246"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1970s",
+        "year": 1974,
+        "first_author": "Kaiser",
+        "title": "An Index of Factorial Simplicity",
+        "cited_by_count": 14396,
+        "openalex_id": "https://openalex.org/W1993760488"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Muller",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 83904,
+        "openalex_id": "https://openalex.org/W4300870773"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "Tabachnick",
+        "title": "Using multivariate statistics",
+        "cited_by_count": 77501,
+        "openalex_id": "https://openalex.org/W1484864026"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Fornell",
+        "title": "Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "cited_by_count": 68902,
+        "openalex_id": "https://openalex.org/W4235678817"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Hu",
+        "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+        "cited_by_count": 106343,
+        "openalex_id": "https://openalex.org/W2071666535"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Cohen",
+        "title": "A power primer.",
+        "cited_by_count": 42406,
+        "openalex_id": "https://openalex.org/W2037557484"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Browne",
+        "title": "Alternative Ways of Assessing Model Fit",
+        "cited_by_count": 25253,
+        "openalex_id": "https://openalex.org/W1992193527"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Byrne",
+        "title": "Structural equation modeling with AMOS: basic concepts, applications, and progra",
+        "cited_by_count": 18100,
+        "openalex_id": "https://openalex.org/W2036149274"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Preacher",
+        "title": "SPSS and SAS procedures for estimating indirect effects in simple mediation mode",
+        "cited_by_count": 17268,
+        "openalex_id": "https://openalex.org/W1995031937"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Cheung",
+        "title": "Evaluating Goodness-of-Fit Indexes for Testing Measurement Invariance",
+        "cited_by_count": 15803,
+        "openalex_id": "https://openalex.org/W2089871805"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Field",
+        "title": "Discovering Statistics Using Ibm Spss Statistics",
+        "cited_by_count": 16562,
+        "openalex_id": "https://openalex.org/W2249595199"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Buuren",
+        "title": "<b>mice</b>: Multivariate Imputation by Chained Equations in<i>R</i>",
+        "cited_by_count": 13773,
+        "openalex_id": "https://openalex.org/W2115098571"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Hair",
+        "title": "Multivariate data analysis : a global perspective",
+        "cited_by_count": 11770,
+        "openalex_id": "https://openalex.org/W62824994"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Rönkkö",
+        "title": "An Updated Guideline for Assessing Discriminant Validity",
+        "cited_by_count": 1189,
+        "openalex_id": "https://openalex.org/W3108789059"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Nathans",
+        "title": "Interpreting Multiple Linear Regression: A Guidebook of Variable Importance",
+        "cited_by_count": 488,
+        "openalex_id": "https://openalex.org/W189486789"
+      },
+      {
+        "concept": "Statistics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Hirschfeld",
+        "title": "Improving Multiple-Group confirmatory factor analysis in R – A tutorial in measu",
+        "cited_by_count": 280,
+        "openalex_id": "https://openalex.org/W2461124703"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Salancik",
+        "title": "A Social Information Processing Approach to Job Attitudes and Task Design",
+        "cited_by_count": 5495,
+        "openalex_id": "https://openalex.org/W2044295466"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bird",
+        "title": "Implementing Entrepreneurial Ideas: The Case for Intention",
+        "cited_by_count": 1049,
+        "openalex_id": "https://openalex.org/W3123717666"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Smith",
+        "title": "Training Programs for Performance Appraisal: A Review",
+        "cited_by_count": 112,
+        "openalex_id": "https://openalex.org/W2152988415"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Leonard‐Barton",
+        "title": "Core capabilities and core rigidities: A paradox in managing new product develop",
+        "cited_by_count": 6441,
+        "openalex_id": "https://openalex.org/W2025579080"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Scott",
+        "title": "DETERMINANTS OF INNOVATIVE BEHAVIOR: A PATH MODEL OF INDIVIDUAL INNOVATION IN TH",
+        "cited_by_count": 5299,
+        "openalex_id": "https://openalex.org/W2050123202"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Henderson",
+        "title": "Measuring Competence? Exploring Firm Effects in Pharmaceutical Research",
+        "cited_by_count": 2642,
+        "openalex_id": "https://openalex.org/W2113787654"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 7057,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Liñán",
+        "title": "Development and Cross–Cultural Application of a Specific Instrument to Measure E",
+        "cited_by_count": 3871,
+        "openalex_id": "https://openalex.org/W1989131699"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Osborne",
+        "title": "Best Practices in Exploratory Factor Analysis: Four Recommendations for Getting ",
+        "cited_by_count": 2307,
+        "openalex_id": "https://openalex.org/W1855539512"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2010s",
+        "year": 2019,
+        "first_author": "Harris",
+        "title": "The REDCap consortium: Building an international community of software platform ",
+        "cited_by_count": 24399,
+        "openalex_id": "https://openalex.org/W2944434778"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2010s",
+        "year": 2016,
+        "first_author": "Nambisan",
+        "title": "Digital Entrepreneurship: Toward a Digital Technology Perspective of Entrepreneu",
+        "cited_by_count": 2611,
+        "openalex_id": "https://openalex.org/W2530432988"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Jong",
+        "title": "Measuring Innovative Work Behaviour",
+        "cited_by_count": 1576,
+        "openalex_id": "https://openalex.org/W1981053063"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Ivanov",
+        "title": "The Industry 5.0 framework: viability-based integration of the resilience, susta",
+        "cited_by_count": 754,
+        "openalex_id": "https://openalex.org/W4295249297"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Paul",
+        "title": "Digital entrepreneurship research: A systematic review",
+        "cited_by_count": 216,
+        "openalex_id": "https://openalex.org/W4311422602"
+      },
+      {
+        "concept": "Knowledge management",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Rodríguez",
+        "title": "Teaching Soft Skills in Engineering Education: An European Perspective",
+        "cited_by_count": 196,
+        "openalex_id": "https://openalex.org/W3129818834"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Unknown",
+        "title": "ENGINEERING EDUCATION",
+        "cited_by_count": 327,
+        "openalex_id": "https://openalex.org/W4213301475"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Barrows",
+        "title": "Problem‐based learning in medicine and beyond: A brief overview",
+        "cited_by_count": 1981,
+        "openalex_id": "https://openalex.org/W1977644847"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Winslow",
+        "title": "Programming pedagogy—a psychological overview",
+        "cited_by_count": 555,
+        "openalex_id": "https://openalex.org/W2038598927"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "1990s",
+        "year": 1993,
+        "first_author": "Bordogna",
+        "title": "Engineering Education: Innovation Through Integration",
+        "cited_by_count": 263,
+        "openalex_id": "https://openalex.org/W1977631153"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Topping",
+        "title": "Trends in Peer Learning",
+        "cited_by_count": 1456,
+        "openalex_id": "https://openalex.org/W2114563525"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Jonassen",
+        "title": "Everyday Problem Solving in Engineering: Lessons for Engineering Educators",
+        "cited_by_count": 900,
+        "openalex_id": "https://openalex.org/W1986091349"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Unknown",
+        "title": "Educating engineers: designing for the future of the field",
+        "cited_by_count": 703,
+        "openalex_id": "https://openalex.org/W578996322"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Lozano",
+        "title": "Connecting Competences and Pedagogical Approaches for Sustainable Development in",
+        "cited_by_count": 844,
+        "openalex_id": "https://openalex.org/W2766634624"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Rainey",
+        "title": "Race and gender differences in how sense of belonging influences decisions to ma",
+        "cited_by_count": 651,
+        "openalex_id": "https://openalex.org/W2806119487"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Filho",
+        "title": "The role of transformation in learning and education for sustainability",
+        "cited_by_count": 644,
+        "openalex_id": "https://openalex.org/W2884330262"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Žalėnienė",
+        "title": "Higher Education For Sustainability: A Global Perspective",
+        "cited_by_count": 625,
+        "openalex_id": "https://openalex.org/W3163995701"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Beemt",
+        "title": "Interdisciplinary engineering education: A review of vision, teaching, and suppo",
+        "cited_by_count": 370,
+        "openalex_id": "https://openalex.org/W3021051128"
+      },
+      {
+        "concept": "Curriculum",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Zhang",
+        "title": "A study of the impact of project-based learning on student learning effects: a m",
+        "cited_by_count": 360,
+        "openalex_id": "https://openalex.org/W4384498111"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1980s",
+        "year": 1982,
+        "first_author": "Kent",
+        "title": "Encyclopedia of entrepreneurship",
+        "cited_by_count": 1783,
+        "openalex_id": "https://openalex.org/W593861970"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Unknown",
+        "title": "ENGINEERING EDUCATION",
+        "cited_by_count": 327,
+        "openalex_id": "https://openalex.org/W4213301475"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Steeh",
+        "title": "Trends in Nonresponse Rates, 1952-1979",
+        "cited_by_count": 261,
+        "openalex_id": "https://openalex.org/W2074360941"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Mueller",
+        "title": "Testing Structural Equation Models.",
+        "cited_by_count": 14211,
+        "openalex_id": "https://openalex.org/W4299927410"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Strauss",
+        "title": "Science and Engineering Indicators—1989",
+        "cited_by_count": 981,
+        "openalex_id": "https://openalex.org/W2083610746"
+      },
+      {
+        "concept": "Political science",
+        "decade": "1990s",
+        "year": 1997,
+        "first_author": "Pudlowski",
+        "title": "Global Journal of Engineering Education",
+        "cited_by_count": 432,
+        "openalex_id": "https://openalex.org/W2911296875"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Mayring",
+        "title": "Qualitative Content Analysis",
+        "cited_by_count": 4828,
+        "openalex_id": "https://openalex.org/W2100877102"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Schumpeter",
+        "title": "The Theory of Economic Development",
+        "cited_by_count": 2976,
+        "openalex_id": "https://openalex.org/W1537543935"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Nardo",
+        "title": "Handbook on Constructing Composite Indicators",
+        "cited_by_count": 2627,
+        "openalex_id": "https://openalex.org/W1484750607"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Wiek",
+        "title": "Key competencies in sustainability: a reference framework for academic program d",
+        "cited_by_count": 2820,
+        "openalex_id": "https://openalex.org/W2165820560"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Altbach",
+        "title": "Trends in Global Higher Education: Tracking an Academic Revolution",
+        "cited_by_count": 1900,
+        "openalex_id": "https://openalex.org/W1505325061"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Cech",
+        "title": "Culture of Disengagement in Engineering Education?",
+        "cited_by_count": 801,
+        "openalex_id": "https://openalex.org/W2066216368"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Žalėnienė",
+        "title": "Higher Education For Sustainability: A Global Perspective",
+        "cited_by_count": 625,
+        "openalex_id": "https://openalex.org/W3163995701"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "García‐Peñalvo",
+        "title": "La evaluación online en la educación superior en tiempos de la COVID-19",
+        "cited_by_count": 329,
+        "openalex_id": "https://openalex.org/W3024437446"
+      },
+      {
+        "concept": "Political science",
+        "decade": "2020s",
+        "year": 2024,
+        "first_author": "Jaakko",
+        "title": "Higher Education Management and Policy",
+        "cited_by_count": 212,
+        "openalex_id": "https://openalex.org/W2984808174"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1950s",
+        "year": 1959,
+        "first_author": "Holland",
+        "title": "A theory of vocational choice.",
+        "cited_by_count": 1412,
+        "openalex_id": "https://openalex.org/W2112528081"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1960s",
+        "year": 1967,
+        "first_author": "Super",
+        "title": "The Psychology of Vocational Choice: A Theory of Personality Types and Model and",
+        "cited_by_count": 213,
+        "openalex_id": "https://openalex.org/W1605855779"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Ford",
+        "title": "THE APPLICATION OF EXPLORATORY FACTOR ANALYSIS IN APPLIED PSYCHOLOGY: A CRITICAL",
+        "cited_by_count": 1719,
+        "openalex_id": "https://openalex.org/W2041404177"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1980s",
+        "year": 1984,
+        "first_author": "Rampaul",
+        "title": "Educational Psychology: Theory and Practice",
+        "cited_by_count": 1341,
+        "openalex_id": "https://openalex.org/W2795885688"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Betz",
+        "title": "The relationship of career-related self-efficacy expectations to perceived caree",
+        "cited_by_count": 1265,
+        "openalex_id": "https://openalex.org/W2162221567"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Fabrigar",
+        "title": "Evaluating the use of exploratory factor analysis in psychological research.",
+        "cited_by_count": 8944,
+        "openalex_id": "https://openalex.org/W1977775666"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Lent",
+        "title": "Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choic",
+        "cited_by_count": 7421,
+        "openalex_id": "https://openalex.org/W2035286692"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Hinkin",
+        "title": "A Brief Tutorial on the Development of Measures for Use in Survey Questionnaires",
+        "cited_by_count": 3960,
+        "openalex_id": "https://openalex.org/W2096812562"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Gosling",
+        "title": "A very brief measure of the Big-Five personality domains",
+        "cited_by_count": 8344,
+        "openalex_id": "https://openalex.org/W2162090451"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Unknown",
+        "title": "Mindset: the new psychology of success",
+        "cited_by_count": 7889,
+        "openalex_id": "https://openalex.org/W1522024619"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Polit",
+        "title": "The content validity index: Are you sure you know what's being reported? critiqu",
+        "cited_by_count": 6581,
+        "openalex_id": "https://openalex.org/W2016660511"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Mokkink",
+        "title": "The COSMIN checklist for assessing the methodological quality of studies on meas",
+        "cited_by_count": 4248,
+        "openalex_id": "https://openalex.org/W2157427387"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Richardson",
+        "title": "Psychological correlates of university students' academic performance: A systema",
+        "cited_by_count": 3568,
+        "openalex_id": "https://openalex.org/W1968295086"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Revelle",
+        "title": "psych: Procedures for Personality and Psychological Research",
+        "cited_by_count": 3443,
+        "openalex_id": "https://openalex.org/W2753145733"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Magano",
+        "title": "Generation Z: Fitting Project Management Soft Skills Competencies—A Mixed-Method",
+        "cited_by_count": 150,
+        "openalex_id": "https://openalex.org/W3044117009"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Lazăr",
+        "title": "Digital technology adoption scale in the blended learning context in higher educ",
+        "cited_by_count": 120,
+        "openalex_id": "https://openalex.org/W3041749610"
+      },
+      {
+        "concept": "Applied psychology",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Curelaru",
+        "title": "Students’ Perceptions of Online Learning during COVID-19 Pandemic: A Qualitative",
+        "cited_by_count": 101,
+        "openalex_id": "https://openalex.org/W4283822117"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Salancik",
+        "title": "A Social Information Processing Approach to Job Attitudes and Task Design",
+        "cited_by_count": 5495,
+        "openalex_id": "https://openalex.org/W2044295466"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Csíkszentmihályi",
+        "title": "Optimal experience: Psychological studies of flow in consciousness.",
+        "cited_by_count": 1704,
+        "openalex_id": "https://openalex.org/W1767680514"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Boud",
+        "title": "Quantitative studies of student self-assessment in higher education: a critical ",
+        "cited_by_count": 608,
+        "openalex_id": "https://openalex.org/W2008112310"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Elliot",
+        "title": "Approach and avoidance motivation and achievement goals",
+        "cited_by_count": 3081,
+        "openalex_id": "https://openalex.org/W1967940801"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ramsden",
+        "title": "A performance indicator of teaching quality in higher education: The Course Expe",
+        "cited_by_count": 1294,
+        "openalex_id": "https://openalex.org/W2051162681"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Scouller",
+        "title": "The influence of assessment method on students' learning approaches: Multiple ch",
+        "cited_by_count": 723,
+        "openalex_id": "https://openalex.org/W2122120648"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Hsieh",
+        "title": "Three Approaches to Qualitative Content Analysis",
+        "cited_by_count": 44366,
+        "openalex_id": "https://openalex.org/W2142225512"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Arnett",
+        "title": "Emerging adulthood: A theory of development from the late teens through the twen",
+        "cited_by_count": 15506,
+        "openalex_id": "https://openalex.org/W2012186625"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Schermelleh-Engel",
+        "title": "Evaluating the Fit of Structural Equation Models: Tests of Significance and Desc",
+        "cited_by_count": 8999,
+        "openalex_id": "https://openalex.org/W1627191216"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Bandura",
+        "title": "On the Functional Properties of Perceived Self-Efficacy Revisited",
+        "cited_by_count": 2462,
+        "openalex_id": "https://openalex.org/W2132344999"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2010s",
+        "year": 2019,
+        "first_author": "Bringmann",
+        "title": "What do centrality measures measure in psychological networks?",
+        "cited_by_count": 1336,
+        "openalex_id": "https://openalex.org/W2963120510"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Lozano",
+        "title": "Connecting Competences and Pedagogical Approaches for Sustainable Development in",
+        "cited_by_count": 844,
+        "openalex_id": "https://openalex.org/W2766634624"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Loades",
+        "title": "Rapid Systematic Review: The Impact of Social Isolation and Loneliness on the Me",
+        "cited_by_count": 2965,
+        "openalex_id": "https://openalex.org/W3032994313"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Coman",
+        "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic",
+        "cited_by_count": 1461,
+        "openalex_id": "https://openalex.org/W3113033734"
+      },
+      {
+        "concept": "Context (archaeology)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Beemt",
+        "title": "Interdisciplinary engineering education: A review of vision, teaching, and suppo",
+        "cited_by_count": 370,
+        "openalex_id": "https://openalex.org/W3021051128"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change",
+        "cited_by_count": 10604,
+        "openalex_id": "https://openalex.org/W2179683524"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Betz",
+        "title": "The relationship of career-related self-efficacy expectations to perceived caree",
+        "cited_by_count": 1265,
+        "openalex_id": "https://openalex.org/W2162221567"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "Betz",
+        "title": "The relationship of mathematics self-efficacy expectations to the selection of s",
+        "cited_by_count": 828,
+        "openalex_id": "https://openalex.org/W2048617206"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Lent",
+        "title": "Self-efficacy in the prediction of academic performance and perceived career opt",
+        "cited_by_count": 822,
+        "openalex_id": "https://openalex.org/W2018990635"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Bandura",
+        "title": "Self-Efficacy: The Exercise of Control",
+        "cited_by_count": 40901,
+        "openalex_id": "https://openalex.org/W1562208008"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Pajares",
+        "title": "Self-Efficacy Beliefs in Academic Settings",
+        "cited_by_count": 4090,
+        "openalex_id": "https://openalex.org/W2103080710"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Chen",
+        "title": "Does entrepreneurial self-efficacy distinguish entrepreneurs from managers?",
+        "cited_by_count": 3002,
+        "openalex_id": "https://openalex.org/W2068941619"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Zimmerman",
+        "title": "Self-Efficacy: An Essential Motive to Learn",
+        "cited_by_count": 4142,
+        "openalex_id": "https://openalex.org/W2064809032"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Pajares",
+        "title": "Self-Efficacy Beliefs of Adolescents",
+        "cited_by_count": 3501,
+        "openalex_id": "https://openalex.org/W320929745"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Zhao",
+        "title": "The Mediating Role of Self-Efficacy in the Development of Entrepreneurial Intent",
+        "cited_by_count": 2940,
+        "openalex_id": "https://openalex.org/W1988005587"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Bandura",
+        "title": "On the Functional Properties of Perceived Self-Efficacy Revisited",
+        "cited_by_count": 2462,
+        "openalex_id": "https://openalex.org/W2132344999"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2010s",
+        "year": 2016,
+        "first_author": "Zee",
+        "title": "Teacher Self-Efficacy and Its Effects on Classroom Processes, Student Academic A",
+        "cited_by_count": 1680,
+        "openalex_id": "https://openalex.org/W2257619836"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Honicke",
+        "title": "The influence of academic self-efficacy on academic performance: A systematic re",
+        "cited_by_count": 1498,
+        "openalex_id": "https://openalex.org/W2217717283"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2020s",
+        "year": 2023,
+        "first_author": "Meng",
+        "title": "The Influence of Academic Self-Efficacy on University Students’ Academic Perform",
+        "cited_by_count": 177,
+        "openalex_id": "https://openalex.org/W4361007030"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Maheshwari",
+        "title": "Investigating the relationship between educational support and entrepreneurial i",
+        "cited_by_count": 171,
+        "openalex_id": "https://openalex.org/W3200772852"
+      },
+      {
+        "concept": "Self-efficacy",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Yeh",
+        "title": "Investigating the relationships between entrepreneurial education and self-effic",
+        "cited_by_count": 107,
+        "openalex_id": "https://openalex.org/W3207039573"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1950s",
+        "year": 1951,
+        "first_author": "Cronbach",
+        "title": "Coefficient Alpha and the Internal Structure of Tests",
+        "cited_by_count": 43432,
+        "openalex_id": "https://openalex.org/W2159306398"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1950s",
+        "year": 1954,
+        "first_author": "Bartlett",
+        "title": "A Note on the Multiplying Factors for Various χ2 Approximations",
+        "cited_by_count": 2786,
+        "openalex_id": "https://openalex.org/W2904588591"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Shapiro",
+        "title": "An Analysis of Variance Test for Normality (Complete Samples)",
+        "cited_by_count": 5937,
+        "openalex_id": "https://openalex.org/W4229977739"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1960s",
+        "year": 1966,
+        "first_author": "Baker",
+        "title": "Weak Measurements vs. Strong Statistics: An Empirical Critique of S. S. Stevens'",
+        "cited_by_count": 217,
+        "openalex_id": "https://openalex.org/W2074345600"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Landis",
+        "title": "The Measurement of Observer Agreement for Categorical Data",
+        "cited_by_count": 79667,
+        "openalex_id": "https://openalex.org/W2164777277"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1970s",
+        "year": 1974,
+        "first_author": "Kaiser",
+        "title": "An Index of Factorial Simplicity",
+        "cited_by_count": 14396,
+        "openalex_id": "https://openalex.org/W1993760488"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Tucker",
+        "title": "A Reliability Coefficient for Maximum Likelihood Factor Analysis",
+        "cited_by_count": 7357,
+        "openalex_id": "https://openalex.org/W2014543370"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Muller",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 83904,
+        "openalex_id": "https://openalex.org/W4300870773"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "Tabachnick",
+        "title": "Using multivariate statistics",
+        "cited_by_count": 77501,
+        "openalex_id": "https://openalex.org/W1484864026"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Fornell",
+        "title": "Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "cited_by_count": 68902,
+        "openalex_id": "https://openalex.org/W4235678817"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Hu",
+        "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+        "cited_by_count": 106343,
+        "openalex_id": "https://openalex.org/W2071666535"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Browne",
+        "title": "Alternative Ways of Assessing Model Fit",
+        "cited_by_count": 25253,
+        "openalex_id": "https://openalex.org/W1992193527"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Bentler",
+        "title": "Comparative fit indexes in structural models.",
+        "cited_by_count": 23980,
+        "openalex_id": "https://openalex.org/W2018201949"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Byrne",
+        "title": "Structural equation modeling with AMOS: basic concepts, applications, and progra",
+        "cited_by_count": 18100,
+        "openalex_id": "https://openalex.org/W2036149274"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Cheung",
+        "title": "Evaluating Goodness-of-Fit Indexes for Testing Measurement Invariance",
+        "cited_by_count": 15803,
+        "openalex_id": "https://openalex.org/W2089871805"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Qu",
+        "title": "Multivariate Data Analysis",
+        "cited_by_count": 14836,
+        "openalex_id": "https://openalex.org/W2010453024"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Hair",
+        "title": "Multivariate data analysis : a global perspective",
+        "cited_by_count": 11770,
+        "openalex_id": "https://openalex.org/W62824994"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Stevens",
+        "title": "Applied Multivariate Statistics for the Social Sciences",
+        "cited_by_count": 10707,
+        "openalex_id": "https://openalex.org/W2085067988"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Schober",
+        "title": "Correlation Coefficients: Appropriate Use and Interpretation",
+        "cited_by_count": 10575,
+        "openalex_id": "https://openalex.org/W2793350103"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Rönkkö",
+        "title": "An Updated Guideline for Assessing Discriminant Validity",
+        "cited_by_count": 1189,
+        "openalex_id": "https://openalex.org/W3108789059"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Nathans",
+        "title": "Interpreting Multiple Linear Regression: A Guidebook of Variable Importance",
+        "cited_by_count": 488,
+        "openalex_id": "https://openalex.org/W189486789"
+      },
+      {
+        "concept": "Mathematics",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Hirschfeld",
+        "title": "Improving Multiple-Group confirmatory factor analysis in R – A tutorial in measu",
+        "cited_by_count": 280,
+        "openalex_id": "https://openalex.org/W2461124703"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1960s",
+        "year": 1965,
+        "first_author": "Rosenberg",
+        "title": "Rosenberg Self-Esteem Scale",
+        "cited_by_count": 1098,
+        "openalex_id": "https://openalex.org/W2912905337"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Guglielmino",
+        "title": "Development of the self-directed learning readiness scale",
+        "cited_by_count": 645,
+        "openalex_id": "https://openalex.org/W622807037"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Revelle",
+        "title": "Hierarchical Cluster Analysis And The Internal Structure Of Tests",
+        "cited_by_count": 402,
+        "openalex_id": "https://openalex.org/W2109639789"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1970s",
+        "year": 1979,
+        "first_author": "Mourad",
+        "title": "Construct Validity of the Self-Directed Learning Readiness Scale",
+        "cited_by_count": 22,
+        "openalex_id": "https://openalex.org/W151892100"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Deci",
+        "title": "The general causality orientations scale: Self-determination in personality",
+        "cited_by_count": 5009,
+        "openalex_id": "https://openalex.org/W2013897994"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1980s",
+        "year": 1982,
+        "first_author": "Masters",
+        "title": "A Rasch Model for Partial Credit Scoring",
+        "cited_by_count": 3782,
+        "openalex_id": "https://openalex.org/W1966576448"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "Betz",
+        "title": "The relationship of mathematics self-efficacy expectations to the selection of s",
+        "cited_by_count": 828,
+        "openalex_id": "https://openalex.org/W2048617206"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "DeVellis",
+        "title": "Scale Development : Theory and Applications",
+        "cited_by_count": 14750,
+        "openalex_id": "https://openalex.org/W2043867338"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Hinkin",
+        "title": "A Brief Tutorial on the Development of Measures for Use in Survey Questionnaires",
+        "cited_by_count": 3960,
+        "openalex_id": "https://openalex.org/W2096812562"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "1990s",
+        "year": 1993,
+        "first_author": "Wagnild",
+        "title": "Development and psychometric evaluation of the Resilience Scale.",
+        "cited_by_count": 3772,
+        "openalex_id": "https://openalex.org/W31456746"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Connor",
+        "title": "Development of a new resilience scale: The Connor-Davidson Resilience Scale (CD-",
+        "cited_by_count": 11513,
+        "openalex_id": "https://openalex.org/W2118185372"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Polit",
+        "title": "The content validity index: Are you sure you know what's being reported? critiqu",
+        "cited_by_count": 6581,
+        "openalex_id": "https://openalex.org/W2016660511"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Worthington",
+        "title": "Scale Development Research",
+        "cited_by_count": 3867,
+        "openalex_id": "https://openalex.org/W2159466611"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Sousa",
+        "title": "Translation, adaptation and validation of instruments or scales for use in cross",
+        "cited_by_count": 3253,
+        "openalex_id": "https://openalex.org/W1851740361"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Raes",
+        "title": "Construction and factorial validation of a short form of the Self‐Compassion Sca",
+        "cited_by_count": 2939,
+        "openalex_id": "https://openalex.org/W2147791664"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Williams",
+        "title": "Exploratory Factor Analysis: A Five-Step Guide for Novices",
+        "cited_by_count": 2730,
+        "openalex_id": "https://openalex.org/W2118934859"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Lazăr",
+        "title": "Digital technology adoption scale in the blended learning context in higher educ",
+        "cited_by_count": 120,
+        "openalex_id": "https://openalex.org/W3041749610"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Yeh",
+        "title": "Investigating the relationships between entrepreneurial education and self-effic",
+        "cited_by_count": 107,
+        "openalex_id": "https://openalex.org/W3207039573"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Baker",
+        "title": "Developing An Instrument To Measure Tinkering And Technical Self Efficacy In Eng",
+        "cited_by_count": 35,
+        "openalex_id": "https://openalex.org/W2615053719"
+      },
+      {
+        "concept": "Perception",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Koohang",
+        "title": "A Study of Attitudes Toward Computers",
+        "cited_by_count": 176,
+        "openalex_id": "https://openalex.org/W2238704372"
+      },
+      {
+        "concept": "Perception",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Jagacinski",
+        "title": "The relative career advancement of men and women engineers in the United States",
+        "cited_by_count": 20,
+        "openalex_id": "https://openalex.org/W2064751658"
+      },
+      {
+        "concept": "Perception",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Stark",
+        "title": "Faculty Perceptions of Professional Preparation Environments: Testing a Conceptu",
+        "cited_by_count": 14,
+        "openalex_id": "https://openalex.org/W2325219576"
+      },
+      {
+        "concept": "Perception",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior",
+        "cited_by_count": 85640,
+        "openalex_id": "https://openalex.org/W2099697766"
+      },
+      {
+        "concept": "Perception",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Eccles",
+        "title": "In the Mind of the Actor: The Structure of Adolescents' Achievement Task Values ",
+        "cited_by_count": 1629,
+        "openalex_id": "https://openalex.org/W2059068900"
+      },
+      {
+        "concept": "Perception",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Zimmerman",
+        "title": "Impact of Self-Regulatory Influences on Writing Course Attainment",
+        "cited_by_count": 1146,
+        "openalex_id": "https://openalex.org/W2127145329"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Liñán",
+        "title": "Development and Cross–Cultural Application of a Specific Instrument to Measure E",
+        "cited_by_count": 3871,
+        "openalex_id": "https://openalex.org/W1989131699"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Lizzio",
+        "title": "University Students' Perceptions of the Learning Environment and Academic Outcom",
+        "cited_by_count": 1420,
+        "openalex_id": "https://openalex.org/W2121224052"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Hoyle",
+        "title": "Reliability and validity of a brief measure of sensation seeking",
+        "cited_by_count": 1264,
+        "openalex_id": "https://openalex.org/W2030941095"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Robles",
+        "title": "Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace",
+        "cited_by_count": 1576,
+        "openalex_id": "https://openalex.org/W2143291310"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Diekman",
+        "title": "Seeking Congruity Between Goals and Roles",
+        "cited_by_count": 872,
+        "openalex_id": "https://openalex.org/W2148781867"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Kok",
+        "title": "How Positive Emotions Build Physical Health",
+        "cited_by_count": 757,
+        "openalex_id": "https://openalex.org/W2140888963"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Muthuprasad",
+        "title": "Students’ Perception and Preference for Online Education in India During COVID -",
+        "cited_by_count": 253,
+        "openalex_id": "https://openalex.org/W3125409303"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Cho",
+        "title": "Active learning through flipped classroom in mechanical engineering: improving s",
+        "cited_by_count": 147,
+        "openalex_id": "https://openalex.org/W3186383105"
+      },
+      {
+        "concept": "Perception",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Alghamdi",
+        "title": "Impact of the COVID-19 pandemic on the social and educational aspects of Saudi u",
+        "cited_by_count": 110,
+        "openalex_id": "https://openalex.org/W3152501512"
+      },
+      {
+        "concept": "Business",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Holland",
+        "title": "Making vocational choices : a theory of careers",
+        "cited_by_count": 2173,
+        "openalex_id": "https://openalex.org/W1589430467"
+      },
+      {
+        "concept": "Business",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bird",
+        "title": "Implementing Entrepreneurial Ideas: The Case for Intention",
+        "cited_by_count": 2520,
+        "openalex_id": "https://openalex.org/W2109406886"
+      },
+      {
+        "concept": "Business",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bird",
+        "title": "Implementing Entrepreneurial Ideas: The Case for Intention",
+        "cited_by_count": 1049,
+        "openalex_id": "https://openalex.org/W3123717666"
+      },
+      {
+        "concept": "Business",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Dubini",
+        "title": "Which venture capital backed entrepreneurs have the best chances of succeeding?",
+        "cited_by_count": 46,
+        "openalex_id": "https://openalex.org/W2065180361"
+      },
+      {
+        "concept": "Business",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Leonard‐Barton",
+        "title": "Core capabilities and core rigidities: A paradox in managing new product develop",
+        "cited_by_count": 6441,
+        "openalex_id": "https://openalex.org/W2025579080"
+      },
+      {
+        "concept": "Business",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Scott",
+        "title": "DETERMINANTS OF INNOVATIVE BEHAVIOR: A PATH MODEL OF INDIVIDUAL INNOVATION IN TH",
+        "cited_by_count": 5299,
+        "openalex_id": "https://openalex.org/W2050123202"
+      },
+      {
+        "concept": "Business",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Chen",
+        "title": "Does entrepreneurial self-efficacy distinguish entrepreneurs from managers?",
+        "cited_by_count": 3002,
+        "openalex_id": "https://openalex.org/W2068941619"
+      },
+      {
+        "concept": "Business",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Krueger",
+        "title": "Competing models of entrepreneurial intentions",
+        "cited_by_count": 5899,
+        "openalex_id": "https://openalex.org/W2050226767"
+      },
+      {
+        "concept": "Business",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Bürgel",
+        "title": "Multivariate Data Analysis",
+        "cited_by_count": 3596,
+        "openalex_id": "https://openalex.org/W82038529"
+      },
+      {
+        "concept": "Business",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Bhattacherjee",
+        "title": "Influence Processes for Information Technology Acceptance: An Elaboration Likeli",
+        "cited_by_count": 1374,
+        "openalex_id": "https://openalex.org/W2128469360"
+      },
+      {
+        "concept": "Business",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Beh",
+        "title": "Development and Distortion of Malaysian Public- Private Partnerships: Patronage,",
+        "cited_by_count": 16144,
+        "openalex_id": "https://openalex.org/W1797402740"
+      },
+      {
+        "concept": "Business",
+        "decade": "2010s",
+        "year": 2016,
+        "first_author": "Nambisan",
+        "title": "Digital Entrepreneurship: Toward a Digital Technology Perspective of Entrepreneu",
+        "cited_by_count": 2611,
+        "openalex_id": "https://openalex.org/W2530432988"
+      },
+      {
+        "concept": "Business",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Carsrud",
+        "title": "Entrepreneurial Motivations: What Do We Still Need to Know?",
+        "cited_by_count": 1036,
+        "openalex_id": "https://openalex.org/W1917038169"
+      },
+      {
+        "concept": "Business",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Ivanov",
+        "title": "The Industry 5.0 framework: viability-based integration of the resilience, susta",
+        "cited_by_count": 754,
+        "openalex_id": "https://openalex.org/W4295249297"
+      },
+      {
+        "concept": "Business",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Gaglio",
+        "title": "The effects of digital transformation on innovation and productivity: Firm-level",
+        "cited_by_count": 423,
+        "openalex_id": "https://openalex.org/W4283385309"
+      },
+      {
+        "concept": "Business",
+        "decade": "2020s",
+        "year": 2024,
+        "first_author": "Jaakko",
+        "title": "Higher Education Management and Policy",
+        "cited_by_count": 212,
+        "openalex_id": "https://openalex.org/W2984808174"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Holland",
+        "title": "Making Vocational Choices: A Theory of Vocational Personalities and Work Environ",
+        "cited_by_count": 5065,
+        "openalex_id": "https://openalex.org/W1617412188"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Betz",
+        "title": "The Career psychology of women",
+        "cited_by_count": 750,
+        "openalex_id": "https://openalex.org/W2170975617"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Boud",
+        "title": "Self and Peer Marking in an Undergraduate Engineering Course",
+        "cited_by_count": 32,
+        "openalex_id": "https://openalex.org/W1973961093"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Stajković",
+        "title": "Self-efficacy and work-related performance: A meta-analysis.",
+        "cited_by_count": 3586,
+        "openalex_id": "https://openalex.org/W2168781129"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Harackiewicz",
+        "title": "Rethinking achievement goals: When are they adaptive for college students and wh",
+        "cited_by_count": 770,
+        "openalex_id": "https://openalex.org/W2001545229"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Floyd",
+        "title": "What Skills are Most Important? A Comparison of Employer, Student, and Staff Per",
+        "cited_by_count": 125,
+        "openalex_id": "https://openalex.org/W2145523465"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2000s",
+        "year": 2004,
+        "first_author": "Prince",
+        "title": "Does Active Learning Work? A Review of the Research",
+        "cited_by_count": 7057,
+        "openalex_id": "https://openalex.org/W2134512579"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Nardo",
+        "title": "Handbook on Constructing Composite Indicators",
+        "cited_by_count": 2627,
+        "openalex_id": "https://openalex.org/W1484750607"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2000s",
+        "year": 2002,
+        "first_author": "Carter",
+        "title": "The career reasons of nascent entrepreneurs",
+        "cited_by_count": 1113,
+        "openalex_id": "https://openalex.org/W2065251090"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Tims",
+        "title": "Development and validation of the job crafting scale",
+        "cited_by_count": 1982,
+        "openalex_id": "https://openalex.org/W2114312225"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Jong",
+        "title": "Measuring Innovative Work Behaviour",
+        "cited_by_count": 1576,
+        "openalex_id": "https://openalex.org/W1981053063"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Robles",
+        "title": "Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace",
+        "cited_by_count": 1576,
+        "openalex_id": "https://openalex.org/W2143291310"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Andrade",
+        "title": "Student perspectives on rubric-referenced assessment",
+        "cited_by_count": 332,
+        "openalex_id": "https://openalex.org/W2321692370"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Rodríguez",
+        "title": "Teaching Soft Skills in Engineering Education: An European Perspective",
+        "cited_by_count": 196,
+        "openalex_id": "https://openalex.org/W3129818834"
+      },
+      {
+        "concept": "Work (physics)",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Campos",
+        "title": "The Importance of Soft Skills for the Engineering",
+        "cited_by_count": 100,
+        "openalex_id": "https://openalex.org/W3082199810"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change",
+        "cited_by_count": 10604,
+        "openalex_id": "https://openalex.org/W2179683524"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Bandura",
+        "title": "Social Foundations of Thought and Action : A Social Cognitive Theory",
+        "cited_by_count": 19087,
+        "openalex_id": "https://openalex.org/W2888190061"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "1980s",
+        "year": 1983,
+        "first_author": "Betz",
+        "title": "The relationship of mathematics self-efficacy expectations to the selection of s",
+        "cited_by_count": 828,
+        "openalex_id": "https://openalex.org/W2048617206"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Lent",
+        "title": "Toward a Unifying Social Cognitive Theory of Career and Academic Interest, Choic",
+        "cited_by_count": 7421,
+        "openalex_id": "https://openalex.org/W2035286692"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Bandura",
+        "title": "Social cognitive theory of self-regulation",
+        "cited_by_count": 6699,
+        "openalex_id": "https://openalex.org/W2062121040"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Pajares",
+        "title": "Self-Efficacy Beliefs in Academic Settings",
+        "cited_by_count": 4090,
+        "openalex_id": "https://openalex.org/W2103080710"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Podsakoff",
+        "title": "Common method biases in behavioral research: A critical review of the literature",
+        "cited_by_count": 77739,
+        "openalex_id": "https://openalex.org/W2106096361"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Bandura",
+        "title": "Social Cognitive Theory: An Agentic Perspective",
+        "cited_by_count": 14910,
+        "openalex_id": "https://openalex.org/W3044291841"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2000s",
+        "year": 2001,
+        "first_author": "Anderson",
+        "title": "A taxonomy for learning, teaching, and assessing : a revision of Bloom's taxonom",
+        "cited_by_count": 14027,
+        "openalex_id": "https://openalex.org/W2116817443"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Michelene",
+        "title": "The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes",
+        "cited_by_count": 2668,
+        "openalex_id": "https://openalex.org/W2108617939"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Bandura",
+        "title": "On the Functional Properties of Perceived Self-Efficacy Revisited",
+        "cited_by_count": 2462,
+        "openalex_id": "https://openalex.org/W2132344999"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Heckman",
+        "title": "Hard evidence on soft skills",
+        "cited_by_count": 1815,
+        "openalex_id": "https://openalex.org/W2010185677"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2020s",
+        "year": 2025,
+        "first_author": "Slavin",
+        "title": "Educational Psychology: Theory and Practice",
+        "cited_by_count": 1348,
+        "openalex_id": "https://openalex.org/W2044653300"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2020s",
+        "year": 2022,
+        "first_author": "Tseng",
+        "title": "Relationships between locus of control, theory of planned behavior, and cyber en",
+        "cited_by_count": 111,
+        "openalex_id": "https://openalex.org/W4283687926"
+      },
+      {
+        "concept": "Cognition",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Elmi",
+        "title": "Integrating Social Emotional Learning Strategies in Higher Education",
+        "cited_by_count": 86,
+        "openalex_id": "https://openalex.org/W3081395424"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Salancik",
+        "title": "A Social Information Processing Approach to Job Attitudes and Task Design",
+        "cited_by_count": 5495,
+        "openalex_id": "https://openalex.org/W2044295466"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1970s",
+        "year": 1973,
+        "first_author": "Simon",
+        "title": "The structure of ill structured problems",
+        "cited_by_count": 2574,
+        "openalex_id": "https://openalex.org/W1963547174"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "McLeod",
+        "title": "Some Thoughts about Feelings: The Affective Domain and the Writing Process",
+        "cited_by_count": 138,
+        "openalex_id": "https://openalex.org/W329788415"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Boud",
+        "title": "Self and Peer Marking in an Undergraduate Engineering Course",
+        "cited_by_count": 32,
+        "openalex_id": "https://openalex.org/W1973961093"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Lave",
+        "title": "Situated Learning",
+        "cited_by_count": 32306,
+        "openalex_id": "https://openalex.org/W4245961435"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Leonard‐Barton",
+        "title": "Core capabilities and core rigidities: A paradox in managing new product develop",
+        "cited_by_count": 6441,
+        "openalex_id": "https://openalex.org/W2025579080"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Bazerman",
+        "title": "Academic tribes and territories: Intellectual enquiry and the culture of the dis",
+        "cited_by_count": 1353,
+        "openalex_id": "https://openalex.org/W220607211"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Harris",
+        "title": "Research electronic data capture (REDCap)—A metadata-driven methodology and work",
+        "cited_by_count": 52257,
+        "openalex_id": "https://openalex.org/W2093274439"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Field",
+        "title": "Discovering Statistics Using SPSS",
+        "cited_by_count": 27799,
+        "openalex_id": "https://openalex.org/W1573234480"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2000s",
+        "year": 2007,
+        "first_author": "Bronfenbrenner",
+        "title": "The Bioecological Model of Human Development",
+        "cited_by_count": 5332,
+        "openalex_id": "https://openalex.org/W1737861481"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Pellegrino",
+        "title": "Knowing What Students Know: The Science and Design of Educational Assessment",
+        "cited_by_count": 2424,
+        "openalex_id": "https://openalex.org/W325314667"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Carsrud",
+        "title": "Entrepreneurial Motivations: What Do We Still Need to Know?",
+        "cited_by_count": 1036,
+        "openalex_id": "https://openalex.org/W1917038169"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Morgado",
+        "title": "Scale development: ten main limitations and recommendations to improve future re",
+        "cited_by_count": 755,
+        "openalex_id": "https://openalex.org/W2580536144"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2020s",
+        "year": 2024,
+        "first_author": "Jaakko",
+        "title": "Higher Education Management and Policy",
+        "cited_by_count": 212,
+        "openalex_id": "https://openalex.org/W2984808174"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Rodríguez",
+        "title": "Teaching Soft Skills in Engineering Education: An European Perspective",
+        "cited_by_count": 196,
+        "openalex_id": "https://openalex.org/W3129818834"
+      },
+      {
+        "concept": "Process (computing)",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Benito",
+        "title": "Changes That Should Remain in Higher Education Post COVID-19: A Mixed-Methods An",
+        "cited_by_count": 91,
+        "openalex_id": "https://openalex.org/W3122603503"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Unknown",
+        "title": "ENGINEERING EDUCATION",
+        "cited_by_count": 327,
+        "openalex_id": "https://openalex.org/W4213301475"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Unknown",
+        "title": "Engineering Education for 2001?",
+        "cited_by_count": 261,
+        "openalex_id": "https://openalex.org/W4235830671"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Strauss",
+        "title": "Science and Engineering Indicators—1989",
+        "cited_by_count": 981,
+        "openalex_id": "https://openalex.org/W2083610746"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Humphrey",
+        "title": "Introduction to the Team Software Process",
+        "cited_by_count": 443,
+        "openalex_id": "https://openalex.org/W1559302762"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Nguyen",
+        "title": "The essential skills and attributes of an engineer: a comparative study of acade",
+        "cited_by_count": 203,
+        "openalex_id": "https://openalex.org/W2900782637"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2000s",
+        "year": 2009,
+        "first_author": "Unknown",
+        "title": "Educating the engineer of 2020: Adapting engineering education to the new centur",
+        "cited_by_count": 1254,
+        "openalex_id": "https://openalex.org/W198316168"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Downey",
+        "title": "The Globally Competent Engineer: Working Effectively with People Who Define Prob",
+        "cited_by_count": 488,
+        "openalex_id": "https://openalex.org/W2007554550"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Lehmann",
+        "title": "Problem-oriented and project-based learning (POPBL) as an innovative learning st",
+        "cited_by_count": 383,
+        "openalex_id": "https://openalex.org/W2135227617"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2010s",
+        "year": 2019,
+        "first_author": "Harris",
+        "title": "The REDCap consortium: Building an international community of software platform ",
+        "cited_by_count": 24399,
+        "openalex_id": "https://openalex.org/W2944434778"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Crawley",
+        "title": "Rethinking Engineering Education: The CDIO Approach",
+        "cited_by_count": 900,
+        "openalex_id": "https://openalex.org/W154435716"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Froyd",
+        "title": "Five Major Shifts in 100 Years of Engineering Education",
+        "cited_by_count": 470,
+        "openalex_id": "https://openalex.org/W2125344860"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Rodríguez",
+        "title": "Teaching Soft Skills in Engineering Education: An European Perspective",
+        "cited_by_count": 196,
+        "openalex_id": "https://openalex.org/W3129818834"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Gutierrez-Bucheli",
+        "title": "Sustainability in engineering education: A review of learning outcomes",
+        "cited_by_count": 137,
+        "openalex_id": "https://openalex.org/W3216348128"
+      },
+      {
+        "concept": "Engineering management",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Campos",
+        "title": "The Importance of Soft Skills for the Engineering",
+        "cited_by_count": 100,
+        "openalex_id": "https://openalex.org/W3082199810"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Fornell",
+        "title": "Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "cited_by_count": 68902,
+        "openalex_id": "https://openalex.org/W4235678817"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "1980s",
+        "year": 1981,
+        "first_author": "Fornell",
+        "title": "Evaluating Structural Equation Models with Unobservable Variables and Measuremen",
+        "cited_by_count": 60951,
+        "openalex_id": "https://openalex.org/W1987258130"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "1980s",
+        "year": 1987,
+        "first_author": "Bentler",
+        "title": "Practical Issues in Structural Modeling",
+        "cited_by_count": 5694,
+        "openalex_id": "https://openalex.org/W2011309176"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "1990s",
+        "year": 1999,
+        "first_author": "Hu",
+        "title": "Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+        "cited_by_count": 106343,
+        "openalex_id": "https://openalex.org/W2071666535"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "1990s",
+        "year": 1994,
+        "first_author": "Mueller",
+        "title": "Testing Structural Equation Models.",
+        "cited_by_count": 14211,
+        "openalex_id": "https://openalex.org/W4299927410"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "1990s",
+        "year": 1998,
+        "first_author": "Hu",
+        "title": "Fit indices in covariance structure modeling: Sensitivity to underparameterized ",
+        "cited_by_count": 11481,
+        "openalex_id": "https://openalex.org/W2005092827"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "Kline",
+        "title": "Principles and Practice of Structural Equation Modeling",
+        "cited_by_count": 36230,
+        "openalex_id": "https://openalex.org/W1665332082"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Preacher",
+        "title": "Asymptotic and resampling strategies for assessing and comparing indirect effect",
+        "cited_by_count": 33012,
+        "openalex_id": "https://openalex.org/W2038702827"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Byrne",
+        "title": "Structural equation modeling with AMOS: basic concepts, applications, and progra",
+        "cited_by_count": 18100,
+        "openalex_id": "https://openalex.org/W2036149274"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Tabri",
+        "title": "Principles and Practice of Structural Equation Modeling",
+        "cited_by_count": 26068,
+        "openalex_id": "https://openalex.org/W2118338381"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Rosseel",
+        "title": "<b>lavaan</b>: An<i>R</i>Package for Structural Equation Modeling",
+        "cited_by_count": 25758,
+        "openalex_id": "https://openalex.org/W1913957972"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Tabri",
+        "title": "Principles and Practice of Structural Equation Modeling",
+        "cited_by_count": 13380,
+        "openalex_id": "https://openalex.org/W4236523229"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Hirschfeld",
+        "title": "Improving Multiple-Group confirmatory factor analysis in R – A tutorial in measu",
+        "cited_by_count": 280,
+        "openalex_id": "https://openalex.org/W2461124703"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Collier",
+        "title": "Applied Structural Equation Modeling using AMOS: Basic to Advanced Techniques",
+        "cited_by_count": 229,
+        "openalex_id": "https://openalex.org/W3029167940"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Maheshwari",
+        "title": "Investigating the relationship between educational support and entrepreneurial i",
+        "cited_by_count": 171,
+        "openalex_id": "https://openalex.org/W3200772852"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bird",
+        "title": "Implementing Entrepreneurial Ideas: The Case for Intention",
+        "cited_by_count": 2520,
+        "openalex_id": "https://openalex.org/W2109406886"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1980s",
+        "year": 1982,
+        "first_author": "Kent",
+        "title": "Encyclopedia of entrepreneurship",
+        "cited_by_count": 1783,
+        "openalex_id": "https://openalex.org/W593861970"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Bird",
+        "title": "Implementing Entrepreneurial Ideas: The Case for Intention",
+        "cited_by_count": 1049,
+        "openalex_id": "https://openalex.org/W3123717666"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1990s",
+        "year": 1995,
+        "first_author": "Bandura",
+        "title": "Exercise of personal and collective efficacy in changing societies",
+        "cited_by_count": 1676,
+        "openalex_id": "https://openalex.org/W1559580621"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Boud",
+        "title": "Assessment and the promotion of academic values",
+        "cited_by_count": 412,
+        "openalex_id": "https://openalex.org/W1993154455"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "1990s",
+        "year": 1993,
+        "first_author": "Katz",
+        "title": "The Entry‐Level Engineer: Problems in Transition from Student to Professional",
+        "cited_by_count": 117,
+        "openalex_id": "https://openalex.org/W2139731476"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2000s",
+        "year": 2006,
+        "first_author": "Souitaris",
+        "title": "Do entrepreneurship programmes raise entrepreneurial intention of science and en",
+        "cited_by_count": 2298,
+        "openalex_id": "https://openalex.org/W2159477114"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Shane",
+        "title": "Entrepreneurial motivation",
+        "cited_by_count": 1679,
+        "openalex_id": "https://openalex.org/W4230114030"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2000s",
+        "year": 2005,
+        "first_author": "McQuaid",
+        "title": "The Concept of Employability",
+        "cited_by_count": 1202,
+        "openalex_id": "https://openalex.org/W2139432828"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Robles",
+        "title": "Executive Perceptions of the Top 10 Soft Skills Needed in Today’s Workplace",
+        "cited_by_count": 1576,
+        "openalex_id": "https://openalex.org/W2143291310"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2010s",
+        "year": 2010,
+        "first_author": "Carsrud",
+        "title": "Entrepreneurial Motivations: What Do We Still Need to Know?",
+        "cited_by_count": 1036,
+        "openalex_id": "https://openalex.org/W1917038169"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2010s",
+        "year": 2018,
+        "first_author": "Palvia",
+        "title": "Online Education: Worldwide Status, Challenges, Trends, and Implications",
+        "cited_by_count": 824,
+        "openalex_id": "https://openalex.org/W2902246157"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Žalėnienė",
+        "title": "Higher Education For Sustainability: A Global Perspective",
+        "cited_by_count": 625,
+        "openalex_id": "https://openalex.org/W3163995701"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Fissi",
+        "title": "The path toward a sustainable green university: The case of the University of Fl",
+        "cited_by_count": 182,
+        "openalex_id": "https://openalex.org/W3049658900"
+      },
+      {
+        "concept": "Public relations",
+        "decade": "2020s",
+        "year": 2025,
+        "first_author": "Singun",
+        "title": "Unveiling the barriers to digital transformation in higher education institution",
+        "cited_by_count": 119,
+        "openalex_id": "https://openalex.org/W4407707608"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "1970s",
+        "year": 1975,
+        "first_author": "Daly",
+        "title": "Apprehension of Writing as a Predictor of Message Intensity",
+        "cited_by_count": 126,
+        "openalex_id": "https://openalex.org/W2057478149"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Watson",
+        "title": "Development and validation of brief measures of positive and negative affect: Th",
+        "cited_by_count": 32302,
+        "openalex_id": "https://openalex.org/W4292994367"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "1980s",
+        "year": 1988,
+        "first_author": "Watson",
+        "title": "Development and validation of brief measures of positive and negative affect: Th",
+        "cited_by_count": 31671,
+        "openalex_id": "https://openalex.org/W2148905283"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Deci",
+        "title": "The general causality orientations scale: Self-determination in personality",
+        "cited_by_count": 5009,
+        "openalex_id": "https://openalex.org/W2013897994"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "1990s",
+        "year": 1996,
+        "first_author": "Pajares",
+        "title": "Self-Efficacy Beliefs in Academic Settings",
+        "cited_by_count": 4090,
+        "openalex_id": "https://openalex.org/W2103080710"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Wigfield",
+        "title": "The development of achievement task values: A theoretical analysis",
+        "cited_by_count": 1717,
+        "openalex_id": "https://openalex.org/W2069393304"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "1990s",
+        "year": 1992,
+        "first_author": "Zimmerman",
+        "title": "Self-Motivation for Academic Attainment: The Role of Self-Efficacy Beliefs and P",
+        "cited_by_count": 1714,
+        "openalex_id": "https://openalex.org/W4244342442"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Ryan",
+        "title": "Self-determination theory and the facilitation of intrinsic motivation, social d",
+        "cited_by_count": 34912,
+        "openalex_id": "https://openalex.org/W4242883546"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Arnett",
+        "title": "Emerging adulthood: A theory of development from the late teens through the twen",
+        "cited_by_count": 15506,
+        "openalex_id": "https://openalex.org/W2012186625"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Wigfield",
+        "title": "Expectancy–Value Theory of Achievement Motivation",
+        "cited_by_count": 7205,
+        "openalex_id": "https://openalex.org/W2130337868"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2010s",
+        "year": 2017,
+        "first_author": "Unknown",
+        "title": "Self-Determination Theory: Basic Psychological Needs in Motivation, Development,",
+        "cited_by_count": 11965,
+        "openalex_id": "https://openalex.org/W2902999784"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2010s",
+        "year": 2013,
+        "first_author": "Elliot",
+        "title": "Handbook of Competence and Motivation",
+        "cited_by_count": 4688,
+        "openalex_id": "https://openalex.org/W1529024143"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2010s",
+        "year": 2014,
+        "first_author": "Taylor",
+        "title": "A self-determination theory approach to predicting school achievement over time:",
+        "cited_by_count": 815,
+        "openalex_id": "https://openalex.org/W2123467699"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Loades",
+        "title": "Rapid Systematic Review: The Impact of Social Isolation and Loneliness on the Me",
+        "cited_by_count": 2965,
+        "openalex_id": "https://openalex.org/W3032994313"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Howard",
+        "title": "Student Motivation and Associated Outcomes: A Meta-Analysis From Self-Determinat",
+        "cited_by_count": 875,
+        "openalex_id": "https://openalex.org/W3129603262"
+      },
+      {
+        "concept": "Developmental psychology",
+        "decade": "2020s",
+        "year": 2021,
+        "first_author": "Schwartz",
+        "title": "COVID-19 and Student Well-Being: Stress and Mental Health during Return-to-Schoo",
+        "cited_by_count": 211,
+        "openalex_id": "https://openalex.org/W3138459265"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1960s",
+        "year": 1963,
+        "first_author": "Fishbein",
+        "title": "An Investigation of the Relationships between Beliefs about an Object and the At",
+        "cited_by_count": 1639,
+        "openalex_id": "https://openalex.org/W2103591548"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1960s",
+        "year": 1968,
+        "first_author": "DENİZ",
+        "title": "The adaptation of psychological scales",
+        "cited_by_count": 26,
+        "openalex_id": "https://openalex.org/W1977806978"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 42860,
+        "openalex_id": "https://openalex.org/W4292808503"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 35552,
+        "openalex_id": "https://openalex.org/W2134049139"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change",
+        "cited_by_count": 10604,
+        "openalex_id": "https://openalex.org/W2179683524"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Baron",
+        "title": "The moderator-mediator variable distinction in social psychological research: Co",
+        "cited_by_count": 72194,
+        "openalex_id": "https://openalex.org/W1971440513"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Deci",
+        "title": "Intrinsic Motivation and Self-Determination in Human Behavior",
+        "cited_by_count": 26086,
+        "openalex_id": "https://openalex.org/W2052729098"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1980s",
+        "year": 1985,
+        "first_author": "Bandura",
+        "title": "Social Foundations of Thought and Action : A Social Cognitive Theory",
+        "cited_by_count": 19087,
+        "openalex_id": "https://openalex.org/W2888190061"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Ajzen",
+        "title": "The theory of planned behavior",
+        "cited_by_count": 85640,
+        "openalex_id": "https://openalex.org/W2099697766"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1990s",
+        "year": 1990,
+        "first_author": "Pintrich",
+        "title": "Motivational and self-regulated learning components of classroom academic perfor",
+        "cited_by_count": 7805,
+        "openalex_id": "https://openalex.org/W2106760415"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "1990s",
+        "year": 1991,
+        "first_author": "Bandura",
+        "title": "Social cognitive theory of self-regulation",
+        "cited_by_count": 6699,
+        "openalex_id": "https://openalex.org/W2062121040"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2000s",
+        "year": 2003,
+        "first_author": "Podsakoff",
+        "title": "Common method biases in behavioral research: A critical review of the literature",
+        "cited_by_count": 77739,
+        "openalex_id": "https://openalex.org/W2106096361"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2000s",
+        "year": 2000,
+        "first_author": "Ryan",
+        "title": "Self-determination theory and the facilitation of intrinsic motivation, social d",
+        "cited_by_count": 34912,
+        "openalex_id": "https://openalex.org/W4242883546"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2000s",
+        "year": 2008,
+        "first_author": "Preacher",
+        "title": "Asymptotic and resampling strategies for assessing and comparing indirect effect",
+        "cited_by_count": 33012,
+        "openalex_id": "https://openalex.org/W2038702827"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2010s",
+        "year": 2011,
+        "first_author": "Bandura",
+        "title": "On the Functional Properties of Perceived Self-Efficacy Revisited",
+        "cited_by_count": 2462,
+        "openalex_id": "https://openalex.org/W2132344999"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2010s",
+        "year": 2012,
+        "first_author": "Schoot",
+        "title": "A checklist for testing measurement invariance",
+        "cited_by_count": 2063,
+        "openalex_id": "https://openalex.org/W2166159176"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2010s",
+        "year": 2015,
+        "first_author": "Blömeke",
+        "title": "Beyond Dichotomies",
+        "cited_by_count": 1153,
+        "openalex_id": "https://openalex.org/W2328446221"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Roos",
+        "title": "Test Anxiety and Physiological Arousal: A Systematic Review and Meta-Analysis",
+        "cited_by_count": 156,
+        "openalex_id": "https://openalex.org/W3049229559"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Code",
+        "title": "Agency for Learning: Intention, Motivation, Self-Efficacy and Self-Regulation",
+        "cited_by_count": 155,
+        "openalex_id": "https://openalex.org/W3008793982"
+      },
+      {
+        "concept": "Cognitive psychology",
+        "decade": "2020s",
+        "year": 2020,
+        "first_author": "Mahmoud",
+        "title": "THE RELATIONSHIP BETWEEN TOLERANCE OF AMBIGUITY AND CREATIVITY IN ARCHITECTURAL ",
+        "cited_by_count": 40,
+        "openalex_id": "https://openalex.org/W3013483701"
+      }
+    ]
+  },
+  "cooccurrence": {
+    "n_refs_with_multiple_concepts": 1945,
+    "n_unique_pairs": 380,
+    "top_pairs": [
+      {
+        "concepts": [
+          "Mathematics education",
+          "Psychology"
+        ],
+        "count": 538
+      },
+      {
+        "concepts": [
+          "Psychology",
+          "Social psychology"
+        ],
+        "count": 426
+      },
+      {
+        "concepts": [
+          "Pedagogy",
+          "Psychology"
+        ],
+        "count": 334
+      },
+      {
+        "concepts": [
+          "Medical education",
+          "Psychology"
+        ],
+        "count": 332
+      },
+      {
+        "concepts": [
+          "Computer science",
+          "Psychology"
+        ],
+        "count": 299
+      },
+      {
+        "concepts": [
+          "Computer science",
+          "Mathematics education"
+        ],
+        "count": 226
+      },
+      {
+        "concepts": [
+          "Mathematics education",
+          "Pedagogy"
+        ],
+        "count": 214
+      },
+      {
+        "concepts": [
+          "Engineering",
+          "Engineering education"
+        ],
+        "count": 177
+      },
+      {
+        "concepts": [
+          "Medical education",
+          "Pedagogy"
+        ],
+        "count": 177
+      },
+      {
+        "concepts": [
+          "Mathematics education",
+          "Medical education"
+        ],
+        "count": 172
+      },
+      {
+        "concepts": [
+          "Engineering education",
+          "Psychology"
+        ],
+        "count": 172
+      },
+      {
+        "concepts": [
+          "Engineering",
+          "Engineering ethics"
+        ],
+        "count": 166
+      },
+      {
+        "concepts": [
+          "Applied psychology",
+          "Psychology"
+        ],
+        "count": 163
+      },
+      {
+        "concepts": [
+          "Higher education",
+          "Psychology"
+        ],
+        "count": 149
+      },
+      {
+        "concepts": [
+          "Psychology",
+          "Self-efficacy"
+        ],
+        "count": 148
+      },
+      {
+        "concepts": [
+          "Psychology",
+          "Sociology"
+        ],
+        "count": 133
+      },
+      {
+        "concepts": [
+          "Perception",
+          "Psychology"
+        ],
+        "count": 133
+      },
+      {
+        "concepts": [
+          "Engineering education",
+          "Mathematics education"
+        ],
+        "count": 132
+      },
+      {
+        "concepts": [
+          "Psychology",
+          "Scale (ratio)"
+        ],
+        "count": 132
+      },
+      {
+        "concepts": [
+          "Engineering education",
+          "Engineering ethics"
+        ],
+        "count": 127
+      }
+    ]
+  }
+}

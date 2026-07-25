@@ -1,0 +1,244 @@
+{
+  "network": "bibliographic_coupling",
+  "n_nodes": 73,
+  "n_edges": 541,
+  "brokers": [
+    {
+      "node": "J4L96ZTQ",
+      "constraint": 0.0801,
+      "effective_size": 23.619,
+      "community": 5,
+      "bridges_to_communities": [
+        8,
+        1,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "SL7257LZ",
+      "constraint": 0.0912,
+      "effective_size": 11.9,
+      "community": 1,
+      "bridges_to_communities": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "G3EUY2C2",
+      "constraint": 0.0929,
+      "effective_size": 17.278,
+      "community": 5,
+      "bridges_to_communities": [
+        8,
+        1,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "PYM3MQNK",
+      "constraint": 0.0939,
+      "effective_size": 13.167,
+      "community": 6,
+      "bridges_to_communities": [
+        8,
+        1,
+        5,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "LPJSUJ9V",
+      "constraint": 0.0941,
+      "effective_size": 12.556,
+      "community": 1,
+      "bridges_to_communities": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "QAJGLZ2K",
+      "constraint": 0.0946,
+      "effective_size": 15.686,
+      "community": 5,
+      "bridges_to_communities": [
+        8,
+        1,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "DFVK7NR2",
+      "constraint": 0.0955,
+      "effective_size": 15.4,
+      "community": 1,
+      "bridges_to_communities": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "LHGYXXJG",
+      "constraint": 0.0956,
+      "effective_size": 12.417,
+      "community": 6,
+      "bridges_to_communities": [
+        8,
+        1,
+        5,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "KI4LCCHP",
+      "constraint": 0.0962,
+      "effective_size": 13.848,
+      "community": 1,
+      "bridges_to_communities": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "WWJJIDI6",
+      "constraint": 0.0978,
+      "effective_size": 14.2,
+      "community": 1,
+      "bridges_to_communities": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "B4EBYEKF",
+      "constraint": 0.098,
+      "effective_size": 14.0,
+      "community": 8,
+      "bridges_to_communities": [
+        1,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "B7B4X2WE",
+      "constraint": 0.0983,
+      "effective_size": 14.647,
+      "community": 5,
+      "bridges_to_communities": [
+        8,
+        1,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "I9G3834N",
+      "constraint": 0.0995,
+      "effective_size": 12.688,
+      "community": 1,
+      "bridges_to_communities": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "PD6ENBV2",
+      "constraint": 0.1009,
+      "effective_size": 11.875,
+      "community": 1,
+      "bridges_to_communities": [
+        8,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "WHKSKTII",
+      "constraint": 0.1009,
+      "effective_size": 11.667,
+      "community": 6,
+      "bridges_to_communities": [
+        8,
+        1,
+        5
+      ],
+      "n_communities_bridged": 3
+    },
+    {
+      "node": "FUDIEQYR",
+      "constraint": 0.1026,
+      "effective_size": 12.032,
+      "community": 5,
+      "bridges_to_communities": [
+        8,
+        1,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    },
+    {
+      "node": "ZLBRXPDA",
+      "constraint": 0.1028,
+      "effective_size": 10.308,
+      "community": 8,
+      "bridges_to_communities": [
+        1,
+        5,
+        6,
+        7
+      ],
+      "n_communities_bridged": 4
+    }
+  ],
+  "community_gaps": [
+    {
+      "communities": [
+        6,
+        7
+      ],
+      "actual_edges": 4,
+      "possible_edges": 150,
+      "connectivity": 0.0267,
+      "sizes": [
+        15,
+        10
+      ]
+    }
+  ],
+  "n_total_nodes": 66,
+  "mean_constraint": 0.2473
+}

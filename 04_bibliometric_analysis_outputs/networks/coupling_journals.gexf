@@ -1,0 +1,583 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="total_cites" type="long" />
+      <attribute id="1" title="num_refs" type="long" />
+      <attribute id="2" title="community" type="long" />
+      <attribute id="3" title="degree_centrality" type="double" />
+      <attribute id="4" title="betweenness_centrality" type="double" />
+      <attribute id="5" title="pagerank" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" label="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="36" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.2647058823529412" />
+          <attvalue for="4" value="0.001931075460487225" />
+          <attvalue for="5" value="0.01347229256904799" />
+        </attvalues>
+      </node>
+      <node id="PLoS ONE" label="PLoS ONE">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="118" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.5294117647058824" />
+          <attvalue for="4" value="0.1636976659703932" />
+          <attvalue for="5" value="0.029232011370812935" />
+        </attvalues>
+      </node>
+      <node id="Education Sciences" label="Education Sciences">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="138" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.38235294117647056" />
+          <attvalue for="4" value="0.0020102990691225984" />
+          <attvalue for="5" value="0.03858672245516914" />
+        </attvalues>
+      </node>
+      <node id="Journal of Engineering Education Transformations" label="Journal of Engineering Education Transformations">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="41" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.3235294117647059" />
+          <attvalue for="4" value="0.02088234106950684" />
+          <attvalue for="5" value="0.01539115899319209" />
+        </attvalues>
+      </node>
+      <node id="Research in Science Education" label="Research in Science Education">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="118" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.5" />
+          <attvalue for="4" value="0.01847309454261326" />
+          <attvalue for="5" value="0.0327616062246982" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Information and Education Technology" label="International Journal of Information and Education Technology">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="56" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" label="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="86" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.3529411764705882" />
+          <attvalue for="4" value="0.010876868229809404" />
+          <attvalue for="5" value="0.03007355093238471" />
+        </attvalues>
+      </node>
+      <node id="IEEE Transactions on Education" label="IEEE Transactions on Education">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="166" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.6176470588235294" />
+          <attvalue for="4" value="0.06296856490706758" />
+          <attvalue for="5" value="0.050026463384823576" />
+        </attvalues>
+      </node>
+      <node id="ACM Transactions on Computing Education" label="ACM Transactions on Computing Education">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="27" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.14705882352941177" />
+          <attvalue for="4" value="0.001693404634581105" />
+          <attvalue for="5" value="0.010059491866319718" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Electrical Engineering and Education" label="International Journal of Electrical Engineering and Education">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.029411764705882353" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.0077104189147966" />
+        </attvalues>
+      </node>
+      <node id="Journal of Vocational Behavior" label="Journal of Vocational Behavior">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="87" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.5882352941176471" />
+          <attvalue for="4" value="0.055761687312489455" />
+          <attvalue for="5" value="0.05438310831798428" />
+        </attvalues>
+      </node>
+      <node id="JOURNAL OF CAREER DEVELOPMENT" label="JOURNAL OF CAREER DEVELOPMENT">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="113" />
+          <attvalue for="2" value="4" />
+          <attvalue for="3" value="0.47058823529411764" />
+          <attvalue for="4" value="0.0029801452261345304" />
+          <attvalue for="5" value="0.052153618410090495" />
+        </attvalues>
+      </node>
+      <node id="British Journal of Educational Technology" label="British Journal of Educational Technology">
+        <attvalues>
+          <attvalue for="0" value="68" />
+          <attvalue for="1" value="29" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.20588235294117646" />
+          <attvalue for="4" value="0.03300274195996122" />
+          <attvalue for="5" value="0.00832242049177947" />
+        </attvalues>
+      </node>
+      <node id="2019 ASEE Annual Conference &amp; Exposition  Proceedings" label="2019 ASEE Annual Conference &amp; Exposition  Proceedings">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="22" />
+          <attvalue for="2" value="3" />
+          <attvalue for="3" value="0.08823529411764705" />
+          <attvalue for="4" value="0.06111538738544086" />
+          <attvalue for="5" value="0.012087484487174723" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Instruction" label="International Journal of Instruction">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="73" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.4411764705882353" />
+          <attvalue for="4" value="0.07410902130153468" />
+          <attvalue for="5" value="0.020512730851583647" />
+        </attvalues>
+      </node>
+      <node id="ASEE IL-IN Section Conference" label="ASEE IL-IN Section Conference">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="20" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.38235294117647056" />
+          <attvalue for="4" value="0.028003579407322718" />
+          <attvalue for="5" value="0.020907698112747366" />
+        </attvalues>
+      </node>
+      <node id="European Journal of Engineering Education" label="European Journal of Engineering Education">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="410" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.7941176470588235" />
+          <attvalue for="4" value="0.14796662289977802" />
+          <attvalue for="5" value="0.11892814705384497" />
+        </attvalues>
+      </node>
+      <node id="INTERNATIONAL JOURNAL OF INSTRUCTION" label="INTERNATIONAL JOURNAL OF INSTRUCTION">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="91" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.4411764705882353" />
+          <attvalue for="4" value="0.08274203514845226" />
+          <attvalue for="5" value="0.026063437466441842" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Human Capital and Information Technology Professionals" label="International Journal of Human Capital and Information Technology Professionals">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="36" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.20588235294117646" />
+          <attvalue for="4" value="0.027779983929716544" />
+          <attvalue for="5" value="0.010346724135468057" />
+        </attvalues>
+      </node>
+      <node id="Participatory Educational Research (PER)" label="Participatory Educational Research (PER)">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="51" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.23529411764705882" />
+          <attvalue for="4" value="0.06910356429073006" />
+          <attvalue for="5" value="0.01788764357626072" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Engineering Pedagogy" label="International Journal of Engineering Pedagogy">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="13" />
+          <attvalue for="2" value="6" />
+          <attvalue for="3" value="0.029411764705882353" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.007543810264268874" />
+        </attvalues>
+      </node>
+      <node id="Design Science" label="Design Science">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="110" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.3235294117647059" />
+          <attvalue for="4" value="0.02325686296274531" />
+          <attvalue for="5" value="0.02013263281797978" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Mechanical Engineering Education" label="International Journal of Mechanical Engineering Education">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="99" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.5588235294117647" />
+          <attvalue for="4" value="0.04923114615627984" />
+          <attvalue for="5" value="0.030207380398651996" />
+        </attvalues>
+      </node>
+      <node id="Journal of Engineering Education" label="Journal of Engineering Education">
+        <attvalues>
+          <attvalue for="0" value="439" />
+          <attvalue for="1" value="508" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.7647058823529411" />
+          <attvalue for="4" value="0.0007137841362440292" />
+          <attvalue for="5" value="0.14043389101553025" />
+        </attvalues>
+      </node>
+      <node id="PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES" label="PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="94" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.058823529411764705" />
+          <attvalue for="4" value="0.0017082590612002375" />
+          <attvalue for="5" value="0.005832718827242477" />
+        </attvalues>
+      </node>
+      <node id="International Journal of Sustainability in Higher Education" label="International Journal of Sustainability in Higher Education">
+        <attvalues>
+          <attvalue for="0" value="75" />
+          <attvalue for="1" value="77" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.4117647058823529" />
+          <attvalue for="4" value="0.06635051173821226" />
+          <attvalue for="5" value="0.02396627764296245" />
+        </attvalues>
+      </node>
+      <node id="Studies in Higher Education" label="Studies in Higher Education">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="58" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.5294117647058824" />
+          <attvalue for="4" value="0.019862260437126748" />
+          <attvalue for="5" value="0.028026404167518146" />
+        </attvalues>
+      </node>
+      <node id="Peabody Journal of Education (0161956X)" label="Peabody Journal of Education (0161956X)">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="63" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.058823529411764705" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.005934997927108375" />
+        </attvalues>
+      </node>
+      <node id="Empirical Research in Vocational Education and Training" label="Empirical Research in Vocational Education and Training">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="17" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" label="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="158" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.5882352941176471" />
+          <attvalue for="4" value="0.027557664656595135" />
+          <attvalue for="5" value="0.08927496943045135" />
+        </attvalues>
+      </node>
+      <node id="Journal of Cleaner Production" label="Journal of Cleaner Production">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="86" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.20588235294117646" />
+          <attvalue for="4" value="0.0017429193899782132" />
+          <attvalue for="5" value="0.011552684229017701" />
+        </attvalues>
+      </node>
+      <node id="European Journal of Science and Mathematics Education" label="European Journal of Science and Mathematics Education">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="34" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.2647058823529412" />
+          <attvalue for="4" value="0.1307891578613503" />
+          <attvalue for="5" value="0.010103846211624145" />
+        </attvalues>
+      </node>
+      <node id="Assessment &amp; Evaluation in Higher Education" label="Assessment &amp; Evaluation in Higher Education">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="33" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.08823529411764705" />
+          <attvalue for="4" value="0.0" />
+          <attvalue for="5" value="0.009106481035937468" />
+        </attvalues>
+      </node>
+      <node id="Sustainability (Switzerland)" label="Sustainability (Switzerland)">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="78" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.11764705882352941" />
+          <attvalue for="4" value="0.0002228163992869875" />
+          <attvalue for="5" value="0.008126857228744622" />
+        </attvalues>
+      </node>
+      <node id="2018 ASEE Annual Conference &amp; Exposition  Proceedings" label="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="2" />
+          <attvalue for="3" value="0.2647058823529412" />
+          <attvalue for="4" value="0.009688269247092776" />
+          <attvalue for="5" value="0.018097726185677385" />
+        </attvalues>
+      </node>
+      <node id="PLOS ONE" label="PLOS ONE">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="46" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.38235294117647056" />
+          <attvalue for="4" value="0.07090458561046796" />
+          <attvalue for="5" value="0.017178372509929724" />
+        </attvalues>
+      </node>
+      <node id="Frontiers in Education" label="Frontiers in Education">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="16" />
+          <attvalue for="2" value="0" />
+          <attvalue for="3" value="0.058823529411764705" />
+          <attvalue for="4" value="0.002703505644682115" />
+          <attvalue for="5" value="0.005574220492734396" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Education Sciences" id="0" weight="4" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Research in Science Education" id="1" weight="2" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Journal of Vocational Behavior" id="2" weight="2" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="European Journal of Engineering Education" id="3" weight="2" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="International Journal of Mechanical Engineering Education" id="4" weight="2" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Journal of Engineering Education" id="5" weight="2" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Studies in Higher Education" id="6" weight="1" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="7" weight="2" />
+      <edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="PLOS ONE" id="8" weight="1" />
+      <edge source="PLoS ONE" target="Education Sciences" id="9" weight="2" />
+      <edge source="PLoS ONE" target="Journal of Engineering Education Transformations" id="10" weight="1" />
+      <edge source="PLoS ONE" target="Research in Science Education" id="11" weight="5" />
+      <edge source="PLoS ONE" target="IEEE Transactions on Education" id="12" weight="2" />
+      <edge source="PLoS ONE" target="ACM Transactions on Computing Education" id="13" weight="1" />
+      <edge source="PLoS ONE" target="Journal of Vocational Behavior" id="14" weight="1" />
+      <edge source="PLoS ONE" target="JOURNAL OF CAREER DEVELOPMENT" id="15" weight="2" />
+      <edge source="PLoS ONE" target="2019 ASEE Annual Conference &amp; Exposition  Proceedings" id="16" weight="1" />
+      <edge source="PLoS ONE" target="International Journal of Instruction" id="17" weight="1" />
+      <edge source="PLoS ONE" target="European Journal of Engineering Education" id="18" weight="1" />
+      <edge source="PLoS ONE" target="INTERNATIONAL JOURNAL OF INSTRUCTION" id="19" weight="2" />
+      <edge source="PLoS ONE" target="Participatory Educational Research (PER)" id="20" weight="1" />
+      <edge source="PLoS ONE" target="Design Science" id="21" weight="3" />
+      <edge source="PLoS ONE" target="International Journal of Mechanical Engineering Education" id="22" weight="3" />
+      <edge source="PLoS ONE" target="Journal of Engineering Education" id="23" weight="8" />
+      <edge source="PLoS ONE" target="International Journal of Sustainability in Higher Education" id="24" weight="1" />
+      <edge source="PLoS ONE" target="Studies in Higher Education" id="25" weight="2" />
+      <edge source="PLoS ONE" target="PLOS ONE" id="26" weight="1" />
+      <edge source="Education Sciences" target="Research in Science Education" id="27" weight="2" />
+      <edge source="Education Sciences" target="Journal of Vocational Behavior" id="28" weight="2" />
+      <edge source="Education Sciences" target="International Journal of Instruction" id="29" weight="1" />
+      <edge source="Education Sciences" target="European Journal of Engineering Education" id="30" weight="2" />
+      <edge source="Education Sciences" target="INTERNATIONAL JOURNAL OF INSTRUCTION" id="31" weight="2" />
+      <edge source="Education Sciences" target="International Journal of Mechanical Engineering Education" id="32" weight="4" />
+      <edge source="Education Sciences" target="Journal of Engineering Education" id="33" weight="38" />
+      <edge source="Education Sciences" target="Studies in Higher Education" id="34" weight="2" />
+      <edge source="Education Sciences" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="35" weight="2" />
+      <edge source="Education Sciences" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="36" weight="1" />
+      <edge source="Education Sciences" target="PLOS ONE" id="37" weight="3" />
+      <edge source="Journal of Engineering Education Transformations" target="Research in Science Education" id="38" weight="2" />
+      <edge source="Journal of Engineering Education Transformations" target="IEEE Transactions on Education" id="39" weight="3" />
+      <edge source="Journal of Engineering Education Transformations" target="JOURNAL OF CAREER DEVELOPMENT" id="40" weight="2" />
+      <edge source="Journal of Engineering Education Transformations" target="International Journal of Instruction" id="41" weight="1" />
+      <edge source="Journal of Engineering Education Transformations" target="ASEE IL-IN Section Conference" id="42" weight="1" />
+      <edge source="Journal of Engineering Education Transformations" target="European Journal of Engineering Education" id="43" weight="3" />
+      <edge source="Journal of Engineering Education Transformations" target="International Journal of Mechanical Engineering Education" id="44" weight="1" />
+      <edge source="Journal of Engineering Education Transformations" target="Journal of Engineering Education" id="45" weight="5" />
+      <edge source="Journal of Engineering Education Transformations" target="Studies in Higher Education" id="46" weight="1" />
+      <edge source="Journal of Engineering Education Transformations" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="47" weight="1" />
+      <edge source="Research in Science Education" target="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" id="48" weight="1" />
+      <edge source="Research in Science Education" target="IEEE Transactions on Education" id="49" weight="4" />
+      <edge source="Research in Science Education" target="Journal of Vocational Behavior" id="50" weight="2" />
+      <edge source="Research in Science Education" target="JOURNAL OF CAREER DEVELOPMENT" id="51" weight="3" />
+      <edge source="Research in Science Education" target="International Journal of Instruction" id="52" weight="1" />
+      <edge source="Research in Science Education" target="ASEE IL-IN Section Conference" id="53" weight="1" />
+      <edge source="Research in Science Education" target="European Journal of Engineering Education" id="54" weight="4" />
+      <edge source="Research in Science Education" target="International Journal of Mechanical Engineering Education" id="55" weight="3" />
+      <edge source="Research in Science Education" target="Journal of Engineering Education" id="56" weight="16" />
+      <edge source="Research in Science Education" target="International Journal of Sustainability in Higher Education" id="57" weight="1" />
+      <edge source="Research in Science Education" target="Studies in Higher Education" id="58" weight="2" />
+      <edge source="Research in Science Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="59" weight="3" />
+      <edge source="Research in Science Education" target="PLOS ONE" id="60" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="IEEE Transactions on Education" id="61" weight="5" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="Journal of Vocational Behavior" id="62" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="British Journal of Educational Technology" id="63" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="International Journal of Instruction" id="64" weight="3" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="ASEE IL-IN Section Conference" id="65" weight="3" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="European Journal of Engineering Education" id="66" weight="8" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="INTERNATIONAL JOURNAL OF INSTRUCTION" id="67" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="Journal of Engineering Education" id="68" weight="11" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="Studies in Higher Education" id="69" weight="2" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="70" weight="10" />
+      <edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="71" weight="3" />
+      <edge source="IEEE Transactions on Education" target="Journal of Vocational Behavior" id="72" weight="2" />
+      <edge source="IEEE Transactions on Education" target="JOURNAL OF CAREER DEVELOPMENT" id="73" weight="2" />
+      <edge source="IEEE Transactions on Education" target="British Journal of Educational Technology" id="74" weight="1" />
+      <edge source="IEEE Transactions on Education" target="2019 ASEE Annual Conference &amp; Exposition  Proceedings" id="75" weight="1" />
+      <edge source="IEEE Transactions on Education" target="International Journal of Instruction" id="76" weight="1" />
+      <edge source="IEEE Transactions on Education" target="ASEE IL-IN Section Conference" id="77" weight="1" />
+      <edge source="IEEE Transactions on Education" target="European Journal of Engineering Education" id="78" weight="14" />
+      <edge source="IEEE Transactions on Education" target="Participatory Educational Research (PER)" id="79" weight="3" />
+      <edge source="IEEE Transactions on Education" target="Design Science" id="80" weight="1" />
+      <edge source="IEEE Transactions on Education" target="International Journal of Mechanical Engineering Education" id="81" weight="4" />
+      <edge source="IEEE Transactions on Education" target="Journal of Engineering Education" id="82" weight="12" />
+      <edge source="IEEE Transactions on Education" target="Studies in Higher Education" id="83" weight="3" />
+      <edge source="IEEE Transactions on Education" target="Peabody Journal of Education (0161956X)" id="84" weight="2" />
+      <edge source="IEEE Transactions on Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="85" weight="6" />
+      <edge source="IEEE Transactions on Education" target="Journal of Cleaner Production" id="86" weight="2" />
+      <edge source="IEEE Transactions on Education" target="Sustainability (Switzerland)" id="87" weight="2" />
+      <edge source="IEEE Transactions on Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="88" weight="1" />
+      <edge source="ACM Transactions on Computing Education" target="JOURNAL OF CAREER DEVELOPMENT" id="89" weight="2" />
+      <edge source="ACM Transactions on Computing Education" target="Participatory Educational Research (PER)" id="90" weight="1" />
+      <edge source="ACM Transactions on Computing Education" target="Journal of Engineering Education" id="91" weight="2" />
+      <edge source="ACM Transactions on Computing Education" target="International Journal of Sustainability in Higher Education" id="92" weight="3" />
+      <edge source="International Journal of Electrical Engineering and Education" target="2019 ASEE Annual Conference &amp; Exposition  Proceedings" id="93" weight="1" />
+      <edge source="Journal of Vocational Behavior" target="JOURNAL OF CAREER DEVELOPMENT" id="94" weight="36" />
+      <edge source="Journal of Vocational Behavior" target="British Journal of Educational Technology" id="95" weight="1" />
+      <edge source="Journal of Vocational Behavior" target="International Journal of Instruction" id="96" weight="1" />
+      <edge source="Journal of Vocational Behavior" target="ASEE IL-IN Section Conference" id="97" weight="1" />
+      <edge source="Journal of Vocational Behavior" target="European Journal of Engineering Education" id="98" weight="11" />
+      <edge source="Journal of Vocational Behavior" target="Design Science" id="99" weight="2" />
+      <edge source="Journal of Vocational Behavior" target="International Journal of Mechanical Engineering Education" id="100" weight="2" />
+      <edge source="Journal of Vocational Behavior" target="Journal of Engineering Education" id="101" weight="17" />
+      <edge source="Journal of Vocational Behavior" target="International Journal of Sustainability in Higher Education" id="102" weight="1" />
+      <edge source="Journal of Vocational Behavior" target="Studies in Higher Education" id="103" weight="3" />
+      <edge source="Journal of Vocational Behavior" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="104" weight="9" />
+      <edge source="Journal of Vocational Behavior" target="European Journal of Science and Mathematics Education" id="105" weight="1" />
+      <edge source="Journal of Vocational Behavior" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="106" weight="1" />
+      <edge source="Journal of Vocational Behavior" target="PLOS ONE" id="107" weight="2" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="International Journal of Instruction" id="108" weight="2" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="ASEE IL-IN Section Conference" id="109" weight="1" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="European Journal of Engineering Education" id="110" weight="11" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="Design Science" id="111" weight="5" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="International Journal of Mechanical Engineering Education" id="112" weight="1" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="Journal of Engineering Education" id="113" weight="12" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="International Journal of Sustainability in Higher Education" id="114" weight="2" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="Studies in Higher Education" id="115" weight="4" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="116" weight="6" />
+      <edge source="JOURNAL OF CAREER DEVELOPMENT" target="European Journal of Science and Mathematics Education" id="117" weight="1" />
+      <edge source="British Journal of Educational Technology" target="European Journal of Engineering Education" id="118" weight="1" />
+      <edge source="British Journal of Educational Technology" target="Design Science" id="119" weight="1" />
+      <edge source="British Journal of Educational Technology" target="Journal of Engineering Education" id="120" weight="2" />
+      <edge source="British Journal of Educational Technology" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="121" weight="1" />
+      <edge source="International Journal of Instruction" target="ASEE IL-IN Section Conference" id="122" weight="1" />
+      <edge source="International Journal of Instruction" target="INTERNATIONAL JOURNAL OF INSTRUCTION" id="123" weight="2" />
+      <edge source="International Journal of Instruction" target="International Journal of Human Capital and Information Technology Professionals" id="124" weight="2" />
+      <edge source="International Journal of Instruction" target="International Journal of Mechanical Engineering Education" id="125" weight="1" />
+      <edge source="International Journal of Instruction" target="Journal of Engineering Education" id="126" weight="3" />
+      <edge source="International Journal of Instruction" target="PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES" id="127" weight="1" />
+      <edge source="International Journal of Instruction" target="Studies in Higher Education" id="128" weight="3" />
+      <edge source="ASEE IL-IN Section Conference" target="European Journal of Engineering Education" id="129" weight="6" />
+      <edge source="ASEE IL-IN Section Conference" target="Design Science" id="130" weight="1" />
+      <edge source="ASEE IL-IN Section Conference" target="International Journal of Mechanical Engineering Education" id="131" weight="1" />
+      <edge source="ASEE IL-IN Section Conference" target="Journal of Engineering Education" id="132" weight="9" />
+      <edge source="ASEE IL-IN Section Conference" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="133" weight="5" />
+      <edge source="ASEE IL-IN Section Conference" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="134" weight="2" />
+      <edge source="European Journal of Engineering Education" target="INTERNATIONAL JOURNAL OF INSTRUCTION" id="135" weight="2" />
+      <edge source="European Journal of Engineering Education" target="International Journal of Human Capital and Information Technology Professionals" id="136" weight="1" />
+      <edge source="European Journal of Engineering Education" target="Participatory Educational Research (PER)" id="137" weight="1" />
+      <edge source="European Journal of Engineering Education" target="Design Science" id="138" weight="10" />
+      <edge source="European Journal of Engineering Education" target="International Journal of Mechanical Engineering Education" id="139" weight="4" />
+      <edge source="European Journal of Engineering Education" target="Journal of Engineering Education" id="140" weight="39" />
+      <edge source="European Journal of Engineering Education" target="International Journal of Sustainability in Higher Education" id="141" weight="1" />
+      <edge source="European Journal of Engineering Education" target="Studies in Higher Education" id="142" weight="4" />
+      <edge source="European Journal of Engineering Education" target="Peabody Journal of Education (0161956X)" id="143" weight="1" />
+      <edge source="European Journal of Engineering Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="144" weight="78" />
+      <edge source="European Journal of Engineering Education" target="Journal of Cleaner Production" id="145" weight="2" />
+      <edge source="European Journal of Engineering Education" target="European Journal of Science and Mathematics Education" id="146" weight="1" />
+      <edge source="European Journal of Engineering Education" target="Sustainability (Switzerland)" id="147" weight="2" />
+      <edge source="European Journal of Engineering Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="148" weight="5" />
+      <edge source="European Journal of Engineering Education" target="PLOS ONE" id="149" weight="1" />
+      <edge source="European Journal of Engineering Education" target="Frontiers in Education" id="150" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="International Journal of Mechanical Engineering Education" id="151" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Journal of Engineering Education" id="152" weight="5" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES" id="153" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Studies in Higher Education" id="154" weight="2" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="155" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="European Journal of Science and Mathematics Education" id="156" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Assessment &amp; Evaluation in Higher Education" id="157" weight="3" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Sustainability (Switzerland)" id="158" weight="1" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="PLOS ONE" id="159" weight="2" />
+      <edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Frontiers in Education" id="160" weight="1" />
+      <edge source="International Journal of Human Capital and Information Technology Professionals" target="Participatory Educational Research (PER)" id="161" weight="1" />
+      <edge source="International Journal of Human Capital and Information Technology Professionals" target="International Journal of Mechanical Engineering Education" id="162" weight="1" />
+      <edge source="International Journal of Human Capital and Information Technology Professionals" target="Journal of Engineering Education" id="163" weight="2" />
+      <edge source="International Journal of Human Capital and Information Technology Professionals" target="International Journal of Sustainability in Higher Education" id="164" weight="1" />
+      <edge source="International Journal of Human Capital and Information Technology Professionals" target="Journal of Cleaner Production" id="165" weight="1" />
+      <edge source="Participatory Educational Research (PER)" target="International Journal of Engineering Pedagogy" id="166" weight="3" />
+      <edge source="Participatory Educational Research (PER)" target="Journal of Engineering Education" id="167" weight="2" />
+      <edge source="Participatory Educational Research (PER)" target="International Journal of Sustainability in Higher Education" id="168" weight="2" />
+      <edge source="Design Science" target="Journal of Engineering Education" id="169" weight="2" />
+      <edge source="Design Science" target="Studies in Higher Education" id="170" weight="1" />
+      <edge source="Design Science" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="171" weight="3" />
+      <edge source="Design Science" target="European Journal of Science and Mathematics Education" id="172" weight="1" />
+      <edge source="International Journal of Mechanical Engineering Education" target="Journal of Engineering Education" id="173" weight="6" />
+      <edge source="International Journal of Mechanical Engineering Education" target="Studies in Higher Education" id="174" weight="2" />
+      <edge source="International Journal of Mechanical Engineering Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="175" weight="4" />
+      <edge source="International Journal of Mechanical Engineering Education" target="Journal of Cleaner Production" id="176" weight="2" />
+      <edge source="International Journal of Mechanical Engineering Education" target="European Journal of Science and Mathematics Education" id="177" weight="1" />
+      <edge source="International Journal of Mechanical Engineering Education" target="PLOS ONE" id="178" weight="2" />
+      <edge source="Journal of Engineering Education" target="International Journal of Sustainability in Higher Education" id="179" weight="10" />
+      <edge source="Journal of Engineering Education" target="Studies in Higher Education" id="180" weight="5" />
+      <edge source="Journal of Engineering Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="181" weight="26" />
+      <edge source="Journal of Engineering Education" target="Journal of Cleaner Production" id="182" weight="2" />
+      <edge source="Journal of Engineering Education" target="European Journal of Science and Mathematics Education" id="183" weight="1" />
+      <edge source="Journal of Engineering Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="184" weight="8" />
+      <edge source="Journal of Engineering Education" target="PLOS ONE" id="185" weight="3" />
+      <edge source="International Journal of Sustainability in Higher Education" target="Studies in Higher Education" id="186" weight="1" />
+      <edge source="International Journal of Sustainability in Higher Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="187" weight="1" />
+      <edge source="International Journal of Sustainability in Higher Education" target="Journal of Cleaner Production" id="188" weight="2" />
+      <edge source="International Journal of Sustainability in Higher Education" target="Assessment &amp; Evaluation in Higher Education" id="189" weight="2" />
+      <edge source="International Journal of Sustainability in Higher Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="190" weight="1" />
+      <edge source="Studies in Higher Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" id="191" weight="1" />
+      <edge source="Studies in Higher Education" target="PLOS ONE" id="192" weight="3" />
+      <edge source="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" target="Sustainability (Switzerland)" id="193" weight="2" />
+      <edge source="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings" id="194" weight="6" />
+      <edge source="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" target="PLOS ONE" id="195" weight="1" />
+      <edge source="Journal of Cleaner Production" target="PLOS ONE" id="196" weight="1" />
+      <edge source="European Journal of Science and Mathematics Education" target="Assessment &amp; Evaluation in Higher Education" id="197" weight="1" />
+      <edge source="European Journal of Science and Mathematics Education" target="PLOS ONE" id="198" weight="1" />
+    </edges>
+  </graph>
+</gexf>

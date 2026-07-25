@@ -1,0 +1,376 @@
+{
+  "session_id": "20260724_231740",
+  "phase": "1",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:18:29.772405",
+  "data": {
+    "themes": [
+      {
+        "name": "Entrepreneurial Motivation in Engineering Students",
+        "definition": "Factors and constructs that influence engineering students' decisions to pursue entrepreneurial careers, including intrinsic and extrinsic motivations. This theme captures the identification and validation of motivational factors specific to engineering contexts.",
+        "evidence": [
+          "[JZEJCTN6] Data obtained from 460 engineering students supported three factors underlying the construct of entrepreneurial motivation: Motivation for Creation and Solution (MCS), Motivation for Personal Interests (MPS), and Managerial Motivation (MM).",
+          "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur with mediation effects of venturing and technology self-efficacy."
+        ],
+        "articles": [
+          "JZEJCTN6"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-efficacy",
+          "Career intention",
+          "Educational impact"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Leadership Self-Efficacy in Engineering Education",
+        "definition": "The development and validation of instruments to measure engineering students' confidence in their leadership abilities, including the identification of key leadership domains relevant to engineering practice.",
+        "evidence": [
+          "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+          "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors (Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity), along with good reliability evidence."
+        ],
+        "articles": [
+          "6ATWRP3C"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Leadership development",
+          "Factor structure",
+          "Reliability"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Writing Attitudes and Affective Dimensions in Engineering",
+        "definition": "The study of engineering students' attitudes, emotions, and apprehensions related to academic and professional writing, including the development of tools to assess and address these affective factors.",
+        "evidence": [
+          "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing.",
+          "[6SNWQJMW] The affective dimension of writing (feelings, emotions, writer's block, and writing apprehension) can further complicate the process of writing for students who write infrequently."
+        ],
+        "articles": [
+          "6SNWQJMW"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Writing apprehension",
+          "Career trajectory",
+          "Survey validation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-Efficacy in Biomedical Engineering Contexts",
+        "definition": "The measurement of engineering students' confidence in their ability to perform specific tasks, such as identifying problems, solving engineering challenges, and writing grant proposals, particularly in biomedical or clinical settings.",
+        "evidence": [
+          "[95PYDLRQ] To create the instrument, 35 broad survey questions related to self-efficacy were generated, separated into 4 broad categories: General Self-Efficacy (GEN) a unidimensional scale taken from Mamaril's paper, Engineering Problem Identification in Surgery (IDENT), Engineering Problem Solving (SOLVE), and Engineering Proposal Writing Skills (WRITE).",
+          "[95PYDLRQ] Participants were asked to rate their level of certainty with which they believe they can perform each task on a Likert scale from 1 (Strongly Disagree) to 5 (Strongly Disagree)."
+        ],
+        "articles": [
+          "95PYDLRQ"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Task-specific self-efficacy",
+          "Clinical relevance",
+          "Survey design"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Instrument Development and Validation in Engineering Education",
+        "definition": "The process of creating and validating scales, surveys, or instruments to measure psychological constructs (e.g., motivation, self-efficacy, attitudes) in engineering students, including evidence of reliability and factor structure.",
+        "evidence": [
+          "[JZEJCTN6] The study develops and tests an entrepreneurial motivation scale for engineering students. It required providing initial evidence of validity for the scale based on guidelines for developing educational and psychological tests.",
+          "[6ATWRP3C] Therefore, the 69 items for a leadership self-efficacy scale was constructed to indicate six factors as representative aspects of leadership in engineering."
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "6SNWQJMW",
+          "95PYDLRQ"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Psychometric properties",
+          "Factor analysis",
+          "Reliability evidence"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Educational Impact and Career Trajectory",
+        "definition": "The relationship between psychological constructs (e.g., self-efficacy, attitudes) and outcomes such as career intentions, persistence, academic success, or professional development in engineering students.",
+        "evidence": [
+          "[JZEJCTN6] The results can be useful in assessment, research, and/or policy decisions related to delivering entrepreneurship education to engineering students.",
+          "[6SNWQJMW] For graduate students, in particular, attitudes about writing have implications on career trajectory, persistence, and well-being in graduate school."
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6SNWQJMW"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Career intention",
+          "Persistence",
+          "Academic success"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Factor Structure and Psychometric Properties",
+        "definition": "The identification and analysis of underlying factors or dimensions within scales or surveys, including the use of statistical methods (e.g., factor analysis, Cronbach's alpha) to assess validity and reliability.",
+        "evidence": [
+          "[JZEJCTN6] They were developed by examining factor structure and psychometric properties as well as conducting mediation analysis.",
+          "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors..."
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "95PYDLRQ"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Exploratory factor analysis",
+          "Reliability statistics",
+          "Validity evidence"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "All abstracts focus on the development and validation of instruments (scales, surveys) to measure psychological constructs in engineering students. Themes emerged around self-efficacy, motivation, leadership, and writing attitudes, with a strong emphasis on educational impact and psychometric properties. No abstracts addressed technical content or quantitative results in depth.",
+    "grounding_notes": "All themes are grounded in explicit text from the abstracts. No external frameworks were imposed. Themes are limited to what is directly observable in the data. Some abstracts had quality notes indicating missing elements (e.g., results, methods), so those aspects were not inferred.",
+    "_hallucination_control": {
+      "total_themes": 7,
+      "avg_grounding_score": 1.0,
+      "avg_quote_grounding": 1.0,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 0,
+      "verification_details": [
+        {
+          "theme_name": "Entrepreneurial Motivation in Engineering Students",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] Data obtained from 460 engineering students supported three factors underlying the construct of entrepreneurial motivation: Motivation for Creation and Solution (MCS), Motivation for Personal Interests (MPS), and Managerial Motivation (MM).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur with mediation effects of venturing and technology self-efficacy.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Leadership Self-Efficacy in Engineering Education",
+          "evidence_verified": [
+            {
+              "quote": "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors (Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity), along with good reliability evidence.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "6ATWRP3C"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Writing Attitudes and Affective Dimensions in Engineering",
+          "evidence_verified": [
+            {
+              "quote": "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] The affective dimension of writing (feelings, emotions, writer's block, and writing apprehension) can further complicate the process of writing for students who write infrequently.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "6SNWQJMW"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Self-Efficacy in Biomedical Engineering Contexts",
+          "evidence_verified": [
+            {
+              "quote": "[95PYDLRQ] To create the instrument, 35 broad survey questions related to self-efficacy were generated, separated into 4 broad categories: General Self-Efficacy (GEN) a unidimensional scale taken from Mamaril's paper, Engineering Problem Identification in Surgery (IDENT), Engineering Problem Solving (SOLVE), and Engineering Proposal Writing Skills (WRITE).",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] Participants were asked to rate their level of certainty with which they believe they can perform each task on a Likert scale from 1 (Strongly Disagree) to 5 (Strongly Disagree).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Instrument Development and Validation in Engineering Education",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] The study develops and tests an entrepreneurial motivation scale for engineering students. It required providing initial evidence of validity for the scale based on guidelines for developing educational and psychological tests.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6ATWRP3C] Therefore, the 69 items for a leadership self-efficacy scale was constructed to indicate six factors as representative aspects of leadership in engineering.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "6SNWQJMW",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Educational Impact and Career Trajectory",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] The results can be useful in assessment, research, and/or policy decisions related to delivering entrepreneurship education to engineering students.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] For graduate students, in particular, attitudes about writing have implications on career trajectory, persistence, and well-being in graduate school.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6SNWQJMW"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Factor Structure and Psychometric Properties",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] They were developed by examining factor structure and psychometric properties as well as conducting mediation analysis.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors...",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

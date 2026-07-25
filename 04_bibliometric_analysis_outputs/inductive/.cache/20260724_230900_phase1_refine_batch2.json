@@ -1,0 +1,84 @@
+{
+  "session_id": "20260724_230900",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:09:59.573047",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Engineering Self-Efficacy Measurement",
+      "definition": "The study and validation of instruments to measure engineering students' self-efficacy across specific domains (e.g., programming, design) and general engineering contexts. This includes the development of scales to assess confidence in technical and professional tasks, linking self-efficacy to academic performance and career readiness.",
+      "subthemes": [
+        "Programming self-efficacy",
+        "Design self-efficacy",
+        "General engineering self-efficacy"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Motivation and Learning Strategies in Engineering Education",
+      "definition": "The validation and application of instruments to assess students' motivational attitudes, learning strategies, and behavioral dispositions in engineering contexts. This includes measuring factors like sustainable engineering attitudes, metacognitive strategies, and adaptive learning behaviors.",
+      "subthemes": [
+        "Motivational attitudes",
+        "Learning strategies",
+        "Sustainable engineering attitudes"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Entrepreneurial and Design Mindset in Engineering",
+      "definition": "The development and validation of instruments to evaluate engineering students' entrepreneurial mindset and design thinking capabilities. This includes assessing factors such as ambiguity tolerance, value creation, and problem framing in innovative engineering contexts.",
+      "subthemes": [
+        "Entrepreneurial mindset",
+        "Design mindset",
+        "Ambiguity tolerance"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Workplace Competency Assessment through Internships",
+      "definition": "The adaptation and validation of instruments to evaluate engineering students' professional development during work-based learning experiences, including internships and apprenticeships. This focuses on measuring workplace competencies, reflective practices, and alignment with industry expectations.",
+      "subthemes": [
+        "Internship evaluation",
+        "Workplace competencies",
+        "Apprenticeship assessment"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Systems Thinking and Advanced Problem-Solving Competencies",
+      "definition": "The assessment of engineering students' ability to analyze complex systems and solve ill-defined problems using diagnostic activities and structured surveys. This includes evaluating oral communication skills and integrative problem-solving approaches in technical domains.",
+      "subthemes": [
+        "Systems thinking skills",
+        "Problem-solving competencies",
+        "Oral communication skills"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Real-World and Community-Engaged Learning Assessment",
+      "definition": "The evaluation of engineering students' perceptions, self-efficacy, and sense of belonging in community-partnered projects and industry-coupled problem-based learning. This includes measuring outcomes related to social responsibility, teamwork, and contextualized learning.",
+      "subthemes": [
+        "Community-partnered projects",
+        "Real-world learning",
+        "Industry-coupled problem-based learning"
+      ]
+    }
+  ]
+}

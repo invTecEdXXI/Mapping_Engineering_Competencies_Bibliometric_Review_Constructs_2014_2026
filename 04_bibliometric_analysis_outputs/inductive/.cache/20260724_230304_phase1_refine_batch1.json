@@ -1,0 +1,102 @@
+{
+  "session_id": "20260724_230304",
+  "phase": "1_refine",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:03:59.110982",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "new",
+      "theme": "Competency Assessment in Engineering Education",
+      "definition": "The development, validation, and application of instruments to measure various competencies in engineering students, including technical, professional, and socio-emotional skills. This encompasses rubric-based assessment, psychometric validation, factor analysis, and self-efficacy measurement.",
+      "subthemes": [
+        "Rubric-Based Assessment and Validation",
+        "Psychometric Properties and Instrument Development",
+        "Professional and Transversal Skills",
+        "Socio-Emotional Competencies in Engineering",
+        "Research and Investigative Competencies",
+        "Representational Competence in Engineering Mechanics",
+        "Gender and Diversity in Engineering Education"
+      ]
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Rubric-Based Assessment and Validation",
+      "definition": "The use of structured rubrics as assessment tools to evaluate competencies, particularly in practical or laboratory settings. This includes ensuring content validity through expert judgment, assessing inter-rater reliability, and refining rubrics for clarity and consistency.",
+      "subthemes": [
+        "Content validity coefficient",
+        "Expert judgment",
+        "Inter-rater reliability"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Psychometric Properties and Instrument Development",
+      "definition": "The methodological rigor applied to the development and validation of scales and questionnaires used in engineering education. This involves statistical techniques such as exploratory and confirmatory factor analysis, reliability testing (e.g., Cronbach's alpha), and gathering validity evidence to ensure robust measurement.",
+      "subthemes": [
+        "Cronbach's alpha",
+        "Factor analysis",
+        "Reliability testing",
+        "Validity evidence"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Professional and Transversal Skills in Engineering",
+      "definition": "The assessment of non-technical, transferable skills essential for engineering graduates, including teamwork, communication, leadership, and entrepreneurial competencies. These skills bridge technical expertise and workplace readiness, often evaluated through contextualized tasks or simulations.",
+      "subthemes": [
+        "Soft skills",
+        "Entrepreneurial self-efficacy",
+        "Sociotechnical engineering"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Socio-Emotional Competencies in Engineering Education",
+      "definition": "The measurement and validation of socio-emotional skills such as resilience, compassion, and psychological attributes that influence engineering students' performance, well-being, and professional identity. These competencies are critical for navigating complex engineering challenges and team dynamics.",
+      "subthemes": [
+        "Resilience",
+        "Compassion",
+        "Engineering identity",
+        "Psychological momentum"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Research and Investigative Competencies in Engineering",
+      "definition": "The assessment of students' abilities to conduct research, including intellectual curiosity, technical proficiency, and communicative competencies required for academic and professional projects. This may involve evaluating research training, scientific writing, and participation in discussion forums.",
+      "subthemes": [
+        "Research training",
+        "Scientific article writing",
+        "Discussion forums"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Representational Competence in Engineering Mechanics",
+      "definition": "The ability to interpret, translate between, and apply multiple representations of engineering concepts, such as vectors, diagrams, or equations. This competence is particularly critical in statics and dynamics, where conceptual understanding is assessed through diverse representational formats.",
+      "subthemes": [
+        "Vector representations",
+        "Conceptual understanding",
+        "Assessment instrument"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Gender and Diversity in Engineering Education Assessment",
+      "definition": "The examination of gender differences, cultural diversity, and inclusivity in engineering education, with a focus on adapting assessment instruments for different contexts. This includes ensuring gender invariance in measurement tools and promoting equitable evaluation practices.",
+      "subthemes": [
+        "Gender invariance",
+        "Cultural adaptation",
+        "Diversity in STEM"
+      ]
+    }
+  ]
+}

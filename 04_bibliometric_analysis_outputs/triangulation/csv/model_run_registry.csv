@@ -1,0 +1,15 @@
+triangulation_session_id,timestamp,model_label,provider,model,cache_prefix,analyzer_session_id,prompt_hash,schema_hash,n_api_calls,n_cache_hits,total_tokens
+20260724_225745,2026-07-24T22:57:49.408463,auto/deepseek-chat,auto,deepseek-chat,auto__deepseek-chat_,,,,0,0,0
+20260724_225745,2026-07-24T22:57:49.408463,mistral/mistral-large-latest,mistral,mistral-large-latest,mistral__mistral-large-latest_,,,,0,0,0
+20260724_230302,2026-07-24T23:04:36.628905,auto/deepseek-chat,auto,deepseek-chat,auto__deepseek-chat_,,,,0,0,0
+20260724_230302,2026-07-24T23:04:36.628905,mistral/mistral-small-latest,mistral,mistral-small-latest,mistral__mistral-small-latest_,,,,0,0,0
+20260724_230858,2026-07-24T23:10:29.406378,auto/deepseek-v4-flash,auto,deepseek-v4-flash,auto__deepseek-v4-flash_,,,,0,0,0
+20260724_230858,2026-07-24T23:10:29.406378,mistral/mistral-small-latest,mistral,mistral-small-latest,mistral__mistral-small-latest_,,,,0,0,0
+20260724_231533,2026-07-24T23:17:27.123826,auto/deepseek-v4-flash,auto,deepseek-v4-flash,auto__deepseek-v4-flash_,,,,0,0,0
+20260724_231533,2026-07-24T23:17:27.123826,mistral/mistral-small-latest,mistral,mistral-small-latest,mistral__mistral-small-latest_,,,,0,0,0
+20260724_231738,2026-07-24T23:19:07.579495,auto/deepseek-v4-flash,auto,deepseek-v4-flash,auto__deepseek-v4-flash_,,,,0,0,0
+20260724_231738,2026-07-24T23:19:07.579495,mistral/mistral-small-latest,mistral,mistral-small-latest,mistral__mistral-small-latest_,,,,0,0,0
+20260724_232145,2026-07-24T23:35:19.554719,auto/deepseek-v4-pro,auto,deepseek-v4-pro,auto__deepseek-v4-pro_,,,,0,0,0
+20260724_232145,2026-07-24T23:35:19.554719,mistral/mistral-large-latest,mistral,mistral-large-latest,mistral__mistral-large-latest_,,,,0,0,0
+20260724_233549,2026-07-24T23:52:58.608767,auto/deepseek-v4-pro,auto,deepseek-v4-pro,auto__deepseek-v4-pro_,,,,0,0,0
+20260724_233549,2026-07-24T23:52:58.608767,mistral/mistral-large-latest,mistral,mistral-large-latest,mistral__mistral-large-latest_,,,,0,0,0

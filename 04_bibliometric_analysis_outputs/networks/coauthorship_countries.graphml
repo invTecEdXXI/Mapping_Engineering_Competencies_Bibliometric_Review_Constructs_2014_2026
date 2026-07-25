@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d6" for="node" attr.name="pagerank" attr.type="double"/>
+<key id="d5" for="node" attr.name="betweenness_centrality" attr.type="double"/>
+<key id="d4" for="node" attr.name="degree_centrality" attr.type="double"/>
+<key id="d3" for="node" attr.name="community" attr.type="long"/>
+<key id="d2" for="node" attr.name="total_cites" attr.type="long"/>
+<key id="d1" for="node" attr.name="frequency" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="MY">
+  <data key="d0">MY</data>
+  <data key="d1">2</data>
+  <data key="d2">1</data>
+  <data key="d3">0</data>
+</node>
+<node id="BR">
+  <data key="d0">BR</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">2</data>
+</node>
+<node id="EC">
+  <data key="d0">EC</data>
+  <data key="d1">3</data>
+  <data key="d2">1</data>
+  <data key="d3">2</data>
+</node>
+<node id="IT">
+  <data key="d0">IT</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">3</data>
+</node>
+<node id="MX">
+  <data key="d0">MX</data>
+  <data key="d1">2</data>
+  <data key="d2">0</data>
+  <data key="d3">3</data>
+</node>
+<node id="RO">
+  <data key="d0">RO</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">5</data>
+</node>
+<node id="NG">
+  <data key="d0">NG</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">7</data>
+</node>
+<node id="GB">
+  <data key="d0">GB</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">7</data>
+</node>
+<node id="US">
+  <data key="d0">US</data>
+  <data key="d1">29</data>
+  <data key="d2">876</data>
+  <data key="d3">14</data>
+  <data key="d4">1.0</data>
+  <data key="d5">1.0</data>
+  <data key="d6">0.4729716486488421</data>
+</node>
+<node id="IN">
+  <data key="d0">IN</data>
+  <data key="d1">3</data>
+  <data key="d2">32</data>
+  <data key="d3">10</data>
+</node>
+<node id="CH">
+  <data key="d0">CH</data>
+  <data key="d1">2</data>
+  <data key="d2">8</data>
+  <data key="d3">10</data>
+</node>
+<node id="TW">
+  <data key="d0">TW</data>
+  <data key="d1">2</data>
+  <data key="d2">15</data>
+  <data key="d3">11</data>
+</node>
+<node id="NL">
+  <data key="d0">NL</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">12</data>
+</node>
+<node id="ID">
+  <data key="d0">ID</data>
+  <data key="d1">2</data>
+  <data key="d2">7</data>
+  <data key="d3">13</data>
+</node>
+<node id="SE">
+  <data key="d0">SE</data>
+  <data key="d1">1</data>
+  <data key="d2">28</data>
+  <data key="d3">14</data>
+  <data key="d4">0.2</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1054056702702316</data>
+</node>
+<node id="ES">
+  <data key="d0">ES</data>
+  <data key="d1">3</data>
+  <data key="d2">70</data>
+  <data key="d3">2</data>
+</node>
+<node id="KR">
+  <data key="d0">KR</data>
+  <data key="d1">2</data>
+  <data key="d2">12</data>
+  <data key="d3">14</data>
+  <data key="d4">0.2</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1054056702702316</data>
+</node>
+<node id="TR">
+  <data key="d0">TR</data>
+  <data key="d1">5</data>
+  <data key="d2">62</data>
+  <data key="d3">17</data>
+</node>
+<node id="PK">
+  <data key="d0">PK</data>
+  <data key="d1">1</data>
+  <data key="d2">8</data>
+  <data key="d3">14</data>
+  <data key="d4">0.2</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1054056702702316</data>
+</node>
+<node id="CN">
+  <data key="d0">CN</data>
+  <data key="d1">2</data>
+  <data key="d2">4</data>
+  <data key="d3">11</data>
+</node>
+<node id="TH">
+  <data key="d0">TH</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">6</data>
+</node>
+<node id="DE">
+  <data key="d0">DE</data>
+  <data key="d1">3</data>
+  <data key="d2">18</data>
+  <data key="d3">12</data>
+</node>
+<node id="DK">
+  <data key="d0">DK</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">12</data>
+</node>
+<node id="HK">
+  <data key="d0">HK</data>
+  <data key="d1">1</data>
+  <data key="d2">27</data>
+  <data key="d3">8</data>
+</node>
+<node id="IR">
+  <data key="d0">IR</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">9</data>
+</node>
+<node id="PT">
+  <data key="d0">PT</data>
+  <data key="d1">4</data>
+  <data key="d2">36</data>
+  <data key="d3">10</data>
+</node>
+<node id="CO">
+  <data key="d0">CO</data>
+  <data key="d1">3</data>
+  <data key="d2">9</data>
+  <data key="d3">15</data>
+</node>
+<node id="FI">
+  <data key="d0">FI</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">16</data>
+</node>
+<node id="RU">
+  <data key="d0">RU</data>
+  <data key="d1">1</data>
+  <data key="d2">18</data>
+  <data key="d3">14</data>
+  <data key="d4">0.2</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1054056702702316</data>
+</node>
+<node id="AU">
+  <data key="d0">AU</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">18</data>
+</node>
+<node id="IE">
+  <data key="d0">IE</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">19</data>
+</node>
+<node id="CZ">
+  <data key="d0">CZ</data>
+  <data key="d1">1</data>
+  <data key="d2">45</data>
+  <data key="d3">14</data>
+  <data key="d4">0.2</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1054056702702316</data>
+</node>
+<node id="CA">
+  <data key="d0">CA</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">1</data>
+</node>
+<node id="JP">
+  <data key="d0">JP</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">4</data>
+</node>
+<edge source="BR" target="EC">
+  <data key="d7">1</data>
+</edge>
+<edge source="EC" target="ES">
+  <data key="d7">1</data>
+</edge>
+<edge source="IT" target="MX">
+  <data key="d7">1</data>
+</edge>
+<edge source="NG" target="GB">
+  <data key="d7">1</data>
+</edge>
+<edge source="US" target="SE">
+  <data key="d7">1</data>
+</edge>
+<edge source="US" target="KR">
+  <data key="d7">1</data>
+</edge>
+<edge source="US" target="PK">
+  <data key="d7">1</data>
+</edge>
+<edge source="US" target="RU">
+  <data key="d7">1</data>
+</edge>
+<edge source="US" target="CZ">
+  <data key="d7">1</data>
+</edge>
+<edge source="IN" target="CH">
+  <data key="d7">1</data>
+</edge>
+<edge source="IN" target="PT">
+  <data key="d7">1</data>
+</edge>
+<edge source="TW" target="CN">
+  <data key="d7">1</data>
+</edge>
+<edge source="NL" target="DE">
+  <data key="d7">1</data>
+</edge>
+<edge source="NL" target="DK">
+  <data key="d7">1</data>
+</edge>
+<edge source="DE" target="DK">
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>

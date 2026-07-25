@@ -1,0 +1,100 @@
+2026-07-24 23:03:01 [INFO] bibliometrico.main: ============================================================
+2026-07-24 23:03:01 [INFO] bibliometrico.main: Sistema de Analisis Bibliometrico de Frontera
+2026-07-24 23:03:01 [INFO] bibliometrico.main: Fases seleccionadas: [9]
+2026-07-24 23:03:01 [INFO] bibliometrico.main: ============================================================
+2026-07-24 23:03:01 [INFO] bibliometrico.main: Checkpoint cargado: 96 articulos
+2026-07-24 23:03:01 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation: ============================================================
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation: LLM TRIANGULATION ENGINE
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation: ============================================================
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation:   Model 0: auto/deepseek-chat (tier 2)
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation:   Model 1: mistral/mistral-small-latest (tier ?)
+2026-07-24 23:03:02 [WARNING] bibliometrico.triangulation:   Model(s) not in equivalence table: ['mistral-small-latest']. Cannot verify tier equivalence. Proceeding anyway — verify manually that models are comparable.
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation:   Session ID: 20260724_230302
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation: --- Phase 2e Triangulation ---
+2026-07-24 23:03:02 [INFO] bibliometrico.triangulation:   Reusing existing Phase 2e results for auto/deepseek-chat: inductive_results_20260724_223030.json
+2026-07-24 23:03:03 [INFO] bibliometrico.triangulation:   Running Model B (mistral/mistral-small-latest)...
+2026-07-24 23:03:03 [INFO] bibliometrico.inductive: ============================================================
+2026-07-24 23:03:03 [INFO] bibliometrico.inductive: FASE 2e: Descubrimiento Inductivo de Temas
+2026-07-24 23:03:03 [INFO] bibliometrico.inductive: ============================================================
+2026-07-24 23:03:03 [INFO] bibliometrico.inductive.pipeline:   Filtered: 94/96 valid abstracts
+2026-07-24 23:03:03 [INFO] bibliometrico.inductive.pipeline:   Quality breakdown: {'high': 13, 'medium': 79, 'low': 2, 'no_quality_data': 0}
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.provider:   Provider: Mistral
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.provider:   Extraction model: mistral-small-latest
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.provider:   Reasoning model: mistral-small-latest
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.batching:   Calculated batch size: 30 (avg 328 tokens/abstract)
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline: INDUCTIVE PIPELINE v2.0
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Total articles: 96
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Valid abstracts: 94
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Batch size: 30
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Batching: sequential (seed=None)
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Experiment mode: same_model_all_phases
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Session ID: 20260724_230304
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline: PHASE 1: Inductive Thematic Mapping
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Processing 94 abstracts in 4 batches
+2026-07-24 23:03:04 [INFO] bibliometrico.inductive.pipeline:   Batch 1/4 (30 articles)...
+2026-07-24 23:03:15 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:03:16 [INFO] bibliometrico.inductive.pipeline:     Found 8 themes (grounding: 100%, flags: 0)
+2026-07-24 23:03:16 [INFO] bibliometrico.inductive.pipeline:   Batch 2/4 (30 articles)...
+2026-07-24 23:03:29 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:03:29 [WARNING] bibliometrico.inductive.verification:     Hallucination control: 2 flags, avg grounding: 0.942
+2026-07-24 23:03:29 [INFO] bibliometrico.inductive.pipeline:     Found 8 themes (grounding: 94%, flags: 2)
+2026-07-24 23:03:30 [INFO] bibliometrico.inductive.pipeline:   Batch 3/4 (30 articles)...
+2026-07-24 23:03:43 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:03:43 [WARNING] bibliometrico.inductive.verification:     Hallucination control: 3 flags, avg grounding: 0.898
+2026-07-24 23:03:43 [INFO] bibliometrico.inductive.pipeline:     Found 8 themes (grounding: 90%, flags: 3)
+2026-07-24 23:03:43 [INFO] bibliometrico.inductive.pipeline:   Batch 4/4 (4 articles)...
+2026-07-24 23:03:53 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:03:53 [WARNING] bibliometrico.inductive.verification:     Hallucination control: 1 flags, avg grounding: 0.956
+2026-07-24 23:03:53 [INFO] bibliometrico.inductive.pipeline:     Found 8 themes (grounding: 96%, flags: 1)
+2026-07-24 23:03:54 [INFO] bibliometrico.inductive.pipeline:   Synthesizing batches...
+2026-07-24 23:03:59 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:03:59 [INFO] bibliometrico.inductive.pipeline:     Refine lote 1/4: taxonomia acumulada = 8 temas
+2026-07-24 23:04:04 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:04:04 [INFO] bibliometrico.inductive.pipeline:     Refine lote 2/4: taxonomia acumulada = 12 temas
+2026-07-24 23:04:09 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:04:09 [INFO] bibliometrico.inductive.pipeline:     Refine lote 3/4: taxonomia acumulada = 18 temas
+2026-07-24 23:04:13 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:04:13 [INFO] bibliometrico.inductive.pipeline:     Refine lote 4/4: taxonomia acumulada = 21 temas
+2026-07-24 23:04:17 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:04:17 [INFO] bibliometrico.inductive.pipeline:   Dedupe final: 21 -> 14 temas (5 grupo(s) de fusion aplicados)
+2026-07-24 23:04:18 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:04:18 [INFO] bibliometrico.inductive.verification:   Synthesis verification: 14/14 grounded, taxonomy_grounding=1.000, n_studies valid: True
+2026-07-24 23:04:18 [INFO] bibliometrico.inductive.pipeline:   Hallucination control: grounding=95%, flags=6, status=warnings
+2026-07-24 23:04:18 [INFO] bibliometrico.inductive.pipeline:   Phase 1 complete
+2026-07-24 23:04:18 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:04:18 [INFO] bibliometrico.inductive.pipeline: PHASE 2: Cross-Thematic Analysis
+2026-07-24 23:04:18 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:04:26 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:04:26 [INFO] bibliometrico.inductive.pipeline:   Phase 2 complete (grounded: True)
+2026-07-24 23:04:26 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:04:26 [INFO] bibliometrico.inductive.pipeline: PHASE 3: Analytical Framework Construction
+2026-07-24 23:04:26 [INFO] bibliometrico.inductive.pipeline: ============================================================
+2026-07-24 23:04:36 [INFO] httpx: HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 23:04:36 [INFO] bibliometrico.inductive.pipeline:   Phase 3 complete (grounded: True)
+2026-07-24 23:04:36 [INFO] bibliometrico.inductive.report:   Results saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\inductive\inductive_results_20260724_230304.json
+2026-07-24 23:04:36 [INFO] bibliometrico.inductive.report:   Trace log saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\inductive\logs\trace_20260724_230304.json
+2026-07-24 23:04:36 [ERROR] bibliometrico.inductive: Inductive analysis failed: sequence item 260: expected str instance, dict found
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation:   Trace log saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\triangulation\logs\trace_triangulation_20260724_230302.json
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation:   Raw results saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\triangulation\triangulation_results_20260724_230302.json
+2026-07-24 23:04:36 [INFO] bibliometrico.citation.csv_export:   CSV: model_run_registry.csv (2 rows appended)
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation_report: ============================================================
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation_report: Generating Triangulation Report
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation_report: ============================================================
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation_report:   Generated: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\triangulation\triangulation_report.md
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation_report:   Generated: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\triangulation\triangulation_metrics.json
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation_report:   Generated 2 files in G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\triangulation
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation:   Reports generated: 2 files
+2026-07-24 23:04:36 [INFO] bibliometrico.triangulation: Triangulation complete.
+2026-07-24 23:04:36 [INFO] bibliometrico.main: Triangulation complete: 2 report files generated
+2026-07-24 23:04:37 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 23:04:37 [INFO] bibliometrico.main: ============================================================
+2026-07-24 23:04:37 [INFO] bibliometrico.main: Pipeline completado.
+2026-07-24 23:04:37 [INFO] bibliometrico.main: ============================================================
+2026-07-24 23:04:37 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 23:04:37 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_230301.json
+2026-07-24 23:04:37 [INFO] bibliometrico.provenance: Manifiesto de corrida: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_230301.json

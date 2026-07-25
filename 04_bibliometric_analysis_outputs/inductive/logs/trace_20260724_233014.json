@@ -1,0 +1,136 @@
+{
+  "session_id": "20260724_233014",
+  "started_at": "2026-07-24T23:30:14.886717",
+  "config": {
+    "corpus_id": "5be989544683",
+    "provider": "mistral",
+    "extraction_model": "mistral-large-latest",
+    "reasoning_model": "same",
+    "prompt_version": "v1",
+    "schema_version": "v1",
+    "batching_policy": "sequential",
+    "batch_seed": null,
+    "batch_size": null,
+    "min_abstract_length": 50,
+    "temperature": 0.3,
+    "max_tokens": 8000,
+    "context_tokens": 40000,
+    "prompt_overhead_tokens": 1000,
+    "verification_thresholds": {
+      "quote_threshold": 0.75,
+      "grounding_verified": 0.5,
+      "synthesis_overlap": 0.3
+    },
+    "use_cache": true,
+    "experiment_mode": "same_model_all_phases",
+    "total_articles": 96,
+    "valid_articles": 94,
+    "batch_size_actual": 30
+  },
+  "prompt_hashes": {
+    "prompt:phase1_extract": "6cf44d6b1e52b430",
+    "prompt:phase1_synthesis": "14048a944e650cd5",
+    "prompt:phase2_cross": "1f69a490f8847874",
+    "prompt:phase3_framework": "c556b142f4e0ed71",
+    "schema:phase1_output": "d9250e855d06c8f7",
+    "schema:phase2_output": "7c26ff66f527bba8",
+    "schema:phase3_output": "60ffa3d3f93aaacb"
+  },
+  "provider_capability": {
+    "provider_interface": "openai_compat",
+    "validated_providers": [
+      "deepseek",
+      "openrouter",
+      "openai",
+      "anthropic",
+      "qwen",
+      "ollama",
+      "together",
+      "groq",
+      "mistral",
+      "custom"
+    ],
+    "current_run_provider": "Mistral",
+    "current_run_model": "mistral-large-latest",
+    "current_run_reasoning_model": "mistral-large-latest",
+    "protocol_invariance_tested": false
+  },
+  "operations": [
+    {
+      "timestamp": "2026-07-24T23:31:15.498137",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 1,
+        "n_articles": 30,
+        "n_themes": 9,
+        "grounding_score": 0.611,
+        "hallucination_flags": 14
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:32:08.308147",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 2,
+        "n_articles": 30,
+        "n_themes": 9,
+        "grounding_score": 0.974,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:33:01.552392",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 3,
+        "n_articles": 30,
+        "n_themes": 10,
+        "grounding_score": 0.977,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:33:32.590104",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 4,
+        "n_articles": 4,
+        "n_themes": 8,
+        "grounding_score": 0.971,
+        "hallucination_flags": 1
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:34:24.955536",
+      "operation": "phase1_complete",
+      "details": {
+        "n_batches": 4,
+        "n_themes_final": 13,
+        "avg_grounding_score": 0.883,
+        "total_hallucination_flags": 17
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:34:55.006378",
+      "operation": "phase2_complete",
+      "details": {
+        "n_relationships": 0,
+        "n_axes": 0,
+        "grounded": true,
+        "invalid_refs": 0,
+        "model_used": "mistral-large-latest"
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:35:19.507048",
+      "operation": "phase3_complete",
+      "details": {
+        "n_frameworks": 3,
+        "grounded": true,
+        "invalid_refs": 0,
+        "model_used": "mistral-large-latest"
+      }
+    }
+  ],
+  "completed_at": "2026-07-24T23:35:19.525660"
+}

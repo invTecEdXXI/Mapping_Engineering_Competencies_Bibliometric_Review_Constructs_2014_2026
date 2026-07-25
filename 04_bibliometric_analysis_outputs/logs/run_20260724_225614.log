@@ -1,0 +1,232 @@
+2026-07-24 22:56:14 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:56:14 [INFO] bibliometrico.main: Sistema de Analisis Bibliometrico de Frontera
+2026-07-24 22:56:14 [INFO] bibliometrico.main: Fases seleccionadas: [10]
+2026-07-24 22:56:14 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:56:15 [INFO] bibliometrico.main: Checkpoint cargado: 96 articulos
+2026-07-24 22:56:15 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:56:15 [INFO] bibliometrico.main: Rebuilding networks for Phase 10 (RDM)...
+2026-07-24 22:56:16 [INFO] bibliometrico.networks: Bibliographic coupling: 73 nodes, 541 edges
+2026-07-24 22:56:16 [INFO] bibliometrico.networks: Communities detected: 12
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: ============================================================
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: Phase 10: Research Dynamics Manifold (RDM)
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: ============================================================
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: Computing Emergence axis (E)...
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm:   Emergence: 96 articles, mean=0.500
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: Computing Impact axis (I)...
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm:   Impact: 96 articles, mean=0.472
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: Computing Structural Connectivity axis (S)...
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm:   Connectivity: 96 articles, mean=0.500
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: Medians — E: 0.527, I: 0.470, S: 0.500
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: RDM computed for 96 articles
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_data.json
+2026-07-24 22:56:16 [INFO] bibliometrico.rdm: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_scatter_3d.html
+2026-07-24 22:56:16 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:56:16 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:56:16 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpfjk7kmce.
+2026-07-24 22:56:16 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:56:16 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp3t74zzn3.
+2026-07-24 22:56:16 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmp3t74zzn3
+2026-07-24 22:56:16 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpfjk7kmce/index.html
+2026-07-24 22:56:16 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:56:17 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:56:17 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:56:17 [INFO] kaleido.kaleido: Got 972C
+2026-07-24 22:56:17 [INFO] kaleido._kaleido_tab: Processing Research_Dynamics_Manifold_RDMbrsubEmergence__Impact__Structural_Connectivitysub.png
+2026-07-24 22:56:17 [INFO] kaleido._kaleido_tab: Sending big command for Research_Dynamics_Manifold_RDMbrsubEmergence__Impact__Structural_Connectivitysub.png.
+2026-07-24 22:56:20 [INFO] kaleido._kaleido_tab: Sent big command for Research_Dynamics_Manifold_RDMbrsubEmergence__Impact__Structural_Connectivitysub.png.
+2026-07-24 22:56:20 [INFO] kaleido.kaleido: Reloading tab 972C before return.
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Putting tab 972C back (queue size: 0).
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:56:21 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:21 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:21 [INFO] bibliometrico.rdm: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_scatter_3d.png
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:21 [INFO] bibliometrico.rdm: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_projections_2d.html
+2026-07-24 22:56:21 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:56:21 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp8eac4lf4.
+2026-07-24 22:56:21 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:56:21 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpxm0q0g9e.
+2026-07-24 22:56:21 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpxm0q0g9e
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp8eac4lf4/index.html
+2026-07-24 22:56:21 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:56:22 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:56:22 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:56:22 [INFO] kaleido.kaleido: Got 951F
+2026-07-24 22:56:22 [INFO] kaleido._kaleido_tab: Processing RDM__2D_Projections.png
+2026-07-24 22:56:22 [INFO] kaleido._kaleido_tab: Sending big command for RDM__2D_Projections.png.
+2026-07-24 22:56:23 [INFO] kaleido._kaleido_tab: Sent big command for RDM__2D_Projections.png.
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Reloading tab 951F before return.
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Putting tab 951F back (queue size: 0).
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:56:23 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:23 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:23 [INFO] bibliometrico.rdm: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_projections_2d.png
+2026-07-24 22:56:23 [INFO] bibliometrico.rdm: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_report.md
+2026-07-24 22:56:23 [INFO] bibliometrico.rdm_viz3d: Building Citation Chronotope 3D...
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:23 [INFO] bibliometrico.rdm_viz3d: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\citation_chronotope_3d.html
+2026-07-24 22:56:23 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:56:23 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp0bbqebuk.
+2026-07-24 22:56:23 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:56:23 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp6ac7nxwx.
+2026-07-24 22:56:23 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmp6ac7nxwx
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp0bbqebuk/index.html
+2026-07-24 22:56:23 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:56:24 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:56:24 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:56:24 [INFO] kaleido.kaleido: Got 8843
+2026-07-24 22:56:24 [INFO] kaleido._kaleido_tab: Processing Citation_Chronotope_3DbrsubTime__Thematic_Cluster__Impact__arcs__internal_citationssub.png
+2026-07-24 22:56:24 [INFO] kaleido._kaleido_tab: Sending big command for Citation_Chronotope_3DbrsubTime__Thematic_Cluster__Impact__arcs__internal_citationssub.png.
+2026-07-24 22:56:28 [INFO] kaleido._kaleido_tab: Sent big command for Citation_Chronotope_3DbrsubTime__Thematic_Cluster__Impact__arcs__internal_citationssub.png.
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Reloading tab 8843 before return.
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Putting tab 8843 back (queue size: 0).
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:56:28 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:28 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:28 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:28 [INFO] bibliometrico.rdm_viz3d: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\citation_chronotope_3d.png
+2026-07-24 22:56:28 [INFO] bibliometrico.rdm_viz3d: Citation Chronotope 3D: 80 articles, 0 citation arcs, 11 clusters
+2026-07-24 22:56:28 [INFO] bibliometrico.rdm_viz3d: Building Thematic Landscape 3D...
+2026-07-24 22:56:28 [INFO] bibliometrico.rdm_viz3d: Temporal periods: [(2014, 2017), (2018, 2021), (2022, 2026)]
+2026-07-24 22:56:28 [INFO] bibliometrico.rdm_viz3d: Period 2014-2017: 3 clusters, 23 articles
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:28 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:29 [INFO] bibliometrico.rdm_viz3d: Period 2018-2021: 3 clusters, 35 articles
+2026-07-24 22:56:29 [INFO] bibliometrico.rdm_viz3d: Period 2022-2026: 4 clusters, 38 articles
+2026-07-24 22:56:29 [INFO] bibliometrico.rdm_viz3d: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\thematic_landscape_3d.html
+2026-07-24 22:56:29 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:56:29 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:56:29 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp5ap70jew.
+2026-07-24 22:56:29 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:56:29 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpdc87tvyn.
+2026-07-24 22:56:29 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpdc87tvyn
+2026-07-24 22:56:29 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp5ap70jew/index.html
+2026-07-24 22:56:29 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:56:30 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:56:30 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:56:30 [INFO] kaleido.kaleido: Got B881
+2026-07-24 22:56:30 [INFO] kaleido._kaleido_tab: Processing Thematic_Landscape_3DbrsubCallon_Centrality__Callon_Density__Temporal_Periodsub.png
+2026-07-24 22:56:30 [INFO] kaleido._kaleido_tab: Sending big command for Thematic_Landscape_3DbrsubCallon_Centrality__Callon_Density__Temporal_Periodsub.png.
+2026-07-24 22:56:33 [INFO] kaleido._kaleido_tab: Sent big command for Thematic_Landscape_3DbrsubCallon_Centrality__Callon_Density__Temporal_Periodsub.png.
+2026-07-24 22:56:33 [INFO] kaleido.kaleido: Reloading tab B881 before return.
+2026-07-24 22:56:33 [INFO] kaleido.kaleido: Putting tab B881 back (queue size: 0).
+2026-07-24 22:56:33 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:56:33 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:56:33 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:33 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:33 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:33 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:33 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:33 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:34 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:34 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:34 [INFO] bibliometrico.rdm_viz3d: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\thematic_landscape_3d.png
+2026-07-24 22:56:34 [INFO] bibliometrico.rdm_viz3d: Thematic Landscape 3D: 10 cluster-period instances, 0 tracked trajectories across periods
+2026-07-24 22:56:34 [INFO] bibliometrico.rdm_viz3d: Building Cluster Evolution Timeline 3D...
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:34 [INFO] bibliometrico.rdm_viz3d: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\cluster_evolution_3d.html
+2026-07-24 22:56:34 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:56:34 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpn9ii3rui.
+2026-07-24 22:56:34 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:56:34 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpy_e9mssv.
+2026-07-24 22:56:34 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpy_e9mssv
+2026-07-24 22:56:34 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpn9ii3rui/index.html
+2026-07-24 22:56:34 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:56:35 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:56:35 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:56:35 [INFO] kaleido.kaleido: Got 5619
+2026-07-24 22:56:35 [INFO] kaleido._kaleido_tab: Processing Cluster_Evolution_Timeline_3DbrsubTime__Thematic_Cluster__Burst__arcs__inter_cluster_co_occurrencessub.png
+2026-07-24 22:56:35 [INFO] kaleido._kaleido_tab: Sending big command for Cluster_Evolution_Timeline_3DbrsubTime__Thematic_Cluster__Burst__arcs__inter_cluster_co_occurrencessub.png.
+2026-07-24 22:56:39 [INFO] kaleido._kaleido_tab: Sent big command for Cluster_Evolution_Timeline_3DbrsubTime__Thematic_Cluster__Burst__arcs__inter_cluster_co_occurrencessub.png.
+2026-07-24 22:56:39 [INFO] kaleido.kaleido: Reloading tab 5619 before return.
+2026-07-24 22:56:39 [INFO] kaleido.kaleido: Putting tab 5619 back (queue size: 0).
+2026-07-24 22:56:39 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:56:39 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:56:39 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:39 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:56:39 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:39 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:39 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:39 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:40 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:56:40 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:56:40 [INFO] bibliometrico.rdm_viz3d: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\cluster_evolution_3d.png
+2026-07-24 22:56:40 [INFO] bibliometrico.rdm_viz3d: Cluster Evolution 3D: 203 keywords, 6 clusters, 100 cross-cluster arcs
+2026-07-24 22:56:40 [INFO] bibliometrico.rdm: Additional 3D visualizations: 3 charts
+2026-07-24 22:56:40 [INFO] bibliometrico.rdm_mpl: Generating Figure 4: Thematic Landscape 2D...
+2026-07-24 22:56:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:56:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:56:42 [INFO] bibliometrico.rdm_mpl: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_thematic_landscape_2d.png
+2026-07-24 22:56:42 [INFO] bibliometrico.rdm_mpl: Generating Figure 1: Thematic Overlay Map...
+2026-07-24 22:56:47 [INFO] bibliometrico.rdm_mpl: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_thematic_overlay_map.png
+2026-07-24 22:56:47 [INFO] bibliometrico.rdm_mpl: Generating Figure 2: Strategic Diagram (Callon)...
+2026-07-24 22:56:48 [INFO] bibliometrico.rdm_mpl: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_strategic_diagram_callon.png
+2026-07-24 22:56:48 [INFO] bibliometrico.rdm_mpl: Generating Figure 3: Country Collaboration Network...
+2026-07-24 22:56:48 [WARNING] bibliometrico.rdm_mpl: Cannot build country collaboration network: insufficient data
+2026-07-24 22:56:48 [INFO] bibliometrico.rdm_mpl: Generating Figure 5: CiteSpace Timeline...
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm_mpl: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\rdm\rdm_citespace_timeline.png
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm_mpl: Matplotlib publication figures complete: 4/5 saved
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm: Matplotlib publication figures: 4 charts
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm: RDM complete: 96 articles, 8 archetypes active
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Silent Connectors: 21 (21.9%)
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Paradigm Shifters: 18 (18.8%)
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Established Pillars: 11 (11.5%)
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Viral Novelties: 11 (11.5%)
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Emerging Bridges: 11 (11.5%)
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Canonical Isolates: 8 (8.3%)
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Isolated Seeds: 8 (8.3%)
+2026-07-24 22:56:50 [INFO] bibliometrico.rdm:   Peripheral Works: 8 (8.3%)
+2026-07-24 22:56:50 [INFO] bibliometrico.main: Phase 10: RDM — 96 articles, 8 archetypes, 9 charts
+2026-07-24 22:56:50 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:56:50 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:56:50 [INFO] bibliometrico.main: Pipeline completado.
+2026-07-24 22:56:50 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:56:50 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:56:51 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_225614.json
+2026-07-24 22:56:51 [INFO] bibliometrico.provenance: Manifiesto de corrida: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_225614.json

@@ -1,0 +1,71 @@
+{
+  "session_id": "20260724_231740",
+  "phase": "1_refine",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:18:41.466511",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 5
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Transferable and Vocational Competencies",
+      "definition": "The assessment and validation of non-technical skills (e.g., communication, teamwork, problem-solving, critical thinking) deemed essential for engineering graduates' employability and professional success. This theme focuses on competencies that bridge academic learning and workplace demands, including contextual competence and adaptability.",
+      "subthemes": [
+        "Employability skills",
+        "Critical thinking",
+        "Contextual competence",
+        "Teamwork and collaboration"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 9
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Sustainability, Ethics, and Social Responsibility Competencies",
+      "definition": "The evaluation of competencies related to sustainability, ethical principles, and social responsibility within engineering education. This theme examines how these competencies are integrated into curricula and assessed, emphasizing the role of engineers in addressing global challenges and societal needs.",
+      "subthemes": [
+        "Sustainability education",
+        "Ethical principles",
+        "Social responsibility",
+        "Global and intergenerational impact"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Demographic Influences on Engineering Competencies",
+      "definition": "The examination of how gender, class level, transfer status, or other demographic factors influence self-efficacy, problem-solving abilities, or other measured competencies in engineering education. This theme explores disparities and variations in outcomes across different student groups.",
+      "subthemes": [
+        "Gender disparities",
+        "First-generation students",
+        "Demographic impacts",
+        "Class level differences"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Industry and Workplace Readiness Assessment",
+      "definition": "The assessment of competencies related to workplace readiness, including internships, employability skills, and alignment between academic training and industry expectations. This theme focuses on evaluating how well engineering programs prepare students for professional roles and industry demands.",
+      "subthemes": [
+        "Internship programs",
+        "Employability skills",
+        "Industry alignment",
+        "Workplace competency evaluation"
+      ]
+    }
+  ]
+}

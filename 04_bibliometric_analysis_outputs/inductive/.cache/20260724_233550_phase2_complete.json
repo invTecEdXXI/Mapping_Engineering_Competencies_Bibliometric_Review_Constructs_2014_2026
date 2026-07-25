@@ -1,0 +1,115 @@
+{
+  "session_id": "20260724_233550",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-07-24T23:46:53.972115",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Instrument Development and Psychometric Validation in Engineering Education",
+        "theme_b": "Factor Analysis as Primary Validation Method",
+        "relationship_type": "complementary",
+        "description": "Factor analysis (EFA/CFA) is the core method within psychometric validation studies, used across most instrument development research to establish construct validity and reliability. The Factor Analysis theme explicitly deepens this methodological focus.",
+        "n_studies_support": 60,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Self-Efficacy and Engineering Identity Measurement",
+        "theme_b": "Linking Student Attributes to Career Intentions and Professional Outcomes",
+        "relationship_type": "causation",
+        "description": "Self-efficacy and engineering identity are directly modeled as predictors of career persistence and entrepreneurial intentions, with many studies establishing mediating or predictive paths.",
+        "n_studies_support": 10,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Motivation and Engagement in Engineering Education",
+        "theme_b": "Affective and Motivational Factors in Professional Skill Development",
+        "relationship_type": "association",
+        "description": "Both themes address intrinsic and extrinsic motivation, self-regulation, and emotional factors, but the former focuses on general academic engagement while the latter connects these factors specifically to professional skill development (e.g., writing, teamwork).",
+        "n_studies_support": 5,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Assessment of Generic, Transversal, and Professional Competencies",
+        "theme_b": "Attitudes Toward Engineering and Practical Learning Experiences",
+        "relationship_type": "complementary",
+        "description": "One measures actual competency levels, while the other captures students’ attitudes toward those very competencies, offering a combined view of skill proficiency and disposition.",
+        "n_studies_support": 4,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Rubric-Based Competency Assessment",
+        "theme_b": "Instrument Development and Psychometric Validation in Engineering Education",
+        "relationship_type": "complementary",
+        "description": "Rubric-based assessment often employs content validation (expert judgment) and inter-rater reliability, which are integral parts of broad instrument development processes, though rubrics may emphasize qualitative consistency over factor analysis.",
+        "n_studies_support": 4,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Critical, Reflective, and Representational Thinking Assessment",
+        "theme_b": "Research Competences and Investigative Skills",
+        "relationship_type": "association",
+        "description": "Both involve higher-order cognitive skills: critical thinking and reflection overlap with intellectual competences required for research, and both use instruments to measure complex problem-solving abilities.",
+        "n_studies_support": 3,
+        "robustness": "Medium"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Psychometric instrument development cycle: A specific construct (e.g., self-efficacy, competencies, attitudes) is operationalized into a scale, then validated using factor analysis (EFA/CFA) and reliability analysis. This pattern dominates the field.",
+        "components": [
+          "Instrument Development and Psychometric Validation in Engineering Education",
+          "Factor Analysis as Primary Validation Method",
+          "Any substantive theme (e.g., Self-Efficacy and Engineering Identity Measurement, Assessment of Generic, Transversal, and Professional Competencies)"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Motivation-identity-outcome pathway: Studies that link non-cognitive attributes (self-efficacy, motivation, mindset) to career intentions or persistence, often mediated by engagement or identity.",
+        "components": [
+          "Self-Efficacy and Engineering Identity Measurement",
+          "Motivation and Engagement in Engineering Education",
+          "Linking Student Attributes to Career Intentions and Professional Outcomes"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Holistic professional skill assessment: Combining direct competency measurement via rubrics with attitudinal surveys to capture both skill demonstration and student perceptions in practical settings.",
+        "components": [
+          "Assessment of Generic, Transversal, and Professional Competencies",
+          "Rubric-Based Competency Assessment",
+          "Attitudes Toward Engineering and Practical Learning Experiences"
+        ],
+        "frequency": "Low"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Methodological Rigor vs. Construct Exploration",
+        "justification": "Many studies emphasize psychometric validation (factor analysis, reliability) while others focus on defining and measuring new constructs. This axis distinguishes between advancing measurement science and extending the substantive scope of engineering education research.",
+        "coverage": "80%",
+        "research_potential": "Helps identify which constructs lack rigorous measurement and which methods could be transferred to under-explored domains (e.g., ethical/affective competencies)."
+      },
+      {
+        "axis": "Cognitive/Behavioral vs. Affective/Dispositional Assessment",
+        "justification": "Themes split between assessing observable skills (critical thinking, professional competencies) and internal states (motivation, mindset, identity). This axis allows analysis of how the field balances competency-based education with whole-person development.",
+        "coverage": "65%",
+        "research_potential": "Underscores the need for integrated frameworks that capture the interplay between skill and disposition, informing holistic curriculum design."
+      },
+      {
+        "axis": "Descriptive Measurement vs. Predictive/Causal Modeling",
+        "justification": "Most studies stop at instrument validation or descriptive measurement, while a smaller set explicitly models relationships to career outcomes. This axis reveals the extent to which research moves from diagnosis to forecasting or intervention.",
+        "coverage": "50%",
+        "research_potential": "Encourages longitudinal and predictive studies that validate instruments against real-world professional performance, not just academic proxies."
+      }
+    ],
+    "gaps_and_contradictions": "Gaps: Despite a proliferation of instruments, few studies integrate multiple constructs (e.g., testing how self-efficacy, motivation, and competency levels interact to predict outcomes). There is a scarcity of cross-cultural or multi-institutional validation, limiting generalizability. Affective and ethical dimensions are underrepresented and rarely connected to cognitive or skill-based assessments. Contradictions: While factor analysis demands large samples and quantitative rigor, rubric-based studies rely on expert panels and inter-rater reliability, creating a tension between nomothetic and idiographic validation standards that is rarely addressed. Additionally, the strong focus on self-report measures contrasts with a lack of performance-based or behavioral criteria validation.",
+    "_theme_reference_check": {
+      "valid_references": 12,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

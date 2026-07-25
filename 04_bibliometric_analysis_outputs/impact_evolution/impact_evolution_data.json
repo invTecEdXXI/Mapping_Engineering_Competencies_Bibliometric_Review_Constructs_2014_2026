@@ -1,0 +1,1038 @@
+{
+  "fwci": {
+    "n_articles_with_fwci": 49,
+    "n_articles_with_percentile": 57,
+    "fwci_mean": 3.812,
+    "fwci_median": 2.149,
+    "fwci_std": 6.237,
+    "pct_above_1": 57.1,
+    "pct_top_10": 10.2,
+    "pct_top_1": 2.0,
+    "fwci_by_topic": [
+      {
+        "topic": "Sustainability in Higher Education",
+        "median": 12.7915,
+        "mean": 10.748866666666666,
+        "n": 3
+      },
+      {
+        "topic": "Innovative Teaching Methods",
+        "median": 8.0715,
+        "mean": 8.0715,
+        "n": 1
+      },
+      {
+        "topic": "Ethics in Business and Education",
+        "median": 5.5892,
+        "mean": 5.5892,
+        "n": 1
+      },
+      {
+        "topic": "Entrepreneurship Studies and Influences",
+        "median": 5.38105,
+        "mean": 5.38105,
+        "n": 2
+      },
+      {
+        "topic": "Student Assessment and Feedback",
+        "median": 4.970000000000001,
+        "mean": 4.970000000000001,
+        "n": 2
+      },
+      {
+        "topic": "Higher Education and Employability",
+        "median": 4.803,
+        "mean": 4.482500000000001,
+        "n": 6
+      },
+      {
+        "topic": "Teaching and Learning Programming",
+        "median": 4.7223,
+        "mean": 4.7223,
+        "n": 2
+      },
+      {
+        "topic": "Career Development and Diversity",
+        "median": 3.8473,
+        "mean": 7.888985714285715,
+        "n": 7
+      },
+      {
+        "topic": "Mindfulness and Compassion Interventions",
+        "median": 2.8202,
+        "mean": 2.8202,
+        "n": 1
+      },
+      {
+        "topic": "Innovative Teaching and Learning Methods",
+        "median": 2.6667,
+        "mean": 2.6667,
+        "n": 2
+      },
+      {
+        "topic": "COVID-19 and Mental Health",
+        "median": 2.1648,
+        "mean": 2.1648,
+        "n": 1
+      },
+      {
+        "topic": "Educational Research and Science Teaching",
+        "median": 2.1489,
+        "mean": 2.1489,
+        "n": 1
+      },
+      {
+        "topic": "Engineering Education and Curriculum Development",
+        "median": 1.6524,
+        "mean": 2.4159800000000002,
+        "n": 5
+      },
+      {
+        "topic": "Education and Learning Interventions",
+        "median": 1.3338,
+        "mean": 1.3338,
+        "n": 1
+      },
+      {
+        "topic": "Creativity in Education and Neuroscience",
+        "median": 1.1595,
+        "mean": 1.1595,
+        "n": 1
+      },
+      {
+        "topic": "Mathematics Education and Programs",
+        "median": 0.7274,
+        "mean": 0.7274,
+        "n": 1
+      },
+      {
+        "topic": "Design Education and Practice",
+        "median": 0.6769,
+        "mean": 0.6769,
+        "n": 1
+      },
+      {
+        "topic": "Construction Project Management and Performance",
+        "median": 0.1633,
+        "mean": 0.1633,
+        "n": 1
+      },
+      {
+        "topic": "Higher Education Teaching and Evaluation",
+        "median": 0.0,
+        "mean": 0.0,
+        "n": 1
+      },
+      {
+        "topic": "Learning Styles and Cognitive Differences",
+        "median": 0.0,
+        "mean": 0.0,
+        "n": 1
+      }
+    ],
+    "fwci_temporal": [
+      {
+        "year": 2014,
+        "median": 3.525,
+        "mean": 3.525,
+        "n": 1
+      },
+      {
+        "year": 2015,
+        "median": 4.214,
+        "mean": 7.153,
+        "n": 4
+      },
+      {
+        "year": 2016,
+        "median": 2.229,
+        "mean": 13.357,
+        "n": 3
+      },
+      {
+        "year": 2017,
+        "median": 0.0,
+        "mean": 1.363,
+        "n": 3
+      },
+      {
+        "year": 2018,
+        "median": 7.846,
+        "mean": 7.846,
+        "n": 1
+      },
+      {
+        "year": 2019,
+        "median": 4.718,
+        "mean": 4.718,
+        "n": 2
+      },
+      {
+        "year": 2020,
+        "median": 5.92,
+        "mean": 5.697,
+        "n": 3
+      },
+      {
+        "year": 2021,
+        "median": 3.104,
+        "mean": 4.94,
+        "n": 7
+      },
+      {
+        "year": 2022,
+        "median": 0.42,
+        "mean": 0.747,
+        "n": 4
+      },
+      {
+        "year": 2023,
+        "median": 0.432,
+        "mean": 1.009,
+        "n": 3
+      },
+      {
+        "year": 2024,
+        "median": 1.334,
+        "mean": 2.252,
+        "n": 5
+      },
+      {
+        "year": 2025,
+        "median": 0.762,
+        "mean": 2.33,
+        "n": 7
+      },
+      {
+        "year": 2026,
+        "median": 0.0,
+        "mean": 1.324,
+        "n": 6
+      }
+    ]
+  },
+  "price_index": {
+    "n_articles": 73,
+    "price_index_mean": 31.4,
+    "price_index_median": 27.7,
+    "median_ref_age_mean": 9.6,
+    "median_ref_age_median": 9.5,
+    "total_refs": 3906,
+    "median_ref_age_overall": 10.0,
+    "price_index_temporal": [
+      {
+        "year": 2014,
+        "median_pi": 39.5,
+        "n": 1
+      },
+      {
+        "year": 2015,
+        "median_pi": 27.8,
+        "n": 7
+      },
+      {
+        "year": 2016,
+        "median_pi": 18.2,
+        "n": 5
+      },
+      {
+        "year": 2017,
+        "median_pi": 23.4,
+        "n": 8
+      },
+      {
+        "year": 2018,
+        "median_pi": 30.0,
+        "n": 7
+      },
+      {
+        "year": 2019,
+        "median_pi": 24.0,
+        "n": 6
+      },
+      {
+        "year": 2020,
+        "median_pi": 20.9,
+        "n": 4
+      },
+      {
+        "year": 2021,
+        "median_pi": 27.3,
+        "n": 9
+      },
+      {
+        "year": 2022,
+        "median_pi": 65.7,
+        "n": 4
+      },
+      {
+        "year": 2023,
+        "median_pi": 37.2,
+        "n": 6
+      },
+      {
+        "year": 2024,
+        "median_pi": 14.7,
+        "n": 4
+      },
+      {
+        "year": 2025,
+        "median_pi": 34.0,
+        "n": 8
+      },
+      {
+        "year": 2026,
+        "median_pi": 39.1,
+        "n": 4
+      }
+    ]
+  },
+  "concept_evolution": {
+    "n_concepts_total": 342,
+    "n_top_concepts": 25,
+    "top_concepts": [
+      "Psychology",
+      "Engineering",
+      "Computer science",
+      "Mathematics education",
+      "Scale (ratio)",
+      "Engineering education",
+      "Education",
+      "Medicine",
+      "Engineering management",
+      "Social psychology",
+      "Medical education",
+      "Reliability (semiconductor)",
+      "Psychometrics",
+      "Confirmatory factor analysis",
+      "Pedagogy",
+      "Structural equation modeling",
+      "Physics",
+      "Mathematics",
+      "Knowledge management",
+      "Applied psychology",
+      "Quantum mechanics",
+      "Cronbach's alpha",
+      "Clinical psychology",
+      "Exploratory factor analysis",
+      "Statistics"
+    ],
+    "lifecycles": [
+      {
+        "concept": "Psychology",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 147,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Engineering",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2017,
+        "total": 126,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Computer science",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2017,
+        "total": 111,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Mathematics education",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2015,
+        "total": 88,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Scale (ratio)",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2018,
+        "total": 67,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Engineering education",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2018,
+        "total": 66,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Education",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2025,
+        "total": 65,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Medicine",
+        "first_year": 2015,
+        "last_year": 2025,
+        "peak_year": 2021,
+        "total": 62,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Engineering management",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2018,
+        "total": 60,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Social psychology",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2016,
+        "total": 57,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Medical education",
+        "first_year": 2015,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 57,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Reliability (semiconductor)",
+        "first_year": 2015,
+        "last_year": 2026,
+        "peak_year": 2016,
+        "total": 52,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Psychometrics",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 51,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Confirmatory factor analysis",
+        "first_year": 2016,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 49,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Pedagogy",
+        "first_year": 2015,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 48,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Structural equation modeling",
+        "first_year": 2016,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 45,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Physics",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2016,
+        "total": 41,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Mathematics",
+        "first_year": 2015,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 38,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Knowledge management",
+        "first_year": 2016,
+        "last_year": 2026,
+        "peak_year": 2017,
+        "total": 35,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Applied psychology",
+        "first_year": 2015,
+        "last_year": 2026,
+        "peak_year": 2021,
+        "total": 33,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Quantum mechanics",
+        "first_year": 2014,
+        "last_year": 2025,
+        "peak_year": 2018,
+        "total": 32,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Cronbach's alpha",
+        "first_year": 2015,
+        "last_year": 2026,
+        "peak_year": 2022,
+        "total": 31,
+        "phase": "foundational"
+      },
+      {
+        "concept": "Clinical psychology",
+        "first_year": 2016,
+        "last_year": 2024,
+        "peak_year": 2022,
+        "total": 31,
+        "phase": "active"
+      },
+      {
+        "concept": "Exploratory factor analysis",
+        "first_year": 2014,
+        "last_year": 2026,
+        "peak_year": 2022,
+        "total": 29,
+        "phase": "active"
+      },
+      {
+        "concept": "Statistics",
+        "first_year": 2016,
+        "last_year": 2025,
+        "peak_year": 2016,
+        "total": 26,
+        "phase": "active"
+      }
+    ],
+    "diversity": [
+      {
+        "year": 2014,
+        "shannon": 3.1726,
+        "n_concepts": 25
+      },
+      {
+        "year": 2015,
+        "shannon": 4.0132,
+        "n_concepts": 72
+      },
+      {
+        "year": 2016,
+        "shannon": 4.0546,
+        "n_concepts": 73
+      },
+      {
+        "year": 2017,
+        "shannon": 4.1217,
+        "n_concepts": 83
+      },
+      {
+        "year": 2018,
+        "shannon": 4.0908,
+        "n_concepts": 85
+      },
+      {
+        "year": 2019,
+        "shannon": 4.1679,
+        "n_concepts": 86
+      },
+      {
+        "year": 2020,
+        "shannon": 3.7063,
+        "n_concepts": 46
+      },
+      {
+        "year": 2021,
+        "shannon": 4.2243,
+        "n_concepts": 97
+      },
+      {
+        "year": 2022,
+        "shannon": 4.0682,
+        "n_concepts": 72
+      },
+      {
+        "year": 2023,
+        "shannon": 4.0454,
+        "n_concepts": 71
+      },
+      {
+        "year": 2024,
+        "shannon": 4.1592,
+        "n_concepts": 78
+      },
+      {
+        "year": 2025,
+        "shannon": 4.3565,
+        "n_concepts": 106
+      },
+      {
+        "year": 2026,
+        "shannon": 4.3222,
+        "n_concepts": 92
+      }
+    ]
+  },
+  "topic_flow": {
+    "status": "no_data"
+  },
+  "beauty_coefficient": {
+    "n_articles": 33,
+    "top_sleeping_beauties": [
+      {
+        "key": "NLXE3X6S",
+        "title": "Assessing students' motivation to engage in sustainable engineering.",
+        "year": 2015,
+        "beauty_coefficient": 20.58,
+        "peak_year": 2024,
+        "peak_citations": 24,
+        "cited_by_count": 75,
+        "sleeping_years": 9
+      },
+      {
+        "key": "J4L96ZTQ",
+        "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+        "year": 2016,
+        "beauty_coefficient": 14.45,
+        "peak_year": 2024,
+        "peak_citations": 97,
+        "cited_by_count": 296,
+        "sleeping_years": 8
+      },
+      {
+        "key": "Y27Q6N9A",
+        "title": "Assessing vocational competencies in civil engineering: Lessons from AHELO for f",
+        "year": 2015,
+        "beauty_coefficient": 12.75,
+        "peak_year": 2023,
+        "peak_citations": 5,
+        "cited_by_count": 15,
+        "sleeping_years": 8
+      },
+      {
+        "key": "SFEN9MC6",
+        "title": "Development of the Transferable Learning Orientations Tool: Providing Metacognit",
+        "year": 2016,
+        "beauty_coefficient": 12.25,
+        "peak_year": 2024,
+        "peak_citations": 5,
+        "cited_by_count": 15,
+        "sleeping_years": 8
+      },
+      {
+        "key": "J8H6TD8Q",
+        "title": "Systems thinking skills of undergraduate engineering students",
+        "year": 2015,
+        "beauty_coefficient": 9.2,
+        "peak_year": 2020,
+        "peak_citations": 7,
+        "cited_by_count": 21,
+        "sleeping_years": 5
+      },
+      {
+        "key": "U374P6MT",
+        "title": "Adapting Computer Programming Self-Efficacy Scale and Engineering Students' Self",
+        "year": 2014,
+        "beauty_coefficient": 7.71,
+        "peak_year": 2021,
+        "peak_citations": 9,
+        "cited_by_count": 42,
+        "sleeping_years": 7
+      },
+      {
+        "key": "UQVRIPCY",
+        "title": "Modifying the VALUE Rubrics to Assess the Entrepreneurial Mind-set",
+        "year": 2019,
+        "beauty_coefficient": 7.2,
+        "peak_year": 2024,
+        "peak_citations": 4,
+        "cited_by_count": 8,
+        "sleeping_years": 5
+      },
+      {
+        "key": "Y345N2W5",
+        "title": "A Validity and Reliability Study of the Basic Electronics Skills Self-Efficacy S",
+        "year": 2016,
+        "beauty_coefficient": 6.0,
+        "peak_year": 2021,
+        "peak_citations": 3,
+        "cited_by_count": 6,
+        "sleeping_years": 5
+      },
+      {
+        "key": "DFVK7NR2",
+        "title": "Adaptation and validation of the Work Experience Questionnaire for investigating",
+        "year": 2020,
+        "beauty_coefficient": 6.0,
+        "peak_year": 2024,
+        "peak_citations": 9,
+        "cited_by_count": 27,
+        "sleeping_years": 4
+      },
+      {
+        "key": "IUF35Z2I",
+        "title": "Employability skills measurement model's of vocational student",
+        "year": 2016,
+        "beauty_coefficient": 5.0,
+        "peak_year": 2024,
+        "peak_citations": 2,
+        "cited_by_count": 6,
+        "sleeping_years": 8
+      },
+      {
+        "key": "LHGYXXJG",
+        "title": "The Employability Skills of Engineering Students': Assessment at the University",
+        "year": 2021,
+        "beauty_coefficient": 4.38,
+        "peak_year": 2024,
+        "peak_citations": 9,
+        "cited_by_count": 23,
+        "sleeping_years": 3
+      },
+      {
+        "key": "PNGM9L8J",
+        "title": "Expanding and Refining a Decision-Making Competency Inventory for Undergraduate ",
+        "year": 2019,
+        "beauty_coefficient": 4.0,
+        "peak_year": 2024,
+        "peak_citations": 3,
+        "cited_by_count": 5,
+        "sleeping_years": 5
+      },
+      {
+        "key": "WHKSKTII",
+        "title": "Testing for measurement invariance in engineering identity constructs for first-",
+        "year": 2017,
+        "beauty_coefficient": 4.0,
+        "peak_year": 2024,
+        "peak_citations": 2,
+        "cited_by_count": 4,
+        "sleeping_years": 7
+      },
+      {
+        "key": "B4EBYEKF",
+        "title": "Development and initial validation of the Engineering Learning Experiences Scale",
+        "year": 2021,
+        "beauty_coefficient": 2.33,
+        "peak_year": 2024,
+        "peak_citations": 4,
+        "cited_by_count": 11,
+        "sleeping_years": 3
+      },
+      {
+        "key": "QAJGLZ2K",
+        "title": "ABET Criterion 3 as a Measure of Engineering Self-Efficacy: Comparing the New Cr",
+        "year": 2018,
+        "beauty_coefficient": 2.0,
+        "peak_year": 2021,
+        "peak_citations": 2,
+        "cited_by_count": 5,
+        "sleeping_years": 3
+      }
+    ],
+    "b_mean": 3.71,
+    "b_median": 1.23,
+    "b_max": 20.58
+  },
+  "css_classification": {
+    "n_articles": 96,
+    "beta_1": 13.53,
+    "beta_2": 44.67,
+    "beta_3": 87.12,
+    "all_betas": [
+      13.53,
+      44.67,
+      87.12
+    ],
+    "class_distribution": {
+      "Poorly cited": 72,
+      "Fairly cited": 16,
+      "Remarkably cited": 7,
+      "Outstandingly cited": 1
+    },
+    "outstanding_articles": [
+      {
+        "key": "J4L96ZTQ",
+        "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+        "year": 2016,
+        "cited_by_count": 296,
+        "css_class": "Outstandingly cited"
+      }
+    ]
+  },
+  "outgrow_index": {
+    "n_articles": 72,
+    "cr_mean": 0.0902,
+    "cr_median": 0.0393,
+    "top_outgrowers": [
+      {
+        "key": "Y27Q6N9A",
+        "title": "Assessing vocational competencies in civil engineering: Lessons from AHELO for f",
+        "year": 2015,
+        "cited_by_count": 15,
+        "n_refs": 15,
+        "rank_in_refs": 9,
+        "outgrow_index": 0.4375
+      },
+      {
+        "key": "J8H6TD8Q",
+        "title": "Systems thinking skills of undergraduate engineering students",
+        "year": 2015,
+        "cited_by_count": 21,
+        "n_refs": 29,
+        "rank_in_refs": 18,
+        "outgrow_index": 0.4
+      },
+      {
+        "key": "J4L96ZTQ",
+        "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+        "year": 2016,
+        "cited_by_count": 296,
+        "n_refs": 202,
+        "rank_in_refs": 128,
+        "outgrow_index": 0.3695
+      },
+      {
+        "key": "BQHZYQEC",
+        "title": "Entrepreneurial Competences of University Students in the Digital Age: A Scale D",
+        "year": 2020,
+        "cited_by_count": 12,
+        "n_refs": 16,
+        "rank_in_refs": 12,
+        "outgrow_index": 0.2941
+      },
+      {
+        "key": "GSUNVIP6",
+        "title": "Assessing oral presentation skills in Electrical Engineering: Developing a valid",
+        "year": 2017,
+        "cited_by_count": 22,
+        "n_refs": 30,
+        "rank_in_refs": 22,
+        "outgrow_index": 0.2903
+      },
+      {
+        "key": "NLXE3X6S",
+        "title": "Assessing students' motivation to engage in sustainable engineering.",
+        "year": 2015,
+        "cited_by_count": 75,
+        "n_refs": 71,
+        "rank_in_refs": 52,
+        "outgrow_index": 0.2778
+      },
+      {
+        "key": "W2PMJWMT",
+        "title": "Prediction of Engineering Identity in Engineering Graduate Students.",
+        "year": 2019,
+        "cited_by_count": 41,
+        "n_refs": 65,
+        "rank_in_refs": 48,
+        "outgrow_index": 0.2727
+      },
+      {
+        "key": "FL269LXE",
+        "title": "Validity of the Contextual Competence Scale for Engineering Students.",
+        "year": 2015,
+        "cited_by_count": 64,
+        "n_refs": 80,
+        "rank_in_refs": 59,
+        "outgrow_index": 0.2716
+      },
+      {
+        "key": "U374P6MT",
+        "title": "Adapting Computer Programming Self-Efficacy Scale and Engineering Students' Self",
+        "year": 2014,
+        "cited_by_count": 42,
+        "n_refs": 38,
+        "rank_in_refs": 29,
+        "outgrow_index": 0.2564
+      },
+      {
+        "key": "RUGB95IU",
+        "title": "Assessing reflective thinking in solving design problems: The development of a q",
+        "year": 2015,
+        "cited_by_count": 68,
+        "n_refs": 27,
+        "rank_in_refs": 21,
+        "outgrow_index": 0.25
+      },
+      {
+        "key": "PD6ENBV2",
+        "title": "Development of a Scale for Measuring Students' Attitudes Towards Learning Profes",
+        "year": 2020,
+        "cited_by_count": 49,
+        "n_refs": 112,
+        "rank_in_refs": 86,
+        "outgrow_index": 0.2389
+      },
+      {
+        "key": "7Y29KIN3",
+        "title": "Engineering Students' Perception on Self-Efficacy in Pre and Post Pandemic Phase",
+        "year": 2023,
+        "cited_by_count": 9,
+        "n_refs": 75,
+        "rank_in_refs": 58,
+        "outgrow_index": 0.2368
+      },
+      {
+        "key": "UQVRIPCY",
+        "title": "Modifying the VALUE Rubrics to Assess the Entrepreneurial Mind-set",
+        "year": 2019,
+        "cited_by_count": 8,
+        "n_refs": 21,
+        "rank_in_refs": 17,
+        "outgrow_index": 0.2273
+      },
+      {
+        "key": "CJPX792Z",
+        "title": "Measuring the Programming Self-Efficacy of Electrical and Electronics Engineerin",
+        "year": 2020,
+        "cited_by_count": 37,
+        "n_refs": 27,
+        "rank_in_refs": 22,
+        "outgrow_index": 0.2143
+      },
+      {
+        "key": "LHGYXXJG",
+        "title": "The Employability Skills of Engineering Students': Assessment at the University",
+        "year": 2021,
+        "cited_by_count": 23,
+        "n_refs": 62,
+        "rank_in_refs": 51,
+        "outgrow_index": 0.1905
+      }
+    ]
+  },
+  "citation_genealogy_h1": {
+    "n_refs_total": 3915,
+    "n_unique_concepts": 2414,
+    "n_unique_topics": 150,
+    "top_concepts": [
+      {
+        "concept": "Psychology",
+        "freq": 2974
+      },
+      {
+        "concept": "Computer science",
+        "freq": 2175
+      },
+      {
+        "concept": "Social psychology",
+        "freq": 1411
+      },
+      {
+        "concept": "Engineering",
+        "freq": 1322
+      },
+      {
+        "concept": "Mathematics education",
+        "freq": 1206
+      },
+      {
+        "concept": "Pedagogy",
+        "freq": 1091
+      },
+      {
+        "concept": "Political science",
+        "freq": 1084
+      },
+      {
+        "concept": "Mathematics",
+        "freq": 1069
+      },
+      {
+        "concept": "Medicine",
+        "freq": 1026
+      },
+      {
+        "concept": "Sociology",
+        "freq": 949
+      },
+      {
+        "concept": "Law",
+        "freq": 946
+      },
+      {
+        "concept": "Philosophy",
+        "freq": 793
+      },
+      {
+        "concept": "Statistics",
+        "freq": 760
+      },
+      {
+        "concept": "Medical education",
+        "freq": 752
+      },
+      {
+        "concept": "Physics",
+        "freq": 683
+      },
+      {
+        "concept": "Neuroscience",
+        "freq": 642
+      },
+      {
+        "concept": "Biology",
+        "freq": 594
+      },
+      {
+        "concept": "Programming language",
+        "freq": 585
+      },
+      {
+        "concept": "Engineering management",
+        "freq": 560
+      },
+      {
+        "concept": "Artificial intelligence",
+        "freq": 558
+      },
+      {
+        "concept": "Engineering education",
+        "freq": 557
+      },
+      {
+        "concept": "Economics",
+        "freq": 526
+      },
+      {
+        "concept": "Epistemology",
+        "freq": 506
+      },
+      {
+        "concept": "Business",
+        "freq": 500
+      },
+      {
+        "concept": "Engineering ethics",
+        "freq": 499
+      }
+    ],
+    "ref_year_range": "1951-2026",
+    "ref_year_median": 2011
+  },
+  "apc_impact": {
+    "n_apc": 10,
+    "n_non_apc": 86,
+    "apc_mean_citations": 5.2,
+    "non_apc_mean_citations": 14.5,
+    "apc_median_citations": 3,
+    "non_apc_median_citations": 5,
+    "apc_mean_usd": 1301.0,
+    "cost_per_citation_usd": 250.1
+  }
+}

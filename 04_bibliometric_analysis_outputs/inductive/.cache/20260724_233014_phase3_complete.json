@@ -1,0 +1,168 @@
+{
+  "session_id": "20260724_233014",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:35:19.507048",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Competency-Centric Framework",
+        "justification": "This framework reflects the dominant focus in the data on assessing and developing various competencies in engineering education, both technical and non-technical. It organizes findings around the types of competencies and their assessment methods, which are central to the majority of studies.",
+        "general_objective": "To synthesize and compare approaches for assessing and developing key competencies in engineering education, with a focus on their measurement, validation, and impact on student outcomes.",
+        "specific_objectives": [
+          {
+            "text": "Examine the assessment and development of transversal, professional, and sociotechnical competencies in engineering education, including their measurement tools and pedagogical strategies.",
+            "key_themes": [
+              "Transversal and Professional Competencies in Engineering Education"
+            ],
+            "n_studies_support": 25,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Analyze the role of rubric-based and performance assessments in evaluating engineering competencies, with attention to expert judgment and inter-rater reliability.",
+            "key_themes": [
+              "Rubric-Based Competency Assessment in Engineering"
+            ],
+            "n_studies_support": 21,
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Investigate the development and assessment of critical thinking, problem-solving, creativity, and design mindset in engineering students, including domain-specific and general approaches.",
+            "key_themes": [
+              "Critical Thinking, Problem-Solving, Creativity, and Design Mindset in Engineering"
+            ],
+            "n_studies_support": 11,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Explore the assessment and cultivation of research competencies and investigative skills in engineering students, focusing on tools and methods for evaluation.",
+            "key_themes": [
+              "Research Competencies and Investigative Skills in Engineering Students"
+            ],
+            "n_studies_support": "10-15",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "70-80%",
+        "strengths": [
+          "Covers the majority of studies focused on competency assessment and development",
+          "Allows for comparative analysis of assessment methods (e.g., rubrics vs. psychometric tools)",
+          "Grounded in robust empirical findings across multiple batches"
+        ],
+        "limitations": [
+          "Less emphasis on affective and motivational constructs (e.g., self-efficacy, identity)"
+        ]
+      },
+      {
+        "approach": "Psychosocial and Competency Integration Framework",
+        "justification": "This framework integrates the two largest thematic clusters in the data: psychosocial constructs (e.g., self-efficacy, identity) and competencies. It reflects the interconnectedness of these themes in the literature, where affective factors often mediate or predict competency development.",
+        "general_objective": "To explore the interplay between psychosocial constructs (e.g., self-efficacy, attitudes, identity) and competency development in engineering education, and how these relationships are measured and analyzed.",
+        "specific_objectives": [
+          {
+            "text": "Synthesize findings on the development, validation, and role of self-efficacy, attitudes, and engineering identity in shaping student outcomes and experiences.",
+            "key_themes": [
+              "Self-Efficacy, Attitudes, and Engineering Identity"
+            ],
+            "n_studies_support": 59,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Compare psychometric and analytical methods used to evaluate the reliability, validity, and structural properties of instruments assessing psychosocial and competency-related constructs in engineering education.",
+            "key_themes": [
+              "Psychometric and Analytical Methods in Engineering Education Research"
+            ],
+            "n_studies_support": 23,
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Examine how transversal, professional, and sociotechnical competencies are influenced by or interact with psychosocial constructs such as self-efficacy and engineering identity.",
+            "key_themes": [
+              "Transversal and Professional Competencies in Engineering Education",
+              "Self-Efficacy, Attitudes, and Engineering Identity"
+            ],
+            "n_studies_support": "30-40",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Investigate the role of motivation and learning strategies in the development of engineering competencies and identity, including their assessment and impact.",
+            "key_themes": [
+              "Motivation and Learning Strategies in Engineering Education"
+            ],
+            "n_studies_support": "5-10",
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "85-95%",
+        "strengths": [
+          "Captures the largest thematic clusters in the data and their intersections",
+          "Enables relational analysis between psychosocial constructs and competencies",
+          "High coverage of studies, including robust findings"
+        ],
+        "limitations": [
+          "May not fully capture the nuances of specific competency assessment methods (e.g., rubrics)"
+        ]
+      },
+      {
+        "approach": "Assessment Methodology Framework",
+        "justification": "This framework organizes findings around the methodologies used to assess engineering competencies and related constructs. It reflects the data's strong emphasis on psychometric evaluation, rubric-based assessment, and analytical methods, providing a lens to compare the strengths and limitations of different approaches.",
+        "general_objective": "To evaluate and compare the methodologies used to assess competencies, psychosocial constructs, and other key outcomes in engineering education, with a focus on their reliability, validity, and applicability.",
+        "specific_objectives": [
+          {
+            "text": "Compare the psychometric properties (e.g., reliability, validity) of instruments used to assess self-efficacy, attitudes, engineering identity, and related psychosocial constructs.",
+            "key_themes": [
+              "Self-Efficacy, Attitudes, and Engineering Identity",
+              "Psychometric and Analytical Methods in Engineering Education Research"
+            ],
+            "n_studies_support": "60-70",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Analyze the use of rubric-based assessments in engineering education, including their design, inter-rater reliability, and effectiveness in evaluating competencies in practical or project-based settings.",
+            "key_themes": [
+              "Rubric-Based Competency Assessment in Engineering"
+            ],
+            "n_studies_support": 21,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Examine the application of analytical methods (e.g., mediation, correlation, factor analysis) in engineering education research to explore relationships between competencies, psychosocial constructs, and student outcomes.",
+            "key_themes": [
+              "Psychometric and Analytical Methods in Engineering Education Research"
+            ],
+            "n_studies_support": 23,
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Evaluate the tools and approaches used to assess critical thinking, problem-solving, creativity, and design mindset in engineering students, including their domain-specific and general applications.",
+            "key_themes": [
+              "Critical Thinking, Problem-Solving, Creativity, and Design Mindset in Engineering"
+            ],
+            "n_studies_support": 11,
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "60-70%",
+        "strengths": [
+          "Focuses on methodological rigor and comparison, which is a key strength of the data",
+          "Allows for critical evaluation of assessment tools and their limitations",
+          "Grounded in robust psychometric and analytical findings"
+        ],
+        "limitations": [
+          "Lower coverage of studies focused on competency development (e.g., pedagogical strategies)",
+          "Less emphasis on the content of competencies (e.g., transversal vs. technical)"
+        ]
+      }
+    ],
+    "recommendation": {
+      "framework": "Psychosocial and Competency Integration Framework",
+      "justification": "This framework is recommended because it captures the largest proportion of studies (85-95%) and reflects the most robust and interconnected themes in the data. It allows for both descriptive and relational analysis, enabling a comprehensive understanding of how psychosocial constructs (e.g., self-efficacy, identity) interact with competency development. This integrative approach aligns with the empirical patterns observed, where affective and cognitive dimensions are often studied in tandem. Additionally, it provides flexibility for comparative analysis across themes, making it the most versatile and data-driven choice."
+    },
+    "_theme_reference_check": {
+      "valid_references": 14,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

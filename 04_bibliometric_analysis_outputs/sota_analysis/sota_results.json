@@ -1,0 +1,550 @@
+{
+  "structural_gaps": [
+    {
+      "item_a": "experiment",
+      "item_b": "physics",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 867.0
+    },
+    {
+      "item_a": "regression analysis",
+      "item_b": "medicine",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 784.0
+    },
+    {
+      "item_a": "regression analysis",
+      "item_b": "medical education",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 784.0
+    },
+    {
+      "item_a": "regression analysis",
+      "item_b": "pedagogy",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 756.0
+    },
+    {
+      "item_a": "regression analysis",
+      "item_b": "medicine",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 588.0
+    },
+    {
+      "item_a": "regression analysis",
+      "item_b": "physics",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 476.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "medicine",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 364.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "medical education",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 364.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "structural equation modeling",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 325.0
+    },
+    {
+      "item_a": "qualitative",
+      "item_b": "exploratory factor analysis (efa)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 288.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "scale (ratio)",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 286.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "psychometrics",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 286.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "social psychology",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 260.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "medicine",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 252.0
+    },
+    {
+      "item_a": "experiment",
+      "item_b": "exploratory factor analysis (efa)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 248.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "reliability (semiconductor)",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 234.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "physics",
+      "dimension_a": "Methods",
+      "dimension_b": "Applications",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 221.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "scale (ratio)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 198.0
+    },
+    {
+      "item_a": "qualitative",
+      "item_b": "confirmatory factor analyses (cfa)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 180.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "social psychology",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 180.0
+    },
+    {
+      "item_a": "regression analysis",
+      "item_b": "exploratory factor analysis (efa)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 168.0
+    },
+    {
+      "item_a": "experiment",
+      "item_b": "confirmatory factor analyses (cfa)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 155.0
+    },
+    {
+      "item_a": "qualitative",
+      "item_b": "programming self-efficacy (pse)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 108.0
+    },
+    {
+      "item_a": "experiment",
+      "item_b": "programming self-efficacy (pse)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 93.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "exploratory factor analysis (efa)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 72.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "confirmatory factor analyses (cfa)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 45.0
+    },
+    {
+      "item_a": "case study",
+      "item_b": "programming self-efficacy (pse)",
+      "dimension_a": "Methods",
+      "dimension_b": "Concepts",
+      "freq_a": 0,
+      "freq_b": 0,
+      "priority": 27.0
+    }
+  ],
+  "declared_gaps": [
+    {
+      "sentence": "Furthermore, research identity development has been studied with non-engineering doctoral students, but very few researchers have investigated engineering graduate students' research identity, even though engineering graduate students engage in research and develop research proficiency during their graduate studies",
+      "article_key": "PVT4UE9C",
+      "year": 2017
+    },
+    {
+      "sentence": "Yet few studies have focused on examining the ST survey of engineering students in higher education",
+      "article_key": "J8H6TD8Q",
+      "year": 2015
+    },
+    {
+      "sentence": "CPPs are found in many engineering capstone courses taught at senior year; however, little research lies in CPPs when implemented within first-year engineering courses",
+      "article_key": "VG98XEQP",
+      "year": 2024
+    },
+    {
+      "sentence": "Future research should explore how specific instructional designs enhance competency growth within IC-PBL contexts",
+      "article_key": "IQD3WXLQ",
+      "year": 2025
+    },
+    {
+      "sentence": "Grit, explicitly the perseverance and passion for a defined long–term goal, and the engineering mindset encompassing an iterative and failure-tolerant approach to problem-solving, are both vital yet underexplored domains within the field of engineering education",
+      "article_key": "PH5ZR5GA",
+      "year": 2025
+    }
+  ],
+  "frontiers": [
+    {
+      "item": "structural equation modeling",
+      "type": "",
+      "growth_ratio": "new",
+      "recent_count": 3,
+      "uncovered_combinations": 0
+    },
+    {
+      "item": "structural equation modeling",
+      "type": "",
+      "growth_ratio": "new",
+      "recent_count": 3,
+      "uncovered_combinations": 0
+    },
+    {
+      "item": "physics",
+      "type": "",
+      "growth_ratio": "new",
+      "recent_count": 2,
+      "uncovered_combinations": 0
+    },
+    {
+      "item": "physics",
+      "type": "",
+      "growth_ratio": "new",
+      "recent_count": 2,
+      "uncovered_combinations": 0
+    },
+    {
+      "item": "self-efficacy",
+      "type": "",
+      "growth_ratio": 1.65,
+      "recent_count": 11,
+      "uncovered_combinations": 0
+    },
+    {
+      "item": "quantitative",
+      "type": "",
+      "growth_ratio": 1.68,
+      "recent_count": 5,
+      "uncovered_combinations": 0
+    }
+  ],
+  "emergent_gaps": [
+    {
+      "item": "",
+      "growth_ratio": "new",
+      "uncovered_combinations": 3
+    },
+    {
+      "item": "",
+      "growth_ratio": "new",
+      "uncovered_combinations": 3
+    },
+    {
+      "item": "",
+      "growth_ratio": "new",
+      "uncovered_combinations": 1
+    },
+    {
+      "item": "",
+      "growth_ratio": "new",
+      "uncovered_combinations": 1
+    }
+  ],
+  "taxonomy": {
+    "structural": {
+      "count": 27,
+      "description": "Combinations of frequent items that never co-occur",
+      "top_gaps": [
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "experiment",
+          "item_a_freq": 51,
+          "dimension_b": "Applications",
+          "item_b": "physics",
+          "item_b_freq": 17,
+          "priority": 867.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "regression analysis",
+          "item_a_freq": 28,
+          "dimension_b": "Applications",
+          "item_b": "medicine",
+          "item_b_freq": 28,
+          "priority": 784.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "regression analysis",
+          "item_a_freq": 28,
+          "dimension_b": "Applications",
+          "item_b": "medical education",
+          "item_b_freq": 28,
+          "priority": 784.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "regression analysis",
+          "item_a_freq": 28,
+          "dimension_b": "Applications",
+          "item_b": "pedagogy",
+          "item_b_freq": 27,
+          "priority": 756.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "regression analysis",
+          "item_a_freq": 21,
+          "dimension_b": "Concepts",
+          "item_b": "medicine",
+          "item_b_freq": 28,
+          "priority": 588.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "regression analysis",
+          "item_a_freq": 28,
+          "dimension_b": "Applications",
+          "item_b": "physics",
+          "item_b_freq": 17,
+          "priority": 476.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "case study",
+          "item_a_freq": 13,
+          "dimension_b": "Applications",
+          "item_b": "medicine",
+          "item_b_freq": 28,
+          "priority": 364.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "case study",
+          "item_a_freq": 13,
+          "dimension_b": "Applications",
+          "item_b": "medical education",
+          "item_b_freq": 28,
+          "priority": 364.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "case study",
+          "item_a_freq": 13,
+          "dimension_b": "Applications",
+          "item_b": "structural equation modeling",
+          "item_b_freq": 25,
+          "priority": 325.0
+        },
+        {
+          "type": "structural",
+          "dimension_a": "Methods",
+          "item_a": "qualitative",
+          "item_a_freq": 36,
+          "dimension_b": "Concepts",
+          "item_b": "exploratory factor analysis (efa)",
+          "item_b_freq": 8,
+          "priority": 288.0
+        }
+      ]
+    },
+    "declared": {
+      "count": 5,
+      "description": "Gaps explicitly stated by authors in abstracts",
+      "top_gaps": [
+        {
+          "type": "declared",
+          "source": "abstract",
+          "article_key": "PVT4UE9C",
+          "year": 2017,
+          "sentence": "Furthermore, research identity development has been studied with non-engineering doctoral students, but very few researchers have investigated engineering graduate students' research identity, even though engineering graduate students engage in research and develop research proficiency during their graduate studies",
+          "journal": ""
+        },
+        {
+          "type": "declared",
+          "source": "abstract",
+          "article_key": "J8H6TD8Q",
+          "year": 2015,
+          "sentence": "Yet few studies have focused on examining the ST survey of engineering students in higher education",
+          "journal": ""
+        },
+        {
+          "type": "declared",
+          "source": "abstract",
+          "article_key": "VG98XEQP",
+          "year": 2024,
+          "sentence": "CPPs are found in many engineering capstone courses taught at senior year; however, little research lies in CPPs when implemented within first-year engineering courses",
+          "journal": ""
+        },
+        {
+          "type": "declared",
+          "source": "abstract",
+          "article_key": "IQD3WXLQ",
+          "year": 2025,
+          "sentence": "Future research should explore how specific instructional designs enhance competency growth within IC-PBL contexts",
+          "journal": ""
+        },
+        {
+          "type": "declared",
+          "source": "abstract",
+          "article_key": "PH5ZR5GA",
+          "year": 2025,
+          "sentence": "Grit, explicitly the perseverance and passion for a defined long–term goal, and the engineering mindset encompassing an iterative and failure-tolerant approach to problem-solving, are both vital yet underexplored domains within the field of engineering education",
+          "journal": "TPM - Testing, Psychometrics, Methodology in Applied Psychology"
+        }
+      ]
+    },
+    "emergent": {
+      "count": 4,
+      "description": "Growing topics lacking coverage in existing methods/data",
+      "top_gaps": [
+        {
+          "type": "emergent",
+          "frontier_item": "physics",
+          "frontier_dimension": "applications",
+          "growth_ratio": "new",
+          "recent_count": 2,
+          "uncovered_combinations": 3,
+          "example_gaps": [
+            "experiment x physics",
+            "regression analysis x physics",
+            "case study x physics"
+          ]
+        },
+        {
+          "type": "emergent",
+          "frontier_item": "physics",
+          "frontier_dimension": "concepts",
+          "growth_ratio": "new",
+          "recent_count": 2,
+          "uncovered_combinations": 3,
+          "example_gaps": [
+            "experiment x physics",
+            "regression analysis x physics",
+            "case study x physics"
+          ]
+        },
+        {
+          "type": "emergent",
+          "frontier_item": "structural equation modeling",
+          "frontier_dimension": "applications",
+          "growth_ratio": "new",
+          "recent_count": 3,
+          "uncovered_combinations": 1,
+          "example_gaps": [
+            "case study x structural equation modeling"
+          ]
+        },
+        {
+          "type": "emergent",
+          "frontier_item": "structural equation modeling",
+          "frontier_dimension": "concepts",
+          "growth_ratio": "new",
+          "recent_count": 3,
+          "uncovered_combinations": 1,
+          "example_gaps": [
+            "case study x structural equation modeling"
+          ]
+        }
+      ]
+    }
+  },
+  "evolution_periods": 3,
+  "performance_metrics_count": 0
+}

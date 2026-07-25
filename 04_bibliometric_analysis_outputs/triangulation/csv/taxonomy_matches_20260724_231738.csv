@@ -1,0 +1,7 @@
+session_id,model_a,model_b,theme_a,theme_b,similarity_name,similarity_definition,similarity_combined,article_overlap
+20260724_231738,auto/deepseek-v4-flash,mistral/mistral-small-latest,"Instrument Development, Validation, and Psychometric Analysis",Assessment Instrument Development and Validation,0.5714,0.2881,0.4581,
+20260724_231738,auto/deepseek-v4-flash,mistral/mistral-small-latest,Specialized Competency and Mindset Assessment,Entrepreneurial and Design Mindset Assessment,0.4286,0.3111,0.3816,
+20260724_231738,auto/deepseek-v4-flash,mistral/mistral-small-latest,"Identity, Motivation, and Persistence in Engineering",Engineering Self-Efficacy and Identity,0.375,0.1964,0.3036,
+20260724_231738,auto/deepseek-v4-flash,mistral/mistral-small-latest,"Self-Efficacy, Attitudes, and Demographic Influences",Leadership Competencies and Self-Efficacy in Engineering,0.3,0.1587,0.2435,
+20260724_231738,auto/deepseek-v4-flash,mistral/mistral-small-latest,Internship and Work Experience Evaluation,Workplace Readiness and Internship Competency Assessment,0.2222,0.2727,0.2424,
+20260724_231738,auto/deepseek-v4-flash,mistral/mistral-small-latest,Reflective Thinking and Decision-Making,Systems Thinking and Problem-Solving Assessment,0.2222,0.2703,0.2414,

@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-07-24T22:50:08.266914",
+  "total_corpus": 96,
+  "total_oa": 48,
+  "pct_oa": 50.0,
+  "with_pdf_url": 32,
+  "pct_with_pdf": 66.67,
+  "with_repository_copy": 17,
+  "by_color": {
+    "gold": 33,
+    "bronze": 6,
+    "green": 4,
+    "hybrid": 4,
+    "diamond": 1
+  },
+  "by_year": {
+    "2014": {
+      "bronze": 1
+    },
+    "2015": {
+      "green": 1,
+      "gold": 1
+    },
+    "2016": {
+      "gold": 2,
+      "bronze": 1
+    },
+    "2017": {
+      "gold": 4
+    },
+    "2018": {
+      "gold": 2
+    },
+    "2019": {
+      "gold": 3
+    },
+    "2021": {
+      "green": 3,
+      "gold": 3
+    },
+    "2022": {
+      "gold": 2,
+      "diamond": 1,
+      "hybrid": 1
+    },
+    "2023": {
+      "gold": 3,
+      "hybrid": 1
+    },
+    "2024": {
+      "hybrid": 1,
+      "gold": 5
+    },
+    "2025": {
+      "bronze": 2,
+      "gold": 5
+    },
+    "2026": {
+      "bronze": 2,
+      "gold": 3,
+      "hybrid": 1
+    }
+  },
+  "by_item_type": {
+    "Journal Article": 33,
+    "Conference Paper": 15
+  },
+  "by_license": {
+    "unknown": 25,
+    "cc-by": 15,
+    "cc-by-nc-nd": 6,
+    "other-oa": 2
+  },
+  "citation_stats": {
+    "mean": 9.4,
+    "median": 5.0,
+    "max": 64,
+    "total": 451
+  }
+}

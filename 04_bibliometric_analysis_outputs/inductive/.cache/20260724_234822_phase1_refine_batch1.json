@@ -1,0 +1,122 @@
+{
+  "session_id": "20260724_234822",
+  "phase": "1_refine",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:51:23.035568",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "new",
+      "theme": "Psychometric Validation of Competency Assessment Instruments",
+      "definition": "The development and validation of scales, rubrics, or questionnaires to measure specific competencies, skills, or attitudes in engineering students. This includes statistical validation methods such as reliability analysis, factor analysis, and content validity, often involving expert judgment and scale development processes.",
+      "subthemes": [
+        "Reliability analysis",
+        "Factor analysis",
+        "Content validity",
+        "Expert judgment",
+        "Scale development"
+      ]
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Generic and Professional Competencies in Engineering Education",
+      "definition": "The assessment and development of non-technical or soft skills such as communication, teamwork, leadership, and problem-solving, which are essential for professional success in engineering. These competencies are often referred to as transversal or professional skills and contribute to workplace adaptability.",
+      "subthemes": [
+        "Soft skills",
+        "Transversal competencies",
+        "Professional skills",
+        "Workplace adaptability"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Self-Efficacy and Attitudes in Engineering Contexts",
+      "definition": "The measurement of students' confidence or belief in their ability to perform specific tasks (self-efficacy) and their attitudes toward engineering disciplines, practical work, or career paths. This includes constructs like entrepreneurial self-efficacy, engineering identity, and self-perception.",
+      "subthemes": [
+        "Entrepreneurial self-efficacy",
+        "Attitudes toward practical work",
+        "Engineering identity",
+        "Self-perception"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Rubric-Based Competency Assessment",
+      "definition": "The use of rubrics as assessment tools to evaluate specific competencies in laboratory or project-based settings. This includes the validation of rubrics through expert judgment and their application in competency-based assessment frameworks.",
+      "subthemes": [
+        "Expert judgment",
+        "Rubric validation",
+        "Competency-based assessment"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Representational Competence in Engineering",
+      "definition": "The ability of students to interpret, switch between, and use multiple representations (e.g., diagrams, symbols, narrative language) of engineering concepts, particularly in problem-solving contexts. This competence is critical for conceptual understanding and effective communication in engineering.",
+      "subthemes": [
+        "Vector representations",
+        "Problem-solving",
+        "Conceptual understanding"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Resilience and Psychological Factors in Engineering Education",
+      "definition": "The exploration of psychological constructs such as resilience, optimism, and adaptability, and their impact on academic performance, retention, and success in engineering students. This includes protective factors and phenomena like the 'sophomore slump'.",
+      "subthemes": [
+        "Academic resilience",
+        "Protective factors",
+        "Sophomore slump"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Research Competencies in Engineering Education",
+      "definition": "The assessment and development of research-related skills and competencies in engineering students, including investigative skills, scientific writing, and research training. These competencies encompass intellectual, technical, and communicative aspects of research projects.",
+      "subthemes": [
+        "Investigative skills",
+        "Scientific writing",
+        "Research training"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Learning Experiences and Sources of Self-Efficacy",
+      "definition": "The assessment of learning experiences (e.g., performance accomplishments, vicarious learning) that contribute to the development of self-efficacy and career-related outcomes in engineering students. This is often framed within social cognitive career theory and focuses on career development.",
+      "subthemes": [
+        "Social cognitive career theory",
+        "Self-efficacy sources",
+        "Career development"
+      ]
+    },
+    {
+      "new_theme_index": 8,
+      "action": "new",
+      "theme": "Critical Thinking and Decision-Making in Engineering",
+      "definition": "The development and validation of instruments to assess critical thinking and decision-making competencies in engineering students. This often occurs in the context of specific technical or professional problem-solving scenarios.",
+      "subthemes": [
+        "Critical thinking assessment",
+        "Decision-making competency",
+        "Problem-solving"
+      ]
+    },
+    {
+      "new_theme_index": 9,
+      "action": "new",
+      "theme": "Compassion and Socio-Emotional Competencies in Engineering",
+      "definition": "The validation and exploration of socio-emotional competencies such as compassion, empathy, and kindness in engineering education. This includes their role in ethical reasoning, engineering identity, and socially responsible engineering practices.",
+      "subthemes": [
+        "Socio-emotional skills",
+        "Ethical reasoning",
+        "Engineering identity"
+      ]
+    }
+  ]
+}

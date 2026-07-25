@@ -1,0 +1,6 @@
+session_id,model_a,model_b,theme_a,theme_b,similarity_name,similarity_definition,similarity_combined,article_overlap
+20260724_232145,auto/deepseek-v4-pro,mistral/mistral-large-latest,Motivation and Affective Constructs in Engineering Students,Motivation and Learning Strategies in Engineering Education,0.4,0.1296,0.2919,
+20260724_232145,auto/deepseek-v4-pro,mistral/mistral-large-latest,Engineering Education Context,Affective Dimensions of Writing in Engineering Education,0.25,0.2051,0.2321,
+20260724_232145,auto/deepseek-v4-pro,mistral/mistral-large-latest,Self-Efficacy Measurement,"Self-Efficacy, Attitudes, and Engineering Identity",0.2857,0.1509,0.2318,
+20260724_232145,auto/deepseek-v4-pro,mistral/mistral-large-latest,Career and Professional Development,Transversal and Professional Competencies in Engineering Education,0.2222,0.1522,0.1942,
+20260724_232145,auto/deepseek-v4-pro,mistral/mistral-large-latest,Scale Development and Psychometric Evaluation,Psychometric and Analytical Methods in Engineering Education Research,0.1818,0.1429,0.1662,

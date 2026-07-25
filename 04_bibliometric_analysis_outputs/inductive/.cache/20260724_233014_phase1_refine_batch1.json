@@ -1,0 +1,86 @@
+{
+  "session_id": "20260724_233014",
+  "phase": "1_refine",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:33:44.260531",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "new",
+      "theme": "Generic and Professional Competencies in Engineering Education",
+      "definition": "The assessment and development of non-technical or transferable skills (e.g., communication, teamwork, leadership, problem-solving) essential for professional success in engineering. This includes workplace readiness and the integration of internship-based learning to enhance these competencies.",
+      "subthemes": [
+        "Soft skills",
+        "Transferable skills",
+        "Workplace readiness",
+        "Internship-based learning"
+      ]
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Self-Efficacy and Attitudinal Measurement in Engineering Contexts",
+      "definition": "The development and validation of instruments to measure students' self-efficacy (confidence in performing specific tasks) and attitudes toward various aspects of engineering. This includes entrepreneurial self-efficacy and self-perception of competence in practical work settings.",
+      "subthemes": [
+        "Entrepreneurial self-efficacy",
+        "Attitudes toward practical work",
+        "Self-perception of competence"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Rubric-Based Competency Assessment in Engineering",
+      "definition": "The use of rubrics as structured assessment tools to evaluate specific competencies in engineering students, particularly in laboratory, project-based, or practical settings. Emphasis is placed on expert judgment, inter-rater reliability, and performance assessment.",
+      "subthemes": [
+        "Expert judgment",
+        "Inter-rater reliability",
+        "Performance assessment"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Research Competencies and Investigative Skills in Engineering Students",
+      "definition": "The assessment and development of research-related competencies in engineering students, including intellectual, technical, and communicative skills necessary for conducting and presenting research. This encompasses research training, scientific writing, and data collection techniques.",
+      "subthemes": [
+        "Research training",
+        "Scientific writing",
+        "Data collection techniques"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Engineering Identity and Its Predictors",
+      "definition": "The exploration of factors contributing to the development of engineering identity in students, such as self-efficacy, recognition, interest, and interpersonal skills. This theme examines how students perceive themselves within the engineering profession.",
+      "subthemes": [
+        "Research identity",
+        "Self-efficacy",
+        "Recognition in engineering"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Critical Thinking and Problem-Solving in Engineering",
+      "definition": "The development and validation of instruments to assess critical thinking and problem-solving skills in engineering students, often within specific technical domains. This includes representational competence, design problem-solving, and reflective thinking.",
+      "subthemes": [
+        "Representational competence",
+        "Design problem-solving",
+        "Reflective thinking"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Transversal and Sociotechnical Competencies in Engineering",
+      "definition": "The assessment of transversal competencies (e.g., teamwork, lifelong learning, entrepreneurial skills) and sociotechnical competencies (e.g., understanding social implications of technology). This theme also addresses affective domain assessment in engineering education.",
+      "subthemes": [
+        "Entrepreneurial competencies",
+        "Sociotechnical understanding",
+        "Affective domain assessment"
+      ]
+    }
+  ]
+}

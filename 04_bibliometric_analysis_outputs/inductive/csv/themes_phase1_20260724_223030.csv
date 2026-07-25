@@ -1,0 +1,37 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_223030,0,Instrument Development and Validation,High,high,29,3,1.0,1.0,1.0,0,True,Reliability; Validity; Factor analysis; Cronbach's alpha; Exploratory factor analysis; Confirmatory factor analysis
+20260724_223030,0,Competency Assessment,High,high,10,3,1.0,1.0,1.0,0,True,Generic competencies; Professional skills; Research competences; Transversal competencies; Innovation competence
+20260724_223030,0,Self-Efficacy and Attitudes,High,high,11,3,1.0,1.0,1.0,0,True,Self-efficacy; Attitudes; Engineering identity; Entrepreneurial self-efficacy; Compassion
+20260724_223030,0,Psychometric Properties and Factor Analysis,High,high,27,3,1.0,1.0,1.0,0,True,Reliability; Validity; Exploratory factor analysis; Confirmatory factor analysis; Cronbach's alpha; Factor loading
+20260724_223030,0,Transversal and Professional Skills,Medium,high,7,3,1.0,1.0,1.0,0,True,Generic competencies; Professional skills; Soft skills; Transversal competencies; Oral presentation; Critical thinking
+20260724_223030,0,Engineering Identity and Persistence,Medium,high,6,3,1.0,1.0,1.0,0,True,Engineering identity; Persistence; Sense of belonging; Self-efficacy; Interest
+20260724_223030,0,Learning Experiences and Self-Efficacy Sources,Low,high,2,3,1.0,1.0,1.0,0,True,Learning experiences; Self-efficacy sources; Social cognitive career theory; Performance accomplishments; Vicarious learning
+20260724_223030,0,Reflective Thinking and Decision-Making,Low,high,2,3,1.0,1.0,1.0,0,True,Reflective thinking; Decision-making; Self-regulated learning; Design problem-solving
+20260724_223030,1,Self-efficacy measurement,High,high,7,3,1.0,1.0,1.0,0,True,Programming self-efficacy; Design self-efficacy; Engineering self-efficacy scales; Self-efficacy perceptions
+20260724_223030,1,Scale validation and psychometric properties,High,high,9,3,0.967,1.0,0.889,1,True,Exploratory factor analysis (EFA); Confirmatory factor analysis (CFA); Reliability index; Item discrimination; Construct validity
+20260724_223030,1,Employability and professional skills assessment,Medium,high,6,3,1.0,1.0,1.0,0,True,Workplace oral communication; Professional competencies; Generic competencies; Entrepreneurship competencies
+20260724_223030,1,Motivation and attitudes assessment,Medium,high,4,3,1.0,1.0,1.0,0,True,Intrinsic and extrinsic motivation; Motivational behaviors; Self-regulated learning; Sustainable engineering attitudes
+20260724_223030,1,Internship and work experience evaluation,Low,high,3,2,1.0,1.0,1.0,0,True,Work Experience Questionnaire (WEQ); Internship experience; Workplace support; Generic competencies
+20260724_223030,1,Entrepreneurial mindset and design mindset,Low,high,3,2,1.0,1.0,1.0,0,True,Entrepreneurial mindset (EM); Connections; Creating Value; Design Mindset Inventory; Iteration; Co-Evolution
+20260724_223030,1,Grit and engineering mindset,Low,high,1,1,1.0,1.0,1.0,0,True,Grit-S scale; Engineering Mindset Inventory (EMI); SEM; IRT
+20260724_223030,1,Peer and self-assessment perceptions,Low,high,1,1,0.3,0.0,1.0,1,False,Peer assessment; Self-assessment; Study-related burnout; Learning approaches
+20260724_223030,1,Competence assessment in mathematics and engineering fundamentals,Low,high,3,2,0.65,0.5,1.0,1,True,Mathematical competences; Vector calculus; Rasch analysis; MICRORUBRI
+20260724_223030,1,Professional responsibility and social responsibility,Low,high,1,1,0.3,0.0,1.0,1,False,Engineering Professional Responsibility Assessment (EPRA); Social responsibility; Ethics education
+20260724_223030,2,Self-efficacy measurement and validation,High,high,7,3,1.0,1.0,1.0,0,True,General vs domain-specific self-efficacy; Psychometric properties; Scale development
+20260724_223030,2,Transferable and professional skills assessment,Medium,high,5,3,1.0,1.0,1.0,0,True,Generic skills; Communication skills; Teamwork skills; Employability skills
+20260724_223030,2,Problem-solving and critical thinking self-perception,Medium,high,4,3,1.0,1.0,1.0,0,True,Problem-solving inventory; Critical thinking; Self-assessment
+20260724_223030,2,Competency modeling and theory-based testing,Medium,high,5,3,1.0,1.0,1.0,0,True,Competency model; Theory-based testing; Sustainability competencies; Entrepreneurial competencies
+20260724_223030,2,Impact of internships and experiential learning on self-efficacy,Low,high,3,3,1.0,1.0,1.0,0,True,Industrial internships; Enactive mastery experiences; Work self-efficacy
+20260724_223030,2,Gender and demographic differences in self-efficacy and skills,Medium,high,5,3,1.0,1.0,1.0,0,True,Gender differences; First-generation college students; Class level; Transfer status
+20260724_223030,2,Impact of COVID-19 pandemic on student self-efficacy and learning,Low,high,1,3,1.0,1.0,1.0,0,True,Pandemic; Online learning; Adaptation
+20260724_223030,2,Intrinsic motivation and its measurement in engineering education,Low,high,2,3,1.0,1.0,1.0,0,True,Self-Determination Theory; Intrinsic Motivation Inventory; Motivation strategies
+20260724_223030,2,Engineering identity and its measurement across student groups,Low,high,2,3,1.0,1.0,1.0,0,True,Engineering identity; Measurement invariance; First-generation college students
+20260724_223030,2,Global communication competency assessment,Low,high,1,3,1.0,1.0,1.0,0,True,Global communication; CEFR; Can-do statements
+20260724_223030,3,Scale development and validation,High,high,3,3,1.0,1.0,1.0,0,True,Factor analysis; Reliability evidence; Validity evidence
+20260724_223030,3,Self-efficacy measurement,Medium,high,2,3,1.0,1.0,1.0,0,True,General self-efficacy; Leadership self-efficacy; Engineering self-efficacy
+20260724_223030,3,Factor analysis for construct validity,High,high,3,3,1.0,1.0,1.0,0,True,Exploratory factor analysis; Confirmatory factor analysis; Factor structure
+20260724_223030,3,Engineering student populations,High,high,3,3,0.767,0.667,1.0,1,True,Undergraduate engineering students; Graduate engineering students; Biomedical engineering students
+20260724_223030,3,Motivation for entrepreneurship,Low,high,1,3,1.0,1.0,1.0,0,True,Motivation for Creation and Solution; Motivation for Personal Interests; Managerial Motivation
+20260724_223030,3,Writing attitudes and self-efficacy,Medium,high,2,3,1.0,1.0,1.0,0,True,Writing apprehension; Writing attitudes profile; Grant proposal writing
+20260724_223030,3,Reliability and internal consistency,Medium,high,2,3,1.0,1.0,1.0,0,True,Cronbach's alpha; Internal consistency; Reliability evidence
+20260724_223030,3,Correlation with academic success,Low,high,1,3,1.0,1.0,1.0,0,True,Academic success; Pearson's correlation; General self-efficacy

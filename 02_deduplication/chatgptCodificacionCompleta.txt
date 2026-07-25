@@ -1,0 +1,350 @@
+Bajo el supuesto de que **los 93 registros son considerados elegibles**, la estructura inductiva se amplía. Los siete ejes anteriores se mantienen, pero aparece con suficiente consistencia un **octavo eje relacionado con disposiciones afectivas, motivacionales e identidad**, porque los 11 registros antes excluidos dejan de tratarse como casos periféricos.
+
+## Resultado hipotético del corpus
+
+| Condición                               | Registros analizados |
+| --------------------------------------- | -------------------: |
+| Incluidos originales                    |                   64 |
+| Inicialmente `UNCERTAIN`                |                   18 |
+| Inicialmente `EXCLUDE`, ahora incluidos |                   11 |
+| **Corpus analítico hipotético**         |               **93** |
+
+En este escenario ya no habría registros fuera de la síntesis:
+
+```text
+INCLUDE = 93
+UNCERTAIN = 0
+EXCLUDE = 0
+```
+
+# Estructura temática hipotética
+
+## Eje 1. Creencias de capacidad y autoeficacia en ingeniería
+
+Se mantiene como uno de los ejes dominantes.
+
+### Subcategorías
+
+* Autoeficacia general de ingeniería.
+* Autoeficacia en habilidades técnicas.
+* Autoeficacia profesional.
+* Autoeficacia para innovación y emprendimiento.
+* Autoeficacia asociada con experiencias educativas.
+
+El registro **B7B4X2WE**, anteriormente excluido por utilizar una escala establecida principalmente para estudiar cambios, fortalecería este eje al aportar evidencia longitudinal sobre autoeficacia.
+
+**Keys adicionales incorporadas:**
+
+```text
+B7B4X2WE
+I9G3834N
+UAN7XVF9
+```
+
+En los dos últimos casos, la autoeficacia aparece junto con percepción del aprendizaje y modalidad educativa.
+
+---
+
+## Eje 2. Competencias profesionales, transversales y empleabilidad
+
+Permanece, pero aumenta su amplitud conceptual.
+
+### Subcategorías
+
+* Competencias transversales integrales.
+* Empleabilidad y preparación para el trabajo.
+* Comunicación profesional.
+* Liderazgo y colaboración.
+* Valoración e importancia atribuida a las competencias.
+* Comprensión sociotécnica de la profesión.
+
+El registro **WWJJIDI6** incorporaría la percepción de la importancia de las habilidades transferibles, mientras que **KU4TN5MB** ampliaría el eje hacia la apreciación de la dimensión sociotécnica de la ingeniería.
+
+**Keys adicionales:**
+
+```text
+WWJJIDI6
+KU4TN5MB
+FY6V7BET
+```
+
+El último aportaría el vínculo afectivo con elementos de la práctica profesional.
+
+---
+
+## Eje 3. Competencias técnicas y cognitivas específicas
+
+No cambia sustancialmente.
+
+### Subcategorías
+
+* Matemática y representación.
+* Electricidad, electrónica y automatización.
+* Programación.
+* Diseño.
+* Resolución de problemas.
+* Pensamiento sistémico.
+* Competencias técnicas aplicadas.
+
+Los nuevos registros hipotéticamente incluidos no introducen una familia técnica completamente nueva, por lo que este eje conserva su estructura anterior.
+
+---
+
+## Eje 4. Innovación, creatividad y emprendimiento
+
+También se mantiene.
+
+### Subcategorías
+
+* Competencia emprendedora.
+* Motivación emprendedora.
+* Autoeficacia para innovar.
+* Creatividad en diseño.
+* Mentalidad de diseño.
+* Creación de valor.
+
+Los registros adicionales no modifican su estructura central, aunque algunas variables motivacionales podrían establecer vínculos con el nuevo eje afectivo.
+
+---
+
+## Eje 5. Ética, sostenibilidad y responsabilidad socioprofesional
+
+Se amplía ligeramente.
+
+### Subcategorías
+
+* Sostenibilidad.
+* Ética profesional.
+* Responsabilidad social.
+* Valores profesionales.
+* Comprensión sociotécnica de la ingeniería.
+* Compasión y responsabilidad hacia otros.
+
+El registro **KU4TN5MB** contribuiría a este eje porque incluye la apreciación de la naturaleza amplia, técnica y no técnica de la ingeniería.
+
+---
+
+## Eje 6. Investigación, reflexión y autorregulación
+
+Se mantiene, pero recibe nuevos aportes relacionados con motivación y regulación del aprendizaje.
+
+### Subcategorías
+
+* Competencias investigativas.
+* Toma de decisiones autorregulada.
+* Reflexión sobre la resolución de problemas.
+* Estrategias de aprendizaje.
+* Autorregulación académica.
+* Motivación para aprender.
+
+**Keys adicionales:**
+
+```text
+9HKCQKDT
+CY59SPDS
+3R39PUCS
+```
+
+* **9HKCQKDT** aportaría motivación intrínseca.
+* **CY59SPDS** incorporaría actitudes y comportamientos motivacionales en proyectos capstone.
+* **3R39PUCS** añadiría características afectivas relacionadas con el éxito académico.
+
+---
+
+## Eje 7. Experiencias auténticas, prácticas y ambientes de aprendizaje
+
+Este eje se fortalece considerablemente.
+
+### Subcategorías
+
+* Prácticas industriales.
+* Aprendizaje basado en proyectos.
+* Escenarios profesionales simulados.
+* Experiencias comunitarias.
+* Trabajo práctico de laboratorio.
+* Percepción de modalidades pedagógicas.
+* Evaluación de ganancias de aprendizaje.
+
+**Keys adicionales:**
+
+```text
+I9G3834N
+UAN7XVF9
+RGASR6Q5
+```
+
+Estos registros aportan:
+
+* percepción de ganancias de aprendizaje;
+* percepción de modalidades educativas;
+* actitudes hacia el trabajo práctico;
+* calidad del entorno de aprendizaje;
+* recursos y apoyo institucional.
+
+---
+
+# Nuevo eje emergente
+
+## Eje 8. Disposiciones afectivas, motivacionales e identidad profesional
+
+Este eje no tenía suficiente consistencia cuando los 11 registros estaban excluidos. Al incorporarlos, aparece como una familia conceptual diferenciada.
+
+No representa necesariamente competencias observables, sino estados, orientaciones y disposiciones psicológicas relacionadas con la formación del futuro ingeniero.
+
+### 8.1 Motivación académica y profesional
+
+**Keys:**
+
+```text
+9HKCQKDT
+CY59SPDS
+3R39PUCS
+PH5ZR5GA
+PYM3MQNK
+```
+
+Códigos asociados:
+
+* Intrinsic motivation.
+* Motivational attitudes.
+* Motivational behaviors.
+* Grit.
+* Persistence.
+* Learning motivation.
+
+### 8.2 Actitudes hacia el aprendizaje y la práctica
+
+**Keys:**
+
+```text
+RGASR6Q5
+6SNWQJMW
+I9G3834N
+UAN7XVF9
+```
+
+Códigos:
+
+* Attitudes toward practical work.
+* Writing attitudes.
+* Learning gains.
+* Perception of teaching modality.
+* Emotional responses to learning.
+
+### 8.3 Identidad y pertenencia en ingeniería
+
+**Keys:**
+
+```text
+FY6V7BET
+PVT4UE9C
+W2PMJWMT
+WHKSKTII
+KU4TN5MB
+```
+
+Códigos:
+
+* Engineering identity.
+* Research identity.
+* Affect toward engineering practice.
+* Recognition.
+* Sense of belonging.
+* Appreciation of engineering.
+
+### 8.4 Resiliencia y disposiciones personales
+
+**Keys:**
+
+```text
+I9QV6W8G
+PH5ZR5GA
+3R39PUCS
+```
+
+Códigos:
+
+* Resilience.
+* Adaptability.
+* Optimism.
+* Grit.
+* Persistence.
+* Personal control.
+
+## Interpretación del nuevo eje
+
+Este eje revela que parte de la literatura no mide estrictamente competencias, sino factores psicológicos que pueden:
+
+* facilitar su desarrollo;
+* predecir permanencia o rendimiento;
+* influir en la elección profesional;
+* afectar la participación y el aprendizaje;
+* formar parte de la identidad del futuro ingeniero.
+
+Por tanto, bajo el escenario de inclusión total, el campo quedaría configurado no solo por instrumentos de competencias, sino por un continuo:
+
+```text
+Disposiciones personales
+        ↓
+Creencias de capacidad
+        ↓
+Procesos de aprendizaje
+        ↓
+Competencias percibidas
+        ↓
+Desempeño demostrado
+```
+
+# Comparación entre ambos escenarios
+
+| Elemento                            |                                      Corpus de 82 |                                               Corpus hipotético de 93 |
+| ----------------------------------- | ------------------------------------------------: | --------------------------------------------------------------------: |
+| Registros analizados                |                                                82 |                                                                    93 |
+| Ejes principales                    |                                                 7 |                                                                     8 |
+| Orientación                         | Competencias e instrumentos próximos al protocolo | Competencias más disposiciones psicológicas y percepciones educativas |
+| Homogeneidad conceptual             |                                             Mayor |                                                                 Menor |
+| Cobertura del fenómeno educativo    |                                   Más restringida |                                                            Más amplia |
+| Riesgo de desviación del constructo |                                          Moderado |                                                                  Alto |
+| Nuevo eje afectivo-motivacional     |                                         Implícito |                                               Explícito y consolidado |
+
+# Estructura axial hipotética final
+
+```text
+Medición de estudiantes en educación en ingeniería
+│
+├── 1. Autoeficacia y creencias de capacidad
+│
+├── 2. Competencias profesionales y empleabilidad
+│
+├── 3. Competencias técnicas y cognitivas
+│
+├── 4. Innovación, creatividad y emprendimiento
+│
+├── 5. Ética, sostenibilidad y responsabilidad
+│
+├── 6. Investigación, reflexión y autorregulación
+│
+├── 7. Experiencias auténticas y ambientes de aprendizaje
+│
+└── 8. Disposiciones afectivas, motivacionales e identidad
+    ├── Motivación
+    ├── Actitudes
+    ├── Identidad y pertenencia
+    └── Resiliencia y disposiciones personales
+```
+
+## Conclusión del escenario hipotético
+
+Si todos los registros fueran incluidos, el resultado sería **más amplio, pero menos específico respecto al objetivo original**. La revisión dejaría de centrarse exclusivamente en instrumentos de competencias y pasaría a estudiar un ecosistema más general de medición del estudiante de ingeniería, integrado por:
+
+* competencias;
+* autoeficacia;
+* actitudes;
+* motivación;
+* identidad;
+* resiliencia;
+* percepción de experiencias educativas;
+* ambientes de aprendizaje;
+* desempeños técnicos y profesionales.
+
+El hallazgo principal sería que la literatura utiliza frecuentemente como conceptos próximos —aunque no equivalentes— la **competencia demostrada**, la **competencia autopercibida**, la **autoeficacia**, la **actitud**, la **motivación** y la **identidad profesional**. Esta superposición conceptual sería uno de los resultados críticos de la revisión.

@@ -1,0 +1,222 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 750px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Universiti Teknologi MARA System", "label": "Universiti Teknologi MARA System", "shape": "dot", "size": 10, "title": "Universiti Teknologi MARA System"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "Politecnica Salesiana University", "label": "Politecnica Salesiana University", "shape": "dot", "size": 10, "title": "Politecnica Salesiana University"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "A\u00e7\u00e3o Educativa", "label": "A\u00e7\u00e3o Educativa", "shape": "dot", "size": 10, "title": "A\u00e7\u00e3o Educativa"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Universidad de Guadalajara", "label": "Universidad de Guadalajara", "shape": "dot", "size": 10, "title": "Universidad de Guadalajara"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Tecnologie Avanzate (Italy)", "label": "Tecnologie Avanzate (Italy)", "shape": "dot", "size": 10, "title": "Tecnologie Avanzate (Italy)"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "Universitatea Na\u021bional\u0103 de \u0218tiin\u021b\u0103 \u0219i Tehnologie Politehnica Bucure\u0219ti", "label": "Universitatea Na\u021bional\u0103 de \u0218tiin\u021b\u0103 \u0219i Tehnologie Politehnica Bucure\u0219ti", "shape": "dot", "size": 10, "title": "Universitatea Na\u021bional\u0103 de \u0218tiin\u021b\u0103 \u0219i Tehnologie Politehnica Bucure\u0219ti"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "The Federal Polytechnic, Ado-Ekiti", "label": "The Federal Polytechnic, Ado-Ekiti", "shape": "dot", "size": 10, "title": "The Federal Polytechnic, Ado-Ekiti"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "Electoral Commission", "label": "Electoral Commission", "shape": "dot", "size": 10, "title": "Electoral Commission"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Purdue University West Lafayette", "label": "Purdue University West Lafayette", "shape": "dot", "size": 11, "title": "Purdue University West Lafayette"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Rowan University", "label": "Rowan University", "shape": "dot", "size": 11, "title": "Rowan University"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Saint Vincent College", "label": "Saint Vincent College", "shape": "dot", "size": 11, "title": "Saint Vincent College"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "South Dakota School of Mines and Technology", "label": "South Dakota School of Mines and Technology", "shape": "dot", "size": 11, "title": "South Dakota School of Mines and Technology"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "Clarkson University", "label": "Clarkson University", "shape": "dot", "size": 10, "title": "Clarkson University"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Colorado State University", "label": "Colorado State University", "shape": "dot", "size": 10, "title": "Colorado State University"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "University of Georgia", "label": "University of Georgia", "shape": "dot", "size": 10, "title": "University of Georgia"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "Lovely Professional University", "label": "Lovely Professional University", "shape": "dot", "size": 10, "title": "Lovely Professional University"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "International Social Security Association", "label": "International Social Security Association", "shape": "dot", "size": 10, "title": "International Social Security Association"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Ming Chuan University", "label": "Ming Chuan University", "shape": "dot", "size": 10, "title": "Ming Chuan University"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "National Taiwan Normal University", "label": "National Taiwan Normal University", "shape": "dot", "size": 10, "title": "National Taiwan Normal University"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "The University of Texas at Austin", "label": "The University of Texas at Austin", "shape": "dot", "size": 11, "title": "The University of Texas at Austin"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Delft University of Technology", "label": "Delft University of Technology", "shape": "dot", "size": 10, "title": "Delft University of Technology"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "Louisiana Tech University", "label": "Louisiana Tech University", "shape": "dot", "size": 10, "title": "Louisiana Tech University"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "Clemson University", "label": "Clemson University", "shape": "dot", "size": 10, "title": "Clemson University"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "Universitas Negeri Surabaya", "label": "Universitas Negeri Surabaya", "shape": "dot", "size": 10, "title": "Universitas Negeri Surabaya"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Uppsala University", "label": "Uppsala University", "shape": "dot", "size": 10, "title": "Uppsala University"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Rose\u2013Hulman Institute of Technology", "label": "Rose\u2013Hulman Institute of Technology", "shape": "dot", "size": 11, "title": "Rose\u2013Hulman Institute of Technology"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Gannon University", "label": "Gannon University", "shape": "dot", "size": 10, "title": "Gannon University"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "Universidad de Las Palmas de Gran Canaria", "label": "Universidad de Las Palmas de Gran Canaria", "shape": "dot", "size": 10, "title": "Universidad de Las Palmas de Gran Canaria"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "University of North Dakota", "label": "University of North Dakota", "shape": "dot", "size": 13, "title": "University of North Dakota"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "University of Missouri", "label": "University of Missouri", "shape": "dot", "size": 13, "title": "University of Missouri"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Konkuk University", "label": "Konkuk University", "shape": "dot", "size": 13, "title": "Konkuk University"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Georgia State University", "label": "Georgia State University", "shape": "dot", "size": 13, "title": "Georgia State University"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "University of Denver", "label": "University of Denver", "shape": "dot", "size": 13, "title": "University of Denver"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "Kocaeli \u00dcniversitesi", "label": "Kocaeli \u00dcniversitesi", "shape": "dot", "size": 10, "title": "Kocaeli \u00dcniversitesi"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "Istanbul University-Cerrahpa\u015fa", "label": "Istanbul University-Cerrahpa\u015fa", "shape": "dot", "size": 10, "title": "Istanbul University-Cerrahpa\u015fa"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "Istanbul University", "label": "Istanbul University", "shape": "dot", "size": 10, "title": "Istanbul University"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "Arizona State University", "label": "Arizona State University", "shape": "dot", "size": 10, "title": "Arizona State University"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Northern University", "label": "Northern University", "shape": "dot", "size": 10, "title": "Northern University"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Ohio Northern University", "label": "Ohio Northern University", "shape": "dot", "size": 10, "title": "Ohio Northern University"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "The Ohio State University", "label": "The Ohio State University", "shape": "dot", "size": 10, "title": "The Ohio State University"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "National Taipei University of Nursing and Health Science", "label": "National Taipei University of Nursing and Health Science", "shape": "dot", "size": 10, "title": "National Taipei University of Nursing and Health Science"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Fujian University of Technology", "label": "Fujian University of Technology", "shape": "dot", "size": 10, "title": "Fujian University of Technology"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "Suranaree University of Technology", "label": "Suranaree University of Technology", "shape": "dot", "size": 10, "title": "Suranaree University of Technology"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "Jaypee Institute of Information Technology", "label": "Jaypee Institute of Information Technology", "shape": "dot", "size": 10, "title": "Jaypee Institute of Information Technology"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Band\u0131rma Onyedi Eyl\u00fcl University", "label": "Band\u0131rma Onyedi Eyl\u00fcl University", "shape": "dot", "size": 10, "title": "Band\u0131rma Onyedi Eyl\u00fcl University"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Istanbul Medeniyet University", "label": "Istanbul Medeniyet University", "shape": "dot", "size": 10, "title": "Istanbul Medeniyet University"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "\u00c7anakkale Onsekiz Mart \u00dcniversitesi", "label": "\u00c7anakkale Onsekiz Mart \u00dcniversitesi", "shape": "dot", "size": 10, "title": "\u00c7anakkale Onsekiz Mart \u00dcniversitesi"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "Mevlana University", "label": "Mevlana University", "shape": "dot", "size": 10, "title": "Mevlana University"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Amasya \u00dcniversitesi", "label": "Amasya \u00dcniversitesi", "shape": "dot", "size": 10, "title": "Amasya \u00dcniversitesi"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Bilkent University", "label": "Bilkent University", "shape": "dot", "size": 10, "title": "Bilkent University"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Technical University of Denmark", "label": "Technical University of Denmark", "shape": "dot", "size": 10, "title": "Technical University of Denmark"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "University of Bamberg", "label": "University of Bamberg", "shape": "dot", "size": 10, "title": "University of Bamberg"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "Worcester Polytechnic Institute", "label": "Worcester Polytechnic Institute", "shape": "dot", "size": 10, "title": "Worcester Polytechnic Institute"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "Bucknell University", "label": "Bucknell University", "shape": "dot", "size": 10, "title": "Bucknell University"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "Anyang University", "label": "Anyang University", "shape": "dot", "size": 10, "title": "Anyang University"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "Hanyang University", "label": "Hanyang University", "shape": "dot", "size": 10, "title": "Hanyang University"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "University of Hong Kong", "label": "University of Hong Kong", "shape": "dot", "size": 10, "title": "University of Hong Kong"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Education University of Hong Kong", "label": "Education University of Hong Kong", "shape": "dot", "size": 10, "title": "Education University of Hong Kong"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "University of Kentucky", "label": "University of Kentucky", "shape": "dot", "size": 10, "title": "University of Kentucky"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "Tun Hussein Onn University of Malaysia", "label": "Tun Hussein Onn University of Malaysia", "shape": "dot", "size": 10, "title": "Tun Hussein Onn University of Malaysia"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "University of Colorado Boulder", "label": "University of Colorado Boulder", "shape": "dot", "size": 10, "title": "University of Colorado Boulder"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Tufts University", "label": "Tufts University", "shape": "dot", "size": 10, "title": "Tufts University"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Michigan Technological University", "label": "Michigan Technological University", "shape": "dot", "size": 10, "title": "Michigan Technological University"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "Shahid Bahonar University of Kerman", "label": "Shahid Bahonar University of Kerman", "shape": "dot", "size": 10, "title": "Shahid Bahonar University of Kerman"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "Leibniz Institute for Science and Mathematics Education", "label": "Leibniz Institute for Science and Mathematics Education", "shape": "dot", "size": 11, "title": "Leibniz Institute for Science and Mathematics Education"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "University of Stuttgart", "label": "University of Stuttgart", "shape": "dot", "size": 11, "title": "University of Stuttgart"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "University of Bremen", "label": "University of Bremen", "shape": "dot", "size": 11, "title": "University of Bremen"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "Humboldt-Universit\u00e4t zu Berlin", "label": "Humboldt-Universit\u00e4t zu Berlin", "shape": "dot", "size": 11, "title": "Humboldt-Universit\u00e4t zu Berlin"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Polytechnic Institute of Porto", "label": "Polytechnic Institute of Porto", "shape": "dot", "size": 11, "title": "Polytechnic Institute of Porto"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "University of Tr\u00e1s-os-Montes and Alto Douro", "label": "University of Tr\u00e1s-os-Montes and Alto Douro", "shape": "dot", "size": 11, "title": "University of Tr\u00e1s-os-Montes and Alto Douro"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Center for Interdisciplinary Studies", "label": "Center for Interdisciplinary Studies", "shape": "dot", "size": 11, "title": "Center for Interdisciplinary Studies"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Autonomous University of Lisbon", "label": "Autonomous University of Lisbon", "shape": "dot", "size": 11, "title": "Autonomous University of Lisbon"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "Francisco de Paula Santander University", "label": "Francisco de Paula Santander University", "shape": "dot", "size": 10, "title": "Francisco de Paula Santander University"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Aalto University", "label": "Aalto University", "shape": "dot", "size": 10, "title": "Aalto University"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "University of Helsinki", "label": "University of Helsinki", "shape": "dot", "size": 10, "title": "University of Helsinki"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "H\u00e4me University of Applied Sciences", "label": "H\u00e4me University of Applied Sciences", "shape": "dot", "size": 10, "title": "H\u00e4me University of Applied Sciences"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "American Society For Engineering Education", "label": "American Society For Engineering Education", "shape": "dot", "size": 11, "title": "American Society For Engineering Education"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "The University of Texas at El Paso", "label": "The University of Texas at El Paso", "shape": "dot", "size": 11, "title": "The University of Texas at El Paso"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "Liberal Arts University", "label": "Liberal Arts University", "shape": "dot", "size": 11, "title": "Liberal Arts University"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "Australian Council for Educational Research", "label": "Australian Council for Educational Research", "shape": "dot", "size": 10, "title": "Australian Council for Educational Research"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "Instituto Superior Miguel Torga", "label": "Instituto Superior Miguel Torga", "shape": "dot", "size": 10, "title": "Instituto Superior Miguel Torga"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "University of Coimbra", "label": "University of Coimbra", "shape": "dot", "size": 10, "title": "University of Coimbra"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Technological University Dublin", "label": "Technological University Dublin", "shape": "dot", "size": 10, "title": "Technological University Dublin"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "University of Limerick", "label": "University of Limerick", "shape": "dot", "size": 13, "title": "University of Limerick"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Technological University of the Shannon: Midlands Midwest", "label": "Technological University of the Shannon: Midlands Midwest", "shape": "dot", "size": 13, "title": "Technological University of the Shannon: Midlands Midwest"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "Shannon Applied Biotechnology Centre", "label": "Shannon Applied Biotechnology Centre", "shape": "dot", "size": 10, "title": "Shannon Applied Biotechnology Centre"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "Pennsylvania State University", "label": "Pennsylvania State University", "shape": "dot", "size": 11, "title": "Pennsylvania State University"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "University of Michigan", "label": "University of Michigan", "shape": "dot", "size": 10, "title": "University of Michigan"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "Carnegie Mellon University", "label": "Carnegie Mellon University", "shape": "dot", "size": 10, "title": "Carnegie Mellon University"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Universidad Pablo de Olavide", "label": "Universidad Pablo de Olavide", "shape": "dot", "size": 10, "title": "Universidad Pablo de Olavide"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Universidad de C\u00e1diz", "label": "Universidad de C\u00e1diz", "shape": "dot", "size": 10, "title": "Universidad de C\u00e1diz"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Universitat Polit\u00e8cnica de Catalunya", "label": "Universitat Polit\u00e8cnica de Catalunya", "shape": "dot", "size": 10, "title": "Universitat Polit\u00e8cnica de Catalunya"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "California State University, Fullerton", "label": "California State University, Fullerton", "shape": "dot", "size": 11, "title": "California State University, Fullerton"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Gender Studies", "label": "Gender Studies", "shape": "dot", "size": 11, "title": "Gender Studies"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Stanford University", "label": "Stanford University", "shape": "dot", "size": 13, "title": "Stanford University"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "California Institute of Technology", "label": "California Institute of Technology", "shape": "dot", "size": 11, "title": "California Institute of Technology"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "University of C\u00f3rdoba", "label": "University of C\u00f3rdoba", "shape": "dot", "size": 10, "title": "University of C\u00f3rdoba"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "Universidad Cat\u00f3lica de Cuenca", "label": "Universidad Cat\u00f3lica de Cuenca", "shape": "dot", "size": 10, "title": "Universidad Cat\u00f3lica de Cuenca"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Queen\u0027s University", "label": "Queen\u0027s University", "shape": "dot", "size": 10, "title": "Queen\u0027s University"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "Central University of Ecuador", "label": "Central University of Ecuador", "shape": "dot", "size": 10, "title": "Central University of Ecuador"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "Universidad de las Fuerzas Armadas ESPE", "label": "Universidad de las Fuerzas Armadas ESPE", "shape": "dot", "size": 10, "title": "Universidad de las Fuerzas Armadas ESPE"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "State University of Malang", "label": "State University of Malang", "shape": "dot", "size": 10, "title": "State University of Malang"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "TU Dortmund University", "label": "TU Dortmund University", "shape": "dot", "size": 10, "title": "TU Dortmund University"}, {"color": "#9c755f", "font": {"color": "#333333"}, "id": "Friedrich Schiller University Jena", "label": "Friedrich Schiller University Jena", "shape": "dot", "size": 10, "title": "Friedrich Schiller University Jena"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "Sel\u00e7uk University", "label": "Sel\u00e7uk University", "shape": "dot", "size": 10, "title": "Sel\u00e7uk University"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "Necmettin Erbakan University", "label": "Necmettin Erbakan University", "shape": "dot", "size": 10, "title": "Necmettin Erbakan University"}, {"color": "#bab0ac", "font": {"color": "#333333"}, "id": "K\u0131rklareli University", "label": "K\u0131rklareli University", "shape": "dot", "size": 10, "title": "K\u0131rklareli University"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne", "label": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne", "shape": "dot", "size": 10, "title": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "Tecnol\u00f3gico de Monterrey", "label": "Tecnol\u00f3gico de Monterrey", "shape": "dot", "size": 10, "title": "Tecnol\u00f3gico de Monterrey"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "Instituto Polit\u00e9cnico Nacional", "label": "Instituto Polit\u00e9cnico Nacional", "shape": "dot", "size": 10, "title": "Instituto Polit\u00e9cnico Nacional"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Universidad Tecnol\u00f3gica de Bol\u00edvar", "label": "Universidad Tecnol\u00f3gica de Bol\u00edvar", "shape": "dot", "size": 10, "title": "Universidad Tecnol\u00f3gica de Bol\u00edvar"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "Popular University of Cesar", "label": "Popular University of Cesar", "shape": "dot", "size": 10, "title": "Popular University of Cesar"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "North Carolina Agricultural and Technical State University", "label": "North Carolina Agricultural and Technical State University", "shape": "dot", "size": 10, "title": "North Carolina Agricultural and Technical State University"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "Instituto Tecnol\u00f3gico Metropolitano", "label": "Instituto Tecnol\u00f3gico Metropolitano", "shape": "dot", "size": 10, "title": "Instituto Tecnol\u00f3gico Metropolitano"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "Shibaura Institute of Technology", "label": "Shibaura Institute of Technology", "shape": "dot", "size": 10, "title": "Shibaura Institute of Technology"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "Northeast Normal University", "label": "Northeast Normal University", "shape": "dot", "size": 10, "title": "Northeast Normal University"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Mitchell Institute", "label": "Mitchell Institute", "shape": "dot", "size": 10, "title": "Mitchell Institute"}, {"color": "#ff9da7", "font": {"color": "#333333"}, "id": "Texas A\u0026M University", "label": "Texas A\u0026M University", "shape": "dot", "size": 10, "title": "Texas A\u0026M University"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "University of California, Irvine", "label": "University of California, Irvine", "shape": "dot", "size": 10, "title": "University of California, Irvine"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "Vanderbilt University", "label": "Vanderbilt University", "shape": "dot", "size": 10, "title": "Vanderbilt University"}]);
+                  edges = new vis.DataSet([{"from": "Politecnica Salesiana University", "title": "Weight: 1", "to": "A\u00e7\u00e3o Educativa", "value": 1}, {"from": "Universidad de Guadalajara", "title": "Weight: 1", "to": "Tecnologie Avanzate (Italy)", "value": 1}, {"from": "The Federal Polytechnic, Ado-Ekiti", "title": "Weight: 1", "to": "Electoral Commission", "value": 1}, {"from": "Purdue University West Lafayette", "title": "Weight: 1", "to": "Rowan University", "value": 1}, {"from": "Purdue University West Lafayette", "title": "Weight: 1", "to": "Saint Vincent College", "value": 1}, {"from": "Purdue University West Lafayette", "title": "Weight: 1", "to": "South Dakota School of Mines and Technology", "value": 1}, {"from": "Rowan University", "title": "Weight: 1", "to": "Saint Vincent College", "value": 1}, {"from": "Rowan University", "title": "Weight: 1", "to": "South Dakota School of Mines and Technology", "value": 1}, {"from": "Saint Vincent College", "title": "Weight: 1", "to": "South Dakota School of Mines and Technology", "value": 1}, {"from": "Lovely Professional University", "title": "Weight: 1", "to": "International Social Security Association", "value": 1}, {"from": "Ming Chuan University", "title": "Weight: 1", "to": "National Taiwan Normal University", "value": 1}, {"from": "The University of Texas at Austin", "title": "Weight: 1", "to": "American Society For Engineering Education", "value": 1}, {"from": "The University of Texas at Austin", "title": "Weight: 1", "to": "The University of Texas at El Paso", "value": 1}, {"from": "The University of Texas at Austin", "title": "Weight: 1", "to": "Liberal Arts University", "value": 1}, {"from": "Delft University of Technology", "title": "Weight: 1", "to": "Technical University of Denmark", "value": 1}, {"from": "Delft University of Technology", "title": "Weight: 1", "to": "University of Bamberg", "value": 1}, {"from": "Louisiana Tech University", "title": "Weight: 1", "to": "Clemson University", "value": 1}, {"from": "Clemson University", "title": "Weight: 1", "to": "University of Kentucky", "value": 1}, {"from": "Uppsala University", "title": "Weight: 1", "to": "Rose\u2013Hulman Institute of Technology", "value": 1}, {"from": "Uppsala University", "title": "Weight: 1", "to": "Gannon University", "value": 1}, {"from": "Rose\u2013Hulman Institute of Technology", "title": "Weight: 1", "to": "Gannon University", "value": 1}, {"from": "Rose\u2013Hulman Institute of Technology", "title": "Weight: 1", "to": "Stanford University", "value": 1}, {"from": "University of North Dakota", "title": "Weight: 1", "to": "University of Missouri", "value": 1}, {"from": "University of North Dakota", "title": "Weight: 1", "to": "Konkuk University", "value": 1}, {"from": "University of North Dakota", "title": "Weight: 1", "to": "Georgia State University", "value": 1}, {"from": "University of North Dakota", "title": "Weight: 1", "to": "University of Denver", "value": 1}, {"from": "University of Missouri", "title": "Weight: 1", "to": "Konkuk University", "value": 1}, {"from": "University of Missouri", "title": "Weight: 1", "to": "Georgia State University", "value": 1}, {"from": "University of Missouri", "title": "Weight: 1", "to": "University of Denver", "value": 1}, {"from": "Konkuk University", "title": "Weight: 1", "to": "Georgia State University", "value": 1}, {"from": "Konkuk University", "title": "Weight: 1", "to": "University of Denver", "value": 1}, {"from": "Georgia State University", "title": "Weight: 1", "to": "University of Denver", "value": 1}, {"from": "Kocaeli \u00dcniversitesi", "title": "Weight: 1", "to": "Istanbul University-Cerrahpa\u015fa", "value": 1}, {"from": "Kocaeli \u00dcniversitesi", "title": "Weight: 1", "to": "Istanbul University", "value": 1}, {"from": "Istanbul University-Cerrahpa\u015fa", "title": "Weight: 1", "to": "Istanbul University", "value": 1}, {"from": "Northern University", "title": "Weight: 1", "to": "Ohio Northern University", "value": 1}, {"from": "National Taipei University of Nursing and Health Science", "title": "Weight: 1", "to": "Fujian University of Technology", "value": 1}, {"from": "Band\u0131rma Onyedi Eyl\u00fcl University", "title": "Weight: 1", "to": "Istanbul Medeniyet University", "value": 1}, {"from": "Band\u0131rma Onyedi Eyl\u00fcl University", "title": "Weight: 1", "to": "\u00c7anakkale Onsekiz Mart \u00dcniversitesi", "value": 1}, {"from": "Istanbul Medeniyet University", "title": "Weight: 1", "to": "\u00c7anakkale Onsekiz Mart \u00dcniversitesi", "value": 1}, {"from": "Amasya \u00dcniversitesi", "title": "Weight: 1", "to": "Bilkent University", "value": 1}, {"from": "Technical University of Denmark", "title": "Weight: 1", "to": "University of Bamberg", "value": 1}, {"from": "Worcester Polytechnic Institute", "title": "Weight: 1", "to": "Bucknell University", "value": 1}, {"from": "Anyang University", "title": "Weight: 1", "to": "Hanyang University", "value": 1}, {"from": "University of Hong Kong", "title": "Weight: 1", "to": "Education University of Hong Kong", "value": 1}, {"from": "University of Colorado Boulder", "title": "Weight: 1", "to": "Tufts University", "value": 1}, {"from": "University of Colorado Boulder", "title": "Weight: 1", "to": "Michigan Technological University", "value": 1}, {"from": "Tufts University", "title": "Weight: 1", "to": "Michigan Technological University", "value": 1}, {"from": "Leibniz Institute for Science and Mathematics Education", "title": "Weight: 1", "to": "University of Stuttgart", "value": 1}, {"from": "Leibniz Institute for Science and Mathematics Education", "title": "Weight: 1", "to": "University of Bremen", "value": 1}, {"from": "Leibniz Institute for Science and Mathematics Education", "title": "Weight: 1", "to": "Humboldt-Universit\u00e4t zu Berlin", "value": 1}, {"from": "University of Stuttgart", "title": "Weight: 1", "to": "University of Bremen", "value": 1}, {"from": "University of Stuttgart", "title": "Weight: 1", "to": "Humboldt-Universit\u00e4t zu Berlin", "value": 1}, {"from": "University of Bremen", "title": "Weight: 1", "to": "Humboldt-Universit\u00e4t zu Berlin", "value": 1}, {"from": "Polytechnic Institute of Porto", "title": "Weight: 1", "to": "University of Tr\u00e1s-os-Montes and Alto Douro", "value": 1}, {"from": "Polytechnic Institute of Porto", "title": "Weight: 1", "to": "Center for Interdisciplinary Studies", "value": 1}, {"from": "Polytechnic Institute of Porto", "title": "Weight: 1", "to": "Autonomous University of Lisbon", "value": 1}, {"from": "University of Tr\u00e1s-os-Montes and Alto Douro", "title": "Weight: 1", "to": "Center for Interdisciplinary Studies", "value": 1}, {"from": "University of Tr\u00e1s-os-Montes and Alto Douro", "title": "Weight: 1", "to": "Autonomous University of Lisbon", "value": 1}, {"from": "Center for Interdisciplinary Studies", "title": "Weight: 1", "to": "Autonomous University of Lisbon", "value": 1}, {"from": "Aalto University", "title": "Weight: 1", "to": "University of Helsinki", "value": 1}, {"from": "Aalto University", "title": "Weight: 1", "to": "H\u00e4me University of Applied Sciences", "value": 1}, {"from": "University of Helsinki", "title": "Weight: 1", "to": "H\u00e4me University of Applied Sciences", "value": 1}, {"from": "American Society For Engineering Education", "title": "Weight: 1", "to": "The University of Texas at El Paso", "value": 1}, {"from": "American Society For Engineering Education", "title": "Weight: 1", "to": "Liberal Arts University", "value": 1}, {"from": "The University of Texas at El Paso", "title": "Weight: 1", "to": "Liberal Arts University", "value": 1}, {"from": "Instituto Superior Miguel Torga", "title": "Weight: 2", "to": "University of Coimbra", "value": 2}, {"from": "Technological University Dublin", "title": "Weight: 1", "to": "University of Limerick", "value": 1}, {"from": "Technological University Dublin", "title": "Weight: 1", "to": "Technological University of the Shannon: Midlands Midwest", "value": 1}, {"from": "University of Limerick", "title": "Weight: 2", "to": "Technological University of the Shannon: Midlands Midwest", "value": 2}, {"from": "University of Limerick", "title": "Weight: 1", "to": "Shannon Applied Biotechnology Centre", "value": 1}, {"from": "Technological University of the Shannon: Midlands Midwest", "title": "Weight: 1", "to": "Shannon Applied Biotechnology Centre", "value": 1}, {"from": "Pennsylvania State University", "title": "Weight: 1", "to": "University of Michigan", "value": 1}, {"from": "Pennsylvania State University", "title": "Weight: 1", "to": "Carnegie Mellon University", "value": 1}, {"from": "Pennsylvania State University", "title": "Weight: 1", "to": "University of California, Irvine", "value": 1}, {"from": "University of Michigan", "title": "Weight: 1", "to": "Carnegie Mellon University", "value": 1}, {"from": "Universidad Pablo de Olavide", "title": "Weight: 1", "to": "Universidad de C\u00e1diz", "value": 1}, {"from": "Universidad Pablo de Olavide", "title": "Weight: 1", "to": "Universitat Polit\u00e8cnica de Catalunya", "value": 1}, {"from": "Universidad de C\u00e1diz", "title": "Weight: 1", "to": "Universitat Polit\u00e8cnica de Catalunya", "value": 1}, {"from": "California State University, Fullerton", "title": "Weight: 1", "to": "Gender Studies", "value": 1}, {"from": "California State University, Fullerton", "title": "Weight: 1", "to": "Stanford University", "value": 1}, {"from": "California State University, Fullerton", "title": "Weight: 1", "to": "California Institute of Technology", "value": 1}, {"from": "Gender Studies", "title": "Weight: 1", "to": "Stanford University", "value": 1}, {"from": "Gender Studies", "title": "Weight: 1", "to": "California Institute of Technology", "value": 1}, {"from": "Stanford University", "title": "Weight: 1", "to": "California Institute of Technology", "value": 1}, {"from": "University of C\u00f3rdoba", "title": "Weight: 1", "to": "Universidad Cat\u00f3lica de Cuenca", "value": 1}, {"from": "Central University of Ecuador", "title": "Weight: 1", "to": "Universidad de las Fuerzas Armadas ESPE", "value": 1}, {"from": "TU Dortmund University", "title": "Weight: 1", "to": "Friedrich Schiller University Jena", "value": 1}, {"from": "Sel\u00e7uk University", "title": "Weight: 1", "to": "Necmettin Erbakan University", "value": 1}, {"from": "Sel\u00e7uk University", "title": "Weight: 1", "to": "K\u0131rklareli University", "value": 1}, {"from": "Necmettin Erbakan University", "title": "Weight: 1", "to": "K\u0131rklareli University", "value": 1}, {"from": "Tecnol\u00f3gico de Monterrey", "title": "Weight: 1", "to": "Instituto Polit\u00e9cnico Nacional", "value": 1}, {"from": "Universidad Tecnol\u00f3gica de Bol\u00edvar", "title": "Weight: 1", "to": "Popular University of Cesar", "value": 1}, {"from": "Mitchell Institute", "title": "Weight: 1", "to": "Texas A\u0026M University", "value": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 14, "face": "arial"}}, "edges": {"color": {"inherit": "both"}, "smooth": false}, "physics": {"forceAtlas2Based": {"gravitationalConstant": -80, "centralGravity": 0.01, "springLength": 120, "springConstant": 0.02}, "solver": "forceAtlas2Based", "stabilization": {"iterations": 200}}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

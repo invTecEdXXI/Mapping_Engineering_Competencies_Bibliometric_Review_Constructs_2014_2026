@@ -1,0 +1,651 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "1",
+  "batch": 1,
+  "timestamp": "2026-07-24T22:30:52.250679",
+  "data": {
+    "themes": [
+      {
+        "name": "Instrument Development and Validation",
+        "definition": "The process of creating and psychometrically testing new assessment tools, including scales, rubrics, and questionnaires, to measure various competencies, attitudes, and skills in engineering students.",
+        "evidence": [
+          "[PP8YRX22] the aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+          "[RGASR6Q5] This study addresses this gap by developing and validating a new instrument, the Engineering Students’ Attitudes Toward Practical Work (ESAPW) questionnaire, within the Nigerian higher education system.",
+          "[PD6ENBV2] Our study purpose was to create a scale that accurately and consistently measures engineering students’ attitudes towards learning professional skills."
+        ],
+        "articles": [
+          "PP8YRX22",
+          "RGASR6Q5",
+          "PD6ENBV2",
+          "ECTTSUXE",
+          "LPJSUJ9V",
+          "GMEMS46N",
+          "QU82N8PC",
+          "9HGRHX6A",
+          "KU4TN5MB",
+          "84K6T4E3",
+          "I9QV6W8G",
+          "NKWQH4PB",
+          "Y4ZKXXH4",
+          "AIPHQE23",
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "SL7257LZ",
+          "CU9IWP4L",
+          "AKZVTZER",
+          "JKK5M2EG",
+          "PNGM9L8J",
+          "EPIKGTEL",
+          "A3WRUNHT",
+          "DNK3JI3N",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "ZLBRXPDA",
+          "2IGUA9SF",
+          "RUGB95IU"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Reliability",
+          "Validity",
+          "Factor analysis",
+          "Cronbach's alpha",
+          "Exploratory factor analysis",
+          "Confirmatory factor analysis"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Competency Assessment",
+        "definition": "The measurement and evaluation of specific competencies—including technical, professional, transversal, and research skills—in engineering students, often using scales, rubrics, or surveys.",
+        "evidence": [
+          "[PP8YRX22] the application of this scale enables the identification of the competency in electricity skills among the engineering students, whom will be the future engineers.",
+          "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach with a cross-sectional design through an adapted and validated Work Experience Questionnaire (WEQ) version.",
+          "[84K6T4E3] The objective of this article is to identify the training needs perceived by university students in terms of research skills needed for drafting research projects."
+        ],
+        "articles": [
+          "PP8YRX22",
+          "WE7WVA4B",
+          "84K6T4E3",
+          "ECTTSUXE",
+          "RGASR6Q5",
+          "9HGRHX6A",
+          "Y4ZKXXH4",
+          "A3WRUNHT",
+          "GSUNVIP6",
+          "2IGUA9SF"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Generic competencies",
+          "Professional skills",
+          "Research competences",
+          "Transversal competencies",
+          "Innovation competence"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-Efficacy and Attitudes",
+        "definition": "The assessment of students' self-perceived confidence, attitudes, and beliefs regarding their abilities in specific domains such as entrepreneurship, engineering identity, practical work, or professional skills.",
+        "evidence": [
+          "[LPJSUJ9V] This study’s aim is to evaluate the Romanian version of the Internet Entrepreneurial Self-Efficacy Scale (IESES), a new assessment scale for online entrepreneurial self-efficacy, and estimate its psychometric properties in a sample of engineering students.",
+          "[RGASR6Q5] The purpose of this study was to develop and validate a multidimensional instrument to measure the attitudes of engineering students toward practical work in Nigeria.",
+          "[KU4TN5MB] This research paper describes the development and initial validation of a questionnaire to assess students' attitudes toward engineering and their appreciation of the sociotechnical nature of engineering."
+        ],
+        "articles": [
+          "LPJSUJ9V",
+          "RGASR6Q5",
+          "KU4TN5MB",
+          "GMEMS46N",
+          "I9QV6W8G",
+          "AIPHQE23",
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "JKK5M2EG",
+          "B4EBYEKF",
+          "2IGUA9SF"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-efficacy",
+          "Attitudes",
+          "Engineering identity",
+          "Entrepreneurial self-efficacy",
+          "Compassion"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Psychometric Properties and Factor Analysis",
+        "definition": "The use of statistical techniques such as exploratory factor analysis (EFA), confirmatory factor analysis (CFA), reliability coefficients (Cronbach's alpha), and validity measures to evaluate the quality of assessment instruments.",
+        "evidence": [
+          "[WE7WVA4B] The instrument's reliability was confirmed with high Cronbach's alpha values (>0.90), and exploratory (EFA) and confirmatory factor analyses (CFA) supported its structural validity.",
+          "[RGASR6Q5] Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instrument, and Cronbach’s alpha was used to assess its reliability.",
+          "[SL7257LZ] Validity and reliability were tested through exploratory factor analysis (EFA) and confirmatory factor analysis (CFA) and Cronbach's alpha."
+        ],
+        "articles": [
+          "WE7WVA4B",
+          "RGASR6Q5",
+          "SL7257LZ",
+          "PP8YRX22",
+          "ECTTSUXE",
+          "LPJSUJ9V",
+          "GMEMS46N",
+          "QU82N8PC",
+          "9HGRHX6A",
+          "KU4TN5MB",
+          "84K6T4E3",
+          "PD6ENBV2",
+          "I9QV6W8G",
+          "NKWQH4PB",
+          "Y4ZKXXH4",
+          "AIPHQE23",
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "PNGM9L8J",
+          "EPIKGTEL",
+          "A3WRUNHT",
+          "DNK3JI3N",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "ZLBRXPDA",
+          "2IGUA9SF",
+          "RUGB95IU"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Reliability",
+          "Validity",
+          "Exploratory factor analysis",
+          "Confirmatory factor analysis",
+          "Cronbach's alpha",
+          "Factor loading"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Transversal and Professional Skills",
+        "definition": "The assessment and development of non-technical skills such as communication, teamwork, problem-solving, critical thinking, and oral presentation, which are considered essential for engineering graduates.",
+        "evidence": [
+          "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+          "[SL7257LZ] A better understanding of students' needs in engineering curricula will support the development of engineering students' transversal competencies.",
+          "[GSUNVIP6] Oral presentation is one of the most important transversal competences for the professional career of Electrical Engineers."
+        ],
+        "articles": [
+          "WE7WVA4B",
+          "SL7257LZ",
+          "GSUNVIP6",
+          "PD6ENBV2",
+          "CU9IWP4L",
+          "EPIKGTEL",
+          "RUGB95IU"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Generic competencies",
+          "Professional skills",
+          "Soft skills",
+          "Transversal competencies",
+          "Oral presentation",
+          "Critical thinking"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Engineering Identity and Persistence",
+        "definition": "The exploration of how engineering students develop a sense of identity as engineers, and how this identity relates to their persistence, interest, and intention to complete their degree.",
+        "evidence": [
+          "[PVT4UE9C] The aim of this research paper is to develop a multi-item survey instrument to assess and understand engineering graduate students' identity.",
+          "[W2PMJWMT] This paper shows that identification with engineering for engineering graduate students is positively and significantly predicted by engineering interest, competence, recognition, and interpersonal skills competence.",
+          "[KU4TN5MB] Three factors relate to students' attitudes: (1) academic self-confidence and self-efficacy; (2) sense of belonging in engineering; and (3) attitudes toward persisting and succeeding in engineering."
+        ],
+        "articles": [
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "KU4TN5MB",
+          "GMEMS46N",
+          "I9QV6W8G",
+          "NKWQH4PB"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Engineering identity",
+          "Persistence",
+          "Sense of belonging",
+          "Self-efficacy",
+          "Interest"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Learning Experiences and Self-Efficacy Sources",
+        "definition": "The measurement of learning experiences that serve as sources of self-efficacy, such as performance accomplishments, vicarious learning, verbal persuasion, and emotional arousal, within engineering contexts.",
+        "evidence": [
+          "[B4EBYEKF] Learning experiences, or the sources of self-efficacy, play a prominent role in social cognitive career theory (Lent, Brown, & Hackett, 1994, 2000).",
+          "[B4EBYEKF] Results suggested the presence of four sub-factors consistent with social cognitive theory (Bandura, 1997) and research: performance accomplishments, vicarious learning, verbal persuasion, and emotional/physiological arousal.",
+          "[ZLBRXPDA] The Engineering Learning Experience Scale (ELES) was created within the framework of Social Cognitive Career Theory to accurately evaluate learning experiences arising from direct or indirect learning activities in or out of school."
+        ],
+        "articles": [
+          "B4EBYEKF",
+          "ZLBRXPDA"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Learning experiences",
+          "Self-efficacy sources",
+          "Social cognitive career theory",
+          "Performance accomplishments",
+          "Vicarious learning"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Reflective Thinking and Decision-Making",
+        "definition": "The assessment of students' reflective thinking processes and decision-making competencies, particularly in design problem-solving and self-regulated learning contexts.",
+        "evidence": [
+          "[RUGB95IU] Reflection is a critical factor in solving design problems. Using good methods to observe designers' reflection is essential to inform the design of the learning environments that support the development of design problem‐solving skills.",
+          "[PNGM9L8J] This Full Research Paper discusses ongoing work to develop a survey instrument to reliably assess undergraduate engineering student self-regulated decision-making.",
+          "[RUGB95IU] In this study, we have developed and validated a novel self‐reporting questionnaire as an efficient instrument to explore reflection, called Assessing Reflective Thinking in Solving Design Problems (ARTiD)."
+        ],
+        "articles": [
+          "RUGB95IU",
+          "PNGM9L8J"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Reflective thinking",
+          "Decision-making",
+          "Self-regulated learning",
+          "Design problem-solving"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on the development and validation of assessment instruments (scales, rubrics, questionnaires) for engineering students, with heavy reliance on psychometric methods like factor analysis and Cronbach's alpha. Many abstracts lack explicit objectives, methods, or conclusions, as noted in quality notes, which may limit the depth of thematic extraction. The themes of self-efficacy, attitudes, and identity are recurrent, often linked to social cognitive theory. There is a notable emphasis on non-technical or transversal skills, reflecting a broader trend in engineering education research.",
+    "grounding_notes": "All evidence quotes are verbatim from the provided abstracts. Article keys are restricted to the closed set. Some themes (e.g., Learning Experiences) have limited evidence due to the small number of abstracts addressing them. The quality notes for several abstracts indicate missing elements, but only explicitly stated content was used.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 1.0,
+      "avg_quote_grounding": 1.0,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 0,
+      "verification_details": [
+        {
+          "theme_name": "Instrument Development and Validation",
+          "evidence_verified": [
+            {
+              "quote": "[PP8YRX22] the aim of this study is to develop a Rasch performance measurement scale of the engineering students on their competency in basic electricity concepts.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[RGASR6Q5] This study addresses this gap by developing and validating a new instrument, the Engineering Students’ Attitudes Toward Practical Work (ESAPW) questionnaire, within the Nigerian higher education system.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PD6ENBV2] Our study purpose was to create a scale that accurately and consistently measures engineering students’ attitudes towards learning professional skills.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "PP8YRX22",
+            "RGASR6Q5",
+            "PD6ENBV2",
+            "ECTTSUXE",
+            "LPJSUJ9V",
+            "GMEMS46N",
+            "QU82N8PC",
+            "9HGRHX6A",
+            "KU4TN5MB",
+            "84K6T4E3",
+            "I9QV6W8G",
+            "NKWQH4PB",
+            "Y4ZKXXH4",
+            "AIPHQE23",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "AKZVTZER",
+            "JKK5M2EG",
+            "PNGM9L8J",
+            "EPIKGTEL",
+            "A3WRUNHT",
+            "DNK3JI3N",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Competency Assessment",
+          "evidence_verified": [
+            {
+              "quote": "[PP8YRX22] the application of this scale enables the identification of the competency in electricity skills among the engineering students, whom will be the future engineers.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[WE7WVA4B] This study assessed these competencies using a quantitative, descriptive, and correlational approach with a cross-sectional design through an adapted and validated Work Experience Questionnaire (WEQ) version.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[84K6T4E3] The objective of this article is to identify the training needs perceived by university students in terms of research skills needed for drafting research projects.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "PP8YRX22",
+            "WE7WVA4B",
+            "84K6T4E3",
+            "ECTTSUXE",
+            "RGASR6Q5",
+            "9HGRHX6A",
+            "Y4ZKXXH4",
+            "A3WRUNHT",
+            "GSUNVIP6",
+            "2IGUA9SF"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Self-Efficacy and Attitudes",
+          "evidence_verified": [
+            {
+              "quote": "[LPJSUJ9V] This study’s aim is to evaluate the Romanian version of the Internet Entrepreneurial Self-Efficacy Scale (IESES), a new assessment scale for online entrepreneurial self-efficacy, and estimate its psychometric properties in a sample of engineering students.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[RGASR6Q5] The purpose of this study was to develop and validate a multidimensional instrument to measure the attitudes of engineering students toward practical work in Nigeria.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[KU4TN5MB] This research paper describes the development and initial validation of a questionnaire to assess students' attitudes toward engineering and their appreciation of the sociotechnical nature of engineering.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LPJSUJ9V",
+            "RGASR6Q5",
+            "KU4TN5MB",
+            "GMEMS46N",
+            "I9QV6W8G",
+            "AIPHQE23",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "JKK5M2EG",
+            "B4EBYEKF",
+            "2IGUA9SF"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Psychometric Properties and Factor Analysis",
+          "evidence_verified": [
+            {
+              "quote": "[WE7WVA4B] The instrument's reliability was confirmed with high Cronbach's alpha values (>0.90), and exploratory (EFA) and confirmatory factor analyses (CFA) supported its structural validity.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[RGASR6Q5] Exploratory factor analysis (EFA) was used to identify the underlying factor structure of the instrument, and Cronbach’s alpha was used to assess its reliability.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[SL7257LZ] Validity and reliability were tested through exploratory factor analysis (EFA) and confirmatory factor analysis (CFA) and Cronbach's alpha.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "WE7WVA4B",
+            "RGASR6Q5",
+            "SL7257LZ",
+            "PP8YRX22",
+            "ECTTSUXE",
+            "LPJSUJ9V",
+            "GMEMS46N",
+            "QU82N8PC",
+            "9HGRHX6A",
+            "KU4TN5MB",
+            "84K6T4E3",
+            "PD6ENBV2",
+            "I9QV6W8G",
+            "NKWQH4PB",
+            "Y4ZKXXH4",
+            "AIPHQE23",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "PNGM9L8J",
+            "EPIKGTEL",
+            "A3WRUNHT",
+            "DNK3JI3N",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Transversal and Professional Skills",
+          "evidence_verified": [
+            {
+              "quote": "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[SL7257LZ] A better understanding of students' needs in engineering curricula will support the development of engineering students' transversal competencies.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[GSUNVIP6] Oral presentation is one of the most important transversal competences for the professional career of Electrical Engineers.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "WE7WVA4B",
+            "SL7257LZ",
+            "GSUNVIP6",
+            "PD6ENBV2",
+            "CU9IWP4L",
+            "EPIKGTEL",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Engineering Identity and Persistence",
+          "evidence_verified": [
+            {
+              "quote": "[PVT4UE9C] The aim of this research paper is to develop a multi-item survey instrument to assess and understand engineering graduate students' identity.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[W2PMJWMT] This paper shows that identification with engineering for engineering graduate students is positively and significantly predicted by engineering interest, competence, recognition, and interpersonal skills competence.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[KU4TN5MB] Three factors relate to students' attitudes: (1) academic self-confidence and self-efficacy; (2) sense of belonging in engineering; and (3) attitudes toward persisting and succeeding in engineering.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "KU4TN5MB",
+            "GMEMS46N",
+            "I9QV6W8G",
+            "NKWQH4PB"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Learning Experiences and Self-Efficacy Sources",
+          "evidence_verified": [
+            {
+              "quote": "[B4EBYEKF] Learning experiences, or the sources of self-efficacy, play a prominent role in social cognitive career theory (Lent, Brown, & Hackett, 1994, 2000).",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[B4EBYEKF] Results suggested the presence of four sub-factors consistent with social cognitive theory (Bandura, 1997) and research: performance accomplishments, vicarious learning, verbal persuasion, and emotional/physiological arousal.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[ZLBRXPDA] The Engineering Learning Experience Scale (ELES) was created within the framework of Social Cognitive Career Theory to accurately evaluate learning experiences arising from direct or indirect learning activities in or out of school.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "B4EBYEKF",
+            "ZLBRXPDA"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Reflective Thinking and Decision-Making",
+          "evidence_verified": [
+            {
+              "quote": "[RUGB95IU] Reflection is a critical factor in solving design problems. Using good methods to observe designers' reflection is essential to inform the design of the learning environments that support the development of design problem‐solving skills.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PNGM9L8J] This Full Research Paper discusses ongoing work to develop a survey instrument to reliably assess undergraduate engineering student self-regulated decision-making.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[RUGB95IU] In this study, we have developed and validated a novel self‐reporting questionnaire as an efficient instrument to explore reflection, called Assessing Reflective Thinking in Solving Design Problems (ARTiD).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "RUGB95IU",
+            "PNGM9L8J"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

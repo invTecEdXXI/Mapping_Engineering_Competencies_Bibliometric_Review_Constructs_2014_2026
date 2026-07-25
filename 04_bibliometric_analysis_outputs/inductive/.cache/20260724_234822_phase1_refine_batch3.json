@@ -1,0 +1,88 @@
+{
+  "session_id": "20260724_234822",
+  "phase": "1_refine",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:51:39.446237",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 8
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Gender Differences in Engineering Competencies and Self-Efficacy",
+      "definition": "The exploration of differences between male and female engineering students in terms of self-efficacy, competencies, affective traits, and academic performance. This includes studies investigating gendered experiences, self-efficacy gaps, and their implications for engineering education and career outcomes.",
+      "subthemes": [
+        "Gendered experiences in engineering education",
+        "Self-efficacy gaps between male and female students",
+        "Impact of gender on academic performance and retention"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Sustainability and Ethics Competencies in Engineering Education",
+      "definition": "The integration of sustainability, ethics, and social responsibility into engineering curricula, and the assessment of these competencies among engineering students. This theme includes the development of tools and frameworks to measure students' understanding and application of ethical principles and sustainability practices.",
+      "subthemes": [
+        "Curricular integration of sustainability and ethics",
+        "Assessment of ethical reasoning in engineering",
+        "Sustainability learning outcomes"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Innovation and Entrepreneurship Competencies in Engineering",
+      "definition": "The measurement and development of innovation self-efficacy and entrepreneurial competencies among engineering students. This includes the creation and validation of scales to assess these competencies and their role in career development and engineering practice.",
+      "subthemes": [
+        "Innovation self-efficacy",
+        "Entrepreneurial competencies",
+        "Career development and engineering innovation"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "merge",
+      "target_index": 13
+    },
+    {
+      "new_theme_index": 8,
+      "action": "new",
+      "theme": "Measurement Invariance and Fairness in Engineering Education Assessments",
+      "definition": "The examination of whether assessment instruments function similarly across different subpopulations of engineering students, such as first-generation college students or underrepresented groups. This theme includes studies on fairness, equity, and the development of inclusive assessment practices in engineering education.",
+      "subthemes": [
+        "Fairness in competency assessments",
+        "Engineering identity and assessment",
+        "Inclusive assessment practices"
+      ]
+    },
+    {
+      "new_theme_index": 9,
+      "action": "new",
+      "theme": "Metacognitive and Learning Orientation Tools in Engineering Education",
+      "definition": "The creation and validation of tools designed to measure metacognitive skills, learning orientations, and self-regulated learning among engineering students. This theme includes the development of instruments to assess how students plan, monitor, and evaluate their own learning processes in engineering contexts.",
+      "subthemes": [
+        "Metacognitive processes in engineering learning",
+        "Learning orientations and self-regulated learning",
+        "Development of metacognitive assessment tools"
+      ]
+    }
+  ]
+}

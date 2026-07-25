@@ -1,0 +1,180 @@
+{
+  "session_id": "20260724_234822",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:52:58.529681",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Competency Assessment and Validation Framework",
+        "justification": "This framework emphasizes the dominant theme of instrument validation and competency assessment, which is the most robust and frequently occurring topic in the data. It integrates related themes such as self-efficacy and professional competencies, which are often measured using validated instruments, allowing for a cohesive analysis of how competencies are assessed and developed in engineering education.",
+        "general_objective": "To synthesize and evaluate the development, validation, and application of competency assessment instruments in engineering education, and their role in measuring and enhancing student outcomes.",
+        "specific_objectives": [
+          {
+            "text": "Examine the psychometric properties and validation processes of competency assessment instruments used in engineering education.",
+            "key_themes": [
+              "Validation and Use of Competency Assessment Instruments in Engineering Education"
+            ],
+            "n_studies_support": 71,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Compare how validated instruments are used to measure self-efficacy and learning experiences in engineering students, and their impact on academic and career outcomes.",
+            "key_themes": [
+              "Validation and Use of Competency Assessment Instruments in Engineering Education",
+              "Self-Efficacy and Learning Experiences in Engineering Education"
+            ],
+            "n_studies_support": "80-90",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Analyze the assessment of professional, ethical, and generic competencies in engineering education using validated tools, and their relationship to student performance and professional readiness.",
+            "key_themes": [
+              "Validation and Use of Competency Assessment Instruments in Engineering Education",
+              "Professional, Ethical, and Generic Competencies in Engineering Education"
+            ],
+            "n_studies_support": "75-85",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Explore the role of socio-emotional and motivational constructs in engineering education, as measured by validated instruments, and their influence on student retention and success.",
+            "key_themes": [
+              "Validation and Use of Competency Assessment Instruments in Engineering Education",
+              "Socio-Emotional and Psychological Competencies in Engineering Education",
+              "Motivational and Career-Related Constructs in Engineering Education"
+            ],
+            "n_studies_support": "40-60",
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "90-100%",
+        "strengths": [
+          "High coverage of the most robust and frequently studied themes.",
+          "Allows for comparative and relational analysis across multiple competencies and constructs.",
+          "Grounded in empirical patterns, particularly the dominance of instrument validation studies."
+        ],
+        "limitations": [
+          "May underrepresent less studied themes such as socio-emotional competencies due to lower study counts."
+        ]
+      },
+      {
+        "approach": "Student-Centered Competency Development Framework",
+        "justification": "This framework shifts the focus to the student experience, organizing findings around how competencies, self-efficacy, and socio-emotional factors develop in engineering education. It highlights the interplay between learning experiences, motivational constructs, and competency assessment, providing a holistic view of student outcomes.",
+        "general_objective": "To explore how engineering students develop and demonstrate competencies, self-efficacy, and socio-emotional skills, and the role of learning experiences and assessment instruments in this process.",
+        "specific_objectives": [
+          {
+            "text": "Investigate the sources and development of self-efficacy in engineering students, and how learning experiences contribute to its growth.",
+            "key_themes": [
+              "Self-Efficacy and Learning Experiences in Engineering Education"
+            ],
+            "n_studies_support": 30,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Assess the development and measurement of professional, ethical, and generic competencies in engineering students, and their alignment with industry expectations.",
+            "key_themes": [
+              "Professional, Ethical, and Generic Competencies in Engineering Education"
+            ],
+            "n_studies_support": 22,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Examine the role of socio-emotional and psychological competencies in engineering education, and their impact on academic performance, retention, and ethical reasoning.",
+            "key_themes": [
+              "Socio-Emotional and Psychological Competencies in Engineering Education"
+            ],
+            "n_studies_support": 3,
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Analyze how motivational and career-related constructs influence engineering students' learning strategies, career choices, and leadership development.",
+            "key_themes": [
+              "Motivational and Career-Related Constructs in Engineering Education"
+            ],
+            "n_studies_support": 9,
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "60-70%",
+        "strengths": [
+          "Student-centered approach provides a holistic view of competency development.",
+          "Highlights the interplay between affective, cognitive, and professional competencies.",
+          "Grounded in empirical data on self-efficacy and learning experiences."
+        ],
+        "limitations": [
+          "Lower coverage of studies due to less emphasis on instrument validation as a primary focus.",
+          "Some themes (e.g., socio-emotional competencies) are less robust and may limit comparative analysis."
+        ]
+      },
+      {
+        "approach": "Integrated Competency and Assessment Framework",
+        "justification": "This framework balances the dominant theme of instrument validation with the broader context of competency development, creating a bridge between assessment practices and student outcomes. It allows for an integrated analysis of how validated tools are used to measure and enhance a wide range of competencies, from technical to socio-emotional.",
+        "general_objective": "To analyze the interplay between competency assessment instruments and the development of diverse competencies in engineering education, with a focus on how validated tools inform teaching, learning, and student success.",
+        "specific_objectives": [
+          {
+            "text": "Evaluate the development, validation, and application of competency assessment instruments in engineering education, and their effectiveness in measuring student outcomes.",
+            "key_themes": [
+              "Validation and Use of Competency Assessment Instruments in Engineering Education"
+            ],
+            "n_studies_support": 71,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Compare the measurement of self-efficacy and professional competencies using validated instruments, and their relationship to student performance and career readiness.",
+            "key_themes": [
+              "Validation and Use of Competency Assessment Instruments in Engineering Education",
+              "Self-Efficacy and Learning Experiences in Engineering Education",
+              "Professional, Ethical, and Generic Competencies in Engineering Education"
+            ],
+            "n_studies_support": "80-90",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Explore the role of motivational and socio-emotional constructs in engineering education, as measured by validated instruments, and their influence on student engagement and retention.",
+            "key_themes": [
+              "Validation and Use of Competency Assessment Instruments in Engineering Education",
+              "Socio-Emotional and Psychological Competencies in Engineering Education",
+              "Motivational and Career-Related Constructs in Engineering Education"
+            ],
+            "n_studies_support": "40-60",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Assess the impact of experiential learning and ethical training on the development of professional and representational competencies in engineering students.",
+            "key_themes": [
+              "Professional, Ethical, and Generic Competencies in Engineering Education",
+              "Representational Competence in Engineering"
+            ],
+            "n_studies_support": "20-30",
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "80-90%",
+        "strengths": [
+          "Balances the dominant theme of instrument validation with broader competency development.",
+          "Allows for integrated analysis of assessment practices and student outcomes.",
+          "High coverage of robust themes while incorporating less studied areas."
+        ],
+        "limitations": [
+          "Some objectives may rely on less robust themes (e.g., representational competence), limiting depth of analysis."
+        ]
+      }
+    ],
+    "recommendation": {
+      "framework": "Integrated Competency and Assessment Framework",
+      "reasoning": [
+        "This framework provides the best balance between the dominant theme of instrument validation and the broader context of competency development in engineering education.",
+        "It offers high coverage (80-90%) of the studies while allowing for comparative and relational analysis across multiple themes.",
+        "The framework is grounded in robust empirical patterns and enables a comprehensive synthesis of how assessment tools are used to measure and enhance diverse competencies, from self-efficacy to professional and socio-emotional skills.",
+        "It also accommodates less studied themes (e.g., representational competence) without overemphasizing them, ensuring a well-rounded analysis."
+      ]
+    },
+    "_theme_reference_check": {
+      "valid_references": 21,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

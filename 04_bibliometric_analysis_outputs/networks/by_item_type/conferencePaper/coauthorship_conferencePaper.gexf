@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="long" />
+      <attribute id="1" title="total_cites" type="long" />
+      <attribute id="2" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Nazlinda Abdullah" label="Nazlinda Abdullah">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="Juan Victor Bernal-Olvera" label="Juan Victor Bernal-Olvera">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Monica Belem Bernal-Perez" label="Monica Belem Bernal-Perez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="M. Monroy-Anieva" label="M. Monroy-Anieva">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="Felicity Bilow" label="Felicity Bilow">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Mohammad Meysami" label="Mohammad Meysami">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Jan DeWaters" label="Jan DeWaters">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="11" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Peter H. Carnell" label="Peter H. Carnell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Nathaniel Hunsu" label="Nathaniel Hunsu">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Davis Ray" label="Davis Ray">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Nicola W. Sochacka" label="Nicola W. Sochacka">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="Nathan Choe" label="Nathan Choe">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Maura Borrego" label="Maura Borrego">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Luis L. Martins" label="Luis L. Martins">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Anita Patrick" label="Anita Patrick">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Carolyn Conner Seepersad" label="Carolyn Conner Seepersad">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="32" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="John C. Moosbrugger" label="John C. Moosbrugger">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Pankaj Sharma" label="Pankaj Sharma">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="Katherine Ehlert" label="Katherine Ehlert">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Maya Rucks" label="Maya Rucks">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Baker Martin" label="Baker Martin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Mitzi Desselles" label="Mitzi Desselles">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Sarah Grigg" label="Sarah Grigg">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Marisa Orr" label="Marisa Orr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="Shaobo Huang" label="Shaobo Huang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Karim H. Muci-Küchler" label="Karim H. Muci-Küchler">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Mark Bedillion" label="Mark Bedillion">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Marius Ellingsen" label="Marius Ellingsen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="Cassandra Degen" label="Cassandra Degen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="21" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="J. Hylton" label="J. Hylton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="B. Richard Hays" label="B. Richard Hays">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="8" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="Bashirah Ibrahim" label="Bashirah Ibrahim">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Peter Rogers" label="Peter Rogers">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Denny Davis" label="Denny Davis">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Lin Ding" label="Lin Ding">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Kaycee Ash" label="Kaycee Ash">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="Bhavana Kotla" label="Bhavana Kotla">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Tyler Stump" label="Tyler Stump">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Connor Jenkins" label="Connor Jenkins">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Abbey Kashani Motlagh" label="Abbey Kashani Motlagh">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Krista Kecskemety" label="Krista Kecskemety">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Rachel Kajfez" label="Rachel Kajfez">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="Youjin Lee" label="Youjin Lee">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Byung‐Ju Yi" label="Byung‐Ju Yi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Hyunmi Park" label="Hyunmi Park">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Hyejeong Lee" label="Hyejeong Lee">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="JeongA Yang" label="JeongA Yang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Young-Mi Park" label="Young-Mi Park">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="Mawency Vergel Ortega" label="Mawency Vergel Ortega">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Jaime M. Lozano" label="Jaime M. Lozano">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="A Ortega Sierra" label="A Ortega Sierra">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="Meagan Kendall" label="Meagan Kendall">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="Ana Pinto" label="Ana Pinto">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Soraia Oliveira" label="Soraia Oliveira">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Carla Carvalho" label="Carla Carvalho">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="Mark Schar" label="Mark Schar">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Shannon Gilmartin" label="Shannon Gilmartin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Angela Harris" label="Angela Harris">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Beth Rieken" label="Beth Rieken">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="45" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Sheri Sheppard" label="Sheri Sheppard">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="50" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Patsy Brackin" label="Patsy Brackin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Kai Jun Chew" label="Kai Jun Chew">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="Sunardi Sunardi" label="Sunardi Sunardi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Purnomo Purnomo" label="Purnomo Purnomo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Eddy Sutadji" label="Eddy Sutadji">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="Mahmut Tekin" label="Mahmut Tekin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Deniz Baş" label="Deniz Baş">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Tahsin Geçkil" label="Tahsin Geçkil">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Özdal Koyuncuoğlu" label="Özdal Koyuncuoğlu">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="12" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="Dina Verdín" label="Dina Verdín">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Allison Godwin" label="Allison Godwin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="Carlos R. Vidal" label="Carlos R. Vidal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Yimy Gordón Hernández" label="Yimy Gordón Hernández">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Deibys Barreto" label="Deibys Barreto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Juan Fajardo" label="Juan Fajardo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Pedro Fragoso" label="Pedro Fragoso">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="Tobin Walton" label="Tobin Walton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </node>
+      <node id="Robin Liles" label="Robin Liles">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="19" />
+        </attvalues>
+      </node>
+      <node id="Atsuko Yamazaki" label="Atsuko Yamazaki">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="Masahiro Inoue" label="Masahiro Inoue">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="Hiroshi Hasegawa" label="Hiroshi Hasegawa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="Kenjiro Yoshimura" label="Kenjiro Yoshimura">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="Masaomi Kimura" label="Masaomi Kimura">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="Naoki Matsuora" label="Naoki Matsuora">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="20" />
+        </attvalues>
+      </node>
+      <node id="So Yoon Yoon" label="So Yoon Yoon">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="P.K. Imbrie" label="P.K. Imbrie">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Teri Reed" label="Teri Reed">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="21" />
+        </attvalues>
+      </node>
+      <node id="Ellen Zerbe" label="Ellen Zerbe">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="Catherine Berdanier" label="Catherine Berdanier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="Natascha Buswell" label="Natascha Buswell">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="Joana Marques Melo" label="Joana Marques Melo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="22" />
+        </attvalues>
+      </node>
+      <node id="Nathan Zhang" label="Nathan Zhang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Stacy Klein-Gardner" label="Stacy Klein-Gardner">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="Michael I. Miga" label="Michael I. Miga">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Juan Victor Bernal-Olvera" target="Monica Belem Bernal-Perez" id="0" weight="1" />
+      <edge source="Juan Victor Bernal-Olvera" target="M. Monroy-Anieva" id="1" weight="1" />
+      <edge source="Monica Belem Bernal-Perez" target="M. Monroy-Anieva" id="2" weight="1" />
+      <edge source="Felicity Bilow" target="Mohammad Meysami" id="3" weight="1" />
+      <edge source="Felicity Bilow" target="Jan DeWaters" id="4" weight="1" />
+      <edge source="Mohammad Meysami" target="Jan DeWaters" id="5" weight="1" />
+      <edge source="Jan DeWaters" target="John C. Moosbrugger" id="6" weight="1" />
+      <edge source="Jan DeWaters" target="Pankaj Sharma" id="7" weight="1" />
+      <edge source="Peter H. Carnell" target="Nathaniel Hunsu" id="8" weight="1" />
+      <edge source="Peter H. Carnell" target="Davis Ray" id="9" weight="1" />
+      <edge source="Peter H. Carnell" target="Nicola W. Sochacka" id="10" weight="1" />
+      <edge source="Nathaniel Hunsu" target="Davis Ray" id="11" weight="1" />
+      <edge source="Nathaniel Hunsu" target="Nicola W. Sochacka" id="12" weight="1" />
+      <edge source="Davis Ray" target="Nicola W. Sochacka" id="13" weight="1" />
+      <edge source="Nathan Choe" target="Maura Borrego" id="14" weight="2" />
+      <edge source="Nathan Choe" target="Luis L. Martins" id="15" weight="2" />
+      <edge source="Nathan Choe" target="Anita Patrick" id="16" weight="2" />
+      <edge source="Nathan Choe" target="Carolyn Conner Seepersad" id="17" weight="2" />
+      <edge source="Nathan Choe" target="Meagan Kendall" id="18" weight="1" />
+      <edge source="Maura Borrego" target="Luis L. Martins" id="19" weight="2" />
+      <edge source="Maura Borrego" target="Anita Patrick" id="20" weight="2" />
+      <edge source="Maura Borrego" target="Carolyn Conner Seepersad" id="21" weight="2" />
+      <edge source="Maura Borrego" target="Meagan Kendall" id="22" weight="1" />
+      <edge source="Luis L. Martins" target="Anita Patrick" id="23" weight="2" />
+      <edge source="Luis L. Martins" target="Carolyn Conner Seepersad" id="24" weight="2" />
+      <edge source="Luis L. Martins" target="Meagan Kendall" id="25" weight="1" />
+      <edge source="Anita Patrick" target="Carolyn Conner Seepersad" id="26" weight="2" />
+      <edge source="Anita Patrick" target="Meagan Kendall" id="27" weight="1" />
+      <edge source="Carolyn Conner Seepersad" target="Meagan Kendall" id="28" weight="1" />
+      <edge source="John C. Moosbrugger" target="Pankaj Sharma" id="29" weight="1" />
+      <edge source="Katherine Ehlert" target="Maya Rucks" id="30" weight="1" />
+      <edge source="Katherine Ehlert" target="Baker Martin" id="31" weight="1" />
+      <edge source="Katherine Ehlert" target="Mitzi Desselles" id="32" weight="1" />
+      <edge source="Katherine Ehlert" target="Sarah Grigg" id="33" weight="1" />
+      <edge source="Katherine Ehlert" target="Marisa Orr" id="34" weight="1" />
+      <edge source="Maya Rucks" target="Baker Martin" id="35" weight="1" />
+      <edge source="Maya Rucks" target="Mitzi Desselles" id="36" weight="1" />
+      <edge source="Maya Rucks" target="Sarah Grigg" id="37" weight="1" />
+      <edge source="Maya Rucks" target="Marisa Orr" id="38" weight="1" />
+      <edge source="Baker Martin" target="Mitzi Desselles" id="39" weight="1" />
+      <edge source="Baker Martin" target="Sarah Grigg" id="40" weight="1" />
+      <edge source="Baker Martin" target="Marisa Orr" id="41" weight="1" />
+      <edge source="Mitzi Desselles" target="Sarah Grigg" id="42" weight="1" />
+      <edge source="Mitzi Desselles" target="Marisa Orr" id="43" weight="1" />
+      <edge source="Sarah Grigg" target="Marisa Orr" id="44" weight="1" />
+      <edge source="Shaobo Huang" target="Karim H. Muci-Küchler" id="45" weight="1" />
+      <edge source="Shaobo Huang" target="Mark Bedillion" id="46" weight="1" />
+      <edge source="Shaobo Huang" target="Marius Ellingsen" id="47" weight="1" />
+      <edge source="Shaobo Huang" target="Cassandra Degen" id="48" weight="1" />
+      <edge source="Karim H. Muci-Küchler" target="Mark Bedillion" id="49" weight="1" />
+      <edge source="Karim H. Muci-Küchler" target="Marius Ellingsen" id="50" weight="1" />
+      <edge source="Karim H. Muci-Küchler" target="Cassandra Degen" id="51" weight="1" />
+      <edge source="Mark Bedillion" target="Marius Ellingsen" id="52" weight="1" />
+      <edge source="Mark Bedillion" target="Cassandra Degen" id="53" weight="1" />
+      <edge source="Marius Ellingsen" target="Cassandra Degen" id="54" weight="1" />
+      <edge source="J. Hylton" target="B. Richard Hays" id="55" weight="1" />
+      <edge source="Bashirah Ibrahim" target="Peter Rogers" id="56" weight="1" />
+      <edge source="Bashirah Ibrahim" target="Denny Davis" id="57" weight="1" />
+      <edge source="Bashirah Ibrahim" target="Lin Ding" id="58" weight="1" />
+      <edge source="Bashirah Ibrahim" target="Kaycee Ash" id="59" weight="1" />
+      <edge source="Peter Rogers" target="Denny Davis" id="60" weight="1" />
+      <edge source="Peter Rogers" target="Lin Ding" id="61" weight="1" />
+      <edge source="Peter Rogers" target="Kaycee Ash" id="62" weight="1" />
+      <edge source="Denny Davis" target="Lin Ding" id="63" weight="1" />
+      <edge source="Denny Davis" target="Kaycee Ash" id="64" weight="1" />
+      <edge source="Lin Ding" target="Kaycee Ash" id="65" weight="1" />
+      <edge source="Bhavana Kotla" target="Tyler Stump" id="66" weight="1" />
+      <edge source="Bhavana Kotla" target="Connor Jenkins" id="67" weight="1" />
+      <edge source="Bhavana Kotla" target="Abbey Kashani Motlagh" id="68" weight="1" />
+      <edge source="Bhavana Kotla" target="Krista Kecskemety" id="69" weight="1" />
+      <edge source="Bhavana Kotla" target="Rachel Kajfez" id="70" weight="1" />
+      <edge source="Tyler Stump" target="Connor Jenkins" id="71" weight="1" />
+      <edge source="Tyler Stump" target="Abbey Kashani Motlagh" id="72" weight="1" />
+      <edge source="Tyler Stump" target="Krista Kecskemety" id="73" weight="1" />
+      <edge source="Tyler Stump" target="Rachel Kajfez" id="74" weight="1" />
+      <edge source="Connor Jenkins" target="Abbey Kashani Motlagh" id="75" weight="1" />
+      <edge source="Connor Jenkins" target="Krista Kecskemety" id="76" weight="1" />
+      <edge source="Connor Jenkins" target="Rachel Kajfez" id="77" weight="1" />
+      <edge source="Abbey Kashani Motlagh" target="Krista Kecskemety" id="78" weight="1" />
+      <edge source="Abbey Kashani Motlagh" target="Rachel Kajfez" id="79" weight="1" />
+      <edge source="Krista Kecskemety" target="Rachel Kajfez" id="80" weight="1" />
+      <edge source="Youjin Lee" target="Byung‐Ju Yi" id="81" weight="1" />
+      <edge source="Youjin Lee" target="Hyunmi Park" id="82" weight="1" />
+      <edge source="Youjin Lee" target="Hyejeong Lee" id="83" weight="1" />
+      <edge source="Youjin Lee" target="JeongA Yang" id="84" weight="1" />
+      <edge source="Youjin Lee" target="Young-Mi Park" id="85" weight="1" />
+      <edge source="Byung‐Ju Yi" target="Hyunmi Park" id="86" weight="1" />
+      <edge source="Byung‐Ju Yi" target="Hyejeong Lee" id="87" weight="1" />
+      <edge source="Byung‐Ju Yi" target="JeongA Yang" id="88" weight="1" />
+      <edge source="Byung‐Ju Yi" target="Young-Mi Park" id="89" weight="1" />
+      <edge source="Hyunmi Park" target="Hyejeong Lee" id="90" weight="1" />
+      <edge source="Hyunmi Park" target="JeongA Yang" id="91" weight="1" />
+      <edge source="Hyunmi Park" target="Young-Mi Park" id="92" weight="1" />
+      <edge source="Hyejeong Lee" target="JeongA Yang" id="93" weight="1" />
+      <edge source="Hyejeong Lee" target="Young-Mi Park" id="94" weight="1" />
+      <edge source="JeongA Yang" target="Young-Mi Park" id="95" weight="1" />
+      <edge source="Mawency Vergel Ortega" target="Jaime M. Lozano" id="96" weight="1" />
+      <edge source="Mawency Vergel Ortega" target="A Ortega Sierra" id="97" weight="1" />
+      <edge source="Jaime M. Lozano" target="A Ortega Sierra" id="98" weight="1" />
+      <edge source="Ana Pinto" target="Soraia Oliveira" id="99" weight="2" />
+      <edge source="Ana Pinto" target="Carla Carvalho" id="100" weight="2" />
+      <edge source="Soraia Oliveira" target="Carla Carvalho" id="101" weight="2" />
+      <edge source="Mark Schar" target="Shannon Gilmartin" id="102" weight="1" />
+      <edge source="Mark Schar" target="Angela Harris" id="103" weight="1" />
+      <edge source="Mark Schar" target="Beth Rieken" id="104" weight="1" />
+      <edge source="Mark Schar" target="Sheri Sheppard" id="105" weight="2" />
+      <edge source="Mark Schar" target="Patsy Brackin" id="106" weight="1" />
+      <edge source="Mark Schar" target="Kai Jun Chew" id="107" weight="1" />
+      <edge source="Shannon Gilmartin" target="Angela Harris" id="108" weight="1" />
+      <edge source="Shannon Gilmartin" target="Beth Rieken" id="109" weight="1" />
+      <edge source="Shannon Gilmartin" target="Sheri Sheppard" id="110" weight="1" />
+      <edge source="Angela Harris" target="Beth Rieken" id="111" weight="1" />
+      <edge source="Angela Harris" target="Sheri Sheppard" id="112" weight="1" />
+      <edge source="Beth Rieken" target="Sheri Sheppard" id="113" weight="1" />
+      <edge source="Sheri Sheppard" target="Patsy Brackin" id="114" weight="1" />
+      <edge source="Sheri Sheppard" target="Kai Jun Chew" id="115" weight="1" />
+      <edge source="Patsy Brackin" target="Kai Jun Chew" id="116" weight="1" />
+      <edge source="Sunardi Sunardi" target="Purnomo Purnomo" id="117" weight="1" />
+      <edge source="Sunardi Sunardi" target="Eddy Sutadji" id="118" weight="1" />
+      <edge source="Purnomo Purnomo" target="Eddy Sutadji" id="119" weight="1" />
+      <edge source="Mahmut Tekin" target="Deniz Baş" id="120" weight="1" />
+      <edge source="Mahmut Tekin" target="Tahsin Geçkil" id="121" weight="1" />
+      <edge source="Mahmut Tekin" target="Özdal Koyuncuoğlu" id="122" weight="1" />
+      <edge source="Deniz Baş" target="Tahsin Geçkil" id="123" weight="1" />
+      <edge source="Deniz Baş" target="Özdal Koyuncuoğlu" id="124" weight="1" />
+      <edge source="Tahsin Geçkil" target="Özdal Koyuncuoğlu" id="125" weight="1" />
+      <edge source="Dina Verdín" target="Allison Godwin" id="126" weight="1" />
+      <edge source="Carlos R. Vidal" target="Yimy Gordón Hernández" id="127" weight="1" />
+      <edge source="Carlos R. Vidal" target="Deibys Barreto" id="128" weight="1" />
+      <edge source="Carlos R. Vidal" target="Juan Fajardo" id="129" weight="1" />
+      <edge source="Carlos R. Vidal" target="Pedro Fragoso" id="130" weight="1" />
+      <edge source="Yimy Gordón Hernández" target="Deibys Barreto" id="131" weight="1" />
+      <edge source="Yimy Gordón Hernández" target="Juan Fajardo" id="132" weight="1" />
+      <edge source="Yimy Gordón Hernández" target="Pedro Fragoso" id="133" weight="1" />
+      <edge source="Deibys Barreto" target="Juan Fajardo" id="134" weight="1" />
+      <edge source="Deibys Barreto" target="Pedro Fragoso" id="135" weight="1" />
+      <edge source="Juan Fajardo" target="Pedro Fragoso" id="136" weight="1" />
+      <edge source="Tobin Walton" target="Robin Liles" id="137" weight="1" />
+      <edge source="Atsuko Yamazaki" target="Masahiro Inoue" id="138" weight="1" />
+      <edge source="Atsuko Yamazaki" target="Hiroshi Hasegawa" id="139" weight="1" />
+      <edge source="Atsuko Yamazaki" target="Kenjiro Yoshimura" id="140" weight="1" />
+      <edge source="Atsuko Yamazaki" target="Masaomi Kimura" id="141" weight="1" />
+      <edge source="Atsuko Yamazaki" target="Naoki Matsuora" id="142" weight="1" />
+      <edge source="Masahiro Inoue" target="Hiroshi Hasegawa" id="143" weight="1" />
+      <edge source="Masahiro Inoue" target="Kenjiro Yoshimura" id="144" weight="1" />
+      <edge source="Masahiro Inoue" target="Masaomi Kimura" id="145" weight="1" />
+      <edge source="Masahiro Inoue" target="Naoki Matsuora" id="146" weight="1" />
+      <edge source="Hiroshi Hasegawa" target="Kenjiro Yoshimura" id="147" weight="1" />
+      <edge source="Hiroshi Hasegawa" target="Masaomi Kimura" id="148" weight="1" />
+      <edge source="Hiroshi Hasegawa" target="Naoki Matsuora" id="149" weight="1" />
+      <edge source="Kenjiro Yoshimura" target="Masaomi Kimura" id="150" weight="1" />
+      <edge source="Kenjiro Yoshimura" target="Naoki Matsuora" id="151" weight="1" />
+      <edge source="Masaomi Kimura" target="Naoki Matsuora" id="152" weight="1" />
+      <edge source="So Yoon Yoon" target="P.K. Imbrie" id="153" weight="1" />
+      <edge source="So Yoon Yoon" target="Teri Reed" id="154" weight="1" />
+      <edge source="P.K. Imbrie" target="Teri Reed" id="155" weight="1" />
+      <edge source="Ellen Zerbe" target="Catherine Berdanier" id="156" weight="1" />
+      <edge source="Ellen Zerbe" target="Natascha Buswell" id="157" weight="1" />
+      <edge source="Ellen Zerbe" target="Joana Marques Melo" id="158" weight="1" />
+      <edge source="Catherine Berdanier" target="Natascha Buswell" id="159" weight="1" />
+      <edge source="Catherine Berdanier" target="Joana Marques Melo" id="160" weight="1" />
+      <edge source="Natascha Buswell" target="Joana Marques Melo" id="161" weight="1" />
+      <edge source="Nathan Zhang" target="Stacy Klein-Gardner" id="162" weight="1" />
+      <edge source="Nathan Zhang" target="Michael I. Miga" id="163" weight="1" />
+      <edge source="Stacy Klein-Gardner" target="Michael I. Miga" id="164" weight="1" />
+    </edges>
+  </graph>
+</gexf>

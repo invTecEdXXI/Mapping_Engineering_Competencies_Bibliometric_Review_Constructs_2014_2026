@@ -1,0 +1,32 @@
+2026-07-24 22:15:56 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:15:56 [INFO] bibliometrico.main: Sistema de Analisis Bibliometrico de Frontera
+2026-07-24 22:15:56 [INFO] bibliometrico.main: Fases seleccionadas: [0]
+2026-07-24 22:15:56 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader: === FASE 0: Carga y parseo del CSV ===
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader: Cargando CSV: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\consolidado.csv
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader: Articulos cargados: 96
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader: Articulos parseados: 96
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader:   Total articulos: 96
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader:   Rango de años: 2014-2026
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader:   Con DOI: 96
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader:   Con PDF: 82
+2026-07-24 22:15:57 [INFO] bibliometrico.data_loader:   Revistas unicas: 48
+2026-07-24 22:15:57 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:15:57 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:15:57 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\review_fingerprint.json
+2026-07-24 22:15:57 [INFO] bibliometrico.disambiguation: === FASE 0c: Desambiguacion de Nombres ===
+2026-07-24 22:15:57 [INFO] bibliometrico.disambiguation: Desambiguando autores...
+2026-07-24 22:15:57 [INFO] bibliometrico.disambiguation:   320 nombres de autor unicos encontrados
+2026-07-24 22:15:57 [INFO] bibliometrico.disambiguation:   Autores: 5 variantes fusionadas, 0 resueltas por ORCID
+2026-07-24 22:15:57 [INFO] bibliometrico.disambiguation: Desambiguando instituciones...
+2026-07-24 22:15:57 [WARNING] bibliometrico.disambiguation: No institution names found
+2026-07-24 22:15:57 [INFO] bibliometrico.disambiguation: Reporte guardado: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\disambiguation_cache\disambiguation_report.json
+2026-07-24 22:15:57 [INFO] bibliometrico.disambiguation: Fase 0c completada.
+2026-07-24 22:15:57 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:15:57 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:15:57 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:15:57 [INFO] bibliometrico.main: Pipeline completado.
+2026-07-24 22:15:57 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:15:57 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:15:57 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_221556.json
+2026-07-24 22:15:57 [INFO] bibliometrico.provenance: Manifiesto de corrida: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_221556.json

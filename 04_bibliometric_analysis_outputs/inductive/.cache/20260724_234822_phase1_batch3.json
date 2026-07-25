@@ -1,0 +1,639 @@
+{
+  "session_id": "20260724_234822",
+  "phase": "1",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:50:38.441460",
+  "data": {
+    "themes": [
+      {
+        "name": "Self-efficacy in engineering students",
+        "definition": "The belief in one's ability to succeed in specific engineering-related tasks or situations. This theme encompasses the development, measurement, and impact of self-efficacy beliefs among engineering students, including domain-specific and general self-efficacy instruments.",
+        "evidence": [
+          "[LLIXIBSQ] Self-efficacy has been found to be one of the key factors that are responsible for academic success of engineering students.",
+          "[B7B4X2WE] Self-efficacy has been linked to academic performance, motivation, and progression within engineering degree programs.",
+          "[G3EUY2C2] Self-efficacy has been previously associated with a wide range of desirable traits and behaviours within engineering education environments."
+        ],
+        "articles": [
+          "LLIXIBSQ",
+          "B7B4X2WE",
+          "G3EUY2C2",
+          "XQ7RZDGG",
+          "FUDIEQYR",
+          "QAJGLZ2K",
+          "7Y29KIN3",
+          "IVLUCNC3"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "General self-efficacy",
+          "Domain-specific self-efficacy",
+          "Sources of self-efficacy",
+          "Gender differences in self-efficacy"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Assessment and validation of competency-based instruments",
+        "definition": "The development, validation, and application of instruments to measure competencies, skills, or attitudes in engineering students. This includes psychometric properties, reliability, and validity of such instruments.",
+        "evidence": [
+          "[Y27Q6N9A] The assessment framework for the Civil Engineering strand was developed in line with the worldwide move to increase focus onto graduate competencies.",
+          "[FL269LXE] The objective of this study is validating an instrument to assess the attitude and critical thinking self-perception of Engineering students from a public university.",
+          "[3R39PUCS] The Student Attitudinal Success Instrument (SASI-I) was designed to collect data on affective (non-cognitive) characteristics for incoming engineering students... Internal consistency of scale scores was investigated."
+        ],
+        "articles": [
+          "Y27Q6N9A",
+          "BQS3WMHF",
+          "XQ7RZDGG",
+          "FL269LXE",
+          "3R39PUCS",
+          "FUDIEQYR",
+          "QAJGLZ2K",
+          "QKJ5DVTR",
+          "K7MJBLUQ",
+          "LQ8RTKIQ",
+          "C3YQG2PI"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Psychometric properties",
+          "Factor analysis",
+          "Reliability",
+          "Validity",
+          "Instrument development"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Transferable and vocational skills in engineering education",
+        "definition": "Skills that are not specific to a particular job or task but are applicable across various roles and industries, such as communication, teamwork, problem-solving, and critical thinking. This theme includes the assessment and importance of these skills in engineering curricula.",
+        "evidence": [
+          "[DCSSFS2C] This study aims to examine the transferable skills of engineering students, explore potential gender differences, and translate, adapt, and validate the Generic Skills Perception Questionnaire - Competence Level (GSPQ-CL) for the Portuguese context.",
+          "[WWJJIDI6] Transferable skills are becoming increasingly important, due to a progressively more competitive labor market in an ever-changing world.",
+          "[IUF35Z2I] Employability skills is a number of non-technical skills that are can be transferred into different fields of work, is required to enter the working world, to remain on the job, as well as developing a career in the workplace."
+        ],
+        "articles": [
+          "DCSSFS2C",
+          "WWJJIDI6",
+          "IUF35Z2I",
+          "5EXQUZSR",
+          "BQHZYQEC",
+          "W6H25QK5"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Employability skills",
+          "Generic skills",
+          "Soft skills",
+          "Curricular restructuring"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Problem-solving and critical thinking in engineering",
+        "definition": "The ability of engineering students to analyze, evaluate, and solve complex problems, often assessed through self-reported inventories or performance tasks. This theme includes the development of tools to measure these abilities and their relationship with academic metrics like GPA.",
+        "evidence": [
+          "[BQS3WMHF] The EM-PSI is a student's self-assessment of their problem solving and critical thinking abilities broken down into three sub-categories, 1) problem solving confidence, 2) approach-avoidance style, and 3) personal control.",
+          "[XQ7RZDGG] This paper presents a new assessment tool for measuring an individual’s self-appraisal of their technical problem-solving ability and the initial validation of the tool using a pilot study involving 73 undergraduate Civil Engineering students and faculty.",
+          "[3TLQFJEJ] The objective of this study is validating an instrument to assess the attitude and critical thinking self-perception of Engineering students from a public university."
+        ],
+        "articles": [
+          "BQS3WMHF",
+          "XQ7RZDGG",
+          "3TLQFJEJ",
+          "TW2V2FRX"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Problem-solving confidence",
+          "Approach-avoidance style",
+          "Critical thinking self-perception"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Gender differences in engineering competencies and self-efficacy",
+        "definition": "The exploration of differences between male and female engineering students in terms of self-efficacy, competencies, and other affective traits. This theme includes studies that investigate how gender impacts academic success and skill development.",
+        "evidence": [
+          "[LLIXIBSQ] This study also aims to investigate the effect of gender, class level, and transfer status of students on their engineering self-efficacy beliefs.",
+          "[B7B4X2WE] Female students began the semester with significantly lower tinkering skills self-efficacy to male students, with female students general engineering self-efficacy increasing statistically more over the semester within a CDIO module.",
+          "[DCSSFS2C] Findings revealed key strengths and gaps in students' transferable skills, with some gender-based differences."
+        ],
+        "articles": [
+          "LLIXIBSQ",
+          "B7B4X2WE",
+          "DCSSFS2C",
+          "7Y29KIN3"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Gendered experiences",
+          "Self-efficacy gaps",
+          "Academic performance"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Sustainability and ethics competencies in engineering",
+        "definition": "The integration of sustainability, ethics, and social responsibility into engineering curricula and the assessment of these competencies among engineering students. This theme includes the development of instruments to measure these competencies and their impact on academic performance.",
+        "evidence": [
+          "[VSFBSRZB] The purpose of this work is to present a methodology for analyzing the perception of engineering students about the sustainability learning they have achieved during their university studies.",
+          "[LQ8RTKIQ] The integration of ethics, social responsibility, and sustainability (ERS) into higher education curricula is essential for fostering competencies aligned with the Sustainable Development Goals.",
+          "[VSFBSRZB] In the nine degrees, the worst results are obtained for the competency 'application of ethical principles related to the values of sustainability'."
+        ],
+        "articles": [
+          "VSFBSRZB",
+          "LQ8RTKIQ"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Sustainability learning",
+          "Ethical principles",
+          "Curricular integration"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Innovation and entrepreneurship competencies",
+        "definition": "The measurement and development of innovation self-efficacy and entrepreneurial competencies among engineering students. This theme includes the creation of scales to assess these competencies and their role in career development.",
+        "evidence": [
+          "[FUDIEQYR] A 5-item innovation self-efficacy (ISE.5) scale was developed using the 19-item Dyer et al. Innovative Behavior Scale (IBS) as a starting point, adapted for undergraduate engineering students.",
+          "[BQHZYQEC] The aim of this methodological study is to develop a tool to measure the entrepreneurial competencies of university students based on Kailer’s Entrepreneurship Competence Model.",
+          "[FUDIEQYR] The ISE.5 (as a measure of innovation self-efficacy) is shown to be an important mediator between innovation interests and a desire to pursue innovative work as a career postgraduation."
+        ],
+        "articles": [
+          "FUDIEQYR",
+          "BQHZYQEC"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Innovation self-efficacy",
+          "Entrepreneurial competencies",
+          "Career development"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Impact of experiential learning on competencies",
+        "definition": "The role of experiential learning activities, such as internships, placements, and project-based learning, in developing engineering students' competencies, self-efficacy, and professional skills.",
+        "evidence": [
+          "[G3EUY2C2] Professional placement experiences are reported as the main source of later-stage self-efficacy development for student engineers and are similarly valued due to their provision of enactive mastery experiences.",
+          "[5EXQUZSR] This study aims to understand the role of the student experience in participating in an industrial internship program on automotive students' work self-efficacy at Yogyakarta State University (YSU).",
+          "[PJNV7WSV] This study examined students’ competencies in engineering education at the university level... Tests based on theoretically sound models allow for appropriate measurement of students’ competencies in higher education."
+        ],
+        "articles": [
+          "G3EUY2C2",
+          "5EXQUZSR",
+          "PJNV7WSV"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Industrial internships",
+          "Enactive mastery experiences",
+          "Project-based learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Measurement invariance and fairness in engineering education assessments",
+        "definition": "The examination of whether assessment instruments function similarly across different subpopulations of engineering students, such as first-generation college students. This theme includes studies on the fairness and validity of using normative measures for diverse groups.",
+        "evidence": [
+          "[WHKSKTII] This work-in-progress research study examines the response patterns of first-generation college students (FGCS) to the engineering identity measures compared to non-first-generation college students (non-FGCS).",
+          "[WHKSKTII] Our comparative analysis of FGCS and non-FGCS found weak measurement invariance within the engineering identity constructs (i.e. interest, recognition, and performance/competence) indicating a similar factor structure and factor loadings, but different uses of the identity item scale."
+        ],
+        "articles": [
+          "WHKSKTII"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "First-generation college students",
+          "Fairness in assessment",
+          "Engineering identity"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Development of metacognitive and learning orientation tools",
+        "definition": "The creation and validation of tools designed to measure metacognitive skills, learning orientations, and self-regulated learning among engineering students. This theme includes the integration of motivational and strategic learning dimensions.",
+        "evidence": [
+          "[SFEN9MC6] This study encapsulates the development and testing of the Transferable Learning Orientations (TLO) tool... The dimensions are outcome motivation, learning belief, self-efficacy, transfer and organisation.",
+          "[SFEN9MC6] The TLO is designed to engage students in meta-cognitive processes and provide meaningful feedback to students."
+        ],
+        "articles": [
+          "SFEN9MC6"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Metacognitive processes",
+          "Learning orientations",
+          "Self-regulated learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.65,
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "Several abstracts emphasize the development and validation of instruments to measure competencies, self-efficacy, and other affective traits in engineering students. There is a notable focus on psychometric properties such as reliability (e.g., Cronbach's alpha) and validity (e.g., factor analysis). The abstracts also reveal a recurring interest in transferable skills, problem-solving, and the impact of gender and experiential learning on student outcomes. However, many abstracts lack explicit quantitative results or conclusions, which limits the depth of inductive analysis.",
+    "grounding_notes": "Some themes, such as 'Sustainability and ethics competencies' and 'Measurement invariance and fairness,' are supported by fewer abstracts, which may limit the generalizability of these themes. Additionally, abstracts with quality notes indicating missing elements (e.g., missing results, conclusions) were analyzed cautiously, and only explicitly stated information was used. No assumptions were made about missing data.",
+    "_hallucination_control": {
+      "total_themes": 10,
+      "avg_grounding_score": 0.895,
+      "avg_quote_grounding": 0.85,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 4,
+      "verification_details": [
+        {
+          "theme_name": "Self-efficacy in engineering students",
+          "evidence_verified": [
+            {
+              "quote": "[B7B4X2WE] Self-efficacy has been linked to academic performance, motivation, and progression within engineering degree programs.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[G3EUY2C2] Self-efficacy has been previously associated with a wide range of desirable traits and behaviours within engineering education environments.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[LLIXIBSQ] Self-efficacy has been found to be one of the key factors that are responsible for academic success of engineering students.",
+              "score": 0.27,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "LLIXIBSQ",
+            "B7B4X2WE",
+            "G3EUY2C2",
+            "XQ7RZDGG",
+            "FUDIEQYR",
+            "QAJGLZ2K",
+            "7Y29KIN3",
+            "IVLUCNC3"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.27): '[LLIXIBSQ] Self-efficacy has been found to be one ...'"
+          ]
+        },
+        {
+          "theme_name": "Assessment and validation of competency-based instruments",
+          "evidence_verified": [
+            {
+              "quote": "[Y27Q6N9A] The assessment framework for the Civil Engineering strand was developed in line with the worldwide move to increase focus onto graduate competencies.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[FL269LXE] The objective of this study is validating an instrument to assess the attitude and critical thinking self-perception of Engineering students from a public university.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[3R39PUCS] The Student Attitudinal Success Instrument (SASI-I) was designed to collect data on affective (non-cognitive) characteristics for incoming engineering students... Internal consistency of scale scores was investigated.",
+              "score": 0.72,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "Y27Q6N9A",
+            "BQS3WMHF",
+            "XQ7RZDGG",
+            "FL269LXE",
+            "3R39PUCS",
+            "FUDIEQYR",
+            "QAJGLZ2K",
+            "QKJ5DVTR",
+            "K7MJBLUQ",
+            "LQ8RTKIQ",
+            "C3YQG2PI"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.72), not verbatim: '[3R39PUCS] The Student Attitudinal Success Instrum...'"
+          ]
+        },
+        {
+          "theme_name": "Transferable and vocational skills in engineering education",
+          "evidence_verified": [
+            {
+              "quote": "[DCSSFS2C] This study aims to examine the transferable skills of engineering students, explore potential gender differences, and translate, adapt, and validate the Generic Skills Perception Questionnaire - Competence Level (GSPQ-CL) for the Portuguese context.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[WWJJIDI6] Transferable skills are becoming increasingly important, due to a progressively more competitive labor market in an ever-changing world.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[IUF35Z2I] Employability skills is a number of non-technical skills that are can be transferred into different fields of work, is required to enter the working world, to remain on the job, as well as developing a career in the workplace.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "DCSSFS2C",
+            "WWJJIDI6",
+            "IUF35Z2I",
+            "5EXQUZSR",
+            "BQHZYQEC",
+            "W6H25QK5"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Problem-solving and critical thinking in engineering",
+          "evidence_verified": [
+            {
+              "quote": "[BQS3WMHF] The EM-PSI is a student's self-assessment of their problem solving and critical thinking abilities broken down into three sub-categories, 1) problem solving confidence, 2) approach-avoidance style, and 3) personal control.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[XQ7RZDGG] This paper presents a new assessment tool for measuring an individual’s self-appraisal of their technical problem-solving ability and the initial validation of the tool using a pilot study involving 73 undergraduate Civil Engineering students and faculty.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[3TLQFJEJ] The objective of this study is validating an instrument to assess the attitude and critical thinking self-perception of Engineering students from a public university.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "BQS3WMHF",
+            "XQ7RZDGG",
+            "3TLQFJEJ",
+            "TW2V2FRX"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Gender differences in engineering competencies and self-efficacy",
+          "evidence_verified": [
+            {
+              "quote": "[LLIXIBSQ] This study also aims to investigate the effect of gender, class level, and transfer status of students on their engineering self-efficacy beliefs.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[B7B4X2WE] Female students began the semester with significantly lower tinkering skills self-efficacy to male students, with female students general engineering self-efficacy increasing statistically more over the semester within a CDIO module.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[DCSSFS2C] Findings revealed key strengths and gaps in students' transferable skills, with some gender-based differences.",
+              "score": 0.75,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LLIXIBSQ",
+            "B7B4X2WE",
+            "DCSSFS2C",
+            "7Y29KIN3"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Sustainability and ethics competencies in engineering",
+          "evidence_verified": [
+            {
+              "quote": "[VSFBSRZB] The purpose of this work is to present a methodology for analyzing the perception of engineering students about the sustainability learning they have achieved during their university studies.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[LQ8RTKIQ] The integration of ethics, social responsibility, and sustainability (ERS) into higher education curricula is essential for fostering competencies aligned with the Sustainable Development Goals.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[VSFBSRZB] In the nine degrees, the worst results are obtained for the competency 'application of ethical principles related to the values of sustainability'.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "VSFBSRZB",
+            "LQ8RTKIQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Innovation and entrepreneurship competencies",
+          "evidence_verified": [
+            {
+              "quote": "[FUDIEQYR] A 5-item innovation self-efficacy (ISE.5) scale was developed using the 19-item Dyer et al. Innovative Behavior Scale (IBS) as a starting point, adapted for undergraduate engineering students.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[BQHZYQEC] The aim of this methodological study is to develop a tool to measure the entrepreneurial competencies of university students based on Kailer’s Entrepreneurship Competence Model.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[FUDIEQYR] The ISE.5 (as a measure of innovation self-efficacy) is shown to be an important mediator between innovation interests and a desire to pursue innovative work as a career postgraduation.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "FUDIEQYR",
+            "BQHZYQEC"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Impact of experiential learning on competencies",
+          "evidence_verified": [
+            {
+              "quote": "[G3EUY2C2] Professional placement experiences are reported as the main source of later-stage self-efficacy development for student engineers and are similarly valued due to their provision of enactive mastery experiences.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[5EXQUZSR] This study aims to understand the role of the student experience in participating in an industrial internship program on automotive students' work self-efficacy at Yogyakarta State University (YSU).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[PJNV7WSV] This study examined students’ competencies in engineering education at the university level... Tests based on theoretically sound models allow for appropriate measurement of students’ competencies in higher education.",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "G3EUY2C2",
+            "5EXQUZSR",
+            "PJNV7WSV"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.59): '[PJNV7WSV] This study examined students’ competenc...'"
+          ]
+        },
+        {
+          "theme_name": "Measurement invariance and fairness in engineering education assessments",
+          "evidence_verified": [
+            {
+              "quote": "[WHKSKTII] This work-in-progress research study examines the response patterns of first-generation college students (FGCS) to the engineering identity measures compared to non-first-generation college students (non-FGCS).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[WHKSKTII] Our comparative analysis of FGCS and non-FGCS found weak measurement invariance within the engineering identity constructs (i.e. interest, recognition, and performance/competence) indicating a similar factor structure and factor loadings, but different uses of the identity item scale.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "WHKSKTII"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Development of metacognitive and learning orientation tools",
+          "evidence_verified": [
+            {
+              "quote": "[SFEN9MC6] The TLO is designed to engage students in meta-cognitive processes and provide meaningful feedback to students.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[SFEN9MC6] This study encapsulates the development and testing of the Transferable Learning Orientations (TLO) tool... The dimensions are outcome motivation, learning belief, self-efficacy, transfer and organisation.",
+              "score": 0.52,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "SFEN9MC6"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.65,
+          "quote_grounding": 0.5,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.52): '[SFEN9MC6] This study encapsulates the development...'"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#4e79a7", "font": {"color": "#333333"}, "id": "MY", "label": "MY", "shape": "dot", "size": 10, "title": "MY"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "BR", "label": "BR", "shape": "dot", "size": 50, "title": "BR"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "EC", "label": "EC", "shape": "dot", "size": 50, "title": "EC"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "RO", "label": "RO", "shape": "dot", "size": 50, "title": "RO"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "US", "label": "US", "shape": "dot", "size": 50, "title": "US"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "IN", "label": "IN", "shape": "dot", "size": 50, "title": "IN"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "CH", "label": "CH", "shape": "dot", "size": 50, "title": "CH"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "TW", "label": "TW", "shape": "dot", "size": 50, "title": "TW"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "NL", "label": "NL", "shape": "dot", "size": 50, "title": "NL"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "SE", "label": "SE", "shape": "dot", "size": 50, "title": "SE"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "ES", "label": "ES", "shape": "dot", "size": 50, "title": "ES"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "KR", "label": "KR", "shape": "dot", "size": 50, "title": "KR"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "TR", "label": "TR", "shape": "dot", "size": 50, "title": "TR"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "PK", "label": "PK", "shape": "dot", "size": 50, "title": "PK"}, {"color": "#59a14f", "font": {"color": "#333333"}, "id": "CN", "label": "CN", "shape": "dot", "size": 50, "title": "CN"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "TH", "label": "TH", "shape": "dot", "size": 50, "title": "TH"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "DE", "label": "DE", "shape": "dot", "size": 50, "title": "DE"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "DK", "label": "DK", "shape": "dot", "size": 50, "title": "DK"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "HK", "label": "HK", "shape": "dot", "size": 50, "title": "HK"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "IR", "label": "IR", "shape": "dot", "size": 50, "title": "IR"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "PT", "label": "PT", "shape": "dot", "size": 50, "title": "PT"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "CO", "label": "CO", "shape": "dot", "size": 50, "title": "CO"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "FI", "label": "FI", "shape": "dot", "size": 50, "title": "FI"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "RU", "label": "RU", "shape": "dot", "size": 50, "title": "RU"}, {"color": "#b07aa1", "font": {"color": "#333333"}, "id": "AU", "label": "AU", "shape": "dot", "size": 10, "title": "AU"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "IE", "label": "IE", "shape": "dot", "size": 50, "title": "IE"}, {"color": "#e15759", "font": {"color": "#333333"}, "id": "CZ", "label": "CZ", "shape": "dot", "size": 50, "title": "CZ"}, {"color": "#4e79a7", "font": {"color": "#333333"}, "id": "CA", "label": "CA", "shape": "dot", "size": 23, "title": "CA"}, {"color": "#edc948", "font": {"color": "#333333"}, "id": "ID", "label": "ID", "shape": "dot", "size": 10, "title": "ID"}, {"color": "#76b7b2", "font": {"color": "#333333"}, "id": "MX", "label": "MX", "shape": "dot", "size": 10, "title": "MX"}, {"color": "#f28e2b", "font": {"color": "#333333"}, "id": "JP", "label": "JP", "shape": "dot", "size": 10, "title": "JP"}]);
+                  edges = new vis.DataSet([{"from": "MY", "title": "Weight: 1", "to": "TH", "value": 1}, {"from": "BR", "title": "Weight: 36", "to": "EC", "value": 36}, {"from": "BR", "title": "Weight: 2", "to": "US", "value": 2}, {"from": "BR", "title": "Weight: 4", "to": "IN", "value": 4}, {"from": "BR", "title": "Weight: 2", "to": "CH", "value": 2}, {"from": "BR", "title": "Weight: 2", "to": "KR", "value": 2}, {"from": "BR", "title": "Weight: 2", "to": "HK", "value": 2}, {"from": "BR", "title": "Weight: 1", "to": "IR", "value": 1}, {"from": "BR", "title": "Weight: 4", "to": "PT", "value": 4}, {"from": "BR", "title": "Weight: 2", "to": "CO", "value": 2}, {"from": "BR", "title": "Weight: 2", "to": "IE", "value": 2}, {"from": "BR", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "EC", "title": "Weight: 6", "to": "US", "value": 6}, {"from": "EC", "title": "Weight: 4", "to": "IN", "value": 4}, {"from": "EC", "title": "Weight: 2", "to": "CH", "value": 2}, {"from": "EC", "title": "Weight: 1", "to": "NL", "value": 1}, {"from": "EC", "title": "Weight: 34", "to": "ES", "value": 34}, {"from": "EC", "title": "Weight: 3", "to": "KR", "value": 3}, {"from": "EC", "title": "Weight: 1", "to": "TR", "value": 1}, {"from": "EC", "title": "Weight: 1", "to": "TH", "value": 1}, {"from": "EC", "title": "Weight: 1", "to": "DE", "value": 1}, {"from": "EC", "title": "Weight: 1", "to": "DK", "value": 1}, {"from": "EC", "title": "Weight: 2", "to": "HK", "value": 2}, {"from": "EC", "title": "Weight: 1", "to": "IR", "value": 1}, {"from": "EC", "title": "Weight: 4", "to": "PT", "value": 4}, {"from": "EC", "title": "Weight: 3", "to": "CO", "value": 3}, {"from": "EC", "title": "Weight: 1", "to": "FI", "value": 1}, {"from": "EC", "title": "Weight: 2", "to": "IE", "value": 2}, {"from": "EC", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "EC", "title": "Weight: 1", "to": "CA", "value": 1}, {"from": "RO", "title": "Weight: 15", "to": "US", "value": 15}, {"from": "RO", "title": "Weight: 3", "to": "IN", "value": 3}, {"from": "RO", "title": "Weight: 1", "to": "CH", "value": 1}, {"from": "RO", "title": "Weight: 4", "to": "NL", "value": 4}, {"from": "RO", "title": "Weight: 1", "to": "SE", "value": 1}, {"from": "RO", "title": "Weight: 1", "to": "KR", "value": 1}, {"from": "RO", "title": "Weight: 3", "to": "TR", "value": 3}, {"from": "RO", "title": "Weight: 1", "to": "PK", "value": 1}, {"from": "RO", "title": "Weight: 2", "to": "TH", "value": 2}, {"from": "RO", "title": "Weight: 3", "to": "DE", "value": 3}, {"from": "RO", "title": "Weight: 3", "to": "DK", "value": 3}, {"from": "RO", "title": "Weight: 1", "to": "HK", "value": 1}, {"from": "RO", "title": "Weight: 2", "to": "IR", "value": 2}, {"from": "RO", "title": "Weight: 5", "to": "PT", "value": 5}, {"from": "RO", "title": "Weight: 1", "to": "CO", "value": 1}, {"from": "RO", "title": "Weight: 1", "to": "FI", "value": 1}, {"from": "RO", "title": "Weight: 1", "to": "IE", "value": 1}, {"from": "RO", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "US", "title": "Weight: 11", "to": "IN", "value": 11}, {"from": "US", "title": "Weight: 11", "to": "CH", "value": 11}, {"from": "US", "title": "Weight: 19", "to": "TW", "value": 19}, {"from": "US", "title": "Weight: 17", "to": "NL", "value": 17}, {"from": "US", "title": "Weight: 27", "to": "SE", "value": 27}, {"from": "US", "title": "Weight: 9", "to": "ES", "value": 9}, {"from": "US", "title": "Weight: 87", "to": "KR", "value": 87}, {"from": "US", "title": "Weight: 50", "to": "TR", "value": 50}, {"from": "US", "title": "Weight: 22", "to": "PK", "value": 22}, {"from": "US", "title": "Weight: 1", "to": "CN", "value": 1}, {"from": "US", "title": "Weight: 9", "to": "TH", "value": 9}, {"from": "US", "title": "Weight: 5", "to": "DE", "value": 5}, {"from": "US", "title": "Weight: 5", "to": "DK", "value": 5}, {"from": "US", "title": "Weight: 13", "to": "HK", "value": 13}, {"from": "US", "title": "Weight: 11", "to": "IR", "value": 11}, {"from": "US", "title": "Weight: 20", "to": "PT", "value": 20}, {"from": "US", "title": "Weight: 7", "to": "CO", "value": 7}, {"from": "US", "title": "Weight: 7", "to": "FI", "value": 7}, {"from": "US", "title": "Weight: 27", "to": "RU", "value": 27}, {"from": "US", "title": "Weight: 53", "to": "IE", "value": 53}, {"from": "US", "title": "Weight: 55", "to": "CZ", "value": 55}, {"from": "US", "title": "Weight: 4", "to": "CA", "value": 4}, {"from": "IN", "title": "Weight: 25", "to": "CH", "value": 25}, {"from": "IN", "title": "Weight: 1", "to": "TW", "value": 1}, {"from": "IN", "title": "Weight: 1", "to": "ES", "value": 1}, {"from": "IN", "title": "Weight: 2", "to": "KR", "value": 2}, {"from": "IN", "title": "Weight: 2", "to": "TR", "value": 2}, {"from": "IN", "title": "Weight: 1", "to": "CN", "value": 1}, {"from": "IN", "title": "Weight: 2", "to": "TH", "value": 2}, {"from": "IN", "title": "Weight: 40", "to": "HK", "value": 40}, {"from": "IN", "title": "Weight: 2", "to": "IR", "value": 2}, {"from": "IN", "title": "Weight: 96", "to": "PT", "value": 96}, {"from": "IN", "title": "Weight: 4", "to": "CO", "value": 4}, {"from": "IN", "title": "Weight: 1", "to": "RU", "value": 1}, {"from": "IN", "title": "Weight: 3", "to": "IE", "value": 3}, {"from": "IN", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "CH", "title": "Weight: 12", "to": "NL", "value": 12}, {"from": "CH", "title": "Weight: 2", "to": "ES", "value": 2}, {"from": "CH", "title": "Weight: 3", "to": "KR", "value": 3}, {"from": "CH", "title": "Weight: 5", "to": "TR", "value": 5}, {"from": "CH", "title": "Weight: 1", "to": "TH", "value": 1}, {"from": "CH", "title": "Weight: 2", "to": "DE", "value": 2}, {"from": "CH", "title": "Weight: 2", "to": "DK", "value": 2}, {"from": "CH", "title": "Weight: 6", "to": "HK", "value": 6}, {"from": "CH", "title": "Weight: 3", "to": "IR", "value": 3}, {"from": "CH", "title": "Weight: 9", "to": "PT", "value": 9}, {"from": "CH", "title": "Weight: 2", "to": "CO", "value": 2}, {"from": "CH", "title": "Weight: 8", "to": "IE", "value": 8}, {"from": "CH", "title": "Weight: 2", "to": "CZ", "value": 2}, {"from": "CH", "title": "Weight: 1", "to": "MX", "value": 1}, {"from": "TW", "title": "Weight: 1", "to": "KR", "value": 1}, {"from": "TW", "title": "Weight: 1", "to": "TR", "value": 1}, {"from": "TW", "title": "Weight: 63", "to": "CN", "value": 63}, {"from": "TW", "title": "Weight: 1", "to": "TH", "value": 1}, {"from": "TW", "title": "Weight: 2", "to": "IR", "value": 2}, {"from": "TW", "title": "Weight: 2", "to": "PT", "value": 2}, {"from": "TW", "title": "Weight: 10", "to": "IE", "value": 10}, {"from": "TW", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "NL", "title": "Weight: 3", "to": "ES", "value": 3}, {"from": "NL", "title": "Weight: 2", "to": "KR", "value": 2}, {"from": "NL", "title": "Weight: 7", "to": "TR", "value": 7}, {"from": "NL", "title": "Weight: 1", "to": "PK", "value": 1}, {"from": "NL", "title": "Weight: 112", "to": "DE", "value": 112}, {"from": "NL", "title": "Weight: 110", "to": "DK", "value": 110}, {"from": "NL", "title": "Weight: 6", "to": "HK", "value": 6}, {"from": "NL", "title": "Weight: 4", "to": "IR", "value": 4}, {"from": "NL", "title": "Weight: 12", "to": "PT", "value": 12}, {"from": "NL", "title": "Weight: 7", "to": "FI", "value": 7}, {"from": "NL", "title": "Weight: 4", "to": "IE", "value": 4}, {"from": "NL", "title": "Weight: 2", "to": "CZ", "value": 2}, {"from": "NL", "title": "Weight: 2", "to": "ID", "value": 2}, {"from": "SE", "title": "Weight: 3", "to": "TR", "value": 3}, {"from": "ES", "title": "Weight: 1", "to": "KR", "value": 1}, {"from": "ES", "title": "Weight: 1", "to": "TR", "value": 1}, {"from": "ES", "title": "Weight: 1", "to": "PK", "value": 1}, {"from": "ES", "title": "Weight: 1", "to": "TH", "value": 1}, {"from": "ES", "title": "Weight: 1", "to": "DE", "value": 1}, {"from": "ES", "title": "Weight: 1", "to": "DK", "value": 1}, {"from": "ES", "title": "Weight: 2", "to": "HK", "value": 2}, {"from": "ES", "title": "Weight: 2", "to": "CO", "value": 2}, {"from": "ES", "title": "Weight: 1", "to": "FI", "value": 1}, {"from": "ES", "title": "Weight: 1", "to": "CA", "value": 1}, {"from": "KR", "title": "Weight: 36", "to": "TR", "value": 36}, {"from": "KR", "title": "Weight: 2", "to": "DE", "value": 2}, {"from": "KR", "title": "Weight: 2", "to": "DK", "value": 2}, {"from": "KR", "title": "Weight: 2", "to": "HK", "value": 2}, {"from": "KR", "title": "Weight: 3", "to": "IR", "value": 3}, {"from": "KR", "title": "Weight: 2", "to": "PT", "value": 2}, {"from": "KR", "title": "Weight: 3", "to": "CO", "value": 3}, {"from": "KR", "title": "Weight: 1", "to": "FI", "value": 1}, {"from": "KR", "title": "Weight: 12", "to": "IE", "value": 12}, {"from": "KR", "title": "Weight: 8", "to": "CZ", "value": 8}, {"from": "TR", "title": "Weight: 1", "to": "CN", "value": 1}, {"from": "TR", "title": "Weight: 5", "to": "DE", "value": 5}, {"from": "TR", "title": "Weight: 5", "to": "DK", "value": 5}, {"from": "TR", "title": "Weight: 5", "to": "HK", "value": 5}, {"from": "TR", "title": "Weight: 5", "to": "IR", "value": 5}, {"from": "TR", "title": "Weight: 5", "to": "PT", "value": 5}, {"from": "TR", "title": "Weight: 3", "to": "FI", "value": 3}, {"from": "TR", "title": "Weight: 9", "to": "IE", "value": 9}, {"from": "TR", "title": "Weight: 5", "to": "CZ", "value": 5}, {"from": "CN", "title": "Weight: 1", "to": "TH", "value": 1}, {"from": "CN", "title": "Weight: 1", "to": "FI", "value": 1}, {"from": "TH", "title": "Weight: 2", "to": "IR", "value": 2}, {"from": "TH", "title": "Weight: 6", "to": "PT", "value": 6}, {"from": "TH", "title": "Weight: 2", "to": "CO", "value": 2}, {"from": "TH", "title": "Weight: 1", "to": "FI", "value": 1}, {"from": "TH", "title": "Weight: 1", "to": "IE", "value": 1}, {"from": "TH", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "TH", "title": "Weight: 3", "to": "CA", "value": 3}, {"from": "DE", "title": "Weight: 110", "to": "DK", "value": 110}, {"from": "DE", "title": "Weight: 2", "to": "HK", "value": 2}, {"from": "DE", "title": "Weight: 1", "to": "IR", "value": 1}, {"from": "DE", "title": "Weight: 2", "to": "PT", "value": 2}, {"from": "DE", "title": "Weight: 8", "to": "FI", "value": 8}, {"from": "DE", "title": "Weight: 4", "to": "IE", "value": 4}, {"from": "DE", "title": "Weight: 2", "to": "CZ", "value": 2}, {"from": "DK", "title": "Weight: 2", "to": "HK", "value": 2}, {"from": "DK", "title": "Weight: 1", "to": "IR", "value": 1}, {"from": "DK", "title": "Weight: 2", "to": "PT", "value": 2}, {"from": "DK", "title": "Weight: 7", "to": "FI", "value": 7}, {"from": "DK", "title": "Weight: 4", "to": "IE", "value": 4}, {"from": "DK", "title": "Weight: 2", "to": "CZ", "value": 2}, {"from": "HK", "title": "Weight: 2", "to": "IR", "value": 2}, {"from": "HK", "title": "Weight: 41", "to": "PT", "value": 41}, {"from": "HK", "title": "Weight: 2", "to": "CO", "value": 2}, {"from": "HK", "title": "Weight: 2", "to": "FI", "value": 2}, {"from": "HK", "title": "Weight: 2", "to": "IE", "value": 2}, {"from": "HK", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "IR", "title": "Weight: 6", "to": "PT", "value": 6}, {"from": "IR", "title": "Weight: 3", "to": "CO", "value": 3}, {"from": "IR", "title": "Weight: 1", "to": "FI", "value": 1}, {"from": "IR", "title": "Weight: 2", "to": "IE", "value": 2}, {"from": "IR", "title": "Weight: 2", "to": "CZ", "value": 2}, {"from": "PT", "title": "Weight: 4", "to": "CO", "value": 4}, {"from": "PT", "title": "Weight: 2", "to": "FI", "value": 2}, {"from": "PT", "title": "Weight: 6", "to": "IE", "value": 6}, {"from": "PT", "title": "Weight: 3", "to": "CZ", "value": 3}, {"from": "CO", "title": "Weight: 2", "to": "IE", "value": 2}, {"from": "CO", "title": "Weight: 1", "to": "CZ", "value": 1}, {"from": "FI", "title": "Weight: 4", "to": "IE", "value": 4}, {"from": "FI", "title": "Weight: 2", "to": "CZ", "value": 2}, {"from": "IE", "title": "Weight: 7", "to": "CZ", "value": 7}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"nodes": {"font": {"size": 14, "face": "arial"}}, "edges": {"color": {"inherit": "both"}, "smooth": false}, "physics": {"forceAtlas2Based": {"gravitationalConstant": -80, "centralGravity": 0.01, "springLength": 120, "springConstant": 0.02}, "solver": "forceAtlas2Based", "stabilization": {"iterations": 200}}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

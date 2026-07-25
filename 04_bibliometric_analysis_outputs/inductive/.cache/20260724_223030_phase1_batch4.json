@@ -1,0 +1,482 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "1",
+  "batch": 4,
+  "timestamp": "2026-07-24T22:31:47.740892",
+  "data": {
+    "themes": [
+      {
+        "name": "Scale development and validation",
+        "definition": "Researchers develop and validate new measurement instruments to assess specific constructs among engineering students, such as motivation, self-efficacy, or attitudes.",
+        "evidence": [
+          "[JZEJCTN6] The study develops and tests an entrepreneurial motivation scale for engineering students.",
+          "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+          "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing."
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "6SNWQJMW"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Factor analysis",
+          "Reliability evidence",
+          "Validity evidence"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-efficacy measurement",
+        "definition": "Studies focus on measuring self-efficacy in engineering contexts, including general self-efficacy and domain-specific self-efficacy related to leadership, problem-solving, or writing.",
+        "evidence": [
+          "[6ATWRP3C] Development of the leadership self-efficacy scale for engineering students",
+          "[95PYDLRQ] Self-Efficacy has shown to be positively correlated with academic success [1-3].",
+          "[95PYDLRQ] Our instrument can use biomedical engineers' self-efficacy to measure their ability to identify and solve provocative questions relevant in a clinical environment as well as write grant proposals related to those questions."
+        ],
+        "articles": [
+          "6ATWRP3C",
+          "95PYDLRQ"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "General self-efficacy",
+          "Leadership self-efficacy",
+          "Engineering self-efficacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Factor analysis for construct validity",
+        "definition": "Researchers use exploratory or confirmatory factor analysis to identify underlying factor structures of scales and provide evidence of construct validity.",
+        "evidence": [
+          "[JZEJCTN6] Data obtained from 460 engineering students supported three factors underlying the construct of entrepreneurial motivation: Motivation for Creation and Solution (MCS), Motivation for Personal Interests (MPS), and Managerial Motivation (MM).",
+          "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors (Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity), along with good reliability evidence.",
+          "[95PYDLRQ] An exploratory factor analysis in the form of principal axis factoring was performed on the categories of IDENT, SOLVE, and WRITE."
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "95PYDLRQ"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Exploratory factor analysis",
+          "Confirmatory factor analysis",
+          "Factor structure"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Engineering student populations",
+        "definition": "Research focuses specifically on engineering students as the target population for scale development and validation studies.",
+        "evidence": [
+          "[JZEJCTN6] Background: Educators and policymakers are increasingly interested in making entrepreneurship education accessible to engineering students given engineers' potential contributions to innovation and the economy.",
+          "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+          "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing."
+        ],
+        "articles": [
+          "JZEJCTN6",
+          "6ATWRP3C",
+          "6SNWQJMW"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Undergraduate engineering students",
+          "Graduate engineering students",
+          "Biomedical engineering students"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Motivation for entrepreneurship",
+        "definition": "Studies examine what drives engineering students to pursue entrepreneurial careers, including underlying motivational factors.",
+        "evidence": [
+          "[JZEJCTN6] What Drives Engineering Students To Be Entrepreneurs? Evidence of Validity for an Entrepreneurial Motivation Scale.",
+          "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur with mediation effects of venturing and technology self-efficacy.",
+          "[JZEJCTN6] These findings resulted in a more parsimonious categorization of factors underlying the construct of entrepreneurial motivation than identified in prior studies, providing a foundational understanding of entrepreneurial motivation among engineering students."
+        ],
+        "articles": [
+          "JZEJCTN6"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Motivation for Creation and Solution",
+          "Motivation for Personal Interests",
+          "Managerial Motivation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Writing attitudes and self-efficacy",
+        "definition": "Research addresses engineering students' attitudes toward writing and their self-efficacy in writing tasks, including the development of instruments to assess these constructs.",
+        "evidence": [
+          "[6SNWQJMW] The affective dimension of writing (feelings, emotions, writer's block, and writing apprehension) can further complicate the process of writing for students who write infrequently.",
+          "[6SNWQJMW] The purpose of this research is to understand how graduate engineering student attitudes toward writing affect career trajectory, attrition, and persistence.",
+          "[95PYDLRQ] Engineering Proposal Writing Skills (WRITE)."
+        ],
+        "articles": [
+          "6SNWQJMW",
+          "95PYDLRQ"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Writing apprehension",
+          "Writing attitudes profile",
+          "Grant proposal writing"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Reliability and internal consistency",
+        "definition": "Studies report reliability evidence, often using Cronbach's alpha, to demonstrate internal consistency of the developed scales.",
+        "evidence": [
+          "[6ATWRP3C] along with good reliability evidence.",
+          "[95PYDLRQ] Cronbach's alpha was used on each category to determine reliability.",
+          "[95PYDLRQ] Through reliability statistics, IDENT, SOLVE, and WRITE, each showed moderately high internal consistency."
+        ],
+        "articles": [
+          "6ATWRP3C",
+          "95PYDLRQ"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Cronbach's alpha",
+          "Internal consistency",
+          "Reliability evidence"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Correlation with academic success",
+        "definition": "Studies examine correlations between self-efficacy measures and academic success or other relevant outcomes.",
+        "evidence": [
+          "[95PYDLRQ] Self-Efficacy has shown to be positively correlated with academic success [1-3].",
+          "[95PYDLRQ] A previous study by Mamaril (2016) found significant positive correlations between general engineering self-efficacy and academic success [4].",
+          "[95PYDLRQ] Correlative statistics were determined between the averages of the variables in GEN with the averages of IDENT, SOLVE, and WRITE, with positive and moderately high Pearson's correlation coefficients for each test."
+        ],
+        "articles": [
+          "95PYDLRQ"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Academic success",
+          "Pearson's correlation",
+          "General self-efficacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "All four abstracts focus on scale development and validation for engineering students, with strong emphasis on factor analysis and reliability. Two abstracts (JZEJCTN6 and 95PYDLRQ) include specific factor structures and correlation results, while 6ATWRP3C and 6SNWQJMW are more preliminary. The quality notes indicate missing results or quantitative data in some abstracts, so themes are based only on explicitly stated content.",
+    "grounding_notes": "All evidence quotes are verbatim from the provided abstracts. Article keys are from the closed set. No quotes were fabricated. Some abstracts lack detailed results, so themes are limited to what is explicitly stated.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.971,
+      "avg_quote_grounding": 0.958,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 1,
+      "verification_details": [
+        {
+          "theme_name": "Scale development and validation",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] The study develops and tests an entrepreneurial motivation scale for engineering students.",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "6SNWQJMW"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Self-efficacy measurement",
+          "evidence_verified": [
+            {
+              "quote": "[6ATWRP3C] Development of the leadership self-efficacy scale for engineering students",
+              "score": 0.91,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] Self-Efficacy has shown to be positively correlated with academic success [1-3].",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] Our instrument can use biomedical engineers' self-efficacy to measure their ability to identify and solve provocative questions relevant in a clinical environment as well as write grant proposals related to those questions.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "6ATWRP3C",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Factor analysis for construct validity",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] Data obtained from 460 engineering students supported three factors underlying the construct of entrepreneurial motivation: Motivation for Creation and Solution (MCS), Motivation for Personal Interests (MPS), and Managerial Motivation (MM).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6ATWRP3C] With data from 173 engineering students, exploratory factor analyses identified an underlying factor structure of the scale with 38 items loaded onto one of five factors (Leadership Opportunity, Team Motivation, Engineering Practice, Innovative Changes, and Ethical Actions and Integrity), along with good reliability evidence.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] An exploratory factor analysis in the form of principal axis factoring was performed on the categories of IDENT, SOLVE, and WRITE.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Engineering student populations",
+          "evidence_verified": [
+            {
+              "quote": "[6ATWRP3C] The purpose of this research paper is to develop and validate a leadership self-efficacy scale for engineering students.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] The objective of this research paper is to present the development and validation of a short-form survey that can be used to easily assess primary attitudes that engineering students hold as they approach academic writing.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[JZEJCTN6] Background: Educators and policymakers are increasingly interested in making entrepreneurship education accessible to engineering students given engineers' potential contributions to innovation and the economy.",
+              "score": 0.24,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "JZEJCTN6",
+            "6ATWRP3C",
+            "6SNWQJMW"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.24): '[JZEJCTN6] Background: Educators and policymakers ...'"
+          ]
+        },
+        {
+          "theme_name": "Motivation for entrepreneurship",
+          "evidence_verified": [
+            {
+              "quote": "[JZEJCTN6] What Drives Engineering Students To Be Entrepreneurs? Evidence of Validity for an Entrepreneurial Motivation Scale.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[JZEJCTN6] MCS and MM effectively explained intention to become an entrepreneur with mediation effects of venturing and technology self-efficacy.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[JZEJCTN6] These findings resulted in a more parsimonious categorization of factors underlying the construct of entrepreneurial motivation than identified in prior studies, providing a foundational understanding of entrepreneurial motivation among engineering students.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "JZEJCTN6"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Writing attitudes and self-efficacy",
+          "evidence_verified": [
+            {
+              "quote": "[6SNWQJMW] The affective dimension of writing (feelings, emotions, writer's block, and writing apprehension) can further complicate the process of writing for students who write infrequently.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6SNWQJMW] The purpose of this research is to understand how graduate engineering student attitudes toward writing affect career trajectory, attrition, and persistence.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] Engineering Proposal Writing Skills (WRITE).",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "6SNWQJMW",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Reliability and internal consistency",
+          "evidence_verified": [
+            {
+              "quote": "[6ATWRP3C] along with good reliability evidence.",
+              "score": 0.83,
+              "confidence": "verified_approximate"
+            },
+            {
+              "quote": "[95PYDLRQ] Cronbach's alpha was used on each category to determine reliability.",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] Through reliability statistics, IDENT, SOLVE, and WRITE, each showed moderately high internal consistency.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "6ATWRP3C",
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Correlation with academic success",
+          "evidence_verified": [
+            {
+              "quote": "[95PYDLRQ] Self-Efficacy has shown to be positively correlated with academic success [1-3].",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] A previous study by Mamaril (2016) found significant positive correlations between general engineering self-efficacy and academic success [4].",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[95PYDLRQ] Correlative statistics were determined between the averages of the variables in GEN with the averages of IDENT, SOLVE, and WRITE, with positive and moderately high Pearson's correlation coefficients for each test.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "95PYDLRQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,292 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>	score<Avg. pub. year>	description	url
+1	psychology	2.4982	-0.0019	1	232	1324	3	2022.67		
+2	statistics	2.5194	-0.0582	1	49	216	0			
+3	students	-2.0101	-1.4843	4	178	829	44	2020.25		
+4	mathematics	2.5049	-0.0518	1	72	329	2	2020.5		
+5	reliability (semiconductor)	2.5286	-0.0115	1	75	361	0			
+6	engineering education	-2.0139	-1.482	4	215	1101	48	2019.79		
+7	education computing	-1.8408	1.5506	3	28	81	7	2019.71		
+8	engineering	-2.051	-1.4601	4	173	924	11	2021.36		
+9	instruments	-1.9482	1.5959	3	42	136	8	2020.12		
+10	education	-2.0535	-1.5353	4	46	159	11	2018.82		
+11	problem solving	0.6154	-2.3571	5	21	50	4	2021.0		
+12	reliability	0.7705	2.315	2	79	297	16	2018.19		
+13	scale (ratio)	2.5319	0.0184	1	104	527	0			
+14	electrical engineering	-2.1521	-1.5186	4	17	42	1	2020.0		
+15	engineering students	-2.0906	-1.4605	4	96	431	23	2019.39		
+16	test (biology)	-2.0748	-1.4007	4	24	69	0			
+17	set (abstract data type)	-1.7933	-1.5591	4	3	6	0			
+18	computer science	-2.0115	-1.447	4	187	1017	1	2021.0		
+19	fit indexes	0.8033	-2.2689	5	45	116	6	2019.83		
+20	confirmatory factor analysis	-2.0336	1.4443	3	135	594	15	2020.53		
+21	philosophy	-2.3752	-1.2061	4	2	4	0			
+22	political science	-2.1111	-1.4156	4	36	103	0			
+23	sociology	-1.9849	-1.4913	4	31	106	1	2017.0		
+24	context (archaeology)	-2.0381	-1.4152	4	37	126	0			
+25	rubric	-1.93	-1.4565	4	22	63	3	2023.67		
+26	student	0.8221	2.1898	2	21	42	3	2024.0		
+27	cronbach's alpha	2.557	-0.0236	1	66	276	1	2020.0		
+28	self-efficacy	2.4753	0.0039	1	83	384	18	2021.06		
+29	applied psychology	2.5474	0.0174	1	61	251	0			
+30	self concept	2.5001	-0.149	1	9	18	2	2024.0		
+31	sample (material)	2.6251	-0.0346	1	25	70	0			
+32	discriminant validity	2.6354	0.0108	1	17	38	1	2024.0		
+33	psychometrics	2.524	-0.0325	1	103	534	7	2023.14		
+34	social psychology	2.4745	0.0331	1	92	426	0			
+35	clinical psychology	2.5466	-0.0516	1	73	316	0			
+36	structural equation modeling	-1.9615	1.4922	3	117	523	3	2022.67		
+37	internal consistency	0.7513	2.2621	2	33	78	4	2021.75		
+38	self efficacy	2.4776	-0.0429	1	56	203	14	2020.21		
+39	artificial intelligence	2.5821	-0.0445	1	38	115	1	2025.0		
+40	convergent validity	2.6959	-0.0379	1	10	20	0			
+41	control (management)	2.607	-0.1793	1	6	12	0			
+42	entrepreneurship	0.6905	2.3272	2	32	76	4	2020.5		
+43	model	2.4689	-0.1129	1	17	35	3	2020.67		
+44	factor analysis	-1.9839	1.4655	3	118	538	25	2020.52		
+45	factor analysis, statistical	0.8564	2.21	2	16	32	2	2024.5		
+46	article	0.769	2.2327	2	20	44	3	2022.67		
+47	female	0.735	2.1372	2	16	32	2	2024.5		
+48	human	0.7304	2.2276	2	20	44	3	2022.67		
+49	humans	0.8247	2.1318	2	16	32	2	2024.5		
+50	male	0.7915	2.1592	2	16	32	2	2024.5		
+51	adult	0.7782	2.121	2	16	32	2	2024.5		
+52	surveys and questionnaires	0.7451	2.1697	2	16	32	2	2024.5		
+53	questionnaire	0.7969	2.2553	2	20	44	3	2022.67		
+54	young adult	0.8552	2.1633	2	16	32	2	2024.5		
+55	cronbach alpha coefficient	0.6419	2.2456	2	6	12	2	2021.5		
+56	exploratory factor analysis	-2.0279	1.5109	3	68	304	6	2021.17		
+57	process (computing)	-2.063	-1.3694	4	17	47	0			
+58	quality (philosophy)	-1.8011	-1.3146	4	5	10	0			
+59	work (physics)	0.7294	-2.3835	5	52	150	0			
+60	likert scale	0.8973	-2.3646	5	14	40	2	2020.0		
+61	medicine	0.8054	-2.3993	5	111	522	0			
+62	mathematics education	2.4941	0.0066	1	152	749	1	2015.0		
+63	medical education	0.7868	-2.4053	5	114	518	0			
+64	cognition	2.4906	0.1411	1	10	24	0			
+65	population	2.5938	-0.0013	1	20	53	0			
+66	dimension (graph theory)	2.3789	-0.194	1	5	10	0			
+67	accreditation	1.0301	-2.4074	5	6	12	1	2018.0		
+68	variance (accounting)	-2.454	1.3053	3	2	4	0			
+69	reliability engineering	-1.9871	-1.2546	4	4	8	0			
+70	engineering management	-2.0676	-1.4651	4	115	559	0			
+71	student evaluation	-1.8893	-1.2276	4	3	6	2	2021.5		
+72	summative evaluation	-1.8446	-1.2621	4	3	6	2	2021.5		
+73	training (meteorology)	-1.8943	-1.3018	4	3	6	0			
+74	student attitudes	0.8247	-2.3086	5	39	110	5	2020.6		
+75	perception	0.7896	-2.3061	5	68	239	2	2021.5		
+76	undergraduate engineering students	-1.9057	1.5218	3	35	117	8	2018.38		
+77	psychometric analysis	-1.9887	-1.343	4	11	24	3	2020.67		
+78	professional aspects	-2.0055	-1.5075	4	60	235	16	2020.0		
+79	student perceptions	-1.9365	-1.4136	4	18	45	4	2022.75		
+80	measure (data warehouse)	-1.9527	-1.5126	4	22	72	0			
+81	knowledge management	-2.0283	-1.5106	4	57	228	0			
+82	engineering problems	-1.843	-1.5916	4	4	8	2	2023.0		
+83	number	2.7196	0.0226	1	5	10	2	2019.0		
+84	professional development	0.7509	-2.5361	5	15	31	1	2021.0		
+85	exploratory factor-analysis	2.6168	0.0795	1	11	25	3	2018.67		
+86	science education	2.3439	0.0725	1	6	14	1	2025.0		
+87	soft skills	0.6917	-2.4833	5	26	68	3	2021.67		
+88	knowledge	0.571	-2.5702	5	9	21	3	2019.67		
+89	professional skills	-2.0994	-1.5529	4	17	46	5	2021.6		
+90	geography	2.5221	0.0484	1	23	75	0			
+91	scale development	2.4453	0.1246	1	10	25	4	2020.0		
+92	pedagogy	0.7494	-2.4017	5	106	438	0			
+93	academic achievement	2.6545	-0.0713	1	15	34	4	2022.75		
+94	management	0.7993	-2.5586	5	8	20	0			
+95	psychological resilience	2.9249	-0.1877	1	1	2	1	2025.0		
+96	economics	-1.7115	-1.2461	4	1	2	1	2018.0		
+97	covid-19	0.9367	-2.054	5	2	4	2	2022.5		
+98	social science	-1.9647	-1.6	4	12	26	0			
+99	curriculum	0.7231	-2.3407	5	75	246	2	2022.0		
+100	construct validity	0.7942	-2.3482	5	69	233	1	2019.0		
+101	construct (python library)	2.5692	0.0434	1	32	99	0			
+102	scale	-2.2663	1.0689	3	3	6	2	2024.0		
+103	engineering design process	-2.274	-1.733	4	2	4	0			
+104	identity (music)	-2.0671	-1.5727	4	17	41	0			
+105	graduate students	-2.1048	-1.5215	4	24	71	3	2019.67		
+106	engineering research	-2.0706	1.6329	3	24	70	6	2020.17		
+107	engineering graduate students	-2.0936	-1.5954	4	15	35	3	2017.67		
+108	surveys	-2.0605	-1.5157	4	50	194	13	2018.31		
+109	correlation methods	-1.8853	-1.7197	4	3	6	2	2020.0		
+110	multivariant analysis	-2.023	1.564	3	55	176	8	2019.25		
+111	survey	-2.2455	1.5441	3	13	26	3	2020.67		
+112	identity	-2.1899	-1.3459	4	6	13	3	2020.0		
+113	interpersonal communication	2.2855	0.1837	1	4	8	0			
+114	engineering profession	-2.1225	-1.4407	4	21	52	4	2021.25		
+115	competence (human resources)	-1.9993	-1.5504	4	28	77	0			
+116	regression	-2.2176	-1.5103	4	9	18	2	2019.5		
+117	interviews	-2.1553	-1.5722	4	9	18	2	2018.0		
+118	confirmatory factor analyses (cfa)	-1.9259	1.7084	3	15	30	2	2020.0		
+119	exploratory factor analysis (efa)	-1.8725	1.6441	3	16	39	3	2019.0		
+120	student perception	0.7614	-2.3262	5	39	94	3	2020.67		
+121	reliability analysis	0.6697	-2.304	5	27	54	2	2020.5		
+122	undergraduate students	0.7084	-2.2375	5	55	168	9	2019.33		
+123	reliability and validity	0.697	-2.2937	5	28	62	3	2020.67		
+124	foreign countries	0.7457	-2.3653	5	75	250	10	2019.6		
+125	teamwork	0.7366	-2.4745	5	28	74	2	2021.0		
+126	skills	0.7511	-2.5921	5	15	30	3	2022.67		
+127	engineering curriculum	-2.182	-1.4902	4	14	29	3	2023.67		
+128	test validity	0.8279	-2.4525	5	38	109	6	2022.33		
+129	transfer of training	0.5845	-2.1478	5	6	12	2	2018.5		
+130	research questions	-2.1409	-1.5972	4	11	22	2	2018.0		
+131	delphi method	0.5848	-2.2671	5	11	22	1	2017.0		
+132	test reliability	0.7607	-2.4537	5	23	56	3	2021.67		
+133	generalizability theory	-1.7378	1.5887	3	8	16	0			
+134	learning outcomes	0.7375	-2.2978	5	29	63	3	2020.67		
+135	curricula	-1.9848	-1.4435	4	35	99	10	2022.0		
+136	teaching	-1.9476	-1.3163	4	6	15	4	2019.5		
+137	measurement instruments	-1.7518	-1.4452	4	2	4	2	2018.5		
+138	data mining	-1.868	-1.465	4	8	22	0			
+139	engineering ethics	-1.9989	-1.3989	4	18	56	0			
+140	first-year engineering	-2.1229	1.5479	3	23	60	5	2020.2		
+141	load modeling	-2.1309	1.6991	3	13	26	2	2018.0		
+142	machine learning	-1.8927	1.4064	3	24	66	0			
+143	loading	-2.1964	1.6302	3	13	26	2	2018.0		
+144	correlation	0.8701	-2.4245	5	25	58	4	2017.75		
+145	exploratory research	-1.8087	-1.4992	4	9	18	0			
+146	first year engineering course	-2.3234	1.8221	3	4	8	2	2021.5		
+147	critical thinking	-2.0557	-1.3238	4	13	33	4	2022.75		
+148	critical thinking ability testing	-2.0298	-1.1282	4	3	6	2	2020.0		
+149	mechanical engineering	-2.0313	-1.3803	4	21	66	1	2015.0		
+150	programming language	-1.6953	1.3268	3	6	14	0			
+151	assessment	-1.9097	-1.5035	4	12	34	5	2020.0		
+152	software engineering	-1.7483	-1.5267	4	3	6	1	2019.0		
+153	validity	0.76	2.4544	2	68	243	10	2018.1		
+154	thinking	-1.7381	-1.4764	4	3	6	2	2021.0		
+155	construct	0.8219	2.6635	2	4	8	2	2019.5		
+156	validation	0.8739	2.7324	2	18	39	5	2021.6		
+157	technical presentations	-1.9501	-1.2105	4	4	8	2	2017.5		
+158	production	-2.1357	-1.3311	4	6	12	2	2018.0		
+159	rubrics	-1.7618	-1.407	4	2	4	2	2021.0		
+160	computer science education	-2.1059	-1.2393	4	5	10	2	2016.5		
+161	information technology	0.8464	-2.5898	5	7	14	2	2020.0		
+162	college students	0.8324	-2.5015	5	35	106	7	2019.14		
+163	experiences	-1.9224	-1.7562	4	3	6	2	2020.5		
+164	marketing	0.6818	-2.5918	5	10	21	1	2017.0		
+165	employment	-1.8774	-1.5133	4	7	20	4	2021.75		
+166	engineers	-1.8758	-1.4309	4	10	24	4	2020.5		
+167	satisfaction	2.59	-0.1152	1	13	30	3	2020.33		
+168	scoring rubrics	2.423	-0.2504	1	3	6	2	2016.5		
+169	social cognitive theory	2.4074	-0.0216	1	16	37	2	2017.0		
+170	outcome expectations	2.615	0.1395	1	12	24	2	2022.0		
+171	social cognitive predictors	2.554	0.154	1	12	24	2	2022.0		
+172	experiential learning	0.9007	-2.2782	5	19	43	3	2020.0		
+173	science	2.3767	0.1979	1	6	12	2	2023.5		
+174	social cognitive career theory	2.5266	0.1771	1	12	24	2	2022.0		
+175	career	2.5149	0.094	1	19	44	4	2021.0		
+176	contextual supports	2.563	0.1801	1	12	24	2	2022.0		
+177	social learning theory	2.3407	0.1607	1	6	12	1	2026.0		
+178	learning experiences	2.5806	0.1187	1	17	35	3	2023.0		
+179	choice	2.5907	0.1592	1	13	27	3	2022.0		
+180	turkish	2.4921	0.1165	1	15	31	0			
+181	gender	2.413	0.0217	1	23	59	4	2018.5		
+182	field (mathematics)	2.427	-0.1487	1	8	16	0			
+183	adaptation (eye)	2.5566	-0.1424	1	16	36	0			
+184	developmental psychology	2.434	-0.0095	1	36	111	0			
+185	scale adaptation	2.6054	0.2395	1	4	8	2	2024.0		
+186	higher education	-2.146	-1.4602	4	52	153	7	2019.43		
+187	reflection (computer programming)	-1.7177	-1.6684	4	2	4	0			
+188	engineering undergraduates	-2.0922	-1.6406	4	5	13	3	2017.0		
+189	mindset	2.2322	0.0679	1	3	6	0			
+190	value (mathematics)	2.2956	0.1003	1	7	14	0			
+191	study skills	0.6195	-2.5014	5	10	20	0			
+192	employability	0.7017	-2.3651	5	41	110	3	2020.67		
+193	skill development	0.5871	-2.3967	5	13	26	2	2021.0		
+194	communication skills	-1.8978	-1.382	4	9	23	2	2022.5		
+195	perceptions	-2.1918	-1.5583	4	10	23	3	2023.33		
+196	skills management	0.5919	-2.462	5	10	20	0			
+197	face validity	0.7085	2.6745	2	1	2	1	2019.0		
+198	technology	-2.078	-1.298	4	9	21	3	2019.33		
+199	colleges, universities, and professional schools	0.9395	-2.5165	5	15	32	3	2020.33		
+200	questionnaires	0.784	-2.4311	5	32	82	5	2020.2		
+201	competence	0.6504	-2.4236	5	18	48	4	2019.5		
+202	business	0.6918	-2.4456	5	28	66	2	2021.0		
+203	professional competence	1.1547	-2.6735	5	3	6	2	2019.0		
+204	achievement	2.4647	-0.1868	1	8	16	3	2021.67		
+205	measurement invariance	-2.2136	1.3963	3	10	23	1	2021.0		
+206	learning strategies	0.9239	2.4174	2	4	8	2	2018.5		
+207	factor (programming language)	-1.8233	1.2711	3	7	14	0			
+208	employers	2.6335	-0.1298	1	13	26	2	2021.5		
+209	engineering design	-1.6732	-1.6176	4	1	2	2	2020.5		
+210	electronics	-2.2627	-1.5308	4	6	12	0			
+211	class (philosophy)	2.7139	0.1024	1	5	10	0			
+212	regression analysis	-2.1096	1.3101	3	13	29	1	2016.0		
+213	task analysis	-2.2419	-1.2664	4	2	4	2	2019.0		
+214	social responsibility	-2.4731	-1.409	4	2	4	2	2025.0		
+215	cartography	2.6083	-0.0741	1	10	23	0			
+216	physics	-2.1084	-1.3022	4	10	22	0			
+217	statistical reliability	-2.1422	-1.142	4	4	8	2	2020.5		
+218	survey instruments	-2.0283	1.3145	3	8	16	2	2021.0		
+219	women	2.3972	-0.0521	1	24	61	5	2019.4		
+220	engineering identity	0.9238	-2.7723	5	2	4	2	2019.5		
+221	expectations	2.1249	-0.1931	1	1	2	2	2024.0		
+222	cognitive psychology	-2.0294	-1.1994	4	4	8	0			
+223	psychology of students	2.4356	0.2595	1	2	4	2	2024.0		
+224	self-report inventories	2.7092	-0.1276	1	5	10	2	2020.0		
+225	student learning	-1.9767	-1.7509	4	3	6	2	2022.0		
+226	monitoring	-1.7735	-1.3655	4	3	6	2	2025.0		
+227	measurements instruments	-2.2677	-1.371	4	3	6	2	2021.5		
+228	engineering problem solving	-2.0843	-1.7411	4	3	6	2	2024.0		
+229	problem based learning	-1.8047	-1.6485	4	2	4	2	2022.0		
+230	computer aided instruction	-1.7212	1.4492	3	7	14	2	2022.5		
+231	placements	0.7863	-2.2495	5	26	52	2	2020.5		
+232	internship programs	0.7562	-2.2521	5	26	52	2	2020.5		
+233	higher-education	0.7707	-2.2778	5	26	52	2	2020.5		
+234	quality	0.7307	-2.2692	5	26	52	2	2020.5		
+235	internship	0.8277	-2.3465	5	38	98	2	2020.5		
+236	work experience	0.8268	-2.2804	5	26	52	2	2020.5		
+237	competences	-2.0046	1.7867	3	12	24	2	2021.0		
+238	measures (individuals)	0.9255	-2.325	5	15	30	2	2017.5		
+239	generic competency	-2.0535	-1.6501	4	12	24	2	2020.5		
+240	personnel training	-2.0303	-1.5897	4	15	36	3	2019.67		
+241	generic competencies	-2.0129	-1.6456	4	12	24	2	2020.5		
+242	task-value	2.3272	-0.0605	1	9	18	2	2021.0		
+243	academic achievements	2.5357	-0.1803	1	10	20	2	2017.5		
+244	factors analysis	2.3861	0.0828	1	12	24	2	2017.0		
+245	beliefs	2.445	-0.0582	1	25	69	5	2018.4		
+246	design	2.4114	-0.0939	1	13	26	2	2017.0		
+247	academic motivation	-2.2041	1.2742	3	6	12	2	2021.0		
+248	student motivation	0.8665	2.4766	2	7	14	2	2015.5		
+249	gender differences	0.9242	-2.4242	5	12	24	2	2018.0		
+250	likert scales	2.3365	0.0217	1	10	20	2	2019.5		
+251	affect (linguistics)	-2.1664	-1.7335	4	3	6	0			
+252	sustainability	0.6682	2.4797	2	2	4	1	2015.0		
+253	expectation	0.603	2.417	2	2	4	2	2017.0		
+254	content validity	2.6586	0.0608	1	10	21	1	2019.0		
+255	learning	0.9771	-2.3065	5	7	14	3	2022.0		
+256	creativity	-2.1618	-1.8175	4	1	2	1	2017.0		
+257	professional and management development training	0.9838	-2.4981	5	8	16	2	2022.0		
+258	professional education	0.94	-2.5618	5	8	16	2	2022.0		
+259	engineering student research	2.3585	-0.1131	1	6	15	3	2015.0		
+260	higher education research	2.2871	-0.1411	1	4	8	2	2015.0		
+261	portuguese	-2.132	-1.3864	4	21	47	0			
+262	descriptive statistics	-2.0282	-1.7551	4	4	8	1	2025.0		
+263	instruction	0.7609	-2.0631	5	6	12	2	2021.5		
+264	self-assessment	2.3358	-0.0122	1	8	16	3	2021.33		
+265	self-evaluation	2.2628	-0.0079	1	5	10	2	2019.5		
+266	chemical engineering	-1.8415	-1.6913	4	2	4	2	2024.0		
+267	professional practices	-1.909	-1.6289	4	5	10	2	2017.5		
+268	database	-1.9175	-1.5839	4	10	20	0			
+269	performance	2.4083	0.1276	1	7	14	2	2021.5		
+270	vocational education	0.8734	-2.5026	5	9	21	1	2024.0		
+271	measurement	-1.9722	1.0221	3	7	14	4	2020.0		
+272	civil engineering students	0.5644	-2.0	5	3	6	2	2019.0		
+273	problem-solving abilities	0.6266	-1.9723	5	3	6	2	2019.0		
+274	labour market	-2.1812	-1.4129	4	13	26	2	2024.0		
+275	transferable skills	-2.1656	-1.3885	4	13	26	2	2024.0		
+276	portugal	-2.2928	-1.4647	4	5	10	2	2024.0		
+277	transferable skills analysis	-2.1858	-1.4406	4	13	26	0			
+278	retention	2.4295	0.1868	1	7	14	2	2025.5		
+279	university	0.9549	2.921	2	1	2	3	2024.33		
+280	engineering program	2.6284	-0.2341	1	3	6	2	2018.0		
+281	sustainable development	-1.7776	-1.2032	4	1	2	2	2023.0		
+282	graduation (instrument)	-1.9529	-1.3523	4	9	22	0			
+283	test construction	0.6137	2.6376	2	7	14	2	2019.5		
+284	cooperative learning	0.5603	2.5842	2	7	14	1	2023.0		
+285	university students	-2.2821	-1.4308	4	3	6	2	2019.0		
+286	motivation	2.7241	0.0641	1	5	10	2	2019.0		
+287	ethics	0.9452	2.5907	2	3	6	2	2024.0		
+288	testing	-1.9405	1.1897	3	12	25	3	2020.33		
+289	general engineering	-1.9446	-1.673	4	4	8	2	2020.0		
+290	colombia	0.4391	-2.2497	5	1	2	2	2023.0		
+291	academic performance	-2.4732	-1.5117	4	2	4	2	2024.0		

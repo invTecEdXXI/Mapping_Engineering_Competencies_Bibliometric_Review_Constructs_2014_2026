@@ -1,0 +1,63 @@
+{
+  "session_id": "20260724_231740",
+  "phase": "1_refine",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:18:34.356593",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "new",
+      "theme": "Assessment Instrument Development and Validation",
+      "definition": "The process of creating, refining, and validating tools (e.g., scales, rubrics, questionnaires) to measure specific competencies, attitudes, or skills in engineering education. This includes designing instruments, conducting pilot tests, and iteratively improving their structure and content based on empirical evidence.",
+      "subthemes": [
+        "Psychometric validation",
+        "Factor analysis",
+        "Reliability testing"
+      ]
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Engineering Competencies and Skills",
+      "definition": "The identification, assessment, and development of technical and non-technical (transversal) competencies required for engineering students. This encompasses professional skills, research competencies, and other transferable abilities essential for engineering practice.",
+      "subthemes": [
+        "Professional skills",
+        "Transversal competencies",
+        "Research competences"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Psychometric Properties and Statistical Analysis",
+      "definition": "The use of statistical methods to evaluate the validity, reliability, and structural properties of assessment instruments in engineering education. This includes techniques such as Cronbach's alpha, factor analysis, and structural equation modeling to ensure robust measurement.",
+      "subthemes": [
+        "Reliability testing",
+        "Factor analysis",
+        "Structural equation modeling"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Engineering Identity and Self-Efficacy",
+      "definition": "The measurement and development of students' identification with engineering, including self-efficacy, interest, recognition, and sense of belonging in engineering programs. This theme explores how students perceive themselves as engineers and their confidence in their abilities.",
+      "subthemes": [
+        "Self-efficacy",
+        "Engineering identity",
+        "Research identity"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Professional and Ethical Values",
+      "definition": "The assessment of professional values, ethical considerations, and dispositional knowledge in engineering students. This includes evaluating their understanding of global and interdisciplinary contexts and their commitment to ethical engineering practices.",
+      "subthemes": [
+        "Ethical values",
+        "Global engineering",
+        "Socio-emotional competencies"
+      ]
+    }
+  ]
+}

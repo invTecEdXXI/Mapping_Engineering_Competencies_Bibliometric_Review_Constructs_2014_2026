@@ -1,0 +1,344 @@
+{
+  "n_models": 2,
+  "models": [
+    "auto/deepseek-v4-pro",
+    "mistral/mistral-large-latest"
+  ],
+  "triangulation_session_id": "20260724_232145",
+  "model_a": "auto/deepseek-v4-pro",
+  "model_b": "mistral/mistral-large-latest",
+  "phase_2e": {
+    "model_a": "auto/deepseek-v4-pro",
+    "model_b": "mistral/mistral-large-latest",
+    "model_equivalence": {
+      "model_a": "deepseek-v4-pro",
+      "model_b": "mistral-large-latest",
+      "tier_a": 1,
+      "tier_b": 1,
+      "equivalent": true,
+      "warning": null
+    },
+    "session_a": "20260724_232146",
+    "session_b": "20260724_233014",
+    "taxonomy_a": [
+      {
+        "theme": "Scale Development and Psychometric Evaluation",
+        "definition": "The systematic design, refinement, and empirical testing of measurement instruments through item generation, factor analysis to identify latent dimensions, and the accumulation of reliability and validity evidence to support meaningful and consistent interpretation of scores.",
+        "subthemes": [
+          "Item Generation and Scale Construction",
+          "Factor Structure Investigation (EFA/CFA)",
+          "Reliability and Validity Evidence"
+        ],
+        "n_studies_approx": 12,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Self-Efficacy Measurement",
+        "definition": "The assessment of individuals' beliefs in their capabilities to perform specific tasks or achieve desired outcomes, with applications across leadership, entrepreneurship, and clini",
+        "subthemes": [
+          "General self-efficacy",
+          "Domain-specific self-efficacy",
+          "Self-efficacy and performance",
+          "Mediation effects"
+        ],
+        "n_studies_approx": 3,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Motivation and Affective Constructs in Engineering Students",
+        "definition": "The study of psychological drivers such as motivation, attitudes, emotions, and writing apprehension that influence engineering students' engagement with entrepreneurial careers, a",
+        "subthemes": [
+          "Entrepreneurial motivation",
+          "Writing attitudes",
+          "Affect and emotion",
+          "Writer's block"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Engineering Education Context",
+        "definition": "All studies are situated within engineering education, focusing on the development, assessment, and professional readiness of undergraduate or graduate engineering students, often ",
+        "subthemes": [
+          "Accreditation requirements",
+          "Curriculum design",
+          "Skill development",
+          "Engineering identity"
+        ],
+        "n_studies_approx": 4,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Career and Professional Development",
+        "definition": "The instruments and constructs are explicitly linked to students' career intentions, professional trajectories, persistence, and success in engineering, including entrepreneurial v",
+        "subthemes": [
+          "Entrepreneurial intention",
+          "Graduate persistence",
+          "Leadership development",
+          "Grant writing skills"
+        ],
+        "n_studies_approx": 4,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      }
+    ],
+    "taxonomy_b": [
+      {
+        "theme": "Transversal and Professional Competencies in Engineering Education",
+        "definition": "The assessment and development of non-technical, transferable, and sociotechnical competencies essential for professional success in engineering. This includes skills such as communication, teamwork, leadership, problem-solving, lifelong learning, entrepreneurial skills, and understanding the social implications of technology.",
+        "subthemes": [
+          "Generic and professional competencies (e.g., communication, teamwork, leadership)",
+          "Transversal competencies (e.g., lifelong learning, entrepreneurial skills)",
+          "Sociotechnical competencies (e.g., understanding social implications of technology)"
+        ],
+        "n_studies_approx": 25,
+        "source_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Self-Efficacy, Attitudes, and Engineering Identity",
+        "definition": "The development, validation, and exploration of instruments and factors related to engineering students' self-efficacy, attitudes, and identity. This includes measuring confidence in performing specific tasks, understanding predictors of engineering identity (e.g., self-efficacy, recognition, interest), and examining how these constructs influence students' experiences and outcomes in engineering education.",
+        "subthemes": [
+          "Self-efficacy and attitudinal measurement in engineering contexts",
+          "Factors contributing to engineering identity (e.g., self-efficacy, recognition, interest)"
+        ],
+        "n_studies_approx": 59,
+        "source_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Critical Thinking, Problem-Solving, Creativity, and Design Mindset in Engineering",
+        "definition": "The development and validation of instruments to assess critical thinking, problem-solving, creativity, design thinking, and related constructs in engineering students. This includes domain-specific and general approaches to evaluating these competencies, as well as their role in fostering innovation and effective engineering practice.",
+        "subthemes": [
+          "Critical thinking and problem-solving skills in engineering",
+          "Creativity, design thinking, and innovation in engineering education"
+        ],
+        "n_studies_approx": 11,
+        "source_batches": [
+          0,
+          2,
+          1
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Psychometric and Analytical Methods in Engineering Education Research",
+        "definition": "The evaluation of the reliability, validity, and structural properties of assessment instruments in engineering education, alongside the application of analytical methods (e.g., mediation and correlation analyses) to explore relationships between constructs. This includes factor analysis, confirmatory factor analysis, and statistical modeling to understand how variables such as self-efficacy, motivation, and competencies interact.",
+        "subthemes": [
+          "Psychometric evaluation of engineering assessment instruments",
+          "Mediation and correlation analysis in engineering education research"
+        ],
+        "n_studies_approx": 23,
+        "source_batches": [
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Rubric-Based Competency Assessment in Engineering",
+        "definition": "The use of rubrics as structured assessment tools to evaluate specific competencies in engineering students, particularly in laboratory, project-based, or practical settings. Emphasis is placed on expert judgment, inter-rater reliability, and performance assessment.",
+        "subthemes": [
+          "Expert judgment",
+          "Inter-rater reliability",
+          "Performance assessment"
+        ],
+        "n_studies_approx": 21,
+        "source_batches": [
+          0,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Research Competencies and Investigative Skills in Engineering Students",
+        "definition": "The assessment and development of research-related competencies in engineering students, including intellectual, technical, and communicative skills necessary for conducting and presenting research. This encompasses research training, scientific writing, and data collection techniques.",
+        "subthemes": [
+          "Research training",
+          "Scientific writing",
+          "Data collection techniques"
+        ],
+        "n_studies_approx": 3,
+        "source_batches": [
+          0
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Motivation and Learning Strategies in Engineering Education",
+        "definition": "The assessment of students' motivational attitudes, behaviors, and strategies for learning in engineering contexts, including intrinsic and extrinsic motivation, self-regulated learning, and expectancy-value frameworks. This theme emphasizes the development and validation of instruments to measure these constructs and their impact on academic performance and persistence.",
+        "subthemes": [
+          "Intrinsic and extrinsic motivation",
+          "Self-regulated learning strategies",
+          "Expectancy-value theory in engineering"
+        ],
+        "n_studies_approx": 3,
+        "source_batches": [
+          1
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Assessment of Professional Ethics and Social Responsibility in Engineering",
+        "definition": "The development and validation of tools to measure engineering students' professional ethics, social responsibility, and sustainability attitudes. This theme includes the assessment of students' awareness of ethical dilemmas, social implications of engineering, and commitment to responsible practice.",
+        "subthemes": [
+          "Ethics education and assessment",
+          "Social responsibility in engineering",
+          "Sustainability attitudes"
+        ],
+        "n_studies_approx": 3,
+        "source_batches": [
+          1
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Community-Partnered and Experiential Learning in Engineering",
+        "definition": "The use of real-world, community-based projects, internships, or problem-based learning to enhance engineering students' professional skills, sense of belonging, and practical competencies. This theme includes the assessment of learning outcomes from experiential and collaborative educational approaches.",
+        "subthemes": [
+          "Problem-based learning outcomes",
+          "Internship and workplace experience",
+          "Community-engaged engineering projects"
+        ],
+        "n_studies_approx": 9,
+        "source_batches": [
+          1,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Cultural and Linguistic Adaptation of Engineering Assessment Tools",
+        "definition": "The process of translating, adapting, and validating assessment instruments for use in diverse cultural or linguistic settings. This theme includes ensuring measurement invariance, cross-cultural validity, and linguistic equivalence to maintain the reliability and validity of engineering education assessments.",
+        "subthemes": [
+          "Cross-cultural validation of instruments",
+          "Measurement invariance testing",
+          "Linguistic adaptation of assessments"
+        ],
+        "n_studies_approx": 3,
+        "source_batches": [
+          1
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Gender Differences in Engineering Competencies and Self-Efficacy",
+        "definition": "The examination of how gender influences engineering students' self-efficacy, competencies, and experiences, including the identification of gaps, gendered experiences, and the development of strategies to address disparities through curricular interventions.",
+        "subthemes": [
+          "Gendered experiences in engineering education",
+          "Self-efficacy gaps between genders",
+          "Curricular interventions to reduce gender disparities"
+        ],
+        "n_studies_approx": 4,
+        "source_batches": [
+          2
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Innovation and Entrepreneurship Competencies in Engineering",
+        "definition": "The assessment and development of competencies related to innovation, entrepreneurship, and the ability to create or adapt to new technologies and business models in engineering students. This includes the measurement of innovation self-efficacy and entrepreneurial competencies.",
+        "subthemes": [
+          "Innovation self-efficacy",
+          "Entrepreneurial competencies",
+          "Career aspirations in engineering innovation"
+        ],
+        "n_studies_approx": 3,
+        "source_batches": [
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Affective Dimensions of Writing in Engineering Education",
+        "definition": "The exploration of engineering students' attitudes, emotions, and perceptions toward academic writing, including the development of tools to assess writing apprehension, writing attitudes, and their impact on career trajectory and graduate student persistence.",
+        "subthemes": [
+          "Writing attitudes survey",
+          "Writing apprehension",
+          "Career trajectory impact",
+          "Graduate student persistence"
+        ],
+        "n_studies_approx": 1,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      }
+    ],
+    "comparison": {
+      "n_themes_a": 5,
+      "n_themes_b": 13,
+      "jaccard_names": 0.193,
+      "jaccard_definitions": 0.1609,
+      "subtopic_overlap": 0.0,
+      "avg_article_overlap": 0.0,
+      "greedy_matches": [
+        {
+          "theme_a": "Motivation and Affective Constructs in Engineering Students",
+          "theme_b": "Motivation and Learning Strategies in Engineering Education",
+          "similarity_name": 0.4,
+          "similarity_definition": 0.1296,
+          "similarity_combined": 0.2919
+        },
+        {
+          "theme_a": "Engineering Education Context",
+          "theme_b": "Affective Dimensions of Writing in Engineering Education",
+          "similarity_name": 0.25,
+          "similarity_definition": 0.2051,
+          "similarity_combined": 0.2321
+        },
+        {
+          "theme_a": "Self-Efficacy Measurement",
+          "theme_b": "Self-Efficacy, Attitudes, and Engineering Identity",
+          "similarity_name": 0.2857,
+          "similarity_definition": 0.1509,
+          "similarity_combined": 0.2318
+        },
+        {
+          "theme_a": "Career and Professional Development",
+          "theme_b": "Transversal and Professional Competencies in Engineering Education",
+          "similarity_name": 0.2222,
+          "similarity_definition": 0.1522,
+          "similarity_combined": 0.1942
+        },
+        {
+          "theme_a": "Scale Development and Psychometric Evaluation",
+          "theme_b": "Psychometric and Analytical Methods in Engineering Education Research",
+          "similarity_name": 0.1818,
+          "similarity_definition": 0.1429,
+          "similarity_combined": 0.1662
+        }
+      ],
+      "n_matched": 5
+    },
+    "grounding": {
+      "model_a": 1.0,
+      "model_b": 0.883
+    }
+  }
+}

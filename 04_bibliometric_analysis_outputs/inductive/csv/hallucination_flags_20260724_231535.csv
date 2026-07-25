@@ -1,0 +1,15 @@
+session_id,batch_index,theme_name,flag
+20260724_231535,0,Assessment Instrument Development and Validation,"Paraphrase detected (score=0.62), not verbatim: '[RGASR6Q5] A cross-sectional survey design was use...'"
+20260724_231535,0,Engineering Competencies and Skills,Quote not found in source texts (score=0.54): '[WE7WVA4B] This study assessed these competencies ...'
+20260724_231535,0,Psychometric Properties and Statistical Methods,Quote not found in source texts (score=0.53): '[LPJSUJ9V] McDonald’s omega and Cronbach's alpha c...'
+20260724_231535,0,Self-Efficacy and Attitudes,Quote not found in source texts (score=0.50): '[RGASR6Q5] The EFA revealed a clear four-factor st...'
+20260724_231535,0,Self-Efficacy and Attitudes,Quote not found in source texts (score=0.52): '[PVT4UE9C] Engineering identity development has ma...'
+20260724_231535,0,Rubric-Based Assessment,"Paraphrase detected (score=0.62), not verbatim: '[ECTTSUXE] This study aims to validate a rubric ba...'"
+20260724_231535,0,Rubric-Based Assessment,Quote not found in source texts (score=0.54): '[9HGRHX6A] The importance of a properly designed r...'
+20260724_231535,0,Rubric-Based Assessment,Quote not found in source texts (score=0.47): '[GSUNVIP6] Oral presentation is one of the most im...'
+20260724_231535,0,Critical Thinking and Problem-Solving,"Paraphrase detected (score=0.68), not verbatim: '[AKZVTZER] The term representational competence re...'"
+20260724_231535,1,Assessment instrument validation,"Paraphrase detected (score=0.61), not verbatim: '[XT6BBTKW] This study sought to develop and valida...'"
+20260724_231535,1,Systems thinking and design mindset,Quote not found in source texts (score=0.19): '[J8H6TD8Q] It is widely acknowledged that systems ...'
+20260724_231535,2,Instrument Validation and Psychometric Properties,Quote not found in source texts (score=0.50): '[3R39PUCS] The Student Attitudinal Success Instrum...'
+20260724_231535,2,Engineering Identity and Motivation,"Paraphrase detected (score=0.61), not verbatim: '[7Y29KIN3] This study aims to assess the changes i...'"
+20260724_231535,3,Leadership competencies in engineering education,Quote not found in source texts (score=0.57): '[6ATWRP3C] ...six factors as representative aspect...'

@@ -1,0 +1,402 @@
+{
+  "n_models": 2,
+  "models": [
+    "auto/deepseek-v4-flash",
+    "mistral/mistral-small-latest"
+  ],
+  "triangulation_session_id": "20260724_231738",
+  "model_a": "auto/deepseek-v4-flash",
+  "model_b": "mistral/mistral-small-latest",
+  "phase_2e": {
+    "model_a": "auto/deepseek-v4-flash",
+    "model_b": "mistral/mistral-small-latest",
+    "model_equivalence": {
+      "model_a": "deepseek-v4-flash",
+      "model_b": "mistral-small-latest",
+      "tier_a": 2,
+      "tier_b": 2,
+      "equivalent": true,
+      "warning": null
+    },
+    "session_a": "20260724_223030",
+    "session_b": "20260724_231740",
+    "taxonomy_a": [
+      {
+        "theme": "Instrument Development, Validation, and Psychometric Analysis",
+        "definition": "The creation, adaptation, and psychometric testing of assessment tools (scales, rubrics, questionnaires) to measure competencies, attitudes, and skills in engineering education. This includes statistical techniques such as exploratory and confirmatory factor analysis, reliability coefficients, and validity measures to ensure robust measurement.",
+        "subthemes": [
+          "Scale development and refinement",
+          "Psychometric properties and factor analysis",
+          "Competency assessment tool validation"
+        ],
+        "n_studies_approx": 91,
+        "source_batches": [
+          0,
+          2,
+          3,
+          1
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Self-Efficacy, Attitudes, and Demographic Influences",
+        "definition": "Assessment of students' self-perceived confidence, attitudes, and beliefs regarding their abilities, including sources of self-efficacy (e.g., performance accomplishments, vicarious learning). Also examines how demographic factors such as gender, class level, and first-generation status, as well as contextual events like the COVID-19 pandemic, influence self-efficacy and learning outcomes.",
+        "subthemes": [
+          "Self-efficacy and attitudes measurement",
+          "Sources of self-efficacy",
+          "Gender and demographic differences",
+          "Impact of COVID-19 on self-efficacy"
+        ],
+        "n_studies_approx": 42,
+        "source_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Specialized Competency and Mindset Assessment",
+        "definition": "Development and validation of instruments to assess specific competencies and mindsets in engineering education, including transversal and professional skills (e.g., communication, teamwork), entrepreneurial and design mindsets, grit, engineering mindset, foundational mathematics and engineering competences, and global communication competency.",
+        "subthemes": [
+          "Transversal and professional skills",
+          "Entrepreneurial and design mindset",
+          "Grit and engineering mindset",
+          "Mathematics and engineering fundamentals",
+          "Global communication competency"
+        ],
+        "n_studies_approx": 31,
+        "source_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Identity, Motivation, and Persistence in Engineering",
+        "definition": "Exploration of how engineering students develop a sense of identity as engineers and how this relates to persistence and intention to complete their studies. Also includes measurement of intrinsic motivation based on Self-Determination Theory and interventions to enhance motivation.",
+        "subthemes": [
+          "Engineering identity and persistence",
+          "Intrinsic motivation and its measurement"
+        ],
+        "n_studies_approx": 10,
+        "source_batches": [
+          0,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Reflective Thinking and Decision-Making",
+        "definition": "The assessment of students' reflective thinking processes and decision-making competencies, particularly in design problem-solving and self-regulated learning contexts.",
+        "subthemes": [
+          "Reflective thinking",
+          "Decision-making",
+          "Self-regulated learning",
+          "Design problem-solving"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          0
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Internship and Work Experience Evaluation",
+        "definition": "Studies that adapt or validate questionnaires to assess engineering students' perceptions of their internship or work experiences, focusing on factors like workplace support, university support, and the development of generic competencies.",
+        "subthemes": [
+          "Work Experience Questionnaire (WEQ)",
+          "Internship experience",
+          "Workplace support",
+          "Generic competencies"
+        ],
+        "n_studies_approx": 6,
+        "source_batches": [
+          1,
+          2
+        ],
+        "robustness": "High"
+      }
+    ],
+    "taxonomy_b": [
+      {
+        "theme": "Engineering Self-Efficacy and Identity",
+        "definition": "The development, assessment, and validation of instruments to measure students' self-efficacy, identity, and sense of belonging in engineering contexts. This includes both general engineering self-efficacy and domain-specific self-efficacy (e.g., programming, design) as well as broader identity constructs like recognition and interest in engineering.",
+        "subthemes": [
+          "General and domain-specific self-efficacy in engineering",
+          "Engineering identity, belonging, and recognition"
+        ],
+        "n_studies_approx": 14,
+        "source_batches": [
+          0,
+          1,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Ethical, Social Responsibility, and Professional Values",
+        "definition": "The assessment of professional ethics, social responsibility, and dispositional values in engineering students. This includes evaluating understanding of ethical principles, sustainability, and global/societal impacts, as well as professional values aligned with engineering practice.",
+        "subthemes": [
+          "Professional and ethical values",
+          "Sustainability, ethics, and social responsibility competencies"
+        ],
+        "n_studies_approx": 5,
+        "source_batches": [
+          0,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Motivational and Psychosocial Constructs in Engineering Education",
+        "definition": "The measurement and validation of instruments assessing students' motivational attitudes, learning strategies, and psychosocial constructs (e.g., self-efficacy, attitudes) and their influence on educational outcomes. This includes both general motivational frameworks and specific constructs tied to engineering education.",
+        "subthemes": [
+          "Motivational and learning strategies",
+          "Psychosocial constructs and their influence on educational outcomes"
+        ],
+        "n_studies_approx": 6,
+        "source_batches": [
+          1,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Workplace Readiness and Internship Competency Assessment",
+        "definition": "The development and validation of instruments to assess students' competencies and experiences related to workplace readiness, internships, and alignment with industry expectations. This includes perceptions of internship experiences, employability skills, and readiness for professional practice.",
+        "subthemes": [
+          "Workplace and internship competency evaluation",
+          "Industry and workplace readiness assessment"
+        ],
+        "n_studies_approx": 7,
+        "source_batches": [
+          1,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Communication and Transferable Competencies",
+        "definition": "The assessment of communication skills and other non-technical, transferable competencies essential for engineering graduates' employability. This includes workplace oral communication, teamwork, problem-solving, and critical thinking as broadly applicable skills.",
+        "subthemes": [
+          "Communication skills in engineering contexts",
+          "Transferable and vocational competencies"
+        ],
+        "n_studies_approx": 7,
+        "source_batches": [
+          1,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Assessment Instrument Development and Validation",
+        "definition": "The process of creating, refining, and validating tools (e.g., scales, rubrics, questionnaires) to measure specific competencies, attitudes, or skills in engineering education. This includes designing instruments, conducting pilot tests, and iteratively improving their structure and content based on empirical evidence.",
+        "subthemes": [
+          "Psychometric validation",
+          "Factor analysis",
+          "Reliability testing"
+        ],
+        "n_studies_approx": 24,
+        "source_batches": [
+          0,
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Engineering Competencies and Skills",
+        "definition": "The identification, assessment, and development of technical and non-technical (transversal) competencies required for engineering students. This encompasses professional skills, research competencies, and other transferable abilities essential for engineering practice.",
+        "subthemes": [
+          "Professional skills",
+          "Transversal competencies",
+          "Research competences"
+        ],
+        "n_studies_approx": 13,
+        "source_batches": [
+          0,
+          1
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Psychometric Properties and Statistical Analysis",
+        "definition": "The use of statistical methods to evaluate the validity, reliability, and structural properties of assessment instruments in engineering education. This includes techniques such as Cronbach's alpha, factor analysis, and structural equation modeling to ensure robust measurement.",
+        "subthemes": [
+          "Reliability testing",
+          "Factor analysis",
+          "Structural equation modeling"
+        ],
+        "n_studies_approx": 15,
+        "source_batches": [
+          0,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Entrepreneurial and Design Mindset Assessment",
+        "definition": "The development and validation of instruments to measure entrepreneurial mindset constructs (e.g., 'Connections' and 'Creating Value') and design mindset in engineering students. This theme captures the intersection of innovation, creativity, and problem-solving in engineering education.",
+        "subthemes": [
+          "Entrepreneurial mindset",
+          "Design mindset",
+          "Creativity assessment"
+        ],
+        "n_studies_approx": 5,
+        "source_batches": [
+          1,
+          3
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Systems Thinking and Problem-Solving Assessment",
+        "definition": "The assessment of systems thinking skills and problem-solving competencies in engineering students using surveys and diagnostic activities. This theme emphasizes the ability to analyze complex systems and develop effective solutions.",
+        "subthemes": [
+          "Systems thinking",
+          "Problem-based learning",
+          "Diagnostic activities"
+        ],
+        "n_studies_approx": 7,
+        "source_batches": [
+          1,
+          2
+        ],
+        "robustness": "High"
+      },
+      {
+        "theme": "Mathematical and Technical Competence Assessment",
+        "definition": "The development and validation of instruments to assess mathematical and technical competencies in engineering students, including the use of Rasch analysis and think-aloud protocols. This theme addresses foundational and advanced technical skills critical to engineering practice.",
+        "subthemes": [
+          "Mathematical competence",
+          "Technical skills",
+          "Rasch analysis"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          1
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Demographic Influences on Engineering Competencies",
+        "definition": "The examination of how gender, class level, transfer status, or other demographic factors influence self-efficacy, problem-solving abilities, or other measured competencies in engineering education. This theme explores disparities and variations in outcomes across different student groups.",
+        "subthemes": [
+          "Gender disparities",
+          "First-generation students",
+          "Demographic impacts",
+          "Class level differences"
+        ],
+        "n_studies_approx": 4,
+        "source_batches": [
+          2
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Leadership Competencies and Self-Efficacy in Engineering",
+        "definition": "The development and validation of instruments to measure engineering students' leadership self-efficacy, including the identification of key leadership domains relevant to engineering contexts. This theme also examines the relationship between leadership confidence and broader professional competencies.",
+        "subthemes": [
+          "Leadership development",
+          "Self-efficacy measurement",
+          "Factor structure and reliability"
+        ],
+        "n_studies_approx": 1,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Writing Attitudes and Affective Dimensions in Engineering Education",
+        "definition": "The study of engineering students' attitudes, emotions, and apprehensions related to academic and professional writing, including the development of tools to assess and address writing challenges. This theme explores the impact of writing attitudes on career trajectories and educational outcomes.",
+        "subthemes": [
+          "Writing apprehension",
+          "Survey validation",
+          "Career trajectory implications"
+        ],
+        "n_studies_approx": 1,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      },
+      {
+        "theme": "Task-Specific Self-Efficacy in Biomedical Engineering",
+        "definition": "The measurement of engineering students' confidence in performing specific tasks within biomedical engineering contexts, such as problem identification, engineering solutions, and grant proposal writing. This theme emphasizes the clinical and technical relevance of self-efficacy assessments.",
+        "subthemes": [
+          "Task-specific confidence",
+          "Clinical relevance",
+          "Survey design for biomedical contexts"
+        ],
+        "n_studies_approx": 1,
+        "source_batches": [
+          3
+        ],
+        "robustness": "Medium"
+      }
+    ],
+    "comparison": {
+      "n_themes_a": 6,
+      "n_themes_b": 15,
+      "jaccard_names": 0.3115,
+      "jaccard_definitions": 0.2941,
+      "subtopic_overlap": 0.0,
+      "avg_article_overlap": 0.0,
+      "greedy_matches": [
+        {
+          "theme_a": "Instrument Development, Validation, and Psychometric Analysis",
+          "theme_b": "Assessment Instrument Development and Validation",
+          "similarity_name": 0.5714,
+          "similarity_definition": 0.2881,
+          "similarity_combined": 0.4581
+        },
+        {
+          "theme_a": "Specialized Competency and Mindset Assessment",
+          "theme_b": "Entrepreneurial and Design Mindset Assessment",
+          "similarity_name": 0.4286,
+          "similarity_definition": 0.3111,
+          "similarity_combined": 0.3816
+        },
+        {
+          "theme_a": "Identity, Motivation, and Persistence in Engineering",
+          "theme_b": "Engineering Self-Efficacy and Identity",
+          "similarity_name": 0.375,
+          "similarity_definition": 0.1964,
+          "similarity_combined": 0.3036
+        },
+        {
+          "theme_a": "Self-Efficacy, Attitudes, and Demographic Influences",
+          "theme_b": "Leadership Competencies and Self-Efficacy in Engineering",
+          "similarity_name": 0.3,
+          "similarity_definition": 0.1587,
+          "similarity_combined": 0.2435
+        },
+        {
+          "theme_a": "Internship and Work Experience Evaluation",
+          "theme_b": "Workplace Readiness and Internship Competency Assessment",
+          "similarity_name": 0.2222,
+          "similarity_definition": 0.2727,
+          "similarity_combined": 0.2424
+        },
+        {
+          "theme_a": "Reflective Thinking and Decision-Making",
+          "theme_b": "Systems Thinking and Problem-Solving Assessment",
+          "similarity_name": 0.2222,
+          "similarity_definition": 0.2703,
+          "similarity_combined": 0.2414
+        }
+      ],
+      "n_matched": 6
+    },
+    "grounding": {
+      "model_a": 0.948,
+      "model_b": 0.805
+    }
+  }
+}

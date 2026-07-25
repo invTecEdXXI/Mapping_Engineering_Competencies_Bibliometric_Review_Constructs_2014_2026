@@ -1,0 +1,6382 @@
+{
+  "findings": [
+    {
+      "id": "F001",
+      "type": "corpus_profile",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "Corpus spans 2014-2026, peak year 2025 (12 articles)",
+      "description": "Total 96 articles across 13 years",
+      "impact_score": 0.64,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2f:cagr_trend",
+        "6:concept_evolution"
+      ],
+      "evidence": {
+        "year_range": [
+          2014,
+          2026
+        ],
+        "peak_year": 2025,
+        "peak_count": 12,
+        "total_articles": 96
+      },
+      "connections": [
+        "F020",
+        "F108"
+      ],
+      "tags": [
+        "temporal",
+        "growth",
+        "corpus profile"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F002",
+      "type": "corpus_profile",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "Publication growth -14% (last 5y vs prior 5y)",
+      "description": "Recent 5y: 38 articles, prior 5y: 44 articles",
+      "impact_score": 0.5,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2f:cagr_trend",
+        "6:concept_evolution"
+      ],
+      "evidence": {
+        "recent_count": 38,
+        "earlier_count": 44,
+        "growth_pct": -13.6
+      },
+      "connections": [
+        "F020",
+        "F108"
+      ],
+      "tags": [
+        "growth",
+        "temporal",
+        "trend"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F003",
+      "type": "corpus_profile",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "Top cited: 'Measuring Undergraduate Students' Engineering Self-Efficacy:' (296 cites)",
+      "description": "Top 5 most cited articles in corpus",
+      "impact_score": 0.66,
+      "triangulation_score": 14,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "2f:halflife_indicator",
+        "10:rdm_axis_pattern",
+        "6:fwci_outlier",
+        "6:css_classification",
+        "10:rdm_paradigm_shifter",
+        "6:sleeping_beauty",
+        "2e:inductive_theme",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "top_articles": [
+          {
+            "key": "J4L96ZTQ",
+            "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+            "citations": 296,
+            "year": 2016
+          },
+          {
+            "key": "NLXE3X6S",
+            "title": "Assessing students' motivation to engage in sustainable engineering.",
+            "citations": 75,
+            "year": 2015
+          },
+          {
+            "key": "RUGB95IU",
+            "title": "Assessing reflective thinking in solving design problems: The development of a q",
+            "citations": 68,
+            "year": 2015
+          },
+          {
+            "key": "FL269LXE",
+            "title": "Validity of the Contextual Competence Scale for Engineering Students.",
+            "citations": 64,
+            "year": 2015
+          },
+          {
+            "key": "JZEJCTN6",
+            "title": "What Drives Engineering Students To Be Entrepreneurs? Evidence of Validity for a",
+            "citations": 52,
+            "year": 2018
+          }
+        ]
+      },
+      "connections": [
+        "F014",
+        "F021",
+        "F087",
+        "F096",
+        "F098",
+        "F099",
+        "F101",
+        "F102",
+        "F106",
+        "F116",
+        "F117",
+        "F118",
+        "F119",
+        "F130"
+      ],
+      "tags": [
+        "citations",
+        "impact",
+        "top cited"
+      ],
+      "related_articles": [
+        "J4L96ZTQ",
+        "NLXE3X6S",
+        "RUGB95IU",
+        "FL269LXE",
+        "JZEJCTN6"
+      ]
+    },
+    {
+      "id": "F004",
+      "type": "corpus_profile",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "Bradford: top 5 journals cover 21% of corpus",
+      "description": "Core journal: International Journal of Engineering Education (7 articles)",
+      "impact_score": 0.34,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "n_journals": 43,
+        "top_journals": [
+          {
+            "name": "International Journal of Engineering Education",
+            "count": 7
+          },
+          {
+            "name": "European Journal of Engineering Education",
+            "count": 5
+          },
+          {
+            "name": "Journal of Engineering Education",
+            "count": 4
+          },
+          {
+            "name": "IEEE Transactions on Education",
+            "count": 3
+          },
+          {
+            "name": "PLoS ONE",
+            "count": 2
+          }
+        ],
+        "core_coverage_pct": 21.9
+      },
+      "connections": [],
+      "tags": [
+        "journals",
+        "bradford",
+        "concentration"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F005",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Validation and Use of Competency Assessment Instruments in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.5,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "9:triangulation_convergence"
+      ],
+      "evidence": {
+        "theme": "Validation and Use of Competency Assessment Instruments in Engineering Education",
+        "definition": "The development, validation, and application of assessment tools such as scales, rubrics, or questionnaires to measure specific competencies, skills, or attitudes in engineering students. This includes statistical validation, expert judgment, and the use of these instruments in laboratory, project-based, or classroom settings.",
+        "subthemes": [
+          "Psychometric validation of competency assessment instruments",
+          "Rubric-based competency assessment and validation"
+        ],
+        "n_studies_approx": 71,
+        "source_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      "connections": [
+        "F115"
+      ],
+      "tags": [
+        "validation",
+        "use",
+        "competency",
+        "assessment",
+        "instruments"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F006",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Self-Efficacy and Learning Experiences in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 9,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2h:spectroscopy_lifecycle",
+        "9:triangulation_convergence",
+        "2g:declared_gap",
+        "2i:sigma_node"
+      ],
+      "evidence": {
+        "theme": "Self-Efficacy and Learning Experiences in Engineering Education",
+        "definition": "The measurement of students' confidence or belief in their ability to perform specific tasks (self-efficacy) and the assessment of learning experiences (e.g., performance accomplishments, vicarious learning) that contribute to its development. This includes the exploration of how these factors influence career-related outcomes and affective traits in engineering contexts.",
+        "subthemes": [
+          "Self-efficacy and attitudes in engineering contexts",
+          "Learning experiences and sources of self-efficacy"
+        ],
+        "n_studies_approx": 30,
+        "source_batches": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "robustness": "High"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F065",
+        "F067",
+        "F075",
+        "F079",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "self",
+        "efficacy",
+        "learning",
+        "experiences",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F007",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Professional, Ethical, and Generic Competencies in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Professional, Ethical, and Generic Competencies in Engineering Education",
+        "definition": "The assessment and development of non-technical or soft skills (e.g., communication, teamwork, leadership, problem-solving) alongside professional and ethical competencies in engineering students. This includes the evaluation of students' understanding and application of ethical standards, social responsibility, and professional conduct in engineering practice.",
+        "subthemes": [
+          "Generic and professional competencies in engineering education",
+          "Assessment of professional and ethical competencies in engineering"
+        ],
+        "n_studies_approx": 22,
+        "source_batches": [
+          0,
+          1,
+          2
+        ],
+        "robustness": "High"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "professional",
+        "ethical",
+        "generic",
+        "competencies",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F008",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Socio-Emotional and Psychological Competencies in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Socio-Emotional and Psychological Competencies in Engineering Education",
+        "definition": "The exploration and validation of socio-emotional and psychological constructs such as resilience, optimism, adaptability, compassion, and empathy in engineering education. This includes their impact on academic performance, retention, ethical reasoning, and overall success in engineering students.",
+        "subthemes": [
+          "Resilience and psychological factors in engineering education",
+          "Compassion and socio-emotional competencies in engineering"
+        ],
+        "n_studies_approx": 3,
+        "source_batches": [
+          0
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "socio",
+        "emotional",
+        "psychological",
+        "competencies",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F009",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Motivational and Career-Related Constructs in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Motivational and Career-Related Constructs in Engineering Education",
+        "definition": "The study of students' intrinsic and extrinsic motivations, attitudes, learning strategies, and career-related trajectories in engineering contexts. This includes the development of instruments to measure these constructs and the exploration of factors influencing career choices, intentions, and leadership development.",
+        "subthemes": [
+          "Motivational attitudes and behaviors in engineering education",
+          "Career-related constructs and trajectories in engineering students"
+        ],
+        "n_studies_approx": 9,
+        "source_batches": [
+          1,
+          3
+        ],
+        "robustness": "High"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "motivational",
+        "career",
+        "related",
+        "constructs",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F010",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Representational Competence in Engineering'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Representational Competence in Engineering",
+        "definition": "The ability of students to interpret, switch between, and use multiple representations (e.g., diagrams, symbols, narrative language) of engineering concepts, particularly in problem-solving contexts. This competence is critical for conceptual understanding and effective communication in engineering.",
+        "subthemes": [
+          "Vector representations",
+          "Problem-solving",
+          "Conceptual understanding"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          0
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "representational",
+        "competence",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F011",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Research Competencies in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 7,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Research Competencies in Engineering Education",
+        "definition": "The assessment and development of research-related skills and competencies in engineering students, including investigative skills, scientific writing, and research training. These competencies encompass intellectual, technical, and communicative aspects of research projects.",
+        "subthemes": [
+          "Investigative skills",
+          "Scientific writing",
+          "Research training"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          0
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F038",
+        "F040",
+        "F041",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "research",
+        "competencies",
+        "engineering",
+        "education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F012",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Critical Thinking and Decision-Making in Engineering'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 7,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Critical Thinking and Decision-Making in Engineering",
+        "definition": "The development and validation of instruments to assess critical thinking and decision-making competencies in engineering students. This often occurs in the context of specific technical or professional problem-solving scenarios.",
+        "subthemes": [
+          "Critical thinking assessment",
+          "Decision-making competency",
+          "Problem-solving"
+        ],
+        "n_studies_approx": 6,
+        "source_batches": [
+          0,
+          2
+        ],
+        "robustness": "High"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F068",
+        "F070",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "critical",
+        "thinking",
+        "decision",
+        "making",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F013",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Systems Thinking and Problem-Solving in Engineering'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Systems Thinking and Problem-Solving in Engineering",
+        "definition": "The assessment of students' ability to approach complex engineering problems holistically, considering interdependencies and broader systems. This theme includes the development of tools to evaluate design mindset, iterative problem-solving, and competency in handling complex systems.",
+        "subthemes": [
+          "Design mindset",
+          "Iterative problem-solving",
+          "Complex systems"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          1
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "systems",
+        "thinking",
+        "problem",
+        "solving",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F014",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Impact of Experiential Learning on Engineering Student Outcomes'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 9,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "2h:spectroscopy_lifecycle",
+        "6:fwci_outlier",
+        "9:triangulation_convergence",
+        "2g:declared_gap",
+        "2a:corpus_profile"
+      ],
+      "evidence": {
+        "theme": "Impact of Experiential Learning on Engineering Student Outcomes",
+        "definition": "The exploration of how hands-on, real-world learning experiences such as internships, community-partnered projects, and apprenticeships influence the development of students' skills, self-efficacy, and professional readiness. This includes the assessment of workplace learning and its role in shaping career trajectories.",
+        "subthemes": [
+          "Internship evaluation",
+          "Community engagement",
+          "Workplace learning"
+        ],
+        "n_studies_approx": 8,
+        "source_batches": [
+          1,
+          2
+        ],
+        "robustness": "High"
+      },
+      "connections": [
+        "F003",
+        "F040",
+        "F059",
+        "F098",
+        "F099",
+        "F113",
+        "F114",
+        "F115",
+        "F116"
+      ],
+      "tags": [
+        "impact",
+        "experiential",
+        "learning",
+        "engineering",
+        "student"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F015",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Gender Differences in Engineering Competencies and Self-Efficacy'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 9,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2h:spectroscopy_lifecycle",
+        "9:triangulation_convergence",
+        "2g:declared_gap",
+        "2i:sigma_node"
+      ],
+      "evidence": {
+        "theme": "Gender Differences in Engineering Competencies and Self-Efficacy",
+        "definition": "The exploration of differences between male and female engineering students in terms of self-efficacy, competencies, affective traits, and academic performance. This includes studies investigating gendered experiences, self-efficacy gaps, and their implications for engineering education and career outcomes.",
+        "subthemes": [
+          "Gendered experiences in engineering education",
+          "Self-efficacy gaps between male and female students",
+          "Impact of gender on academic performance and retention"
+        ],
+        "n_studies_approx": 4,
+        "source_batches": [
+          2
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F065",
+        "F067",
+        "F075",
+        "F079",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "gender",
+        "differences",
+        "engineering",
+        "competencies",
+        "self"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F016",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Sustainability and Ethics Competencies in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2a:sdg_alignment",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Sustainability and Ethics Competencies in Engineering Education",
+        "definition": "The integration of sustainability, ethics, and social responsibility into engineering curricula, and the assessment of these competencies among engineering students. This theme includes the development of tools and frameworks to measure students' understanding and application of ethical principles and sustainability practices.",
+        "subthemes": [
+          "Curricular integration of sustainability and ethics",
+          "Assessment of ethical reasoning in engineering",
+          "Sustainability learning outcomes"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          2
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115",
+        "F131"
+      ],
+      "tags": [
+        "sustainability",
+        "ethics",
+        "competencies",
+        "engineering",
+        "education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F017",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Innovation and Entrepreneurship Competencies in Engineering'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "10:rdm_archetype",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Innovation and Entrepreneurship Competencies in Engineering",
+        "definition": "The measurement and development of innovation self-efficacy and entrepreneurial competencies among engineering students. This includes the creation and validation of scales to assess these competencies and their role in career development and engineering practice.",
+        "subthemes": [
+          "Innovation self-efficacy",
+          "Entrepreneurial competencies",
+          "Career development and engineering innovation"
+        ],
+        "n_studies_approx": 2,
+        "source_batches": [
+          2
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115",
+        "F125"
+      ],
+      "tags": [
+        "innovation",
+        "entrepreneurship",
+        "competencies",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F018",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Measurement Invariance and Fairness in Engineering Education Assessments'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Measurement Invariance and Fairness in Engineering Education Assessments",
+        "definition": "The examination of whether assessment instruments function similarly across different subpopulations of engineering students, such as first-generation college students or underrepresented groups. This theme includes studies on fairness, equity, and the development of inclusive assessment practices in engineering education.",
+        "subthemes": [
+          "Fairness in competency assessments",
+          "Engineering identity and assessment",
+          "Inclusive assessment practices"
+        ],
+        "n_studies_approx": 1,
+        "source_batches": [
+          2
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "measurement",
+        "invariance",
+        "fairness",
+        "engineering",
+        "education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F019",
+      "type": "inductive_theme",
+      "category": "trend",
+      "source_phase": "2e",
+      "title": "Inductive theme: 'Metacognitive and Learning Orientation Tools in Engineering Education'",
+      "description": "Theme discovered via inductive analysis",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "theme": "Metacognitive and Learning Orientation Tools in Engineering Education",
+        "definition": "The creation and validation of tools designed to measure metacognitive skills, learning orientations, and self-regulated learning among engineering students. This theme includes the development of instruments to assess how students plan, monitor, and evaluate their own learning processes in engineering contexts.",
+        "subthemes": [
+          "Metacognitive processes in engineering learning",
+          "Learning orientations and self-regulated learning",
+          "Development of metacognitive assessment tools"
+        ],
+        "n_studies_approx": 1,
+        "source_batches": [
+          2
+        ],
+        "robustness": "Medium"
+      },
+      "connections": [
+        "F040",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "metacognitive",
+        "learning",
+        "orientation",
+        "tools",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F020",
+      "type": "cagr_trend",
+      "category": "trend",
+      "source_phase": "2f",
+      "title": "Publication CAGR: 16.1% (2014-2026)",
+      "description": "Compound annual growth rate of publications",
+      "impact_score": 0.76,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "6:concept_evolution"
+      ],
+      "evidence": {
+        "cagr": 16.1,
+        "first_year": 2014,
+        "last_year": 2026,
+        "first_count": 1,
+        "last_count": 6
+      },
+      "connections": [
+        "F001",
+        "F002",
+        "F108"
+      ],
+      "tags": [
+        "cagr",
+        "growth",
+        "temporal"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F021",
+      "type": "halflife_indicator",
+      "category": "trend",
+      "source_phase": "2f",
+      "title": "Citation half-life: ~9 years",
+      "description": "Median citation year is 2017 (corpus max year 2026)",
+      "impact_score": 0.46,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "6:fwci_outlier"
+      ],
+      "evidence": {
+        "halflife_years": 9,
+        "median_cite_year": 2017
+      },
+      "connections": [
+        "F003",
+        "F098"
+      ],
+      "tags": [
+        "halflife",
+        "citations",
+        "aging"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F022",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: experiment × physics unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.47,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item_a": "experiment",
+        "item_b": "physics",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 867.0
+      },
+      "connections": [],
+      "tags": [
+        "experiment",
+        "physics"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F023",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: regression analysis × medicine unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.47,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item_a": "regression analysis",
+        "item_b": "medicine",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 784.0
+      },
+      "connections": [],
+      "tags": [
+        "regression analysis",
+        "medicine"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F024",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: regression analysis × medical education unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.55,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "2h:spectroscopy_lifecycle"
+      ],
+      "evidence": {
+        "item_a": "regression analysis",
+        "item_b": "medical education",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 784.0
+      },
+      "connections": [
+        "F058"
+      ],
+      "tags": [
+        "regression analysis",
+        "medical education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F025",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: regression analysis × pedagogy unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.55,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "2h:spectroscopy_lifecycle"
+      ],
+      "evidence": {
+        "item_a": "regression analysis",
+        "item_b": "pedagogy",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 756.0
+      },
+      "connections": [
+        "F057"
+      ],
+      "tags": [
+        "regression analysis",
+        "pedagogy"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F026",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: regression analysis × medicine unexplored",
+      "description": "Structural gap between Methods and Concepts",
+      "impact_score": 0.47,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item_a": "regression analysis",
+        "item_b": "medicine",
+        "dimension_a": "Methods",
+        "dimension_b": "Concepts",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 588.0
+      },
+      "connections": [],
+      "tags": [
+        "regression analysis",
+        "medicine"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F027",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: regression analysis × physics unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.47,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item_a": "regression analysis",
+        "item_b": "physics",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 476.0
+      },
+      "connections": [],
+      "tags": [
+        "regression analysis",
+        "physics"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F028",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: case study × medicine unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.47,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item_a": "case study",
+        "item_b": "medicine",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 364.0
+      },
+      "connections": [],
+      "tags": [
+        "case study",
+        "medicine"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F029",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: case study × medical education unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.55,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "2h:spectroscopy_lifecycle"
+      ],
+      "evidence": {
+        "item_a": "case study",
+        "item_b": "medical education",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 364.0
+      },
+      "connections": [
+        "F058"
+      ],
+      "tags": [
+        "case study",
+        "medical education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F030",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: case study × structural equation modeling unexplored",
+      "description": "Structural gap between Methods and Applications",
+      "impact_score": 0.47,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item_a": "case study",
+        "item_b": "structural equation modeling",
+        "dimension_a": "Methods",
+        "dimension_b": "Applications",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 325.0
+      },
+      "connections": [],
+      "tags": [
+        "case study",
+        "structural equation modeling"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F031",
+      "type": "structural_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Gap: qualitative × exploratory factor analysis (efa) unexplored",
+      "description": "Structural gap between Methods and Concepts",
+      "impact_score": 0.47,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item_a": "qualitative",
+        "item_b": "exploratory factor analysis (efa)",
+        "dimension_a": "Methods",
+        "dimension_b": "Concepts",
+        "freq_a": 0,
+        "freq_b": 0,
+        "priority": 288.0
+      },
+      "connections": [],
+      "tags": [
+        "qualitative",
+        "exploratory factor analysis (efa)"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F032",
+      "type": "research_frontier",
+      "category": "emergence",
+      "source_phase": "2g",
+      "title": "Frontier: 'structural equation modeling' (growth new)",
+      "description": "Emerging research frontier with high momentum",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item": "structural equation modeling",
+        "type": "",
+        "growth_ratio": "new",
+        "recent_count": 3,
+        "uncovered_combinations": 0
+      },
+      "connections": [],
+      "tags": [
+        "structural equation modeling",
+        ""
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F033",
+      "type": "research_frontier",
+      "category": "emergence",
+      "source_phase": "2g",
+      "title": "Frontier: 'structural equation modeling' (growth new)",
+      "description": "Emerging research frontier with high momentum",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item": "structural equation modeling",
+        "type": "",
+        "growth_ratio": "new",
+        "recent_count": 3,
+        "uncovered_combinations": 0
+      },
+      "connections": [],
+      "tags": [
+        "structural equation modeling",
+        ""
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F034",
+      "type": "research_frontier",
+      "category": "emergence",
+      "source_phase": "2g",
+      "title": "Frontier: 'physics' (growth new)",
+      "description": "Emerging research frontier with high momentum",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item": "physics",
+        "type": "",
+        "growth_ratio": "new",
+        "recent_count": 2,
+        "uncovered_combinations": 0
+      },
+      "connections": [],
+      "tags": [
+        "physics",
+        ""
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F035",
+      "type": "research_frontier",
+      "category": "emergence",
+      "source_phase": "2g",
+      "title": "Frontier: 'physics' (growth new)",
+      "description": "Emerging research frontier with high momentum",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item": "physics",
+        "type": "",
+        "growth_ratio": "new",
+        "recent_count": 2,
+        "uncovered_combinations": 0
+      },
+      "connections": [],
+      "tags": [
+        "physics",
+        ""
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F036",
+      "type": "research_frontier",
+      "category": "emergence",
+      "source_phase": "2g",
+      "title": "Frontier: 'self-efficacy' (growth 1.6x)",
+      "description": "Emerging research frontier with high momentum",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item": "self-efficacy",
+        "type": "",
+        "growth_ratio": 1.65,
+        "recent_count": 11,
+        "uncovered_combinations": 0
+      },
+      "connections": [],
+      "tags": [
+        "self-efficacy",
+        ""
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F037",
+      "type": "research_frontier",
+      "category": "emergence",
+      "source_phase": "2g",
+      "title": "Frontier: 'quantitative' (growth 1.7x)",
+      "description": "Emerging research frontier with high momentum",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "item": "quantitative",
+        "type": "",
+        "growth_ratio": 1.68,
+        "recent_count": 5,
+        "uncovered_combinations": 0
+      },
+      "connections": [],
+      "tags": [
+        "quantitative",
+        ""
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F038",
+      "type": "declared_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Declared gap: 'Furthermore, research identity development has been studied with non-engineering'",
+      "description": "Gap explicitly mentioned in PVT4UE9C (2017)",
+      "impact_score": 0.826,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "9:triangulation_convergence",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "sentence": "Furthermore, research identity development has been studied with non-engineering doctoral students, but very few researchers have investigated engineering graduate students' research identity, even though engineering graduate students engage in research and develop research proficiency during their graduate studies",
+        "article_key": "PVT4UE9C",
+        "year": 2017
+      },
+      "connections": [
+        "F011",
+        "F068",
+        "F070",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "furthermore",
+        "research",
+        "identity",
+        "development",
+        "studied"
+      ],
+      "related_articles": [
+        "PVT4UE9C"
+      ]
+    },
+    {
+      "id": "F039",
+      "type": "declared_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Declared gap: 'Yet few studies have focused on examining the ST survey of engineering students '",
+      "description": "Gap explicitly mentioned in J8H6TD8Q (2015)",
+      "impact_score": 0.49,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "6:sleeping_beauty"
+      ],
+      "evidence": {
+        "sentence": "Yet few studies have focused on examining the ST survey of engineering students in higher education",
+        "article_key": "J8H6TD8Q",
+        "year": 2015
+      },
+      "connections": [
+        "F105"
+      ],
+      "tags": [
+        "yet",
+        "studies",
+        "focused",
+        "examining",
+        "survey"
+      ],
+      "related_articles": [
+        "J8H6TD8Q"
+      ]
+    },
+    {
+      "id": "F040",
+      "type": "declared_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Declared gap: 'CPPs are found in many engineering capstone courses taught at senior year; howev'",
+      "description": "Gap explicitly mentioned in VG98XEQP (2024)",
+      "impact_score": 0.882,
+      "triangulation_score": 18,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_lifecycle",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "sentence": "CPPs are found in many engineering capstone courses taught at senior year; however, little research lies in CPPs when implemented within first-year engineering courses",
+        "article_key": "VG98XEQP",
+        "year": 2024
+      },
+      "connections": [
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F059",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "cpps",
+        "found",
+        "many",
+        "engineering",
+        "capstone"
+      ],
+      "related_articles": [
+        "VG98XEQP"
+      ]
+    },
+    {
+      "id": "F041",
+      "type": "declared_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Declared gap: 'Future research should explore how specific instructional designs enhance compet'",
+      "description": "Gap explicitly mentioned in IQD3WXLQ (2025)",
+      "impact_score": 0.65,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "sentence": "Future research should explore how specific instructional designs enhance competency growth within IC-PBL contexts",
+        "article_key": "IQD3WXLQ",
+        "year": 2025
+      },
+      "connections": [
+        "F011",
+        "F125"
+      ],
+      "tags": [
+        "future",
+        "research",
+        "explore",
+        "specific",
+        "instructional"
+      ],
+      "related_articles": [
+        "IQD3WXLQ"
+      ]
+    },
+    {
+      "id": "F042",
+      "type": "declared_gap",
+      "category": "gap",
+      "source_phase": "2g",
+      "title": "Declared gap: 'Grit, explicitly the perseverance and passion for a defined long–term goal, and '",
+      "description": "Gap explicitly mentioned in PH5ZR5GA (2025)",
+      "impact_score": 0.49,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "sentence": "Grit, explicitly the perseverance and passion for a defined long–term goal, and the engineering mindset encompassing an iterative and failure-tolerant approach to problem-solving, are both vital yet underexplored domains within the field of engineering education",
+        "article_key": "PH5ZR5GA",
+        "year": 2025
+      },
+      "connections": [],
+      "tags": [
+        "grit",
+        "explicitly",
+        "perseverance",
+        "passion",
+        "defined"
+      ],
+      "related_articles": [
+        "PH5ZR5GA"
+      ]
+    },
+    {
+      "id": "F043",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1950s', 'year': 1959, 'first_author': 'Holl",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.32,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1950s",
+        "year": 1959,
+        "first_author": "Holland",
+        "title": "A theory of vocational choice.",
+        "cited_by_count": 1412,
+        "openalex_id": "https://openalex.org/W2112528081"
+      },
+      "connections": [],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "holland"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F044",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1950s', 'year': 1956, 'first_author': 'Free",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.32,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1950s",
+        "year": 1956,
+        "first_author": "Freedman",
+        "title": "The Passage Through College",
+        "cited_by_count": 74,
+        "openalex_id": "https://openalex.org/W2025541486"
+      },
+      "connections": [],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "freedman"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F045",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1960s', 'year': 1966, 'first_author': 'Catt",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.32,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1966,
+        "first_author": "Cattell",
+        "title": "The Scree Test For The Number Of Factors",
+        "cited_by_count": 13559,
+        "openalex_id": "https://openalex.org/W2133097426"
+      },
+      "connections": [],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "cattell"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F046",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1960s', 'year': 1960, 'first_author': 'Kais",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.32,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1960,
+        "first_author": "Kaiser",
+        "title": "The Application of Electronic Computers to Factor Analysis",
+        "cited_by_count": 12251,
+        "openalex_id": "https://openalex.org/W2160172778"
+      },
+      "connections": [],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "kaiser"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F047",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1960s', 'year': 1961, 'first_author': 'Unkn",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.72,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2i:sigma_node",
+        "2j:leiden_field_bias"
+      ],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1960s",
+        "year": 1961,
+        "first_author": "Unknown",
+        "title": "Probabilistic Models for Some Intelligence and Attainment Tests",
+        "cited_by_count": 7010,
+        "openalex_id": "https://openalex.org/W2127374659"
+      },
+      "connections": [
+        "F065",
+        "F069",
+        "F075",
+        "F077",
+        "F085"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "unknown"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F048",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1970s', 'year': 1977, 'first_author': 'Band",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.48,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2i:sigma_node"
+      ],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 42860,
+        "openalex_id": "https://openalex.org/W4292808503"
+      },
+      "connections": [
+        "F067",
+        "F079"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "bandura"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F049",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1970s', 'year': 1977, 'first_author': 'Band",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.48,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2i:sigma_node"
+      ],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1977,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change.",
+        "cited_by_count": 35552,
+        "openalex_id": "https://openalex.org/W2134049139"
+      },
+      "connections": [
+        "F067",
+        "F079"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "bandura"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F050",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1970s', 'year': 1978, 'first_author': 'Band",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.48,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2i:sigma_node"
+      ],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1970s",
+        "year": 1978,
+        "first_author": "Bandura",
+        "title": "Self-efficacy: Toward a unifying theory of behavioral change",
+        "cited_by_count": 10604,
+        "openalex_id": "https://openalex.org/W2179683524"
+      },
+      "connections": [
+        "F067",
+        "F079"
+      ],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "bandura"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F051",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1980s', 'year': 1989, 'first_author': 'Mull",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.32,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1989,
+        "first_author": "Muller",
+        "title": "Statistical Power Analysis for the Behavioral Sciences",
+        "cited_by_count": 83904,
+        "openalex_id": "https://openalex.org/W4300870773"
+      },
+      "connections": [],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "muller"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F052",
+      "type": "spectroscopy_seminal",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Seminal work: {'concept': 'Psychology', 'decade': '1980s', 'year': 1986, 'first_author': 'Baro",
+      "description": "Highly cited reference identified via spectroscopy",
+      "impact_score": 0.32,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Psychology",
+        "decade": "1980s",
+        "year": 1986,
+        "first_author": "Baron",
+        "title": "The moderator-mediator variable distinction in social psychological research: Co",
+        "cited_by_count": 72194,
+        "openalex_id": "https://openalex.org/W1971440513"
+      },
+      "connections": [],
+      "tags": [
+        "concept",
+        "psychology",
+        "decade",
+        "year",
+        "baron"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F053",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Psychology' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Psychology",
+        "emergence_year": 1956,
+        "growth_year": 1993,
+        "peak_year": 2020,
+        "decline_year": 2021,
+        "last_year": 2026,
+        "total_refs": 1473,
+        "max_annual": 73
+      },
+      "connections": [],
+      "tags": [
+        "psychology"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F054",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Computer science' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Computer science",
+        "emergence_year": 1956,
+        "growth_year": 1994,
+        "peak_year": 2020,
+        "decline_year": 2021,
+        "last_year": 2025,
+        "total_refs": 644,
+        "max_annual": 53
+      },
+      "connections": [],
+      "tags": [
+        "computer science"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F055",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Mathematics education' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.464,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Mathematics education",
+        "emergence_year": 1979,
+        "growth_year": 1999,
+        "peak_year": 2018,
+        "decline_year": 2022,
+        "last_year": 2026,
+        "total_refs": 641,
+        "max_annual": 38
+      },
+      "connections": [],
+      "tags": [
+        "mathematics education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F056",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Social psychology' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.464,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Social psychology",
+        "emergence_year": 1959,
+        "growth_year": 1989,
+        "peak_year": 2018,
+        "decline_year": 2019,
+        "last_year": 2025,
+        "total_refs": 429,
+        "max_annual": 19
+      },
+      "connections": [],
+      "tags": [
+        "social psychology"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F057",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Pedagogy' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.544,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "2g:structural_gap"
+      ],
+      "evidence": {
+        "concept": "Pedagogy",
+        "emergence_year": 1973,
+        "growth_year": 2000,
+        "peak_year": 2018,
+        "decline_year": 2021,
+        "last_year": 2025,
+        "total_refs": 387,
+        "max_annual": 27
+      },
+      "connections": [
+        "F025"
+      ],
+      "tags": [
+        "pedagogy"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F058",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Medical education' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.64,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2g:structural_gap"
+      ],
+      "evidence": {
+        "concept": "Medical education",
+        "emergence_year": 1987,
+        "growth_year": 2001,
+        "peak_year": 2020,
+        "decline_year": 2021,
+        "last_year": 2025,
+        "total_refs": 364,
+        "max_annual": 34
+      },
+      "connections": [
+        "F024",
+        "F029"
+      ],
+      "tags": [
+        "medical education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F059",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Engineering' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.88,
+      "triangulation_score": 18,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2g:declared_gap",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "concept": "Engineering",
+        "emergence_year": 1987,
+        "growth_year": 2003,
+        "peak_year": 2020,
+        "decline_year": 2020,
+        "last_year": 2025,
+        "total_refs": 314,
+        "max_annual": 37
+      },
+      "connections": [
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F040",
+        "F113",
+        "F114",
+        "F115"
+      ],
+      "tags": [
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F060",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Engineering ethics' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Engineering ethics",
+        "emergence_year": 1987,
+        "growth_year": 2002,
+        "peak_year": 2020,
+        "decline_year": 2021,
+        "last_year": 2025,
+        "total_refs": 290,
+        "max_annual": 25
+      },
+      "connections": [],
+      "tags": [
+        "engineering ethics"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F061",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Engineering education' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Engineering education",
+        "emergence_year": 1981,
+        "growth_year": 2004,
+        "peak_year": 2020,
+        "decline_year": 2021,
+        "last_year": 2025,
+        "total_refs": 276,
+        "max_annual": 38
+      },
+      "connections": [],
+      "tags": [
+        "engineering education"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F062",
+      "type": "spectroscopy_lifecycle",
+      "category": "trend",
+      "source_phase": "2h",
+      "title": "Concept lifecycle: 'Sociology' — ",
+      "description": "Concept at lifecycle stage '' per spectroscopy analysis",
+      "impact_score": 0.392,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "concept": "Sociology",
+        "emergence_year": 1973,
+        "growth_year": 2000,
+        "peak_year": 2009,
+        "decline_year": 2021,
+        "last_year": 2025,
+        "total_refs": 265,
+        "max_annual": 20
+      },
+      "connections": [],
+      "tags": [
+        "sociology"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F063",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c (betweenness=0.230)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.45,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+        "cluster": 2,
+        "betweenness": 0.230179,
+        "n_neighbor_clusters": 4,
+        "neighbor_clusters": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "bridge_score": 0.920716,
+        "degree": 250,
+        "resolved_label": "Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c"
+      },
+      "connections": [],
+      "tags": [
+        "tze",
+        "cutoff",
+        "criteria",
+        "fit",
+        "indexes"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F064",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c (betweenness=0.167)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.45,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "omid:br/062302408377 10.1080/10705519909540118 openalex:W2071666535",
+        "cluster": 1,
+        "betweenness": 0.167045,
+        "n_neighbor_clusters": 4,
+        "neighbor_clusters": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "bridge_score": 0.668182,
+        "degree": 225,
+        "resolved_label": "Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c"
+      },
+      "connections": [],
+      "tags": [
+        "cutoff",
+        "criteria",
+        "fit",
+        "indexes",
+        "covariance"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F065",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Unknown (1997) — Self-efficacy: the exercise of control (betweenness=0.050)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.85,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_seminal",
+        "2e:inductive_theme",
+        "2j:leiden_field_bias"
+      ],
+      "evidence": {
+        "node": "Unknown (1997) — Self-efficacy: the exercise of control",
+        "cluster": 4,
+        "betweenness": 0.050108,
+        "n_neighbor_clusters": 4,
+        "neighbor_clusters": [
+          1,
+          2,
+          3,
+          5
+        ],
+        "bridge_score": 0.20043,
+        "degree": 82,
+        "resolved_label": "Unknown (1997) — Self-efficacy: the exercise of control"
+      },
+      "connections": [
+        "F006",
+        "F015",
+        "F047",
+        "F085",
+        "F114"
+      ],
+      "tags": [
+        "unknown",
+        "self",
+        "efficacy",
+        "exercise",
+        "control"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F066",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling (betweenness=0.041)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.69,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "node": "Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling",
+        "cluster": 5,
+        "betweenness": 0.040968,
+        "n_neighbor_clusters": 4,
+        "neighbor_clusters": [
+          1,
+          2,
+          4,
+          8
+        ],
+        "bridge_score": 0.163874,
+        "degree": 109,
+        "resolved_label": "Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling"
+      },
+      "connections": [
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "rex",
+        "kline",
+        "principles",
+        "practice",
+        "structural"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F067",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Albert Bandura (1999) — Self-Efficacy: The Exercise of Control (betweenness=0.035)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.85,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_seminal",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "node": "Albert Bandura (1999) — Self-Efficacy: The Exercise of Control",
+        "cluster": 2,
+        "betweenness": 0.0355,
+        "n_neighbor_clusters": 3,
+        "neighbor_clusters": [
+          1,
+          4,
+          5
+        ],
+        "bridge_score": 0.1065,
+        "degree": 66,
+        "resolved_label": "Albert Bandura (1999) — Self-Efficacy: The Exercise of Control"
+      },
+      "connections": [
+        "F006",
+        "F015",
+        "F048",
+        "F049",
+        "F050",
+        "F114"
+      ],
+      "tags": [
+        "albert",
+        "bandura",
+        "self",
+        "efficacy",
+        "exercise"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F068",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En (betweenness=0.028)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.69,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2g:declared_gap",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "node": "Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En",
+        "cluster": 5,
+        "betweenness": 0.028455,
+        "n_neighbor_clusters": 3,
+        "neighbor_clusters": [
+          1,
+          2,
+          8
+        ],
+        "bridge_score": 0.085364,
+        "degree": 84,
+        "resolved_label": "Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En"
+      },
+      "connections": [
+        "F012",
+        "F038",
+        "F114"
+      ],
+      "tags": [
+        "allison",
+        "godwin",
+        "identity",
+        "critical",
+        "agency"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F069",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Unknown (2007) — Confirmatory factor analysis for applied research (betweenness=0.028)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.61,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2h:spectroscopy_seminal",
+        "2j:leiden_field_bias"
+      ],
+      "evidence": {
+        "node": "Unknown (2007) — Confirmatory factor analysis for applied research",
+        "cluster": 2,
+        "betweenness": 0.027796,
+        "n_neighbor_clusters": 3,
+        "neighbor_clusters": [
+          1,
+          3,
+          4
+        ],
+        "bridge_score": 0.083388,
+        "degree": 33,
+        "resolved_label": "Unknown (2007) — Confirmatory factor analysis for applied research"
+      },
+      "connections": [
+        "F047",
+        "F085"
+      ],
+      "tags": [
+        "unknown",
+        "confirmatory",
+        "factor",
+        "analysis",
+        "applied"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F070",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En (betweenness=0.027)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.69,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2g:declared_gap",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "node": "omid:br/06503770575 10.1002/jee.20118 openalex:W2342731957",
+        "cluster": 5,
+        "betweenness": 0.026825,
+        "n_neighbor_clusters": 3,
+        "neighbor_clusters": [
+          1,
+          2,
+          8
+        ],
+        "bridge_score": 0.080475,
+        "degree": 83,
+        "resolved_label": "Allison Godwin (2016) — Identity, Critical Agency, and Engineering: An Affective Model for Predicting En"
+      },
+      "connections": [
+        "F012",
+        "F038",
+        "F114"
+      ],
+      "tags": [
+        "allison",
+        "godwin",
+        "identity",
+        "critical",
+        "agency"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F071",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: Barbara G. Tabachnick (1983) — Using multivariate statistics (betweenness=0.026)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.45,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "Barbara G. Tabachnick (1983) — Using multivariate statistics",
+        "cluster": 2,
+        "betweenness": 0.026138,
+        "n_neighbor_clusters": 3,
+        "neighbor_clusters": [
+          1,
+          3,
+          5
+        ],
+        "bridge_score": 0.078413,
+        "degree": 27,
+        "resolved_label": "Barbara G. Tabachnick (1983) — Using multivariate statistics"
+      },
+      "connections": [],
+      "tags": [
+        "barbara",
+        "tabachnick",
+        "using",
+        "multivariate",
+        "statistics"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F072",
+      "type": "pivot_node",
+      "category": "bridge",
+      "source_phase": "2i",
+      "title": "Pivot node: CY Chan (2017) —  (betweenness=0.025)",
+      "description": "Node connecting different research clusters",
+      "impact_score": 0.45,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "omid:br/06503770548 10.1002/jee.20165 openalex:W2606937270",
+        "cluster": 3,
+        "betweenness": 0.025363,
+        "n_neighbor_clusters": 3,
+        "neighbor_clusters": [
+          1,
+          2,
+          4
+        ],
+        "bridge_score": 0.076089,
+        "degree": 87,
+        "resolved_label": "CY Chan (2017) — "
+      },
+      "connections": [],
+      "tags": [
+        "chan"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F073",
+      "type": "sigma_node",
+      "category": "emergence",
+      "source_phase": "2i",
+      "title": "Sigma node: Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c (σ=63.00)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c",
+        "betweenness": 0.230179,
+        "burstness": 20,
+        "sigma": 63.003596,
+        "degree": 250,
+        "resolved_label": "Li‐tze Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c"
+      },
+      "connections": [],
+      "tags": [
+        "tze",
+        "cutoff",
+        "criteria",
+        "fit",
+        "indexes"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F074",
+      "type": "sigma_node",
+      "category": "emergence",
+      "source_phase": "2i",
+      "title": "Sigma node: Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c (σ=8.69)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.48,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "omid:br/062302408377 10.1080/10705519909540118 openalex:W2071666535",
+        "betweenness": 0.167045,
+        "burstness": 14,
+        "sigma": 8.694175,
+        "degree": 225,
+        "resolved_label": "Hu (1999) — Cutoff criteria for fit indexes in covariance structure analysis: Conventional c"
+      },
+      "connections": [],
+      "tags": [
+        "cutoff",
+        "criteria",
+        "fit",
+        "indexes",
+        "covariance"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F075",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: Unknown (1997) — Self-efficacy: the exercise of control (σ=1.55)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_seminal",
+        "2e:inductive_theme",
+        "2j:leiden_field_bias"
+      ],
+      "evidence": {
+        "node": "Unknown (1997) — Self-efficacy: the exercise of control",
+        "betweenness": 0.050108,
+        "burstness": 9,
+        "sigma": 1.552759,
+        "degree": 82,
+        "resolved_label": "Unknown (1997) — Self-efficacy: the exercise of control"
+      },
+      "connections": [
+        "F006",
+        "F015",
+        "F047",
+        "F085",
+        "F114"
+      ],
+      "tags": [
+        "unknown",
+        "self",
+        "efficacy",
+        "exercise",
+        "control"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F076",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling (σ=1.38)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.66,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "node": "Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling",
+        "betweenness": 0.040968,
+        "burstness": 8,
+        "sigma": 1.378798,
+        "degree": 109,
+        "resolved_label": "Rex B. Kline (2005) — Principles and Practice of Structural Equation Modeling"
+      },
+      "connections": [
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "rex",
+        "kline",
+        "principles",
+        "practice",
+        "structural"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F077",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: Unknown (2007) — Confirmatory factor analysis for applied research (σ=1.32)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.58,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2h:spectroscopy_seminal",
+        "2j:leiden_field_bias"
+      ],
+      "evidence": {
+        "node": "Unknown (2007) — Confirmatory factor analysis for applied research",
+        "betweenness": 0.027796,
+        "burstness": 10,
+        "sigma": 1.315434,
+        "degree": 33,
+        "resolved_label": "Unknown (2007) — Confirmatory factor analysis for applied research"
+      },
+      "connections": [
+        "F047",
+        "F085"
+      ],
+      "tags": [
+        "unknown",
+        "confirmatory",
+        "factor",
+        "analysis",
+        "applied"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F078",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: Cecilia Ka Yuk Chan (2017) — A Validated and Reliable Instrument Investigating Engineering Students’ Percepti (σ=1.28)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.42,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "Cecilia Ka Yuk Chan (2017) — A Validated and Reliable Instrument Investigating Engineering Students’ Percepti",
+        "betweenness": 0.025056,
+        "burstness": 10,
+        "sigma": 1.280784,
+        "degree": 93,
+        "resolved_label": "Cecilia Ka Yuk Chan (2017) — A Validated and Reliable Instrument Investigating Engineering Students’ Percepti"
+      },
+      "connections": [],
+      "tags": [
+        "cecilia",
+        "yuk",
+        "chan",
+        "validated",
+        "reliable"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F079",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: Albert Bandura (1999) — Self-Efficacy: The Exercise of Control (σ=1.23)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.82,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "9:triangulation_convergence",
+        "2h:spectroscopy_seminal",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "node": "Albert Bandura (1999) — Self-Efficacy: The Exercise of Control",
+        "betweenness": 0.0355,
+        "burstness": 6,
+        "sigma": 1.232823,
+        "degree": 66,
+        "resolved_label": "Albert Bandura (1999) — Self-Efficacy: The Exercise of Control"
+      },
+      "connections": [
+        "F006",
+        "F015",
+        "F048",
+        "F049",
+        "F050",
+        "F114"
+      ],
+      "tags": [
+        "albert",
+        "bandura",
+        "self",
+        "efficacy",
+        "exercise"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F080",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: CY Chan (2017) —  (σ=1.22)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.42,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "omid:br/06503770548 10.1002/jee.20165 openalex:W2606937270",
+        "betweenness": 0.025363,
+        "burstness": 8,
+        "sigma": 1.221861,
+        "degree": 87,
+        "resolved_label": "CY Chan (2017) — "
+      },
+      "connections": [],
+      "tags": [
+        "chan"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F081",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: Barbara G. Tabachnick (1983) — Using multivariate statistics (σ=1.20)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.42,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "node": "Barbara G. Tabachnick (1983) — Using multivariate statistics",
+        "betweenness": 0.026138,
+        "burstness": 7,
+        "sigma": 1.197953,
+        "degree": 27,
+        "resolved_label": "Barbara G. Tabachnick (1983) — Using multivariate statistics"
+      },
+      "connections": [],
+      "tags": [
+        "barbara",
+        "tabachnick",
+        "using",
+        "multivariate",
+        "statistics"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F082",
+      "type": "sigma_node",
+      "category": "trend",
+      "source_phase": "2i",
+      "title": "Sigma node: Nassim Tabri (2012) — Principles and Practice of Structural Equation Modeling (σ=1.18)",
+      "description": "High sigma = high novelty × centrality",
+      "impact_score": 0.66,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "node": "Nassim Tabri (2012) — Principles and Practice of Structural Equation Modeling",
+        "betweenness": 0.028132,
+        "burstness": 6,
+        "sigma": 1.181119,
+        "degree": 13,
+        "resolved_label": "Nassim Tabri (2012) — Principles and Practice of Structural Equation Modeling"
+      },
+      "connections": [
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "nassim",
+        "tabri",
+        "principles",
+        "practice",
+        "structural"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F083",
+      "type": "leiden_outlier",
+      "category": "trend",
+      "source_phase": "2j",
+      "title": "Leiden MNCS: mean=0.93, 19/96 above world average",
+      "description": "Mean Normalized Citation Score indicates corpus citation impact relative to field",
+      "impact_score": 0.58,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "6:apc_pattern",
+        "6:fwci_outlier"
+      ],
+      "evidence": {
+        "mean_mncs": 0.927,
+        "n_above_1": 19,
+        "n_total": 96
+      },
+      "connections": [
+        "F098",
+        "F099",
+        "F107"
+      ],
+      "tags": [
+        "mncs",
+        "leiden",
+        "citation impact",
+        "normalized"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F084",
+      "type": "leiden_field_bias",
+      "category": "decline",
+      "source_phase": "2j",
+      "title": "Leiden field: 'Philosophy' MNCS=0.00",
+      "description": "Field underperforms world average",
+      "impact_score": 0.44,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "6:fwci_outlier"
+      ],
+      "evidence": {
+        "field": "Philosophy",
+        "mean_mncs": 0.0,
+        "n_articles": 1
+      },
+      "connections": [
+        "F099"
+      ],
+      "tags": [
+        "philosophy",
+        "leiden",
+        "field impact"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F085",
+      "type": "leiden_field_bias",
+      "category": "decline",
+      "source_phase": "2j",
+      "title": "Leiden field: 'Unknown' MNCS=0.00",
+      "description": "Field underperforms world average",
+      "impact_score": 0.76,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2h:spectroscopy_seminal",
+        "6:fwci_outlier",
+        "2i:sigma_node"
+      ],
+      "evidence": {
+        "field": "Unknown",
+        "mean_mncs": 0.0,
+        "n_articles": 6
+      },
+      "connections": [
+        "F047",
+        "F065",
+        "F069",
+        "F075",
+        "F077",
+        "F099"
+      ],
+      "tags": [
+        "unknown",
+        "leiden",
+        "field impact"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F086",
+      "type": "leiden_field_bias",
+      "category": "anomaly",
+      "source_phase": "2j",
+      "title": "Leiden biases detected: language_bias, geographic_bias, document_type_bias, coverage",
+      "description": "Potential biases in citation metrics identified",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "7:population_pattern",
+        "6:fwci_outlier"
+      ],
+      "evidence": {
+        "language_bias": {
+          "pct_non_english": 6.2,
+          "distribution": {
+            "english": 80,
+            "en": 10,
+            "spanish": 3,
+            "unknown": 2,
+            "persian": 1
+          },
+          "warning": false
+        },
+        "geographic_bias": {
+          "top_countries": [
+            {
+              "country": "US",
+              "count": 233
+            },
+            {
+              "country": "PT",
+              "count": 29
+            },
+            {
+              "country": "TR",
+              "count": 28
+            },
+            {
+              "country": "DE",
+              "count": 24
+            },
+            {
+              "country": "ES",
+              "count": 20
+            }
+          ],
+          "concentration_top1": 0.417,
+          "warning": false
+        },
+        "document_type_bias": {
+          "distribution": {
+            "journal article": 64,
+            "conference paper": 32
+          },
+          "dominant_type": [
+            "journal article",
+            64
+          ]
+        },
+        "coverage": {
+          "pct_openalex": 89.6,
+          "pct_concepts": 93.8,
+          "pct_sjr": 53.1,
+          "warning": false
+        }
+      },
+      "connections": [
+        "F099",
+        "F111",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bias",
+        "leiden",
+        "methodology"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F087",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: J4L96ZTQ — Measuring Undergraduate Students' Engineering Self-Efficacy:",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.76)",
+      "impact_score": 0.878,
+      "triangulation_score": 11,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "10:rdm_axis_pattern",
+        "10:rdm_paradigm_shifter",
+        "2a:corpus_profile",
+        "6:sleeping_beauty",
+        "6:css_classification"
+      ],
+      "evidence": {
+        "key": "J4L96ZTQ",
+        "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+        "year": 2016,
+        "citations": 296,
+        "betweenness": 0.112743,
+        "community": 5,
+        "connected_communities": [
+          1,
+          6,
+          7,
+          8
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.7619,
+        "burt_constraint": 0.0801
+      },
+      "connections": [
+        "F003",
+        "F102",
+        "F106",
+        "F117",
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128",
+        "F130"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "J4L96ZTQ"
+      ]
+    },
+    {
+      "id": "F088",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: LPJSUJ9V — Validation of the Internet entrepreneurial self-efficacy sca",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.56)",
+      "impact_score": 0.942,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "key": "LPJSUJ9V",
+        "title": "Validation of the Internet entrepreneurial self-efficacy scale among Romanian technical students.",
+        "year": 2024,
+        "citations": 5,
+        "betweenness": 0.111199,
+        "community": 1,
+        "connected_communities": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.5556,
+        "burt_constraint": 0.0941
+      },
+      "connections": [
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "LPJSUJ9V"
+      ]
+    },
+    {
+      "id": "F089",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: PYM3MQNK — Validation of Motivated Strategies for Learning Questionnair",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.75)",
+      "impact_score": 0.918,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "key": "PYM3MQNK",
+        "title": "Validation of Motivated Strategies for Learning Questionnaire: Comparison of Three Competing Models",
+        "year": 2021,
+        "citations": 15,
+        "betweenness": 0.076644,
+        "community": 6,
+        "connected_communities": [
+          1,
+          5,
+          7,
+          8
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.75,
+        "burt_constraint": 0.0939
+      },
+      "connections": [
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "PYM3MQNK"
+      ]
+    },
+    {
+      "id": "F090",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: DYIXSFV6 — Chemical engineering students' perceptions of peer and self-",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.83)",
+      "impact_score": 0.942,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "key": "DYIXSFV6",
+        "title": "Chemical engineering students' perceptions of peer and self-assessment.",
+        "year": 2024,
+        "citations": 7,
+        "betweenness": 0.076635,
+        "community": 8,
+        "connected_communities": [
+          1,
+          5,
+          6,
+          7
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.8333,
+        "burt_constraint": 0.1113
+      },
+      "connections": [
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "DYIXSFV6"
+      ]
+    },
+    {
+      "id": "F091",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: K9E5C83P — WIP: Confirmatory Factor Analysis of Instruments to Measure ",
+      "description": "Article connecting 3 research communities (interdisciplinarity=0.44)",
+      "impact_score": 0.95,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "key": "K9E5C83P",
+        "title": "WIP: Confirmatory Factor Analysis of Instruments to Measure Connections and Creating Value in First-Year Engineering Stu",
+        "year": 2025,
+        "citations": 0,
+        "betweenness": 0.071678,
+        "community": 1,
+        "connected_communities": [
+          5,
+          6,
+          8
+        ],
+        "n_communities_bridged": 3,
+        "interdisciplinarity_score": 0.44,
+        "burt_constraint": 0.1117
+      },
+      "connections": [
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "K9E5C83P"
+      ]
+    },
+    {
+      "id": "F092",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: KU4TN5MB — Development of a Questionnaire to Measure Students' Attitude",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.46)",
+      "impact_score": 0.934,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "key": "KU4TN5MB",
+        "title": "Development of a Questionnaire to Measure Students' Attitudes and Perceptions of Sociotechnical Engineering",
+        "year": 2023,
+        "citations": 2,
+        "betweenness": 0.070193,
+        "community": 1,
+        "connected_communities": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.4615,
+        "burt_constraint": 0.1078
+      },
+      "connections": [
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "KU4TN5MB"
+      ]
+    },
+    {
+      "id": "F093",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: LHGYXXJG — The Employability Skills of Engineering Students': Assessmen",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.71)",
+      "impact_score": 0.918,
+      "triangulation_score": 8,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "10:rdm_axis_pattern",
+        "10:rdm_paradigm_shifter"
+      ],
+      "evidence": {
+        "key": "LHGYXXJG",
+        "title": "The Employability Skills of Engineering Students': Assessment at the University",
+        "year": 2021,
+        "citations": 23,
+        "betweenness": 0.067566,
+        "community": 6,
+        "connected_communities": [
+          1,
+          5,
+          7,
+          8
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.7083,
+        "burt_constraint": 0.0956
+      },
+      "connections": [
+        "F120",
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128",
+        "F130"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "LHGYXXJG"
+      ]
+    },
+    {
+      "id": "F094",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: LQ8RTKIQ — Modeling the integration of ethics, social responsibility, a",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.42)",
+      "impact_score": 0.95,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "key": "LQ8RTKIQ",
+        "title": "Modeling the integration of ethics, social responsibility, and sustainability in university contexts",
+        "year": 2025,
+        "citations": 0,
+        "betweenness": 0.044816,
+        "community": 1,
+        "connected_communities": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.4231,
+        "burt_constraint": 0.1092
+      },
+      "connections": [
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "LQ8RTKIQ"
+      ]
+    },
+    {
+      "id": "F095",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: U374P6MT — Adapting Computer Programming Self-Efficacy Scale and Engine",
+      "description": "Article connecting 2 research communities (interdisciplinarity=0.30)",
+      "impact_score": 0.862,
+      "triangulation_score": 6,
+      "triangulation_sources": [
+        "10:rdm_archetype"
+      ],
+      "evidence": {
+        "key": "U374P6MT",
+        "title": "Adapting Computer Programming Self-Efficacy Scale and Engineering Students' Self-Efficacy Perceptions",
+        "year": 2014,
+        "citations": 42,
+        "betweenness": 0.042387,
+        "community": 7,
+        "connected_communities": [
+          1,
+          5
+        ],
+        "n_communities_bridged": 2,
+        "interdisciplinarity_score": 0.3,
+        "burt_constraint": 0.1923
+      },
+      "connections": [
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "U374P6MT"
+      ]
+    },
+    {
+      "id": "F096",
+      "type": "bridge_article",
+      "category": "bridge",
+      "source_phase": "3",
+      "title": "Bridge article: FL269LXE — Validity of the Contextual Competence Scale for Engineering ",
+      "description": "Article connecting 4 research communities (interdisciplinarity=0.61)",
+      "impact_score": 0.87,
+      "triangulation_score": 9,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "2a:corpus_profile",
+        "10:rdm_axis_pattern",
+        "10:rdm_paradigm_shifter"
+      ],
+      "evidence": {
+        "key": "FL269LXE",
+        "title": "Validity of the Contextual Competence Scale for Engineering Students.",
+        "year": 2015,
+        "citations": 64,
+        "betweenness": 0.039901,
+        "community": 7,
+        "connected_communities": [
+          1,
+          5,
+          6,
+          8
+        ],
+        "n_communities_bridged": 4,
+        "interdisciplinarity_score": 0.6111,
+        "burt_constraint": 0.1093
+      },
+      "connections": [
+        "F003",
+        "F119",
+        "F122",
+        "F123",
+        "F124",
+        "F126",
+        "F127",
+        "F128",
+        "F130"
+      ],
+      "tags": [
+        "bridge",
+        "interdisciplinary"
+      ],
+      "related_articles": [
+        "FL269LXE"
+      ]
+    },
+    {
+      "id": "F097",
+      "type": "scp_mcp_pattern",
+      "category": "trend",
+      "source_phase": "3b",
+      "title": "Collaboration: 17.6% multi-country (MCP), 82.4% single-country (SCP)",
+      "description": "SCP=61, MCP=13 of 74 classifiable articles (effective N; 22 lack country data)",
+      "impact_score": 0.42,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "scp": 61,
+        "mcp": 13,
+        "mcp_pct": 17.6,
+        "classified": 74,
+        "unknown_country": 22,
+        "corpus_total": 96,
+        "mcp_pct_ci95": [
+          9.5,
+          27.0
+        ]
+      },
+      "connections": [],
+      "tags": [
+        "collaboration",
+        "scp",
+        "mcp",
+        "international"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F098",
+      "type": "fwci_outlier",
+      "category": "trend",
+      "source_phase": "6",
+      "title": "FWCI corpus mean: 3.81 (N=49)",
+      "description": "Field-Weighted Citation Impact above world average; median 2.15, 57.1% of articles above world average",
+      "impact_score": 0.82,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "2f:halflife_indicator",
+        "2a:corpus_profile",
+        "2j:leiden_outlier",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "fwci_mean": 3.812,
+        "fwci_median": 2.149,
+        "pct_above_world_avg": 57.1,
+        "effective_n": 49,
+        "fwci_mean_ci95": [
+          2.31,
+          5.77
+        ]
+      },
+      "connections": [
+        "F003",
+        "F014",
+        "F021",
+        "F083",
+        "F116"
+      ],
+      "tags": [
+        "fwci",
+        "impact",
+        "normalized",
+        "citation"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F099",
+      "type": "fwci_outlier",
+      "category": "trend",
+      "source_phase": "6",
+      "title": "PP(top 10%): 9.4% (9 articles in the field's top decile)",
+      "description": "Proportion of the corpus among the most-cited 10% of their field. The accompanying value is a BOOTSTRAP CROSS-CHECK of MNCS (0.99, N=90): a re-estimate over a larger sample than, and not a replacement for, the primary Leiden MNCS reported in the intellectual-structure section.",
+      "impact_score": 0.82,
+      "triangulation_score": 7,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "2j:leiden_field_bias",
+        "2a:corpus_profile",
+        "2j:leiden_outlier",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "pp_top10": 0.09375,
+        "pp_top10_ci95": [
+          0.041666666666666664,
+          0.15625
+        ],
+        "n_top10": 9,
+        "mncs_bootstrap_crosscheck": 0.9889,
+        "mncs_crosscheck_ci95": [
+          0.6211980555555555,
+          1.477855833333333
+        ],
+        "mncs_crosscheck_n": 90
+      },
+      "connections": [
+        "F003",
+        "F014",
+        "F083",
+        "F084",
+        "F085",
+        "F086",
+        "F116"
+      ],
+      "tags": [
+        "pp-top10",
+        "mncs-crosscheck",
+        "impact",
+        "normalized",
+        "leiden"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F100",
+      "type": "halflife_indicator",
+      "category": "trend",
+      "source_phase": "6",
+      "title": "Price Index median: 27.7%",
+      "description": "27.7% of cited references are <=5 years old (N=73); median reference age 10.0 years",
+      "impact_score": 0.42,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "n_articles": 73,
+        "price_index_mean": 31.4,
+        "price_index_median": 27.7,
+        "median_ref_age_mean": 9.6,
+        "median_ref_age_median": 9.5,
+        "total_refs": 3906,
+        "median_ref_age_overall": 10.0,
+        "price_index_temporal": [
+          {
+            "year": 2014,
+            "median_pi": 39.5,
+            "n": 1
+          },
+          {
+            "year": 2015,
+            "median_pi": 27.8,
+            "n": 7
+          },
+          {
+            "year": 2016,
+            "median_pi": 18.2,
+            "n": 5
+          },
+          {
+            "year": 2017,
+            "median_pi": 23.4,
+            "n": 8
+          },
+          {
+            "year": 2018,
+            "median_pi": 30.0,
+            "n": 7
+          },
+          {
+            "year": 2019,
+            "median_pi": 24.0,
+            "n": 6
+          },
+          {
+            "year": 2020,
+            "median_pi": 20.9,
+            "n": 4
+          },
+          {
+            "year": 2021,
+            "median_pi": 27.3,
+            "n": 9
+          },
+          {
+            "year": 2022,
+            "median_pi": 65.7,
+            "n": 4
+          },
+          {
+            "year": 2023,
+            "median_pi": 37.2,
+            "n": 6
+          },
+          {
+            "year": 2024,
+            "median_pi": 14.7,
+            "n": 4
+          },
+          {
+            "year": 2025,
+            "median_pi": 34.0,
+            "n": 8
+          },
+          {
+            "year": 2026,
+            "median_pi": 39.1,
+            "n": 4
+          }
+        ]
+      },
+      "connections": [],
+      "tags": [
+        "price index",
+        "reference age",
+        "literature aging"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F101",
+      "type": "sleeping_beauty",
+      "category": "sleeping_beauty",
+      "source_phase": "6",
+      "title": "Sleeping beauty: NLXE3X6S (B=20.58)",
+      "description": "Delayed-recognition pattern: peak 2024, 9 dormant years, 75 total citations",
+      "impact_score": 0.74,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "10:rdm_axis_pattern",
+        "10:rdm_paradigm_shifter"
+      ],
+      "evidence": {
+        "key": "NLXE3X6S",
+        "title": "Assessing students' motivation to engage in sustainable engineering.",
+        "year": 2015,
+        "beauty_coefficient": 20.58,
+        "peak_year": 2024,
+        "peak_citations": 24,
+        "cited_by_count": 75,
+        "sleeping_years": 9
+      },
+      "connections": [
+        "F003",
+        "F118",
+        "F130"
+      ],
+      "tags": [
+        "sleeping beauty",
+        "delayed recognition",
+        "beauty coefficient"
+      ],
+      "related_articles": [
+        "NLXE3X6S"
+      ]
+    },
+    {
+      "id": "F102",
+      "type": "sleeping_beauty",
+      "category": "sleeping_beauty",
+      "source_phase": "6",
+      "title": "Sleeping beauty: J4L96ZTQ (B=14.45)",
+      "description": "Delayed-recognition pattern: peak 2024, 8 dormant years, 296 total citations",
+      "impact_score": 0.828,
+      "triangulation_score": 4,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "10:rdm_axis_pattern",
+        "10:rdm_paradigm_shifter",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "J4L96ZTQ",
+        "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+        "year": 2016,
+        "beauty_coefficient": 14.45,
+        "peak_year": 2024,
+        "peak_citations": 97,
+        "cited_by_count": 296,
+        "sleeping_years": 8
+      },
+      "connections": [
+        "F003",
+        "F087",
+        "F117",
+        "F130"
+      ],
+      "tags": [
+        "sleeping beauty",
+        "delayed recognition",
+        "beauty coefficient"
+      ],
+      "related_articles": [
+        "J4L96ZTQ"
+      ]
+    },
+    {
+      "id": "F103",
+      "type": "sleeping_beauty",
+      "category": "sleeping_beauty",
+      "source_phase": "6",
+      "title": "Sleeping beauty: Y27Q6N9A (B=12.75)",
+      "description": "Delayed-recognition pattern: peak 2023, 8 dormant years, 15 total citations",
+      "impact_score": 0.5,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "key": "Y27Q6N9A",
+        "title": "Assessing vocational competencies in civil engineering: Lessons from AHELO for f",
+        "year": 2015,
+        "beauty_coefficient": 12.75,
+        "peak_year": 2023,
+        "peak_citations": 5,
+        "cited_by_count": 15,
+        "sleeping_years": 8
+      },
+      "connections": [],
+      "tags": [
+        "sleeping beauty",
+        "delayed recognition",
+        "beauty coefficient"
+      ],
+      "related_articles": [
+        "Y27Q6N9A"
+      ]
+    },
+    {
+      "id": "F104",
+      "type": "sleeping_beauty",
+      "category": "sleeping_beauty",
+      "source_phase": "6",
+      "title": "Sleeping beauty: SFEN9MC6 (B=12.25)",
+      "description": "Delayed-recognition pattern: peak 2024, 8 dormant years, 15 total citations",
+      "impact_score": 0.508,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "key": "SFEN9MC6",
+        "title": "Development of the Transferable Learning Orientations Tool: Providing Metacognit",
+        "year": 2016,
+        "beauty_coefficient": 12.25,
+        "peak_year": 2024,
+        "peak_citations": 5,
+        "cited_by_count": 15,
+        "sleeping_years": 8
+      },
+      "connections": [],
+      "tags": [
+        "sleeping beauty",
+        "delayed recognition",
+        "beauty coefficient"
+      ],
+      "related_articles": [
+        "SFEN9MC6"
+      ]
+    },
+    {
+      "id": "F105",
+      "type": "sleeping_beauty",
+      "category": "sleeping_beauty",
+      "source_phase": "6",
+      "title": "Sleeping beauty: J8H6TD8Q (B=9.20)",
+      "description": "Delayed-recognition pattern: peak 2020, 5 dormant years, 21 total citations",
+      "impact_score": 0.58,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "2g:declared_gap"
+      ],
+      "evidence": {
+        "key": "J8H6TD8Q",
+        "title": "Systems thinking skills of undergraduate engineering students",
+        "year": 2015,
+        "beauty_coefficient": 9.2,
+        "peak_year": 2020,
+        "peak_citations": 7,
+        "cited_by_count": 21,
+        "sleeping_years": 5
+      },
+      "connections": [
+        "F039"
+      ],
+      "tags": [
+        "sleeping beauty",
+        "delayed recognition",
+        "beauty coefficient"
+      ],
+      "related_articles": [
+        "J8H6TD8Q"
+      ]
+    },
+    {
+      "id": "F106",
+      "type": "css_classification",
+      "category": "trend",
+      "source_phase": "6",
+      "title": "CSS citation trajectories: 72 poorly cited, 16 fairly cited, 7 remarkably cited, 1 outstandingly cited",
+      "description": "Citation Success Symbol classification of 96 articles into trajectory classes",
+      "impact_score": 0.7,
+      "triangulation_score": 5,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "10:rdm_axis_pattern",
+        "10:rdm_paradigm_shifter",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "class_distribution": {
+          "Poorly cited": 72,
+          "Fairly cited": 16,
+          "Remarkably cited": 7,
+          "Outstandingly cited": 1
+        },
+        "outstanding_articles": [
+          {
+            "key": "J4L96ZTQ",
+            "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+            "year": 2016,
+            "cited_by_count": 296,
+            "css_class": "Outstandingly cited"
+          }
+        ]
+      },
+      "connections": [
+        "F003",
+        "F087",
+        "F117",
+        "F130",
+        "F135"
+      ],
+      "tags": [
+        "css",
+        "citation trajectory",
+        "classification"
+      ],
+      "related_articles": [
+        "J4L96ZTQ"
+      ]
+    },
+    {
+      "id": "F107",
+      "type": "apc_pattern",
+      "category": "trend",
+      "source_phase": "6",
+      "title": "APC-paid articles: 5.20 mean citations vs 14.50 (no APC)",
+      "description": "10 APC-paid vs 86 non-APC; mean APC fee $1301. Bootstrap: the citation gap is NOT statistically distinguishable from zero (Mann-Whitney p=0.015, IC95 crosses 0) — report as exploratory, not as a real premium.",
+      "impact_score": 0.5,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "2j:leiden_outlier"
+      ],
+      "evidence": {
+        "n_apc": 10,
+        "n_non_apc": 86,
+        "apc_mean_citations": 5.2,
+        "non_apc_mean_citations": 14.5,
+        "apc_median_citations": 3,
+        "non_apc_median_citations": 5,
+        "apc_mean_usd": 1301.0,
+        "cost_per_citation_usd": 250.1,
+        "bootstrap_diff_mean": 27.619275461380724,
+        "bootstrap_diff_ci95": [
+          5.120181134654819,
+          61.387252221462724
+        ],
+        "mann_whitney_p": 0.015196896644173341
+      },
+      "connections": [
+        "F083"
+      ],
+      "tags": [
+        "apc",
+        "open access",
+        "citation impact",
+        "exploratory"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F108",
+      "type": "concept_evolution",
+      "category": "trend",
+      "source_phase": "6",
+      "title": "Concept lifecycle phases: 22 foundational, 3 active",
+      "description": "Developmental-phase classification of 25 top concepts (342 total). Concepts are predominantly foundational or active — not declining.",
+      "impact_score": 0.54,
+      "triangulation_score": 3,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "2f:cagr_trend"
+      ],
+      "evidence": {
+        "phase_counts": {
+          "foundational": 22,
+          "active": 3
+        },
+        "concepts_by_phase": {
+          "foundational": [
+            "Psychology",
+            "Engineering",
+            "Computer science",
+            "Mathematics education",
+            "Scale (ratio)",
+            "Engineering education",
+            "Education",
+            "Medicine"
+          ],
+          "active": [
+            "Clinical psychology",
+            "Exploratory factor analysis",
+            "Statistics"
+          ]
+        }
+      },
+      "connections": [
+        "F001",
+        "F002",
+        "F020"
+      ],
+      "tags": [
+        "concept lifecycle",
+        "concept evolution",
+        "temporal"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F109",
+      "type": "population_pattern",
+      "category": "trend",
+      "source_phase": "7",
+      "title": "Population: top categories — Undergraduate Engineering Students(73), Undergraduate Students(9), Undergraduate And Graduate Engineering Students(3)",
+      "description": "Most studied population categories in the corpus",
+      "impact_score": 0.26,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "population_distribution": {
+          "Undergraduate Engineering Students": 73,
+          "Undergraduate Students": 9,
+          "Undergraduate And Graduate Engineering Students": 3,
+          "Undergraduate Students (Industrial Design)": 1,
+          "Undergraduate Computing Students": 1
+        }
+      },
+      "connections": [],
+      "tags": [
+        "population",
+        "demographics",
+        "undergraduate engineering students",
+        "undergraduate students",
+        "undergraduate and graduate engineering students"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F110",
+      "type": "population_pattern",
+      "category": "trend",
+      "source_phase": "7",
+      "title": "Research focus: Instrument Development And Validation(36), Instrument Validation(17), Instrument Validation And Competency Measurement(9)",
+      "description": "Dominant research focus areas",
+      "impact_score": 0.26,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "focus_distribution": {
+          "Instrument Development And Validation": 36,
+          "Instrument Validation": 17,
+          "Instrument Validation And Competency Measurement": 9,
+          "Scale Development": 4,
+          "Instrument Adaptation And Validation": 3
+        }
+      },
+      "connections": [],
+      "tags": [
+        "research focus",
+        "instrument development and validation",
+        "instrument validation",
+        "instrument validation and competency measurement"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F111",
+      "type": "population_pattern",
+      "category": "trend",
+      "source_phase": "7",
+      "title": "Median sample size: N=344.0",
+      "description": "Typical sample size across studies",
+      "impact_score": 0.74,
+      "triangulation_score": 4,
+      "triangulation_sources": [
+        "10:rdm_archetype",
+        "2j:leiden_field_bias"
+      ],
+      "evidence": {
+        "n_studies": 56,
+        "median": 344.0,
+        "mean": 721.1,
+        "min": 50,
+        "max": 6078
+      },
+      "connections": [
+        "F086",
+        "F126",
+        "F127",
+        "F128"
+      ],
+      "tags": [
+        "sample size",
+        "methodology"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F112",
+      "type": "triangulation_convergence",
+      "category": "convergence",
+      "source_phase": "9",
+      "title": "LLM triangulation (phase_2e): 13 convergent themes (Jaccard=0.29)",
+      "description": "Cross-model validation between auto/deepseek-v4-pro (14 themes) and mistral/mistral-large-latest (16 themes). Grounding: 87%/90%.",
+      "impact_score": 0.49,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "model_a": "auto/deepseek-v4-pro",
+        "model_b": "mistral/mistral-large-latest",
+        "n_themes_a": 14,
+        "n_themes_b": 16,
+        "n_matched": 13,
+        "jaccard_names": 0.2921,
+        "jaccard_definitions": 0.2475,
+        "grounding_a": 0.867,
+        "grounding_b": 0.896
+      },
+      "connections": [],
+      "tags": [
+        "triangulation",
+        "convergence",
+        "cross-model",
+        "phase_2e"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F113",
+      "type": "triangulation_convergence",
+      "category": "convergence",
+      "source_phase": "9",
+      "title": "Triangulated theme: 'Motivation and Engagement in Engineering Education' (cross-model sim=0.32)",
+      "description": "Convergent theme across auto/deepseek-v4-pro and mistral/mistral-large-latest. Model A: 'Motivation and Engagement in Engineering Education', Model B: 'Motivational and Career-Related Constructs in Engineering Education'.",
+      "impact_score": 0.89,
+      "triangulation_score": 16,
+      "triangulation_sources": [
+        "2g:declared_gap",
+        "2h:spectroscopy_lifecycle",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "theme_a": "Motivation and Engagement in Engineering Education",
+        "theme_b": "Motivational and Career-Related Constructs in Engineering Education",
+        "similarity_name": 0.4,
+        "similarity_definition": 0.2075,
+        "similarity_combined": 0.323
+      },
+      "connections": [
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F040",
+        "F059"
+      ],
+      "tags": [
+        "motivation",
+        "engagement",
+        "engineering",
+        "education",
+        "motivational"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F114",
+      "type": "triangulation_convergence",
+      "category": "convergence",
+      "source_phase": "9",
+      "title": "Triangulated theme: 'Self-Efficacy and Engineering Identity Measurement' (cross-model sim=0.32)",
+      "description": "Convergent theme across auto/deepseek-v4-pro and mistral/mistral-large-latest. Model A: 'Self-Efficacy and Engineering Identity Measurement', Model B: 'Self-Efficacy and Learning Experiences in Engineering Education'.",
+      "impact_score": 0.89,
+      "triangulation_score": 23,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2h:spectroscopy_lifecycle",
+        "2g:declared_gap",
+        "2i:sigma_node",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "theme_a": "Self-Efficacy and Engineering Identity Measurement",
+        "theme_b": "Self-Efficacy and Learning Experiences in Engineering Education",
+        "similarity_name": 0.4,
+        "similarity_definition": 0.1935,
+        "similarity_combined": 0.3174
+      },
+      "connections": [
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F038",
+        "F040",
+        "F059",
+        "F065",
+        "F067",
+        "F068"
+      ],
+      "tags": [
+        "self",
+        "efficacy",
+        "engineering",
+        "identity",
+        "measurement"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F115",
+      "type": "triangulation_convergence",
+      "category": "convergence",
+      "source_phase": "9",
+      "title": "Triangulated theme: 'Instrument Development and Psychometric Validation in Engine' (cross-model sim=0.31)",
+      "description": "Convergent theme across auto/deepseek-v4-pro and mistral/mistral-large-latest. Model A: 'Instrument Development and Psychometric Validation in Engineering Education', Model B: 'Validation and Use of Competency Assessment Instruments in Engineering Education'.",
+      "impact_score": 0.89,
+      "triangulation_score": 18,
+      "triangulation_sources": [
+        "2g:declared_gap",
+        "2h:spectroscopy_lifecycle",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "theme_a": "Instrument Development and Psychometric Validation in Engineering Education",
+        "theme_b": "Validation and Use of Competency Assessment Instruments in Engineering Education",
+        "similarity_name": 0.3846,
+        "similarity_definition": 0.2034,
+        "similarity_combined": 0.3121
+      },
+      "connections": [
+        "F005",
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F038",
+        "F040",
+        "F059"
+      ],
+      "tags": [
+        "instrument",
+        "development",
+        "psychometric",
+        "validation",
+        "engineering"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F116",
+      "type": "rdm_archetype",
+      "category": "trend",
+      "source_phase": "10",
+      "title": "RDM: 8 archetypes — dominant: Silent Connectors (21/96)",
+      "description": "Research Dynamics Manifold maps 96 articles into 8 archetypes via Emergence x Impact x Connectivity axes. Distribution: Silent Connectors: 21 (22%); Paradigm Shifters: 18 (19%); Established Pillars: 11 (11%); Viral Novelties: 11 (11%); Emerging Bridges: 11 (11%); Canonical Isolates: 8 (8%); Isolated Seeds: 8 (8%); Peripheral Works: 8 (8%)",
+      "impact_score": 0.7,
+      "triangulation_score": 4,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "6:fwci_outlier",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "n_articles": 96,
+        "archetype_distribution": {
+          "Paradigm Shifters": 18,
+          "Established Pillars": 11,
+          "Viral Novelties": 11,
+          "Canonical Isolates": 8,
+          "Silent Connectors": 21,
+          "Emerging Bridges": 11,
+          "Isolated Seeds": 8,
+          "Peripheral Works": 8
+        },
+        "dominant_archetype": "Silent Connectors",
+        "minority_archetypes": []
+      },
+      "connections": [
+        "F003",
+        "F014",
+        "F098",
+        "F099"
+      ],
+      "tags": [
+        "rdm",
+        "archetype",
+        "dynamics",
+        "emergence",
+        "impact"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F117",
+      "type": "rdm_paradigm_shifter",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Paradigm Shifter: Measuring Undergraduate Students' Engineering Self-Efficacy: (RDM=0.804)",
+      "description": "High emergence (E=0.69), high impact (I=0.84), high connectivity (S=0.87). Year 2016, 296 citations.",
+      "impact_score": 0.828,
+      "triangulation_score": 4,
+      "triangulation_sources": [
+        "6:sleeping_beauty",
+        "2a:corpus_profile",
+        "6:css_classification",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "J4L96ZTQ",
+        "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+        "year": 2016,
+        "doi": "10.1002/jee.20121",
+        "cited_by_count": 296,
+        "E": 0.6897,
+        "I": 0.8444,
+        "S": 0.8664,
+        "RDM": 0.804,
+        "archetype": "Paradigm Shifters",
+        "archetype_id": 1,
+        "dominant_axis": "S",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 1.0,
+          "keyword_novelty_norm": 0.9124
+        },
+        "impact_components": {
+          "mncs_raw": 16.064,
+          "mncs_norm": 0.9897,
+          "fwci_raw": 100.0,
+          "fwci_norm": 0.9583,
+          "citation_velocity_raw": 29.6,
+          "citation_velocity_norm": 0.9897,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 4
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.112743,
+          "betweenness_norm": 0.9865,
+          "interdisciplinarity_raw": 0.7619,
+          "interdisciplinarity_norm": 0.8955,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 2.910363,
+          "sigma_norm": 0.9865,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F003",
+        "F087",
+        "F102",
+        "F106"
+      ],
+      "tags": [
+        "paradigm shifter",
+        "high impact",
+        "emergence",
+        "connected"
+      ],
+      "related_articles": [
+        "J4L96ZTQ"
+      ]
+    },
+    {
+      "id": "F118",
+      "type": "rdm_paradigm_shifter",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Paradigm Shifter: Assessing students' motivation to engage in sustainable engi (RDM=0.738)",
+      "description": "High emergence (E=0.69), high impact (I=0.83), high connectivity (S=0.69). Year 2015, 75 citations.",
+      "impact_score": 0.66,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "6:sleeping_beauty",
+        "2a:corpus_profile"
+      ],
+      "evidence": {
+        "key": "NLXE3X6S",
+        "title": "Assessing students' motivation to engage in sustainable engineering.",
+        "year": 2015,
+        "doi": "10.1108/ijshe-06-2013-0054",
+        "cited_by_count": 75,
+        "E": 0.6897,
+        "I": 0.8253,
+        "S": 0.6912,
+        "RDM": 0.7381,
+        "archetype": "Paradigm Shifters",
+        "archetype_id": 1,
+        "dominant_axis": "I",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 1.0,
+          "keyword_novelty_norm": 0.9124
+        },
+        "impact_components": {
+          "mncs_raw": 4.07,
+          "mncs_norm": 0.9485,
+          "fwci_raw": 100.0,
+          "fwci_norm": 0.9583,
+          "citation_velocity_raw": 6.8182,
+          "citation_velocity_norm": 0.9485,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 4
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.028671,
+          "betweenness_norm": 0.7568,
+          "interdisciplinarity_raw": 0.5789,
+          "interdisciplinarity_norm": 0.6866,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.326674,
+          "sigma_norm": 0.7703,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F003",
+        "F101"
+      ],
+      "tags": [
+        "paradigm shifter",
+        "high impact",
+        "emergence",
+        "connected"
+      ],
+      "related_articles": [
+        "NLXE3X6S"
+      ]
+    },
+    {
+      "id": "F119",
+      "type": "rdm_paradigm_shifter",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Paradigm Shifter: Validity of the Contextual Competence Scale for Engineering  (RDM=0.736)",
+      "description": "High emergence (E=0.69), high impact (I=0.76), high connectivity (S=0.75). Year 2015, 64 citations.",
+      "impact_score": 0.66,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2a:corpus_profile",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "FL269LXE",
+        "title": "Validity of the Contextual Competence Scale for Engineering Students.",
+        "year": 2015,
+        "doi": "10.1002/jee.20062",
+        "cited_by_count": 64,
+        "E": 0.6897,
+        "I": 0.7612,
+        "S": 0.7548,
+        "RDM": 0.7359,
+        "archetype": "Paradigm Shifters",
+        "archetype_id": 1,
+        "dominant_axis": "I",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 1.0,
+          "keyword_novelty_norm": 0.9124
+        },
+        "impact_components": {
+          "mncs_raw": 3.473,
+          "mncs_norm": 0.9278,
+          "fwci_raw": 99.0,
+          "fwci_norm": 0.7708,
+          "citation_velocity_raw": 5.8182,
+          "citation_velocity_norm": 0.8866,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 4
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.039901,
+          "betweenness_norm": 0.8649,
+          "interdisciplinarity_raw": 0.6111,
+          "interdisciplinarity_norm": 0.7164,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.478837,
+          "sigma_norm": 0.8649,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F003",
+        "F096"
+      ],
+      "tags": [
+        "paradigm shifter",
+        "high impact",
+        "emergence",
+        "connected"
+      ],
+      "related_articles": [
+        "FL269LXE"
+      ]
+    },
+    {
+      "id": "F120",
+      "type": "rdm_paradigm_shifter",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Paradigm Shifter: The Employability Skills of Engineering Students': Assessmen (RDM=0.715)",
+      "description": "High emergence (E=0.60), high impact (I=0.73), high connectivity (S=0.80). Year 2021, 23 citations.",
+      "impact_score": 0.628,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "LHGYXXJG",
+        "title": "The Employability Skills of Engineering Students': Assessment at the University",
+        "year": 2021,
+        "doi": "10.29333/iji.2021.1448a",
+        "cited_by_count": 23,
+        "E": 0.6021,
+        "I": 0.7255,
+        "S": 0.8032,
+        "RDM": 0.7151,
+        "archetype": "Paradigm Shifters",
+        "archetype_id": 1,
+        "dominant_axis": "S",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 0.7391,
+          "keyword_novelty_norm": 0.5619
+        },
+        "impact_components": {
+          "mncs_raw": 1.248,
+          "mncs_norm": 0.8144,
+          "fwci_raw": 99.0,
+          "fwci_norm": 0.7708,
+          "citation_velocity_raw": 4.6,
+          "citation_velocity_norm": 0.8454,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 4
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.067566,
+          "betweenness_norm": 0.9054,
+          "interdisciplinarity_raw": 0.7083,
+          "interdisciplinarity_norm": 0.8209,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.922864,
+          "sigma_norm": 0.9054,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F093"
+      ],
+      "tags": [
+        "paradigm shifter",
+        "high impact",
+        "emergence",
+        "connected"
+      ],
+      "related_articles": [
+        "LHGYXXJG"
+      ]
+    },
+    {
+      "id": "F121",
+      "type": "rdm_paradigm_shifter",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Paradigm Shifter: Innovation self-efficacy: A very brief measure for engineeri (RDM=0.712)",
+      "description": "High emergence (E=0.64), high impact (I=0.74), high connectivity (S=0.75). Year 2017, 45 citations.",
+      "impact_score": 0.516,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "key": "FUDIEQYR",
+        "title": "Innovation self-efficacy: A very brief measure for engineering students",
+        "year": 2017,
+        "doi": "nan",
+        "cited_by_count": 45,
+        "E": 0.642,
+        "I": 0.7407,
+        "S": 0.7475,
+        "RDM": 0.7117,
+        "archetype": "Paradigm Shifters",
+        "archetype_id": 1,
+        "dominant_axis": "S",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 0.8462,
+          "keyword_novelty_norm": 0.7216
+        },
+        "impact_components": {
+          "mncs_raw": 2.442,
+          "mncs_norm": 0.8969,
+          "fwci_raw": 0,
+          "fwci_norm": 0.5,
+          "citation_velocity_raw": 5.0,
+          "citation_velocity_norm": 0.8608,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 3
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.031393,
+          "betweenness_norm": 0.7973,
+          "interdisciplinarity_raw": 0.7419,
+          "interdisciplinarity_norm": 0.8358,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.362197,
+          "sigma_norm": 0.7973,
+          "has_network": true
+        }
+      },
+      "connections": [],
+      "tags": [
+        "paradigm shifter",
+        "high impact",
+        "emergence",
+        "connected"
+      ],
+      "related_articles": [
+        "FUDIEQYR"
+      ]
+    },
+    {
+      "id": "F122",
+      "type": "rdm_archetype",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Emerging Bridge: A Competency Model for Process Dynamics and Control and Its ",
+      "description": "Novel and well-connected but not yet high-impact. E=0.69, S=0.59, I=0.34. Potential future high-impact article.",
+      "impact_score": 0.9,
+      "triangulation_score": 10,
+      "triangulation_sources": [
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "PJNV7WSV",
+        "title": "A Competency Model for Process Dynamics and Control and Its Use for Test Construction at University Level.",
+        "year": 2015,
+        "doi": "nan",
+        "cited_by_count": 5,
+        "E": 0.6897,
+        "I": 0.3429,
+        "S": 0.5906,
+        "RDM": 0.5604,
+        "archetype": "Emerging Bridges",
+        "archetype_id": 3,
+        "dominant_axis": "E",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 1.0,
+          "keyword_novelty_norm": 0.9124
+        },
+        "impact_components": {
+          "mncs_raw": 0.271,
+          "mncs_norm": 0.4639,
+          "fwci_raw": 95.0,
+          "fwci_norm": 0.125,
+          "citation_velocity_raw": 0.4545,
+          "citation_velocity_norm": 0.3608,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 4
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.030769,
+          "betweenness_norm": 0.777,
+          "interdisciplinarity_raw": 0.3333,
+          "interdisciplinarity_norm": 0.2463,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.353987,
+          "sigma_norm": 0.7838,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096"
+      ],
+      "tags": [
+        "emerging",
+        "bridge",
+        "potential",
+        "connected"
+      ],
+      "related_articles": [
+        "PJNV7WSV"
+      ]
+    },
+    {
+      "id": "F123",
+      "type": "rdm_archetype",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Emerging Bridge: Compassion in Engineering Education: Validation of the Compa",
+      "description": "Novel and well-connected but not yet high-impact. E=0.59, S=0.57, I=0.45. Potential future high-impact article.",
+      "impact_score": 0.98,
+      "triangulation_score": 10,
+      "triangulation_sources": [
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "GMEMS46N",
+        "title": "Compassion in Engineering Education: Validation of the Compassionate Engagement and Action Scales (CEAS) and Conceptual ",
+        "year": 2025,
+        "doi": "10.3390/educsci15101406",
+        "cited_by_count": 2,
+        "E": 0.5853,
+        "I": 0.4523,
+        "S": 0.5701,
+        "RDM": 0.5392,
+        "archetype": "Emerging Bridges",
+        "archetype_id": 3,
+        "dominant_axis": "E",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 0.7,
+          "keyword_novelty_norm": 0.4948
+        },
+        "impact_components": {
+          "mncs_raw": 0.109,
+          "mncs_norm": 0.3299,
+          "fwci_raw": 97.0,
+          "fwci_norm": 0.3229,
+          "citation_velocity_raw": 2.0,
+          "citation_velocity_norm": 0.7062,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 4
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.027293,
+          "betweenness_norm": 0.7162,
+          "interdisciplinarity_raw": 0.35,
+          "interdisciplinarity_norm": 0.291,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.309009,
+          "sigma_norm": 0.7297,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096"
+      ],
+      "tags": [
+        "emerging",
+        "bridge",
+        "potential",
+        "connected"
+      ],
+      "related_articles": [
+        "GMEMS46N"
+      ]
+    },
+    {
+      "id": "F124",
+      "type": "rdm_archetype",
+      "category": "emergence",
+      "source_phase": "10",
+      "title": "Emerging Bridge: Examining Validity of General Self-Efficacy Scale for Assess",
+      "description": "Novel and well-connected but not yet high-impact. E=0.62, S=0.50, I=0.43. Potential future high-impact article.",
+      "impact_score": 0.924,
+      "triangulation_score": 10,
+      "triangulation_sources": [
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "LLIXIBSQ",
+        "title": "Examining Validity of General Self-Efficacy Scale for Assessing Engineering Students' Self-Efficacy",
+        "year": 2018,
+        "doi": "nan",
+        "cited_by_count": 9,
+        "E": 0.6227,
+        "I": 0.427,
+        "S": 0.5,
+        "RDM": 0.5228,
+        "archetype": "Emerging Bridges",
+        "archetype_id": 3,
+        "dominant_axis": "E",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 0.7692,
+          "keyword_novelty_norm": 0.6443
+        },
+        "impact_components": {
+          "mncs_raw": 0.488,
+          "mncs_norm": 0.6186,
+          "fwci_raw": 95.0,
+          "fwci_norm": 0.125,
+          "citation_velocity_raw": 1.125,
+          "citation_velocity_norm": 0.5876,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 4
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0,
+          "betweenness_norm": 0.5,
+          "interdisciplinarity_raw": 0,
+          "interdisciplinarity_norm": 0.5,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 0,
+          "sigma_norm": 0.5,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096"
+      ],
+      "tags": [
+        "emerging",
+        "bridge",
+        "potential",
+        "connected"
+      ],
+      "related_articles": [
+        "LLIXIBSQ"
+      ]
+    },
+    {
+      "id": "F125",
+      "type": "rdm_archetype",
+      "category": "gap",
+      "source_phase": "10",
+      "title": "RDM: 8 Isolated Seeds — niche innovations not yet integrated",
+      "description": "8 articles show high emergence but low impact and connectivity. These represent early-stage or niche innovations that may indicate underexplored research directions.",
+      "impact_score": 0.55,
+      "triangulation_score": 2,
+      "triangulation_sources": [
+        "2g:declared_gap",
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "count": 8,
+        "sample_titles": [
+          "Identification and assessment of professional competencies for implementation of",
+          "Transferable Skills in Engineering Curricula: A Case Study at a Portuguese Unive",
+          "Development of a List of Can-do Statements for Global Communication in Engineeri",
+          "Electricity performance measurement of engineering students by a Rasch-based aca",
+          "Validity of a Scale to Measure IC-PBL Learning Outcome in Engineering Education"
+        ],
+        "mean_E": 0.592
+      },
+      "connections": [
+        "F017",
+        "F041"
+      ],
+      "tags": [
+        "isolated",
+        "niche",
+        "innovation",
+        "underexplored"
+      ],
+      "related_articles": [
+        "Z4ICDXEQ",
+        "DCSSFS2C",
+        "W6H25QK5",
+        "PP8YRX22",
+        "IQD3WXLQ",
+        "Y345N2W5",
+        "TW2V2FRX",
+        "95PYDLRQ"
+      ]
+    },
+    {
+      "id": "F126",
+      "type": "rdm_archetype",
+      "category": "bridge",
+      "source_phase": "10",
+      "title": "Silent Connector: Understanding student motivation and self-efficacy in differ",
+      "description": "Structurally important (S=0.77) but low citation impact (I=0.23) and low novelty (E=0.36). Likely a methodological or bridging work undervalued by citation metrics.",
+      "impact_score": 0.95,
+      "triangulation_score": 15,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2j:leiden_field_bias",
+        "2i:sigma_node",
+        "7:population_pattern",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "UAN7XVF9",
+        "title": "Understanding student motivation and self-efficacy in differential calculus: Evidence from a technology-based learning a",
+        "year": 2026,
+        "doi": "10.30935/scimath/18253",
+        "cited_by_count": 0,
+        "E": 0.3629,
+        "I": 0.2256,
+        "S": 0.766,
+        "RDM": 0.5064,
+        "archetype": "Silent Connectors",
+        "archetype_id": 7,
+        "dominant_axis": "S",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 25.0,
+          "burst_level_norm": 0.366,
+          "keyword_novelty_raw": 0.3333,
+          "keyword_novelty_norm": 0.1392
+        },
+        "impact_components": {
+          "mncs_raw": 0.0,
+          "mncs_norm": 0.1289,
+          "fwci_raw": 0,
+          "fwci_norm": 0.5,
+          "citation_velocity_raw": 0.0,
+          "citation_velocity_norm": 0.1289,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 3
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.039814,
+          "betweenness_norm": 0.8514,
+          "interdisciplinarity_raw": 0.7,
+          "interdisciplinarity_norm": 0.791,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.477594,
+          "sigma_norm": 0.8514,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F066",
+        "F076",
+        "F082",
+        "F086",
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096",
+        "F111"
+      ],
+      "tags": [
+        "bridge",
+        "methodology",
+        "undervalued",
+        "structural"
+      ],
+      "related_articles": [
+        "UAN7XVF9"
+      ]
+    },
+    {
+      "id": "F127",
+      "type": "rdm_archetype",
+      "category": "bridge",
+      "source_phase": "10",
+      "title": "Silent Connector: WIP: Confirmatory Factor Analysis of Instruments to Measure ",
+      "description": "Structurally important (S=0.72) but low citation impact (I=0.23) and low novelty (E=0.49). Likely a methodological or bridging work undervalued by citation metrics.",
+      "impact_score": 0.95,
+      "triangulation_score": 15,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2j:leiden_field_bias",
+        "2i:sigma_node",
+        "7:population_pattern",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "K9E5C83P",
+        "title": "WIP: Confirmatory Factor Analysis of Instruments to Measure Connections and Creating Value in First-Year Engineering Stu",
+        "year": 2025,
+        "doi": "10.18260/1-2--57388",
+        "cited_by_count": 0,
+        "E": 0.4925,
+        "I": 0.2256,
+        "S": 0.7173,
+        "RDM": 0.519,
+        "archetype": "Silent Connectors",
+        "archetype_id": 7,
+        "dominant_axis": "S",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 0.2941,
+          "keyword_novelty_norm": 0.1237
+        },
+        "impact_components": {
+          "mncs_raw": 0.0,
+          "mncs_norm": 0.1289,
+          "fwci_raw": 0,
+          "fwci_norm": 0.5,
+          "citation_velocity_raw": 0.0,
+          "citation_velocity_norm": 0.1289,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 3
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.071678,
+          "betweenness_norm": 0.9324,
+          "interdisciplinarity_raw": 0.44,
+          "interdisciplinarity_norm": 0.4179,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.998212,
+          "sigma_norm": 0.9324,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F066",
+        "F076",
+        "F082",
+        "F086",
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096",
+        "F111"
+      ],
+      "tags": [
+        "bridge",
+        "methodology",
+        "undervalued",
+        "structural"
+      ],
+      "related_articles": [
+        "K9E5C83P"
+      ]
+    },
+    {
+      "id": "F128",
+      "type": "rdm_archetype",
+      "category": "bridge",
+      "source_phase": "10",
+      "title": "Silent Connector: Development of a Questionnaire to Measure Students' Attitude",
+      "description": "Structurally important (S=0.71) but low citation impact (I=0.45) and low novelty (E=0.51). Likely a methodological or bridging work undervalued by citation metrics.",
+      "impact_score": 0.934,
+      "triangulation_score": 15,
+      "triangulation_sources": [
+        "2i:pivot_node",
+        "2j:leiden_field_bias",
+        "2i:sigma_node",
+        "7:population_pattern",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "key": "KU4TN5MB",
+        "title": "Development of a Questionnaire to Measure Students' Attitudes and Perceptions of Sociotechnical Engineering",
+        "year": 2023,
+        "doi": "nan",
+        "cited_by_count": 2,
+        "E": 0.508,
+        "I": 0.4511,
+        "S": 0.7136,
+        "RDM": 0.5689,
+        "archetype": "Silent Connectors",
+        "archetype_id": 7,
+        "dominant_axis": "S",
+        "emergence_components": {
+          "price_index_raw": 0.0,
+          "price_index_norm": 0.5,
+          "burst_level_raw": 48.0,
+          "burst_level_norm": 0.7474,
+          "keyword_novelty_raw": 0.4286,
+          "keyword_novelty_norm": 0.1856
+        },
+        "impact_components": {
+          "mncs_raw": 0.196,
+          "mncs_norm": 0.4072,
+          "fwci_raw": 0,
+          "fwci_norm": 0.5,
+          "citation_velocity_raw": 0.6667,
+          "citation_velocity_norm": 0.4485,
+          "social_attention_raw": 0.0,
+          "social_attention_norm": 0.5,
+          "n_channels": 3
+        },
+        "connectivity_components": {
+          "betweenness_raw": 0.070193,
+          "betweenness_norm": 0.9189,
+          "interdisciplinarity_raw": 0.4615,
+          "interdisciplinarity_norm": 0.4328,
+          "collaboration_breadth_raw": 0.0,
+          "collaboration_breadth_norm": 0.5,
+          "sigma_raw": 1.970711,
+          "sigma_norm": 0.9189,
+          "has_network": true
+        }
+      },
+      "connections": [
+        "F066",
+        "F076",
+        "F082",
+        "F086",
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096",
+        "F111"
+      ],
+      "tags": [
+        "bridge",
+        "methodology",
+        "undervalued",
+        "structural"
+      ],
+      "related_articles": [
+        "KU4TN5MB"
+      ]
+    },
+    {
+      "id": "F129",
+      "type": "rdm_axis_pattern",
+      "category": "trend",
+      "source_phase": "10",
+      "title": "RDM axis dominance: Impact (33/96, 34%)",
+      "description": "The dominant axis across the corpus is Impact. Axis distribution: E=31, I=33, S=32. This reveals the field's primary dynamic character.",
+      "impact_score": 0.34,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "S": 32,
+        "I": 33,
+        "E": 31
+      },
+      "connections": [],
+      "tags": [
+        "rdm",
+        "dynamics",
+        "axis",
+        "i"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F130",
+      "type": "rdm_axis_pattern",
+      "category": "trend",
+      "source_phase": "10",
+      "title": "Top RDM articles: Measuring Undergraduate Students' Engineering Self... (RDM=0.804)",
+      "description": "Top 5 articles by RDM score (multi-dimensional excellence): Measuring Undergraduate Students' Engine... (0.804); Assessing students' motivation to engage... (0.738); Validity of the Contextual Competence Sc... (0.736); The Employability Skills of Engineering ... (0.715); Innovation self-efficacy: A very brief m... (0.712)",
+      "impact_score": 0.66,
+      "triangulation_score": 7,
+      "triangulation_sources": [
+        "6:sleeping_beauty",
+        "2a:corpus_profile",
+        "6:css_classification",
+        "3:bridge_article"
+      ],
+      "evidence": {
+        "top_5": [
+          {
+            "key": "J4L96ZTQ",
+            "title": "Measuring Undergraduate Students' Engineering Self-Efficacy: A Validation Study.",
+            "year": 2016,
+            "doi": "10.1002/jee.20121",
+            "cited_by_count": 296,
+            "E": 0.6897,
+            "I": 0.8444,
+            "S": 0.8664,
+            "RDM": 0.804,
+            "archetype": "Paradigm Shifters",
+            "archetype_id": 1,
+            "dominant_axis": "S",
+            "emergence_components": {
+              "price_index_raw": 0.0,
+              "price_index_norm": 0.5,
+              "burst_level_raw": 48.0,
+              "burst_level_norm": 0.7474,
+              "keyword_novelty_raw": 1.0,
+              "keyword_novelty_norm": 0.9124
+            },
+            "impact_components": {
+              "mncs_raw": 16.064,
+              "mncs_norm": 0.9897,
+              "fwci_raw": 100.0,
+              "fwci_norm": 0.9583,
+              "citation_velocity_raw": 29.6,
+              "citation_velocity_norm": 0.9897,
+              "social_attention_raw": 0.0,
+              "social_attention_norm": 0.5,
+              "n_channels": 4
+            },
+            "connectivity_components": {
+              "betweenness_raw": 0.112743,
+              "betweenness_norm": 0.9865,
+              "interdisciplinarity_raw": 0.7619,
+              "interdisciplinarity_norm": 0.8955,
+              "collaboration_breadth_raw": 0.0,
+              "collaboration_breadth_norm": 0.5,
+              "sigma_raw": 2.910363,
+              "sigma_norm": 0.9865,
+              "has_network": true
+            }
+          },
+          {
+            "key": "NLXE3X6S",
+            "title": "Assessing students' motivation to engage in sustainable engineering.",
+            "year": 2015,
+            "doi": "10.1108/ijshe-06-2013-0054",
+            "cited_by_count": 75,
+            "E": 0.6897,
+            "I": 0.8253,
+            "S": 0.6912,
+            "RDM": 0.7381,
+            "archetype": "Paradigm Shifters",
+            "archetype_id": 1,
+            "dominant_axis": "I",
+            "emergence_components": {
+              "price_index_raw": 0.0,
+              "price_index_norm": 0.5,
+              "burst_level_raw": 48.0,
+              "burst_level_norm": 0.7474,
+              "keyword_novelty_raw": 1.0,
+              "keyword_novelty_norm": 0.9124
+            },
+            "impact_components": {
+              "mncs_raw": 4.07,
+              "mncs_norm": 0.9485,
+              "fwci_raw": 100.0,
+              "fwci_norm": 0.9583,
+              "citation_velocity_raw": 6.8182,
+              "citation_velocity_norm": 0.9485,
+              "social_attention_raw": 0.0,
+              "social_attention_norm": 0.5,
+              "n_channels": 4
+            },
+            "connectivity_components": {
+              "betweenness_raw": 0.028671,
+              "betweenness_norm": 0.7568,
+              "interdisciplinarity_raw": 0.5789,
+              "interdisciplinarity_norm": 0.6866,
+              "collaboration_breadth_raw": 0.0,
+              "collaboration_breadth_norm": 0.5,
+              "sigma_raw": 1.326674,
+              "sigma_norm": 0.7703,
+              "has_network": true
+            }
+          },
+          {
+            "key": "FL269LXE",
+            "title": "Validity of the Contextual Competence Scale for Engineering Students.",
+            "year": 2015,
+            "doi": "10.1002/jee.20062",
+            "cited_by_count": 64,
+            "E": 0.6897,
+            "I": 0.7612,
+            "S": 0.7548,
+            "RDM": 0.7359,
+            "archetype": "Paradigm Shifters",
+            "archetype_id": 1,
+            "dominant_axis": "I",
+            "emergence_components": {
+              "price_index_raw": 0.0,
+              "price_index_norm": 0.5,
+              "burst_level_raw": 48.0,
+              "burst_level_norm": 0.7474,
+              "keyword_novelty_raw": 1.0,
+              "keyword_novelty_norm": 0.9124
+            },
+            "impact_components": {
+              "mncs_raw": 3.473,
+              "mncs_norm": 0.9278,
+              "fwci_raw": 99.0,
+              "fwci_norm": 0.7708,
+              "citation_velocity_raw": 5.8182,
+              "citation_velocity_norm": 0.8866,
+              "social_attention_raw": 0.0,
+              "social_attention_norm": 0.5,
+              "n_channels": 4
+            },
+            "connectivity_components": {
+              "betweenness_raw": 0.039901,
+              "betweenness_norm": 0.8649,
+              "interdisciplinarity_raw": 0.6111,
+              "interdisciplinarity_norm": 0.7164,
+              "collaboration_breadth_raw": 0.0,
+              "collaboration_breadth_norm": 0.5,
+              "sigma_raw": 1.478837,
+              "sigma_norm": 0.8649,
+              "has_network": true
+            }
+          },
+          {
+            "key": "LHGYXXJG",
+            "title": "The Employability Skills of Engineering Students': Assessment at the University",
+            "year": 2021,
+            "doi": "10.29333/iji.2021.1448a",
+            "cited_by_count": 23,
+            "E": 0.6021,
+            "I": 0.7255,
+            "S": 0.8032,
+            "RDM": 0.7151,
+            "archetype": "Paradigm Shifters",
+            "archetype_id": 1,
+            "dominant_axis": "S",
+            "emergence_components": {
+              "price_index_raw": 0.0,
+              "price_index_norm": 0.5,
+              "burst_level_raw": 48.0,
+              "burst_level_norm": 0.7474,
+              "keyword_novelty_raw": 0.7391,
+              "keyword_novelty_norm": 0.5619
+            },
+            "impact_components": {
+              "mncs_raw": 1.248,
+              "mncs_norm": 0.8144,
+              "fwci_raw": 99.0,
+              "fwci_norm": 0.7708,
+              "citation_velocity_raw": 4.6,
+              "citation_velocity_norm": 0.8454,
+              "social_attention_raw": 0.0,
+              "social_attention_norm": 0.5,
+              "n_channels": 4
+            },
+            "connectivity_components": {
+              "betweenness_raw": 0.067566,
+              "betweenness_norm": 0.9054,
+              "interdisciplinarity_raw": 0.7083,
+              "interdisciplinarity_norm": 0.8209,
+              "collaboration_breadth_raw": 0.0,
+              "collaboration_breadth_norm": 0.5,
+              "sigma_raw": 1.922864,
+              "sigma_norm": 0.9054,
+              "has_network": true
+            }
+          },
+          {
+            "key": "FUDIEQYR",
+            "title": "Innovation self-efficacy: A very brief measure for engineering students",
+            "year": 2017,
+            "doi": "nan",
+            "cited_by_count": 45,
+            "E": 0.642,
+            "I": 0.7407,
+            "S": 0.7475,
+            "RDM": 0.7117,
+            "archetype": "Paradigm Shifters",
+            "archetype_id": 1,
+            "dominant_axis": "S",
+            "emergence_components": {
+              "price_index_raw": 0.0,
+              "price_index_norm": 0.5,
+              "burst_level_raw": 48.0,
+              "burst_level_norm": 0.7474,
+              "keyword_novelty_raw": 0.8462,
+              "keyword_novelty_norm": 0.7216
+            },
+            "impact_components": {
+              "mncs_raw": 2.442,
+              "mncs_norm": 0.8969,
+              "fwci_raw": 0,
+              "fwci_norm": 0.5,
+              "citation_velocity_raw": 5.0,
+              "citation_velocity_norm": 0.8608,
+              "social_attention_raw": 0.0,
+              "social_attention_norm": 0.5,
+              "n_channels": 3
+            },
+            "connectivity_components": {
+              "betweenness_raw": 0.031393,
+              "betweenness_norm": 0.7973,
+              "interdisciplinarity_raw": 0.7419,
+              "interdisciplinarity_norm": 0.8358,
+              "collaboration_breadth_raw": 0.0,
+              "collaboration_breadth_norm": 0.5,
+              "sigma_raw": 1.362197,
+              "sigma_norm": 0.7973,
+              "has_network": true
+            }
+          }
+        ]
+      },
+      "connections": [
+        "F003",
+        "F087",
+        "F093",
+        "F096",
+        "F101",
+        "F102",
+        "F106"
+      ],
+      "tags": [
+        "rdm",
+        "ranking",
+        "excellence",
+        "multidimensional"
+      ],
+      "related_articles": [
+        "J4L96ZTQ",
+        "NLXE3X6S",
+        "FL269LXE",
+        "LHGYXXJG",
+        "FUDIEQYR"
+      ]
+    },
+    {
+      "id": "F131",
+      "type": "sdg_alignment",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "SDGs: 55.2% mapped, top=Quality Education (37 articles)",
+      "description": "53/96 articles have SDG mapping",
+      "impact_score": 0.38,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "2e:inductive_theme"
+      ],
+      "evidence": {
+        "sdg_pct": 55.2,
+        "top_sdgs": [
+          {
+            "name": "Quality Education",
+            "count": 37
+          },
+          {
+            "name": "Decent work and economic growth",
+            "count": 8
+          },
+          {
+            "name": "Industry, innovation and infrastructure",
+            "count": 5
+          },
+          {
+            "name": "Reduced inequalities",
+            "count": 2
+          },
+          {
+            "name": "Peace, Justice and strong institutions",
+            "count": 1
+          }
+        ]
+      },
+      "connections": [
+        "F016"
+      ],
+      "tags": [
+        "sdg",
+        "sustainability",
+        "quality education",
+        "decent work and economic growth",
+        "industry, innovation and infrastructure"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F132",
+      "type": "funding_pattern",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "Funding: 13.5% articles funded, 16 unique funders",
+      "description": "Top funder: National Science Foundation (6 articles)",
+      "impact_score": 0.38,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "funded_pct": 13.5,
+        "funded_count": 13,
+        "unique_funders": 16,
+        "top_funders": [
+          {
+            "name": "National Science Foundation",
+            "count": 6
+          },
+          {
+            "name": "Ministry of Science and Technology, Taiwan",
+            "count": 1
+          },
+          {
+            "name": "Erasmus+ Program of the European Union",
+            "count": 1
+          },
+          {
+            "name": "National Natural Science Foundation of China",
+            "count": 1
+          },
+          {
+            "name": "Natural Science Foundation of Fujian Province",
+            "count": 1
+          }
+        ]
+      },
+      "connections": [],
+      "tags": [
+        "funding",
+        "grants",
+        "national science foundation",
+        "ministry of science and technology, taiwan"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F133",
+      "type": "language_pattern",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "Language: 4 languages, English dominant (83.3%)",
+      "description": "Publication language distribution across corpus",
+      "impact_score": 0.3,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "top_languages": [
+          [
+            "English",
+            80
+          ],
+          [
+            "en",
+            10
+          ],
+          [
+            "Spanish",
+            3
+          ],
+          [
+            "Persian",
+            1
+          ]
+        ],
+        "n_languages": 4
+      },
+      "connections": [],
+      "tags": [
+        "language",
+        "diversity",
+        "english"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F134",
+      "type": "apc_pattern",
+      "category": "trend",
+      "source_phase": "6",
+      "title": "APC: 10 articles paid, mean=$1301 USD",
+      "description": "Article Processing Charges in corpus",
+      "impact_score": 0.34,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "n_apc": 10,
+        "mean_usd": 1301.0,
+        "total_usd": 13007
+      },
+      "connections": [],
+      "tags": [
+        "apc",
+        "open access",
+        "cost"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F135",
+      "type": "corpus_profile",
+      "category": "trend",
+      "source_phase": "2a",
+      "title": "Research domains: Social sciences dominant (55 articles), 89.6% classified",
+      "description": "3 domains identified via OpenAlex primary_topic",
+      "impact_score": 0.38,
+      "triangulation_score": 1,
+      "triangulation_sources": [
+        "6:css_classification"
+      ],
+      "evidence": {
+        "topic_coverage_pct": 89.6,
+        "domains": [
+          [
+            "Social sciences",
+            55
+          ],
+          [
+            "Physical sciences",
+            29
+          ],
+          [
+            "Life sciences",
+            2
+          ]
+        ]
+      },
+      "connections": [
+        "F106"
+      ],
+      "tags": [
+        "domain",
+        "classification",
+        "social sciences"
+      ],
+      "related_articles": []
+    },
+    {
+      "id": "F136",
+      "type": "metadata_completeness",
+      "category": "anomaly",
+      "source_phase": "1",
+      "title": "Metadata completeness: 68.4% average across 8 fields",
+      "description": "Gaps (<50%): funding(13.5%), pmid(2.1%)",
+      "impact_score": 0.38,
+      "triangulation_score": 0,
+      "triangulation_sources": [],
+      "evidence": {
+        "completeness": {
+          "abstract": {
+            "count": 94,
+            "pct": 97.9
+          },
+          "doi": {
+            "count": 96,
+            "pct": 100.0
+          },
+          "affiliations": {
+            "count": 74,
+            "pct": 77.1
+          },
+          "funding": {
+            "count": 13,
+            "pct": 13.5
+          },
+          "pmid": {
+            "count": 2,
+            "pct": 2.1
+          },
+          "openalex_id": {
+            "count": 86,
+            "pct": 89.6
+          },
+          "language": {
+            "count": 94,
+            "pct": 97.9
+          },
+          "issn": {
+            "count": 66,
+            "pct": 68.8
+          }
+        },
+        "avg_pct": 68.4,
+        "gaps": [
+          "funding",
+          "pmid"
+        ]
+      },
+      "connections": [],
+      "tags": [
+        "metadata",
+        "completeness",
+        "data quality"
+      ],
+      "related_articles": []
+    }
+  ],
+  "skeleton": {
+    "1": {
+      "title": "Perfil del corpus y crecimiento",
+      "findings": [
+        "F020",
+        "F003",
+        "F001",
+        "F002",
+        "F021",
+        "F100",
+        "F131",
+        "F132",
+        "F135",
+        "F136",
+        "F004",
+        "F133"
+      ]
+    },
+    "2": {
+      "title": "Estructura intelectual (co-citacion, espectroscopia)",
+      "findings": [
+        "F059",
+        "F086",
+        "F085",
+        "F047",
+        "F058",
+        "F083",
+        "F057",
+        "F048",
+        "F049",
+        "F050",
+        "F053",
+        "F054",
+        "F060",
+        "F061",
+        "F055",
+        "F056",
+        "F084",
+        "F062",
+        "F043",
+        "F044",
+        "F045",
+        "F046",
+        "F051",
+        "F052"
+      ]
+    },
+    "3": {
+      "title": "Estructura social (colaboracion, SCP/MCP)",
+      "findings": [
+        "F091",
+        "F094",
+        "F088",
+        "F090",
+        "F092",
+        "F089",
+        "F093",
+        "F087",
+        "F096",
+        "F095",
+        "F097"
+      ]
+    },
+    "4": {
+      "title": "Estructura conceptual (keywords, temas, clusters)",
+      "findings": [
+        "F065",
+        "F067",
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F075",
+        "F079",
+        "F066",
+        "F068",
+        "F070",
+        "F076",
+        "F082",
+        "F069",
+        "F077",
+        "F005",
+        "F073",
+        "F074",
+        "F063",
+        "F064",
+        "F071",
+        "F072",
+        "F078",
+        "F080",
+        "F081"
+      ]
+    },
+    "5": {
+      "title": "Frentes de investigacion y topicos emergentes",
+      "findings": [
+        "F108",
+        "F032",
+        "F033",
+        "F034",
+        "F035",
+        "F036",
+        "F037",
+        "F059",
+        "F065",
+        "F067",
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F075",
+        "F079",
+        "F066",
+        "F068",
+        "F070",
+        "F076",
+        "F082",
+        "F058",
+        "F069",
+        "F077",
+        "F057",
+        "F005",
+        "F053",
+        "F054",
+        "F060",
+        "F061",
+        "F073",
+        "F074",
+        "F055",
+        "F056",
+        "F063",
+        "F064",
+        "F071",
+        "F072",
+        "F078",
+        "F080",
+        "F081",
+        "F062"
+      ]
+    },
+    "6": {
+      "title": "Vacios y direcciones futuras",
+      "findings": [
+        "F040",
+        "F038",
+        "F111",
+        "F041",
+        "F024",
+        "F025",
+        "F029",
+        "F039",
+        "F042",
+        "F022",
+        "F023",
+        "F026",
+        "F027",
+        "F028",
+        "F030",
+        "F031",
+        "F109",
+        "F110"
+      ]
+    },
+    "7": {
+      "title": "Indicadores de impacto y calidad",
+      "findings": [
+        "F102",
+        "F098",
+        "F099",
+        "F101",
+        "F106",
+        "F105",
+        "F104",
+        "F103",
+        "F107",
+        "F134"
+      ]
+    },
+    "8": {
+      "title": "Patrones transversales (hallazgos triangulados)",
+      "findings": [
+        "F113",
+        "F114",
+        "F115",
+        "F112",
+        "F001",
+        "F002",
+        "F003",
+        "F006",
+        "F007",
+        "F008",
+        "F009",
+        "F010",
+        "F011",
+        "F012",
+        "F013",
+        "F014",
+        "F015",
+        "F016",
+        "F017",
+        "F018",
+        "F019",
+        "F020",
+        "F021",
+        "F038",
+        "F040",
+        "F041",
+        "F047",
+        "F048",
+        "F049",
+        "F050",
+        "F058",
+        "F059",
+        "F065",
+        "F066",
+        "F067",
+        "F068",
+        "F069",
+        "F070",
+        "F075",
+        "F076",
+        "F077",
+        "F079",
+        "F082",
+        "F083",
+        "F085",
+        "F086",
+        "F087",
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096",
+        "F098",
+        "F099",
+        "F101",
+        "F102",
+        "F106",
+        "F108",
+        "F111",
+        "F116",
+        "F117",
+        "F118",
+        "F119",
+        "F122",
+        "F123",
+        "F124",
+        "F125",
+        "F126",
+        "F127",
+        "F128",
+        "F130"
+      ]
+    },
+    "9": {
+      "title": "Dinamica investigativa 3D (Research Dynamics Manifold)",
+      "findings": [
+        "F123",
+        "F126",
+        "F127",
+        "F128",
+        "F124",
+        "F122",
+        "F117",
+        "F116",
+        "F118",
+        "F119",
+        "F130",
+        "F120",
+        "F125",
+        "F121",
+        "F129"
+      ]
+    }
+  },
+  "matrix": {
+    "F001-F020": 1.0,
+    "F001-F108": 0.6,
+    "F002-F020": 1.0,
+    "F002-F108": 0.6,
+    "F003-F014": 0.6,
+    "F003-F021": 0.6,
+    "F003-F087": 0.5,
+    "F003-F096": 0.5,
+    "F003-F098": 0.9,
+    "F003-F099": 0.6,
+    "F003-F101": 0.5,
+    "F003-F102": 0.5,
+    "F003-F106": 0.7,
+    "F003-F116": 0.6,
+    "F003-F117": 0.5,
+    "F003-F118": 0.5,
+    "F003-F119": 0.5,
+    "F003-F130": 1.7,
+    "F005-F115": 0.7,
+    "F006-F040": 0.4,
+    "F006-F059": 0.6,
+    "F006-F065": 0.8,
+    "F006-F067": 0.8,
+    "F006-F075": 1.0,
+    "F006-F079": 1.0,
+    "F006-F113": 0.4,
+    "F006-F114": 1.2,
+    "F006-F115": 0.4,
+    "F007-F040": 0.4,
+    "F007-F059": 0.6,
+    "F007-F113": 0.4,
+    "F007-F114": 0.4,
+    "F007-F115": 0.4,
+    "F008-F040": 0.4,
+    "F008-F059": 0.6,
+    "F008-F113": 0.4,
+    "F008-F114": 0.4,
+    "F008-F115": 0.4,
+    "F009-F040": 0.4,
+    "F009-F059": 0.6,
+    "F009-F113": 0.8,
+    "F009-F114": 0.4,
+    "F009-F115": 0.4,
+    "F010-F040": 0.4,
+    "F010-F059": 0.6,
+    "F010-F113": 0.4,
+    "F010-F114": 0.4,
+    "F010-F115": 0.4,
+    "F011-F038": 0.4,
+    "F011-F040": 0.4,
+    "F011-F041": 0.4,
+    "F011-F059": 0.6,
+    "F011-F113": 0.8,
+    "F011-F114": 0.4,
+    "F011-F115": 0.4,
+    "F012-F040": 0.4,
+    "F012-F059": 0.6,
+    "F012-F068": 0.4,
+    "F012-F070": 0.4,
+    "F012-F113": 0.4,
+    "F012-F114": 0.4,
+    "F012-F115": 0.4,
+    "F013-F040": 0.4,
+    "F013-F059": 0.6,
+    "F013-F113": 0.4,
+    "F013-F114": 0.4,
+    "F013-F115": 0.4,
+    "F014-F040": 0.4,
+    "F014-F059": 0.6,
+    "F014-F098": 0.6,
+    "F014-F099": 0.6,
+    "F014-F113": 0.4,
+    "F014-F114": 0.4,
+    "F014-F115": 0.4,
+    "F014-F116": 0.6,
+    "F015-F040": 0.4,
+    "F015-F059": 0.6,
+    "F015-F065": 0.4,
+    "F015-F067": 0.4,
+    "F015-F075": 0.6,
+    "F015-F079": 0.6,
+    "F015-F113": 0.4,
+    "F015-F114": 0.8,
+    "F015-F115": 0.4,
+    "F016-F040": 0.4,
+    "F016-F059": 0.6,
+    "F016-F113": 0.8,
+    "F016-F114": 0.4,
+    "F016-F115": 0.4,
+    "F016-F131": 0.6,
+    "F017-F040": 0.4,
+    "F017-F059": 0.6,
+    "F017-F113": 0.4,
+    "F017-F114": 0.4,
+    "F017-F115": 0.4,
+    "F017-F125": 0.4,
+    "F018-F040": 0.4,
+    "F018-F059": 0.6,
+    "F018-F113": 0.8,
+    "F018-F114": 0.8,
+    "F018-F115": 0.4,
+    "F019-F040": 0.4,
+    "F019-F059": 0.6,
+    "F019-F113": 0.4,
+    "F019-F114": 0.4,
+    "F019-F115": 0.4,
+    "F020-F108": 0.6,
+    "F021-F098": 0.5,
+    "F024-F058": 0.4,
+    "F025-F057": 0.4,
+    "F029-F058": 0.4,
+    "F038-F068": 0.4,
+    "F038-F070": 0.4,
+    "F038-F114": 0.4,
+    "F038-F115": 0.4,
+    "F039-F105": 0.5,
+    "F040-F059": 0.4,
+    "F040-F113": 0.4,
+    "F040-F114": 0.4,
+    "F040-F115": 0.4,
+    "F041-F125": 0.7,
+    "F047-F065": 0.4,
+    "F047-F069": 0.4,
+    "F047-F075": 0.6,
+    "F047-F077": 0.6,
+    "F047-F085": 0.4,
+    "F048-F067": 0.4,
+    "F048-F079": 0.6,
+    "F049-F067": 0.4,
+    "F049-F079": 0.6,
+    "F050-F067": 0.4,
+    "F050-F079": 0.6,
+    "F059-F113": 0.4,
+    "F059-F114": 0.4,
+    "F059-F115": 0.4,
+    "F065-F085": 0.4,
+    "F065-F114": 0.8,
+    "F066-F126": 0.6,
+    "F066-F127": 0.6,
+    "F066-F128": 0.6,
+    "F067-F114": 0.8,
+    "F068-F114": 0.4,
+    "F069-F085": 0.4,
+    "F070-F114": 0.4,
+    "F075-F085": 0.4,
+    "F075-F114": 0.8,
+    "F076-F126": 0.4,
+    "F076-F127": 0.4,
+    "F076-F128": 0.4,
+    "F077-F085": 0.4,
+    "F079-F114": 0.8,
+    "F082-F126": 0.4,
+    "F082-F127": 0.4,
+    "F082-F128": 0.4,
+    "F083-F098": 0.6,
+    "F083-F099": 1.0,
+    "F083-F107": 0.6,
+    "F084-F099": 0.4,
+    "F085-F099": 0.4,
+    "F086-F099": 0.4,
+    "F086-F111": 0.4,
+    "F086-F126": 0.4,
+    "F086-F127": 0.4,
+    "F086-F128": 0.4,
+    "F087-F102": 0.5,
+    "F087-F106": 0.5,
+    "F087-F117": 0.5,
+    "F087-F122": 0.4,
+    "F087-F123": 0.4,
+    "F087-F124": 0.4,
+    "F087-F126": 0.6,
+    "F087-F127": 0.6,
+    "F087-F128": 0.6,
+    "F087-F130": 0.5,
+    "F088-F122": 0.4,
+    "F088-F123": 0.4,
+    "F088-F124": 0.4,
+    "F088-F126": 0.6,
+    "F088-F127": 0.6,
+    "F088-F128": 0.6,
+    "F089-F122": 0.4,
+    "F089-F123": 0.4,
+    "F089-F124": 0.4,
+    "F089-F126": 0.6,
+    "F089-F127": 0.6,
+    "F089-F128": 0.6,
+    "F090-F122": 0.4,
+    "F090-F123": 0.4,
+    "F090-F124": 0.4,
+    "F090-F126": 0.6,
+    "F090-F127": 0.6,
+    "F090-F128": 0.6,
+    "F091-F122": 0.4,
+    "F091-F123": 0.4,
+    "F091-F124": 0.4,
+    "F091-F126": 0.6,
+    "F091-F127": 1.1,
+    "F091-F128": 0.6,
+    "F092-F122": 0.4,
+    "F092-F123": 0.4,
+    "F092-F124": 0.4,
+    "F092-F126": 0.6,
+    "F092-F127": 0.6,
+    "F092-F128": 1.1,
+    "F093-F120": 0.5,
+    "F093-F122": 0.4,
+    "F093-F123": 0.4,
+    "F093-F124": 0.4,
+    "F093-F126": 0.6,
+    "F093-F127": 0.6,
+    "F093-F128": 0.6,
+    "F093-F130": 0.5,
+    "F094-F122": 0.4,
+    "F094-F123": 0.4,
+    "F094-F124": 0.4,
+    "F094-F126": 0.6,
+    "F094-F127": 0.6,
+    "F094-F128": 0.6,
+    "F095-F122": 0.4,
+    "F095-F123": 0.4,
+    "F095-F124": 0.4,
+    "F095-F126": 0.6,
+    "F095-F127": 0.6,
+    "F095-F128": 0.6,
+    "F096-F119": 0.5,
+    "F096-F122": 0.4,
+    "F096-F123": 0.4,
+    "F096-F124": 0.4,
+    "F096-F126": 0.6,
+    "F096-F127": 0.6,
+    "F096-F128": 0.6,
+    "F096-F130": 0.5,
+    "F098-F116": 0.6,
+    "F099-F116": 0.6,
+    "F101-F118": 0.5,
+    "F101-F130": 0.5,
+    "F102-F117": 0.5,
+    "F102-F130": 0.5,
+    "F106-F117": 0.5,
+    "F106-F130": 0.7,
+    "F106-F135": 0.6,
+    "F111-F126": 0.4,
+    "F111-F127": 0.4,
+    "F111-F128": 0.4
+  },
+  "stats": {
+    "total_findings": 136,
+    "by_phase": {
+      "2a": 8,
+      "2e": 15,
+      "2f": 2,
+      "2g": 21,
+      "2h": 20,
+      "2i": 20,
+      "2j": 4,
+      "3": 10,
+      "3b": 1,
+      "6": 12,
+      "7": 3,
+      "9": 4,
+      "10": 15,
+      "1": 1
+    },
+    "by_type": {
+      "corpus_profile": 5,
+      "inductive_theme": 15,
+      "cagr_trend": 1,
+      "halflife_indicator": 2,
+      "structural_gap": 10,
+      "research_frontier": 6,
+      "declared_gap": 5,
+      "spectroscopy_seminal": 10,
+      "spectroscopy_lifecycle": 10,
+      "pivot_node": 10,
+      "sigma_node": 10,
+      "leiden_outlier": 1,
+      "leiden_field_bias": 3,
+      "bridge_article": 10,
+      "scp_mcp_pattern": 1,
+      "fwci_outlier": 2,
+      "sleeping_beauty": 5,
+      "css_classification": 1,
+      "apc_pattern": 2,
+      "concept_evolution": 1,
+      "population_pattern": 3,
+      "triangulation_convergence": 4,
+      "rdm_archetype": 8,
+      "rdm_paradigm_shifter": 5,
+      "rdm_axis_pattern": 2,
+      "sdg_alignment": 1,
+      "funding_pattern": 1,
+      "language_pattern": 1,
+      "metadata_completeness": 1
+    },
+    "by_category": {
+      "trend": 68,
+      "gap": 16,
+      "emergence": 16,
+      "bridge": 23,
+      "decline": 2,
+      "anomaly": 2,
+      "sleeping_beauty": 5,
+      "convergence": 4
+    },
+    "triangulated_findings": 74,
+    "cross_phase_links": 244,
+    "impact_weights": {
+      "significance": 0.4,
+      "recency": 0.2,
+      "triangulation": 0.4
+    },
+    "triangulation_method": {
+      "method": "lexical_overlap",
+      "components": [
+        "tag_overlap",
+        "article_overlap",
+        "title_fuzzy"
+      ],
+      "fuzzy_lib": "rapidfuzz",
+      "link_threshold": 0.3,
+      "semantic_backend": null
+    },
+    "timestamp": "2026-07-24T23:58:11.624529"
+  }
+}

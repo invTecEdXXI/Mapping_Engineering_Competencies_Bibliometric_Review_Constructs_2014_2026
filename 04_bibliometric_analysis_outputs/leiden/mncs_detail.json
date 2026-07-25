@@ -1,0 +1,674 @@
+[
+  {
+    "key": "PP8YRX22",
+    "field": "Computer science",
+    "citations": 0,
+    "field_mean": 10.23,
+    "mncs": 0.0
+  },
+  {
+    "key": "WE7WVA4B",
+    "field": "Sociology",
+    "citations": 1,
+    "field_mean": 5.5,
+    "mncs": 0.182
+  },
+  {
+    "key": "ECTTSUXE",
+    "field": "Philosophy",
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0
+  },
+  {
+    "key": "LPJSUJ9V",
+    "field": "Psychology",
+    "citations": 5,
+    "field_mean": 18.43,
+    "mncs": 0.271
+  },
+  {
+    "key": "RGASR6Q5",
+    "field": "Psychology",
+    "citations": 0,
+    "field_mean": 18.43,
+    "mncs": 0.0
+  },
+  {
+    "key": "GMEMS46N",
+    "field": "Psychology",
+    "citations": 2,
+    "field_mean": 18.43,
+    "mncs": 0.109
+  },
+  {
+    "key": "QU82N8PC",
+    "field": "Psychology",
+    "citations": 2,
+    "field_mean": 18.43,
+    "mncs": 0.109
+  },
+  {
+    "key": "9HGRHX6A",
+    "field": "Computer science",
+    "citations": 0,
+    "field_mean": 10.23,
+    "mncs": 0.0
+  },
+  {
+    "key": "KU4TN5MB",
+    "field": "Computer science",
+    "citations": 2,
+    "field_mean": 10.23,
+    "mncs": 0.196
+  },
+  {
+    "key": "84K6T4E3",
+    "field": "Unknown",
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0
+  },
+  {
+    "key": "PD6ENBV2",
+    "field": "Psychology",
+    "citations": 49,
+    "field_mean": 18.43,
+    "mncs": 2.659
+  },
+  {
+    "key": "I9QV6W8G",
+    "field": "Psychology",
+    "citations": 4,
+    "field_mean": 18.43,
+    "mncs": 0.217
+  },
+  {
+    "key": "NKWQH4PB",
+    "field": "Psychology",
+    "citations": 2,
+    "field_mean": 18.43,
+    "mncs": 0.109
+  },
+  {
+    "key": "Y4ZKXXH4",
+    "field": "Psychology",
+    "citations": 5,
+    "field_mean": 18.43,
+    "mncs": 0.271
+  },
+  {
+    "key": "AIPHQE23",
+    "field": "Psychology",
+    "citations": 11,
+    "field_mean": 18.43,
+    "mncs": 0.597
+  },
+  {
+    "key": "PVT4UE9C",
+    "field": "Psychology",
+    "citations": 14,
+    "field_mean": 18.43,
+    "mncs": 0.76
+  },
+  {
+    "key": "W2PMJWMT",
+    "field": "Psychology",
+    "citations": 41,
+    "field_mean": 18.43,
+    "mncs": 2.225
+  },
+  {
+    "key": "SL7257LZ",
+    "field": "Psychology",
+    "citations": 17,
+    "field_mean": 18.43,
+    "mncs": 0.923
+  },
+  {
+    "key": "CU9IWP4L",
+    "field": "Computer science",
+    "citations": 0,
+    "field_mean": 10.23,
+    "mncs": 0.0
+  },
+  {
+    "key": "AKZVTZER",
+    "field": "Unknown",
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0
+  },
+  {
+    "key": "JKK5M2EG",
+    "field": "Computer science",
+    "citations": 9,
+    "field_mean": 10.23,
+    "mncs": 0.88
+  },
+  {
+    "key": "PNGM9L8J",
+    "field": "Computer science",
+    "citations": 5,
+    "field_mean": 10.23,
+    "mncs": 0.489
+  },
+  {
+    "key": "EPIKGTEL",
+    "field": "Computer science",
+    "citations": 1,
+    "field_mean": 10.23,
+    "mncs": 0.098
+  },
+  {
+    "key": "A3WRUNHT",
+    "field": "Computer science",
+    "citations": 3,
+    "field_mean": 10.23,
+    "mncs": 0.293
+  },
+  {
+    "key": "DNK3JI3N",
+    "field": "Psychology",
+    "citations": 28,
+    "field_mean": 18.43,
+    "mncs": 1.52
+  },
+  {
+    "key": "GSUNVIP6",
+    "field": "Psychology",
+    "citations": 22,
+    "field_mean": 18.43,
+    "mncs": 1.194
+  },
+  {
+    "key": "B4EBYEKF",
+    "field": "Psychology",
+    "citations": 11,
+    "field_mean": 18.43,
+    "mncs": 0.597
+  },
+  {
+    "key": "ZLBRXPDA",
+    "field": "Psychology",
+    "citations": 2,
+    "field_mean": 18.43,
+    "mncs": 0.109
+  },
+  {
+    "key": "2IGUA9SF",
+    "field": "Unknown",
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0
+  },
+  {
+    "key": "RUGB95IU",
+    "field": "Computer science",
+    "citations": 68,
+    "field_mean": 10.23,
+    "mncs": 6.649
+  },
+  {
+    "key": "J8H6TD8Q",
+    "field": "Computer science",
+    "citations": 21,
+    "field_mean": 10.23,
+    "mncs": 2.053
+  },
+  {
+    "key": "UQVRIPCY",
+    "field": "Psychology",
+    "citations": 8,
+    "field_mean": 18.43,
+    "mncs": 0.434
+  },
+  {
+    "key": "CY59SPDS",
+    "field": "Psychology",
+    "citations": 1,
+    "field_mean": 18.43,
+    "mncs": 0.054
+  },
+  {
+    "key": "LHGYXXJG",
+    "field": "Psychology",
+    "citations": 23,
+    "field_mean": 18.43,
+    "mncs": 1.248
+  },
+  {
+    "key": "2DDA52FC",
+    "field": "Psychology",
+    "citations": 7,
+    "field_mean": 18.43,
+    "mncs": 0.38
+  },
+  {
+    "key": "Z4ICDXEQ",
+    "field": "Engineering",
+    "citations": 4,
+    "field_mean": 6.18,
+    "mncs": 0.647
+  },
+  {
+    "key": "PYM3MQNK",
+    "field": "Psychology",
+    "citations": 15,
+    "field_mean": 18.43,
+    "mncs": 0.814
+  },
+  {
+    "key": "49BIH9AZ",
+    "field": "Psychology",
+    "citations": 4,
+    "field_mean": 18.43,
+    "mncs": 0.217
+  },
+  {
+    "key": "VG98XEQP",
+    "field": "Engineering",
+    "citations": 0,
+    "field_mean": 6.18,
+    "mncs": 0.0
+  },
+  {
+    "key": "CJPX792Z",
+    "field": "Computer science",
+    "citations": 37,
+    "field_mean": 10.23,
+    "mncs": 3.618
+  },
+  {
+    "key": "IV425BDL",
+    "field": "Psychology",
+    "citations": 0,
+    "field_mean": 18.43,
+    "mncs": 0.0
+  },
+  {
+    "key": "U374P6MT",
+    "field": "Computer science",
+    "citations": 42,
+    "field_mean": 10.23,
+    "mncs": 4.107
+  },
+  {
+    "key": "Y345N2W5",
+    "field": "Psychology",
+    "citations": 6,
+    "field_mean": 18.43,
+    "mncs": 0.326
+  },
+  {
+    "key": "K9E5C83P",
+    "field": "Computer science",
+    "citations": 0,
+    "field_mean": 10.23,
+    "mncs": 0.0
+  },
+  {
+    "key": "XT6BBTKW",
+    "field": "Unknown",
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0
+  },
+  {
+    "key": "6XVSWITA",
+    "field": "Psychology",
+    "citations": 3,
+    "field_mean": 18.43,
+    "mncs": 0.163
+  },
+  {
+    "key": "I9G3834N",
+    "field": "Psychology",
+    "citations": 5,
+    "field_mean": 18.43,
+    "mncs": 0.271
+  },
+  {
+    "key": "IQD3WXLQ",
+    "field": "Psychology",
+    "citations": 1,
+    "field_mean": 18.43,
+    "mncs": 0.054
+  },
+  {
+    "key": "DFVK7NR2",
+    "field": "Psychology",
+    "citations": 27,
+    "field_mean": 18.43,
+    "mncs": 1.465
+  },
+  {
+    "key": "J4L96ZTQ",
+    "field": "Psychology",
+    "citations": 296,
+    "field_mean": 18.43,
+    "mncs": 16.064
+  },
+  {
+    "key": "4I9HTBU4",
+    "field": "Psychology",
+    "citations": 1,
+    "field_mean": 18.43,
+    "mncs": 0.054
+  },
+  {
+    "key": "NLXE3X6S",
+    "field": "Psychology",
+    "citations": 75,
+    "field_mean": 18.43,
+    "mncs": 4.07
+  },
+  {
+    "key": "9CXV3IJ6",
+    "field": "Engineering",
+    "citations": 2,
+    "field_mean": 6.18,
+    "mncs": 0.324
+  },
+  {
+    "key": "YE4TP358",
+    "field": "Engineering",
+    "citations": 1,
+    "field_mean": 6.18,
+    "mncs": 0.162
+  },
+  {
+    "key": "KI4LCCHP",
+    "field": "Psychology",
+    "citations": 7,
+    "field_mean": 18.43,
+    "mncs": 0.38
+  },
+  {
+    "key": "PH5ZR5GA",
+    "field": "Unknown",
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0
+  },
+  {
+    "key": "HX8CUXK4",
+    "field": "Sociology",
+    "citations": 10,
+    "field_mean": 5.5,
+    "mncs": 1.818
+  },
+  {
+    "key": "XHXW8PNL",
+    "field": "Psychology",
+    "citations": 26,
+    "field_mean": 18.43,
+    "mncs": 1.411
+  },
+  {
+    "key": "FMII7TUT",
+    "field": "Psychology",
+    "citations": 9,
+    "field_mean": 18.43,
+    "mncs": 0.488
+  },
+  {
+    "key": "DYIXSFV6",
+    "field": "Psychology",
+    "citations": 7,
+    "field_mean": 18.43,
+    "mncs": 0.38
+  },
+  {
+    "key": "FY6V7BET",
+    "field": "Computer science",
+    "citations": 18,
+    "field_mean": 10.23,
+    "mncs": 1.76
+  },
+  {
+    "key": "LLIXIBSQ",
+    "field": "Psychology",
+    "citations": 9,
+    "field_mean": 18.43,
+    "mncs": 0.488
+  },
+  {
+    "key": "Y27Q6N9A",
+    "field": "Psychology",
+    "citations": 15,
+    "field_mean": 18.43,
+    "mncs": 0.814
+  },
+  {
+    "key": "BQS3WMHF",
+    "field": "Engineering",
+    "citations": 0,
+    "field_mean": 6.18,
+    "mncs": 0.0
+  },
+  {
+    "key": "XQ7RZDGG",
+    "field": "Psychology",
+    "citations": 2,
+    "field_mean": 18.43,
+    "mncs": 0.109
+  },
+  {
+    "key": "DCSSFS2C",
+    "field": "Computer science",
+    "citations": 1,
+    "field_mean": 10.23,
+    "mncs": 0.098
+  },
+  {
+    "key": "WWJJIDI6",
+    "field": "Computer science",
+    "citations": 0,
+    "field_mean": 10.23,
+    "mncs": 0.0
+  },
+  {
+    "key": "B7B4X2WE",
+    "field": "Psychology",
+    "citations": 14,
+    "field_mean": 18.43,
+    "mncs": 0.76
+  },
+  {
+    "key": "G3EUY2C2",
+    "field": "Engineering",
+    "citations": 6,
+    "field_mean": 6.18,
+    "mncs": 0.971
+  },
+  {
+    "key": "3R39PUCS",
+    "field": "Psychology",
+    "citations": 5,
+    "field_mean": 18.43,
+    "mncs": 0.271
+  },
+  {
+    "key": "FL269LXE",
+    "field": "Psychology",
+    "citations": 64,
+    "field_mean": 18.43,
+    "mncs": 3.473
+  },
+  {
+    "key": "VSFBSRZB",
+    "field": "Engineering",
+    "citations": 48,
+    "field_mean": 6.18,
+    "mncs": 7.765
+  },
+  {
+    "key": "FUDIEQYR",
+    "field": "Psychology",
+    "citations": 45,
+    "field_mean": 18.43,
+    "mncs": 2.442
+  },
+  {
+    "key": "QAJGLZ2K",
+    "field": "Computer science",
+    "citations": 5,
+    "field_mean": 10.23,
+    "mncs": 0.489
+  },
+  {
+    "key": "UAN7XVF9",
+    "field": "Psychology",
+    "citations": 0,
+    "field_mean": 18.43,
+    "mncs": 0.0
+  },
+  {
+    "key": "SFEN9MC6",
+    "field": "Psychology",
+    "citations": 15,
+    "field_mean": 18.43,
+    "mncs": 0.814
+  },
+  {
+    "key": "3TLQFJEJ",
+    "field": "Psychology",
+    "citations": 0,
+    "field_mean": 18.43,
+    "mncs": 0.0
+  },
+  {
+    "key": "IUF35Z2I",
+    "field": "Psychology",
+    "citations": 6,
+    "field_mean": 18.43,
+    "mncs": 0.326
+  },
+  {
+    "key": "5EXQUZSR",
+    "field": "Engineering",
+    "citations": 2,
+    "field_mean": 6.18,
+    "mncs": 0.324
+  },
+  {
+    "key": "PJNV7WSV",
+    "field": "Psychology",
+    "citations": 5,
+    "field_mean": 18.43,
+    "mncs": 0.271
+  },
+  {
+    "key": "BQHZYQEC",
+    "field": "Psychology",
+    "citations": 12,
+    "field_mean": 18.43,
+    "mncs": 0.651
+  },
+  {
+    "key": "QKJ5DVTR",
+    "field": "Psychology",
+    "citations": 6,
+    "field_mean": 18.43,
+    "mncs": 0.326
+  },
+  {
+    "key": "K7MJBLUQ",
+    "field": "Psychology",
+    "citations": 0,
+    "field_mean": 18.43,
+    "mncs": 0.0
+  },
+  {
+    "key": "WHKSKTII",
+    "field": "Computer science",
+    "citations": 4,
+    "field_mean": 10.23,
+    "mncs": 0.391
+  },
+  {
+    "key": "TW2V2FRX",
+    "field": "Computer science",
+    "citations": 0,
+    "field_mean": 10.23,
+    "mncs": 0.0
+  },
+  {
+    "key": "7Y29KIN3",
+    "field": "Psychology",
+    "citations": 9,
+    "field_mean": 18.43,
+    "mncs": 0.488
+  },
+  {
+    "key": "IVLUCNC3",
+    "field": "Engineering",
+    "citations": 0,
+    "field_mean": 6.18,
+    "mncs": 0.0
+  },
+  {
+    "key": "BYNGELF4",
+    "field": "Engineering",
+    "citations": 4,
+    "field_mean": 6.18,
+    "mncs": 0.647
+  },
+  {
+    "key": "C3YQG2PI",
+    "field": "Unknown",
+    "citations": 0,
+    "field_mean": 0.0,
+    "mncs": 0.0
+  },
+  {
+    "key": "LQ8RTKIQ",
+    "field": "Psychology",
+    "citations": 0,
+    "field_mean": 18.43,
+    "mncs": 0.0
+  },
+  {
+    "key": "W6H25QK5",
+    "field": "Computer science",
+    "citations": 2,
+    "field_mean": 10.23,
+    "mncs": 0.196
+  },
+  {
+    "key": "9HKCQKDT",
+    "field": "Psychology",
+    "citations": 0,
+    "field_mean": 18.43,
+    "mncs": 0.0
+  },
+  {
+    "key": "JZEJCTN6",
+    "field": "Psychology",
+    "citations": 52,
+    "field_mean": 18.43,
+    "mncs": 2.822
+  },
+  {
+    "key": "6ATWRP3C",
+    "field": "Engineering",
+    "citations": 1,
+    "field_mean": 6.18,
+    "mncs": 0.162
+  },
+  {
+    "key": "6SNWQJMW",
+    "field": "Computer science",
+    "citations": 7,
+    "field_mean": 10.23,
+    "mncs": 0.684
+  },
+  {
+    "key": "95PYDLRQ",
+    "field": "Computer science",
+    "citations": 0,
+    "field_mean": 10.23,
+    "mncs": 0.0
+  }
+]

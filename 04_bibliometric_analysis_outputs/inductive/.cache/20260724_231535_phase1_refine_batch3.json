@@ -1,0 +1,60 @@
+{
+  "session_id": "20260724_231535",
+  "phase": "1_refine",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:17:00.698655",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 3
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 4
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 10
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 5,
+      "action": "merge",
+      "target_index": 3
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Large-Scale and Cross-Cultural Competency Benchmarking",
+      "definition": "The design, implementation, and analysis of large-scale assessments of engineering competencies, often involving international collaborations, multi-institutional participation, or cross-cultural validation to benchmark student performance and inform curriculum improvements.",
+      "subthemes": [
+        "International benchmarking frameworks",
+        "Vocational competencies in global contexts",
+        "Cross-cultural validation of assessment tools"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Pedagogical Interventions and Learning Outcomes Assessment",
+      "definition": "The development and evaluation of pedagogical strategies, curricular changes, or interventions (e.g., flipped classrooms, problem-based learning) aimed at enhancing engineering students' competencies, assessed through pre- and post-intervention measures of learning gains and skill development.",
+      "subthemes": [
+        "Active learning strategy evaluation",
+        "Interdisciplinary project-based learning",
+        "Curriculum alignment with competency outcomes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T22:32:33.839764",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Psychometric and Construct Coverage Framework",
+        "justification": "This framework organizes findings by distinguishing between studies focused on instrument development and those examining psychological constructs, reflecting the dominant analytical axis of measurement focus vs. psychological constructs.",
+        "general_objective": "To systematically analyze the distribution and integration of psychometric instrument development and psychological construct assessment in engineering education research.",
+        "specific_objectives": [
+          {
+            "text": "Evaluate the scope and robustness of instrument development and validation methods across major competency and psychological construct domains.",
+            "key_themes": [
+              "Instrument Development, Validation, and Psychometric Analysis",
+              "Specialized Competency and Mindset Assessment"
+            ],
+            "n_studies_support": "91",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Compare the prevalence and measurement approaches for self-efficacy, attitudes, and demographic influences versus identity, motivation, and persistence.",
+            "key_themes": [
+              "Self-Efficacy, Attitudes, and Demographic Influences",
+              "Identity, Motivation, and Persistence in Engineering"
+            ],
+            "n_studies_support": "42",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Assess the integration of reflective thinking and decision-making constructs within broader psychometric frameworks.",
+            "key_themes": [
+              "Reflective Thinking and Decision-Making",
+              "Instrument Development, Validation, and Psychometric Analysis"
+            ],
+            "n_studies_support": "2",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Examine how internship and work experience evaluation instruments complement psychological construct assessments.",
+            "key_themes": [
+              "Internship and Work Experience Evaluation",
+              "Self-Efficacy, Attitudes, and Demographic Influences"
+            ],
+            "n_studies_support": "6",
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "95%",
+        "strengths": [
+          "High coverage of major themes",
+          "Clear distinction between tool development and construct measurement",
+          "Facilitates identification of gaps in construct coverage"
+        ],
+        "limitations": [
+          "May underrepresent contextual factors like internships",
+          "Limited integration of reflective thinking due to low study count"
+        ]
+      },
+      {
+        "approach": "Individual-Contextual and Competency Depth Framework",
+        "justification": "This framework leverages the individual vs. contextual factors and competency breadth vs. depth axes to organize studies by internal attributes, external influences, and competency specificity.",
+        "general_objective": "To investigate how individual psychological attributes and contextual factors interact across broad and specialized competency assessments in engineering education.",
+        "specific_objectives": [
+          {
+            "text": "Analyze the relationship between self-efficacy, attitudes, and demographic influences (individual factors) and identity, motivation, and persistence.",
+            "key_themes": [
+              "Self-Efficacy, Attitudes, and Demographic Influences",
+              "Identity, Motivation, and Persistence in Engineering"
+            ],
+            "n_studies_support": "42",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Compare the assessment of broad transversal skills versus specialized competencies and mindsets, including their psychometric foundations.",
+            "key_themes": [
+              "Specialized Competency and Mindset Assessment",
+              "Instrument Development, Validation, and Psychometric Analysis"
+            ],
+            "n_studies_support": "31",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Evaluate the role of contextual factors (internships, work experience, COVID-19) in shaping self-efficacy and competency development.",
+            "key_themes": [
+              "Internship and Work Experience Evaluation",
+              "Self-Efficacy, Attitudes, and Demographic Influences"
+            ],
+            "n_studies_support": "6",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Examine how reflective thinking and decision-making competencies are assessed in relation to individual and contextual factors.",
+            "key_themes": [
+              "Reflective Thinking and Decision-Making",
+              "Self-Efficacy, Attitudes, and Demographic Influences"
+            ],
+            "n_studies_support": "2",
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "80%",
+        "strengths": [
+          "Integrates individual and contextual perspectives",
+          "Highlights competency breadth-depth distinction",
+          "Reveals gaps in contextual factor integration"
+        ],
+        "limitations": [
+          "Lower coverage due to exclusion of pure instrument development studies",
+          "Limited studies on reflective thinking reduce relational analysis robustness"
+        ]
+      },
+      {
+        "approach": "Competency Domain and Psychometric Integration Framework",
+        "justification": "This framework organizes findings by competency domains (psychological constructs, specialized skills, reflective processes) and their psychometric underpinnings, emphasizing the strong associations between instrument development and construct assessment.",
+        "general_objective": "To synthesize the psychometric validation of competency assessments across psychological, specialized, and reflective domains in engineering education.",
+        "specific_objectives": [
+          {
+            "text": "Map the psychometric properties and validation methods used for self-efficacy, attitudes, and demographic influence instruments.",
+            "key_themes": [
+              "Instrument Development, Validation, and Psychometric Analysis",
+              "Self-Efficacy, Attitudes, and Demographic Influences"
+            ],
+            "n_studies_support": "40",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Assess the psychometric quality and domain coverage of specialized competency and mindset assessment tools.",
+            "key_themes": [
+              "Instrument Development, Validation, and Psychometric Analysis",
+              "Specialized Competency and Mindset Assessment"
+            ],
+            "n_studies_support": "30",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Investigate the psychometric integration of identity, motivation, and persistence measures with competency assessments.",
+            "key_themes": [
+              "Identity, Motivation, and Persistence in Engineering",
+              "Specialized Competency and Mindset Assessment"
+            ],
+            "n_studies_support": "5",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Evaluate the psychometric foundations of reflective thinking and decision-making instruments in engineering contexts.",
+            "key_themes": [
+              "Reflective Thinking and Decision-Making",
+              "Instrument Development, Validation, and Psychometric Analysis"
+            ],
+            "n_studies_support": "2",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "90%",
+        "strengths": [
+          "Strong focus on psychometric rigor across domains",
+          "High coverage due to central role of instrument development",
+          "Facilitates comparison of validation practices"
+        ],
+        "limitations": [
+          "May overlook contextual factors like internships",
+          "Low study count for reflective thinking limits depth",
+          "Less emphasis on demographic and contextual influences"
+        ]
+      }
+    ],
+    "recommendation": "I recommend the Psychometric and Construct Coverage Framework because it provides the highest coverage (95%) of the data, directly aligns with the dominant analytical axis (measurement focus vs. psychological constructs), and leverages the strongest empirical relationships (e.g., instrument development with self-efficacy and specialized competencies). It also allows for comparative and relational analyses across all major themes, including the smaller but relevant internship and reflective thinking areas, while maintaining a clear organizational logic grounded in the inductive findings.",
+    "_theme_reference_check": {
+      "valid_references": 24,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

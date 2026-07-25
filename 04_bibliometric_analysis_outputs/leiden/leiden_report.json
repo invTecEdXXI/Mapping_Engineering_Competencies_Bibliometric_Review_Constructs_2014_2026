@@ -1,0 +1,135 @@
+{
+  "disclaimer": "NOTA: Indicadores normalizados intra-corpus. NO usar para comparaciones inter-institucionales formales. La normalizacion de campo se basa en conceptos OpenAlex nivel 0.",
+  "mncs": {
+    "mean": 0.927,
+    "n_above_1": 19,
+    "n_total": 96,
+    "by_field": {
+      "Computer science": {
+        "mean_mncs": 1.0,
+        "n_articles": 22
+      },
+      "Sociology": {
+        "mean_mncs": 1.0,
+        "n_articles": 2
+      },
+      "Philosophy": {
+        "mean_mncs": 0.0,
+        "n_articles": 1
+      },
+      "Psychology": {
+        "mean_mncs": 1.0,
+        "n_articles": 54
+      },
+      "Unknown": {
+        "mean_mncs": 0.0,
+        "n_articles": 6
+      },
+      "Engineering": {
+        "mean_mncs": 1.0,
+        "n_articles": 11
+      }
+    }
+  },
+  "pp_top10": {
+    "global_pp_top10": 0.094,
+    "total_top10": 9,
+    "per_field": {
+      "Computer science": {
+        "n_articles": 22,
+        "threshold": 42,
+        "n_top10": 2,
+        "pp_top10": 0.091
+      },
+      "Sociology": {
+        "n_articles": 2,
+        "threshold": 10,
+        "n_top10": 1,
+        "pp_top10": 0.5
+      },
+      "Philosophy": {
+        "n_articles": 1,
+        "threshold": 0,
+        "n_top10": 0,
+        "pp_top10": 0.0
+      },
+      "Psychology": {
+        "n_articles": 54,
+        "threshold": 49,
+        "n_top10": 5,
+        "pp_top10": 0.093
+      },
+      "Unknown": {
+        "n_articles": 6,
+        "threshold": 0,
+        "n_top10": 0,
+        "pp_top10": 0.0
+      },
+      "Engineering": {
+        "n_articles": 11,
+        "threshold": 48,
+        "n_top10": 1,
+        "pp_top10": 0.091
+      }
+    }
+  },
+  "mnjs": {
+    "mean": 1.0,
+    "n_with_sjr": 51
+  },
+  "biases": {
+    "language_bias": {
+      "pct_non_english": 6.2,
+      "distribution": {
+        "english": 80,
+        "en": 10,
+        "spanish": 3,
+        "unknown": 2,
+        "persian": 1
+      },
+      "warning": false
+    },
+    "geographic_bias": {
+      "top_countries": [
+        {
+          "country": "US",
+          "count": 233
+        },
+        {
+          "country": "PT",
+          "count": 29
+        },
+        {
+          "country": "TR",
+          "count": 28
+        },
+        {
+          "country": "DE",
+          "count": 24
+        },
+        {
+          "country": "ES",
+          "count": 20
+        }
+      ],
+      "concentration_top1": 0.417,
+      "warning": false
+    },
+    "document_type_bias": {
+      "distribution": {
+        "journal article": 64,
+        "conference paper": 32
+      },
+      "dominant_type": [
+        "journal article",
+        64
+      ]
+    },
+    "coverage": {
+      "pct_openalex": 89.6,
+      "pct_concepts": 93.8,
+      "pct_sjr": 53.1,
+      "warning": false
+    }
+  }
+}

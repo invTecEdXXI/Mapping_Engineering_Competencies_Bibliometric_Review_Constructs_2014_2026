@@ -1,0 +1,934 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d6" for="node" attr.name="pagerank" attr.type="double"/>
+<key id="d5" for="node" attr.name="betweenness_centrality" attr.type="double"/>
+<key id="d4" for="node" attr.name="degree_centrality" attr.type="double"/>
+<key id="d3" for="node" attr.name="community" attr.type="long"/>
+<key id="d2" for="node" attr.name="num_refs" attr.type="long"/>
+<key id="d1" for="node" attr.name="total_cites" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento">
+  <data key="d0">Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento</data>
+  <data key="d1">1</data>
+  <data key="d2">36</data>
+  <data key="d3">0</data>
+  <data key="d4">0.2647058823529412</data>
+  <data key="d5">0.001931075460487225</data>
+  <data key="d6">0.01347229256904799</data>
+</node>
+<node id="PLoS ONE">
+  <data key="d0">PLoS ONE</data>
+  <data key="d1">5</data>
+  <data key="d2">118</data>
+  <data key="d3">0</data>
+  <data key="d4">0.5294117647058824</data>
+  <data key="d5">0.1636976659703932</data>
+  <data key="d6">0.029232011370812935</data>
+</node>
+<node id="Education Sciences">
+  <data key="d0">Education Sciences</data>
+  <data key="d1">28</data>
+  <data key="d2">138</data>
+  <data key="d3">0</data>
+  <data key="d4">0.38235294117647056</data>
+  <data key="d5">0.0020102990691225984</data>
+  <data key="d6">0.03858672245516914</data>
+</node>
+<node id="Journal of Engineering Education Transformations">
+  <data key="d0">Journal of Engineering Education Transformations</data>
+  <data key="d1">4</data>
+  <data key="d2">41</data>
+  <data key="d3">0</data>
+  <data key="d4">0.3235294117647059</data>
+  <data key="d5">0.02088234106950684</data>
+  <data key="d6">0.01539115899319209</data>
+</node>
+<node id="Research in Science Education">
+  <data key="d0">Research in Science Education</data>
+  <data key="d1">49</data>
+  <data key="d2">118</data>
+  <data key="d3">0</data>
+  <data key="d4">0.5</data>
+  <data key="d5">0.01847309454261326</data>
+  <data key="d6">0.0327616062246982</data>
+</node>
+<node id="International Journal of Information and Education Technology">
+  <data key="d0">International Journal of Information and Education Technology</data>
+  <data key="d1">5</data>
+  <data key="d2">56</data>
+  <data key="d3">1</data>
+</node>
+<node id="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION">
+  <data key="d0">INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION</data>
+  <data key="d1">11</data>
+  <data key="d2">86</data>
+  <data key="d3">2</data>
+  <data key="d4">0.3529411764705882</data>
+  <data key="d5">0.010876868229809404</data>
+  <data key="d6">0.03007355093238471</data>
+</node>
+<node id="IEEE Transactions on Education">
+  <data key="d0">IEEE Transactions on Education</data>
+  <data key="d1">95</data>
+  <data key="d2">166</data>
+  <data key="d3">2</data>
+  <data key="d4">0.6176470588235294</data>
+  <data key="d5">0.06296856490706758</data>
+  <data key="d6">0.050026463384823576</data>
+</node>
+<node id="ACM Transactions on Computing Education">
+  <data key="d0">ACM Transactions on Computing Education</data>
+  <data key="d1">28</data>
+  <data key="d2">27</data>
+  <data key="d3">0</data>
+  <data key="d4">0.14705882352941177</data>
+  <data key="d5">0.001693404634581105</data>
+  <data key="d6">0.010059491866319718</data>
+</node>
+<node id="International Journal of Electrical Engineering and Education">
+  <data key="d0">International Journal of Electrical Engineering and Education</data>
+  <data key="d1">22</data>
+  <data key="d2">32</data>
+  <data key="d3">3</data>
+  <data key="d4">0.029411764705882353</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.0077104189147966</data>
+</node>
+<node id="Journal of Vocational Behavior">
+  <data key="d0">Journal of Vocational Behavior</data>
+  <data key="d1">11</data>
+  <data key="d2">87</data>
+  <data key="d3">4</data>
+  <data key="d4">0.5882352941176471</data>
+  <data key="d5">0.055761687312489455</data>
+  <data key="d6">0.05438310831798428</data>
+</node>
+<node id="JOURNAL OF CAREER DEVELOPMENT">
+  <data key="d0">JOURNAL OF CAREER DEVELOPMENT</data>
+  <data key="d1">2</data>
+  <data key="d2">113</data>
+  <data key="d3">4</data>
+  <data key="d4">0.47058823529411764</data>
+  <data key="d5">0.0029801452261345304</data>
+  <data key="d6">0.052153618410090495</data>
+</node>
+<node id="British Journal of Educational Technology">
+  <data key="d0">British Journal of Educational Technology</data>
+  <data key="d1">68</data>
+  <data key="d2">29</data>
+  <data key="d3">2</data>
+  <data key="d4">0.20588235294117646</data>
+  <data key="d5">0.03300274195996122</data>
+  <data key="d6">0.00832242049177947</data>
+</node>
+<node id="2019 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d0">2019 ASEE Annual Conference &amp; Exposition  Proceedings</data>
+  <data key="d1">8</data>
+  <data key="d2">22</data>
+  <data key="d3">3</data>
+  <data key="d4">0.08823529411764705</data>
+  <data key="d5">0.06111538738544086</data>
+  <data key="d6">0.012087484487174723</data>
+</node>
+<node id="International Journal of Instruction">
+  <data key="d0">International Journal of Instruction</data>
+  <data key="d1">23</data>
+  <data key="d2">73</data>
+  <data key="d3">0</data>
+  <data key="d4">0.4411764705882353</data>
+  <data key="d5">0.07410902130153468</data>
+  <data key="d6">0.020512730851583647</data>
+</node>
+<node id="ASEE IL-IN Section Conference">
+  <data key="d0">ASEE IL-IN Section Conference</data>
+  <data key="d1">7</data>
+  <data key="d2">20</data>
+  <data key="d3">2</data>
+  <data key="d4">0.38235294117647056</data>
+  <data key="d5">0.028003579407322718</data>
+  <data key="d6">0.020907698112747366</data>
+</node>
+<node id="European Journal of Engineering Education">
+  <data key="d0">European Journal of Engineering Education</data>
+  <data key="d1">31</data>
+  <data key="d2">410</data>
+  <data key="d3">2</data>
+  <data key="d4">0.7941176470588235</data>
+  <data key="d5">0.14796662289977802</data>
+  <data key="d6">0.11892814705384497</data>
+</node>
+<node id="INTERNATIONAL JOURNAL OF INSTRUCTION">
+  <data key="d0">INTERNATIONAL JOURNAL OF INSTRUCTION</data>
+  <data key="d1">15</data>
+  <data key="d2">91</data>
+  <data key="d3">0</data>
+  <data key="d4">0.4411764705882353</data>
+  <data key="d5">0.08274203514845226</data>
+  <data key="d6">0.026063437466441842</data>
+</node>
+<node id="International Journal of Human Capital and Information Technology Professionals">
+  <data key="d0">International Journal of Human Capital and Information Technology Professionals</data>
+  <data key="d1">4</data>
+  <data key="d2">36</data>
+  <data key="d3">0</data>
+  <data key="d4">0.20588235294117646</data>
+  <data key="d5">0.027779983929716544</data>
+  <data key="d6">0.010346724135468057</data>
+</node>
+<node id="Participatory Educational Research (PER)">
+  <data key="d0">Participatory Educational Research (PER)</data>
+  <data key="d1">42</data>
+  <data key="d2">51</data>
+  <data key="d3">6</data>
+  <data key="d4">0.23529411764705882</data>
+  <data key="d5">0.06910356429073006</data>
+  <data key="d6">0.01788764357626072</data>
+</node>
+<node id="International Journal of Engineering Pedagogy">
+  <data key="d0">International Journal of Engineering Pedagogy</data>
+  <data key="d1">6</data>
+  <data key="d2">13</data>
+  <data key="d3">6</data>
+  <data key="d4">0.029411764705882353</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.007543810264268874</data>
+</node>
+<node id="Design Science">
+  <data key="d0">Design Science</data>
+  <data key="d1">3</data>
+  <data key="d2">110</data>
+  <data key="d3">2</data>
+  <data key="d4">0.3235294117647059</data>
+  <data key="d5">0.02325686296274531</data>
+  <data key="d6">0.02013263281797978</data>
+</node>
+<node id="International Journal of Mechanical Engineering Education">
+  <data key="d0">International Journal of Mechanical Engineering Education</data>
+  <data key="d1">5</data>
+  <data key="d2">99</data>
+  <data key="d3">0</data>
+  <data key="d4">0.5588235294117647</data>
+  <data key="d5">0.04923114615627984</data>
+  <data key="d6">0.030207380398651996</data>
+</node>
+<node id="Journal of Engineering Education">
+  <data key="d0">Journal of Engineering Education</data>
+  <data key="d1">439</data>
+  <data key="d2">508</data>
+  <data key="d3">0</data>
+  <data key="d4">0.7647058823529411</data>
+  <data key="d5">0.0007137841362440292</data>
+  <data key="d6">0.14043389101553025</data>
+</node>
+<node id="PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES">
+  <data key="d0">PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES</data>
+  <data key="d1">1</data>
+  <data key="d2">94</data>
+  <data key="d3">0</data>
+  <data key="d4">0.058823529411764705</data>
+  <data key="d5">0.0017082590612002375</data>
+  <data key="d6">0.005832718827242477</data>
+</node>
+<node id="International Journal of Sustainability in Higher Education">
+  <data key="d0">International Journal of Sustainability in Higher Education</data>
+  <data key="d1">75</data>
+  <data key="d2">77</data>
+  <data key="d3">0</data>
+  <data key="d4">0.4117647058823529</data>
+  <data key="d5">0.06635051173821226</data>
+  <data key="d6">0.02396627764296245</data>
+</node>
+<node id="Studies in Higher Education">
+  <data key="d0">Studies in Higher Education</data>
+  <data key="d1">7</data>
+  <data key="d2">58</data>
+  <data key="d3">0</data>
+  <data key="d4">0.5294117647058824</data>
+  <data key="d5">0.019862260437126748</data>
+  <data key="d6">0.028026404167518146</data>
+</node>
+<node id="Peabody Journal of Education (0161956X)">
+  <data key="d0">Peabody Journal of Education (0161956X)</data>
+  <data key="d1">15</data>
+  <data key="d2">63</data>
+  <data key="d3">2</data>
+  <data key="d4">0.058823529411764705</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.005934997927108375</data>
+</node>
+<node id="Empirical Research in Vocational Education and Training">
+  <data key="d0">Empirical Research in Vocational Education and Training</data>
+  <data key="d1">15</data>
+  <data key="d2">17</data>
+  <data key="d3">5</data>
+</node>
+<node id="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d0">EUROPEAN JOURNAL OF ENGINEERING EDUCATION</data>
+  <data key="d1">6</data>
+  <data key="d2">158</data>
+  <data key="d3">2</data>
+  <data key="d4">0.5882352941176471</data>
+  <data key="d5">0.027557664656595135</data>
+  <data key="d6">0.08927496943045135</data>
+</node>
+<node id="Journal of Cleaner Production">
+  <data key="d0">Journal of Cleaner Production</data>
+  <data key="d1">48</data>
+  <data key="d2">86</data>
+  <data key="d3">0</data>
+  <data key="d4">0.20588235294117646</data>
+  <data key="d5">0.0017429193899782132</data>
+  <data key="d6">0.011552684229017701</data>
+</node>
+<node id="European Journal of Science and Mathematics Education">
+  <data key="d0">European Journal of Science and Mathematics Education</data>
+  <data key="d1">0</data>
+  <data key="d2">34</data>
+  <data key="d3">0</data>
+  <data key="d4">0.2647058823529412</data>
+  <data key="d5">0.1307891578613503</data>
+  <data key="d6">0.010103846211624145</data>
+</node>
+<node id="Assessment &amp; Evaluation in Higher Education">
+  <data key="d0">Assessment &amp; Evaluation in Higher Education</data>
+  <data key="d1">15</data>
+  <data key="d2">33</data>
+  <data key="d3">0</data>
+  <data key="d4">0.08823529411764705</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.009106481035937468</data>
+</node>
+<node id="Sustainability (Switzerland)">
+  <data key="d0">Sustainability (Switzerland)</data>
+  <data key="d1">9</data>
+  <data key="d2">78</data>
+  <data key="d3">2</data>
+  <data key="d4">0.11764705882352941</data>
+  <data key="d5">0.0002228163992869875</data>
+  <data key="d6">0.008126857228744622</data>
+</node>
+<node id="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d0">2018 ASEE Annual Conference &amp; Exposition  Proceedings</data>
+  <data key="d1">4</data>
+  <data key="d2">32</data>
+  <data key="d3">2</data>
+  <data key="d4">0.2647058823529412</data>
+  <data key="d5">0.009688269247092776</data>
+  <data key="d6">0.018097726185677385</data>
+</node>
+<node id="PLOS ONE">
+  <data key="d0">PLOS ONE</data>
+  <data key="d1">0</data>
+  <data key="d2">46</data>
+  <data key="d3">0</data>
+  <data key="d4">0.38235294117647056</data>
+  <data key="d5">0.07090458561046796</data>
+  <data key="d6">0.017178372509929724</data>
+</node>
+<node id="Frontiers in Education">
+  <data key="d0">Frontiers in Education</data>
+  <data key="d1">0</data>
+  <data key="d2">16</data>
+  <data key="d3">0</data>
+  <data key="d4">0.058823529411764705</data>
+  <data key="d5">0.002703505644682115</data>
+  <data key="d6">0.005574220492734396</data>
+</node>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Education Sciences">
+  <data key="d7">4</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Research in Science Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Journal of Vocational Behavior">
+  <data key="d7">2</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="European Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="Studies in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">2</data>
+</edge>
+<edge source="Etic@net: Revista científica electrónica de Educación y Comunicación en la Sociedad del Conocimiento" target="PLOS ONE">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="Education Sciences">
+  <data key="d7">2</data>
+</edge>
+<edge source="PLoS ONE" target="Journal of Engineering Education Transformations">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="Research in Science Education">
+  <data key="d7">5</data>
+</edge>
+<edge source="PLoS ONE" target="IEEE Transactions on Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="PLoS ONE" target="ACM Transactions on Computing Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="Journal of Vocational Behavior">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="JOURNAL OF CAREER DEVELOPMENT">
+  <data key="d7">2</data>
+</edge>
+<edge source="PLoS ONE" target="2019 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="International Journal of Instruction">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="European Journal of Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="INTERNATIONAL JOURNAL OF INSTRUCTION">
+  <data key="d7">2</data>
+</edge>
+<edge source="PLoS ONE" target="Participatory Educational Research (PER)">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="Design Science">
+  <data key="d7">3</data>
+</edge>
+<edge source="PLoS ONE" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="PLoS ONE" target="Journal of Engineering Education">
+  <data key="d7">8</data>
+</edge>
+<edge source="PLoS ONE" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="PLoS ONE" target="Studies in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="PLoS ONE" target="PLOS ONE">
+  <data key="d7">1</data>
+</edge>
+<edge source="Education Sciences" target="Research in Science Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Education Sciences" target="Journal of Vocational Behavior">
+  <data key="d7">2</data>
+</edge>
+<edge source="Education Sciences" target="International Journal of Instruction">
+  <data key="d7">1</data>
+</edge>
+<edge source="Education Sciences" target="European Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Education Sciences" target="INTERNATIONAL JOURNAL OF INSTRUCTION">
+  <data key="d7">2</data>
+</edge>
+<edge source="Education Sciences" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">4</data>
+</edge>
+<edge source="Education Sciences" target="Journal of Engineering Education">
+  <data key="d7">38</data>
+</edge>
+<edge source="Education Sciences" target="Studies in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Education Sciences" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">2</data>
+</edge>
+<edge source="Education Sciences" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">1</data>
+</edge>
+<edge source="Education Sciences" target="PLOS ONE">
+  <data key="d7">3</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="Research in Science Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="IEEE Transactions on Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="JOURNAL OF CAREER DEVELOPMENT">
+  <data key="d7">2</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="International Journal of Instruction">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="ASEE IL-IN Section Conference">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="European Journal of Engineering Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="Journal of Engineering Education">
+  <data key="d7">5</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="Studies in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Engineering Education Transformations" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">1</data>
+</edge>
+<edge source="Research in Science Education" target="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION">
+  <data key="d7">1</data>
+</edge>
+<edge source="Research in Science Education" target="IEEE Transactions on Education">
+  <data key="d7">4</data>
+</edge>
+<edge source="Research in Science Education" target="Journal of Vocational Behavior">
+  <data key="d7">2</data>
+</edge>
+<edge source="Research in Science Education" target="JOURNAL OF CAREER DEVELOPMENT">
+  <data key="d7">3</data>
+</edge>
+<edge source="Research in Science Education" target="International Journal of Instruction">
+  <data key="d7">1</data>
+</edge>
+<edge source="Research in Science Education" target="ASEE IL-IN Section Conference">
+  <data key="d7">1</data>
+</edge>
+<edge source="Research in Science Education" target="European Journal of Engineering Education">
+  <data key="d7">4</data>
+</edge>
+<edge source="Research in Science Education" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="Research in Science Education" target="Journal of Engineering Education">
+  <data key="d7">16</data>
+</edge>
+<edge source="Research in Science Education" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Research in Science Education" target="Studies in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Research in Science Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">3</data>
+</edge>
+<edge source="Research in Science Education" target="PLOS ONE">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="IEEE Transactions on Education">
+  <data key="d7">5</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="Journal of Vocational Behavior">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="British Journal of Educational Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="International Journal of Instruction">
+  <data key="d7">3</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="ASEE IL-IN Section Conference">
+  <data key="d7">3</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="European Journal of Engineering Education">
+  <data key="d7">8</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="INTERNATIONAL JOURNAL OF INSTRUCTION">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="Journal of Engineering Education">
+  <data key="d7">11</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="Studies in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">10</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">3</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Journal of Vocational Behavior">
+  <data key="d7">2</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="JOURNAL OF CAREER DEVELOPMENT">
+  <data key="d7">2</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="British Journal of Educational Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="2019 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">1</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="International Journal of Instruction">
+  <data key="d7">1</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="ASEE IL-IN Section Conference">
+  <data key="d7">1</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="European Journal of Engineering Education">
+  <data key="d7">14</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Participatory Educational Research (PER)">
+  <data key="d7">3</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Design Science">
+  <data key="d7">1</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">4</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Journal of Engineering Education">
+  <data key="d7">12</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Studies in Higher Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Peabody Journal of Education (0161956X)">
+  <data key="d7">2</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">6</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Journal of Cleaner Production">
+  <data key="d7">2</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="Sustainability (Switzerland)">
+  <data key="d7">2</data>
+</edge>
+<edge source="IEEE Transactions on Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">1</data>
+</edge>
+<edge source="ACM Transactions on Computing Education" target="JOURNAL OF CAREER DEVELOPMENT">
+  <data key="d7">2</data>
+</edge>
+<edge source="ACM Transactions on Computing Education" target="Participatory Educational Research (PER)">
+  <data key="d7">1</data>
+</edge>
+<edge source="ACM Transactions on Computing Education" target="Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="ACM Transactions on Computing Education" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="International Journal of Electrical Engineering and Education" target="2019 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="JOURNAL OF CAREER DEVELOPMENT">
+  <data key="d7">36</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="British Journal of Educational Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="International Journal of Instruction">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="ASEE IL-IN Section Conference">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="European Journal of Engineering Education">
+  <data key="d7">11</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="Design Science">
+  <data key="d7">2</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="Journal of Engineering Education">
+  <data key="d7">17</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="Studies in Higher Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">9</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="European Journal of Science and Mathematics Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Vocational Behavior" target="PLOS ONE">
+  <data key="d7">2</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="International Journal of Instruction">
+  <data key="d7">2</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="ASEE IL-IN Section Conference">
+  <data key="d7">1</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="European Journal of Engineering Education">
+  <data key="d7">11</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="Design Science">
+  <data key="d7">5</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="Journal of Engineering Education">
+  <data key="d7">12</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="Studies in Higher Education">
+  <data key="d7">4</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">6</data>
+</edge>
+<edge source="JOURNAL OF CAREER DEVELOPMENT" target="European Journal of Science and Mathematics Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="British Journal of Educational Technology" target="European Journal of Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="British Journal of Educational Technology" target="Design Science">
+  <data key="d7">1</data>
+</edge>
+<edge source="British Journal of Educational Technology" target="Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="British Journal of Educational Technology" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Instruction" target="ASEE IL-IN Section Conference">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Instruction" target="INTERNATIONAL JOURNAL OF INSTRUCTION">
+  <data key="d7">2</data>
+</edge>
+<edge source="International Journal of Instruction" target="International Journal of Human Capital and Information Technology Professionals">
+  <data key="d7">2</data>
+</edge>
+<edge source="International Journal of Instruction" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Instruction" target="Journal of Engineering Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="International Journal of Instruction" target="PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Instruction" target="Studies in Higher Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="ASEE IL-IN Section Conference" target="European Journal of Engineering Education">
+  <data key="d7">6</data>
+</edge>
+<edge source="ASEE IL-IN Section Conference" target="Design Science">
+  <data key="d7">1</data>
+</edge>
+<edge source="ASEE IL-IN Section Conference" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="ASEE IL-IN Section Conference" target="Journal of Engineering Education">
+  <data key="d7">9</data>
+</edge>
+<edge source="ASEE IL-IN Section Conference" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">5</data>
+</edge>
+<edge source="ASEE IL-IN Section Conference" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">2</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="INTERNATIONAL JOURNAL OF INSTRUCTION">
+  <data key="d7">2</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="International Journal of Human Capital and Information Technology Professionals">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Participatory Educational Research (PER)">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Design Science">
+  <data key="d7">10</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">4</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Journal of Engineering Education">
+  <data key="d7">39</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Studies in Higher Education">
+  <data key="d7">4</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Peabody Journal of Education (0161956X)">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">78</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Journal of Cleaner Production">
+  <data key="d7">2</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="European Journal of Science and Mathematics Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Sustainability (Switzerland)">
+  <data key="d7">2</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">5</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="PLOS ONE">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Engineering Education" target="Frontiers in Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Journal of Engineering Education">
+  <data key="d7">5</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="PERTANIKA JOURNAL OF SOCIAL SCIENCE AND HUMANITIES">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Studies in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="European Journal of Science and Mathematics Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Assessment &amp; Evaluation in Higher Education">
+  <data key="d7">3</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Sustainability (Switzerland)">
+  <data key="d7">1</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="PLOS ONE">
+  <data key="d7">2</data>
+</edge>
+<edge source="INTERNATIONAL JOURNAL OF INSTRUCTION" target="Frontiers in Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Human Capital and Information Technology Professionals" target="Participatory Educational Research (PER)">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Human Capital and Information Technology Professionals" target="International Journal of Mechanical Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Human Capital and Information Technology Professionals" target="Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="International Journal of Human Capital and Information Technology Professionals" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Human Capital and Information Technology Professionals" target="Journal of Cleaner Production">
+  <data key="d7">1</data>
+</edge>
+<edge source="Participatory Educational Research (PER)" target="International Journal of Engineering Pedagogy">
+  <data key="d7">3</data>
+</edge>
+<edge source="Participatory Educational Research (PER)" target="Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Participatory Educational Research (PER)" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Design Science" target="Journal of Engineering Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="Design Science" target="Studies in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Design Science" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">3</data>
+</edge>
+<edge source="Design Science" target="European Journal of Science and Mathematics Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Mechanical Engineering Education" target="Journal of Engineering Education">
+  <data key="d7">6</data>
+</edge>
+<edge source="International Journal of Mechanical Engineering Education" target="Studies in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="International Journal of Mechanical Engineering Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">4</data>
+</edge>
+<edge source="International Journal of Mechanical Engineering Education" target="Journal of Cleaner Production">
+  <data key="d7">2</data>
+</edge>
+<edge source="International Journal of Mechanical Engineering Education" target="European Journal of Science and Mathematics Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Mechanical Engineering Education" target="PLOS ONE">
+  <data key="d7">2</data>
+</edge>
+<edge source="Journal of Engineering Education" target="International Journal of Sustainability in Higher Education">
+  <data key="d7">10</data>
+</edge>
+<edge source="Journal of Engineering Education" target="Studies in Higher Education">
+  <data key="d7">5</data>
+</edge>
+<edge source="Journal of Engineering Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">26</data>
+</edge>
+<edge source="Journal of Engineering Education" target="Journal of Cleaner Production">
+  <data key="d7">2</data>
+</edge>
+<edge source="Journal of Engineering Education" target="European Journal of Science and Mathematics Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Engineering Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">8</data>
+</edge>
+<edge source="Journal of Engineering Education" target="PLOS ONE">
+  <data key="d7">3</data>
+</edge>
+<edge source="International Journal of Sustainability in Higher Education" target="Studies in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Sustainability in Higher Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">1</data>
+</edge>
+<edge source="International Journal of Sustainability in Higher Education" target="Journal of Cleaner Production">
+  <data key="d7">2</data>
+</edge>
+<edge source="International Journal of Sustainability in Higher Education" target="Assessment &amp; Evaluation in Higher Education">
+  <data key="d7">2</data>
+</edge>
+<edge source="International Journal of Sustainability in Higher Education" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">1</data>
+</edge>
+<edge source="Studies in Higher Education" target="EUROPEAN JOURNAL OF ENGINEERING EDUCATION">
+  <data key="d7">1</data>
+</edge>
+<edge source="Studies in Higher Education" target="PLOS ONE">
+  <data key="d7">3</data>
+</edge>
+<edge source="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" target="Sustainability (Switzerland)">
+  <data key="d7">2</data>
+</edge>
+<edge source="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" target="2018 ASEE Annual Conference &amp; Exposition  Proceedings">
+  <data key="d7">6</data>
+</edge>
+<edge source="EUROPEAN JOURNAL OF ENGINEERING EDUCATION" target="PLOS ONE">
+  <data key="d7">1</data>
+</edge>
+<edge source="Journal of Cleaner Production" target="PLOS ONE">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Science and Mathematics Education" target="Assessment &amp; Evaluation in Higher Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="European Journal of Science and Mathematics Education" target="PLOS ONE">
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>

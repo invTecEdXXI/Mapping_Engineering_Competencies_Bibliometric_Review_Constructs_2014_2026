@@ -1,0 +1,44 @@
+{
+  "protocolo": {
+    "titulo": "Measurement instruments for technical and transversal competencies in engineering education: a systematic review of measurement properties",
+    "total_registros_incluidos": 97,
+    "fase_analisis": "Análisis Temático Inductivo Orgánico (Sin Restricción de Categorías)"
+  },
+  "categorias_selectivas_emergentes": [
+    {
+      "categoria_id": "CAT_01",
+      "nombre": "Taxonomía y Operacionalización de Constructos Disciplinares Específicos",
+      "keys_asociadas": ["HX8CUXK4", "FMII7TUT", "K7MJBLUQ", "PLQTGFE2", "ECTTSUXE", "I9G3834N", "CJPX792Z", "U374P6MT", "EPIKGTEL", "DNK3JI3N", "PP8YRX22", "PJNV7WSV", "AIPHQE23", "Z4ICDXEQ"]
+    },
+    {
+      "categoria_id": "CAT_02",
+      "nombre": "Competencias Profesionales, Transversales y de Gestión (Soft Skills)",
+      "keys_asociadas": ["GSUNVIP6", "C3YQG2PI", "6SNWQJMW", "W6H25QK5", "QKJ5DVTR", "IQD3WXLQ", "6ATWRP3C", "3TLQFJEJ", "XQ7RZDGG", "J8H6TD8Q", "PNGM9L8J"]
+    },
+    {
+      "categoria_id": "CAT_03",
+      "nombre": "Mindset Emprendedor, Innovación y Pensamiento Creativo",
+      "keys_asociadas": ["LPJSUJ9V", "JZEJCTN6", "BQHZYQEC", "K9E5C83P", "UQVRIPCY", "YE4TP358", "6XVSWITA", "2IGUA9SF"]
+    },
+    {
+      "categoria_id": "CAT_04",
+      "nombre": "Valores, Ética, Responsabilidad Social y Sustentabilidad",
+      "keys_asociadas": ["IV425BDL", "DNK3JI3N", "PD6ENV2", "NLXE3X6S", "VSFBSRZB", "LQ8RTKIQ", "KU4TN5MB", "JKK5M2EG"]
+    },
+    {
+      "categoria_id": "CAT_05",
+      "nombre": "Dimensiones Psicoeducativas, Afectivas e Identitarias",
+      "keys_asociadas": ["J4L96ZTQ", "G3EUY2C2", "LLIXIBSQ", "B7B4X2WE", "2DDA52FC", "95PYDLRQ", "FUDIEQYR", "W2PMJWMT", "WHKSKTII", "FY6V77BET", "PVT4UE9C", "IVLUCNC3", "BYNGELF4", "XT6BBTKW", "PH5ZR5GA", "I9QV6W8G", "9HKCQKDT", "PYM3MQNK", "GMEMS46N", "NKWQH4PB"]
+    },
+    {
+      "categoria_id": "CAT_06",
+      "nombre": "Formatos y Arquitectura Operativa de los Instrumentos",
+      "keys_asociadas": ["B4EBYEKF", "3R39PUCS", "84K6T4E3", "QAJGLZ2K", "GSUNVIP6", "FMII7TUT", "CU9IWP4L", "9HGRHX6A", "Y27Q6N9A", "SFEN9MC6", "RUGB95IU", "AKZVTZER"]
+    },
+    {
+      "categoria_id": "CAT_07",
+      "nombre": "Rigor Psicométrico, Invarianza y Entornos de Aplicación",
+      "keys_asociadas": ["LHGYXXJG", "PD6ENV2", "IQD3WXLQ", "YE4TP358", "IV425BDL", "HX8CUXK4", "PP8YRX22", "TW2V2FRX", "PLQTGFE2", "WHKSKTII", "KI4LCCHP", "BYNGELF4", "5EXQUZSR", "DFVK7NR2", "WE7WVA4B", "4I9HTBU4", "9CXV3IJ6", "Y4ZKXXH4"]
+    }
+  ]
+}

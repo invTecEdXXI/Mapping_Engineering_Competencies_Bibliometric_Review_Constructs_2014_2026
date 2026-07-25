@@ -1,0 +1,61 @@
+{
+  "session_id": "20260722_000511",
+  "started_at": "2026-07-22T00:05:11.808727",
+  "config": {
+    "total_articles": 906,
+    "valid_articles": 906,
+    "min_abstract_length": 50,
+    "batch_size": 30,
+    "provider": "DeepSeek",
+    "model": "deepseek-v4-flash",
+    "use_cache": true,
+    "proposal_screening": true,
+    "audit_prompts": false,
+    "parallel": false,
+    "max_workers": 3,
+    "use_embeddings": true,
+    "consensus_screening": false,
+    "screening_mode": "two_phase",
+    "review_type": "bibliometric",
+    "hierarchical_synthesis": true,
+    "temperature_screening": 0.0,
+    "temperature_analysis": 0.0,
+    "inductive_seed": 42,
+    "valid_articles_after_screening": 83
+  },
+  "operations": [
+    {
+      "timestamp": "2026-07-22T00:05:13.153261",
+      "operation": "screening_phase0a",
+      "details": {
+        "total": 906,
+        "included": 698,
+        "excluded": 208,
+        "level_counts": {
+          "coincidencia_total": 350,
+          "rescate_keywords": 348,
+          "vacio_conceptual": 208,
+          "informacion_nula": 0
+        },
+        "automatic_exclusion_enabled": true,
+        "concepts": [
+          "EngineeringEducation",
+          "SoftSkill",
+          "MeasurementInstrument",
+          "InternalConsistency"
+        ]
+      }
+    },
+    {
+      "timestamp": "2026-07-22T03:53:50.702153",
+      "operation": "screening_complete",
+      "details": {
+        "mode": "two_phase",
+        "total_screened": 906,
+        "included": 83,
+        "excluded": 777
+      }
+    }
+  ],
+  "completed_at": "2026-07-22T03:53:50.833897"
+}

@@ -1,0 +1,555 @@
+2026-07-24 22:51:15 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:51:15 [INFO] bibliometrico.main: Sistema de Analisis Bibliometrico de Frontera
+2026-07-24 22:51:15 [INFO] bibliometrico.main: Fases seleccionadas: [7]
+2026-07-24 22:51:15 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:51:15 [INFO] bibliometrico.main: Checkpoint cargado: 96 articulos
+2026-07-24 22:51:15 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:51:15 [INFO] bibliometrico.population_sample: ============================================================
+2026-07-24 22:51:15 [INFO] bibliometrico.population_sample: PHASE 7a: LLM Population & Sample Extraction
+2026-07-24 22:51:15 [INFO] bibliometrico.population_sample: ============================================================
+2026-07-24 22:51:15 [INFO] bibliometrico.population_sample:   Filtered: 94/96 extractable
+2026-07-24 22:51:16 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Domain context loaded: PICO=yes, few-shot=2, hash=8499d945
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Calculated batch size: 11 (avg 384 input + 700 response tokens/article)
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample: ============================================================
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample: POPULATION SAMPLE EXTRACTOR v2.0 (domain-agnostic)
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample: ============================================================
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Total articles: 96
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Extractable (abstract >= 50 chars): 94
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Batch size: 11
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Provider: DeepSeek (deepseek-v4-flash)
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Session: 20260724_225116
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample: Starting population/sample extraction...
+2026-07-24 22:51:16 [INFO] bibliometrico.population_sample:   Batch 1/9: 11 to extract, 0 cached
+2026-07-24 22:51:17 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:51:42 [INFO] bibliometrico.population_sample:   Batch 2/9: 11 to extract, 0 cached
+2026-07-24 22:51:43 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:52:20 [INFO] bibliometrico.population_sample:   Batch 3/9: 11 to extract, 0 cached
+2026-07-24 22:52:21 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:52:48 [INFO] bibliometrico.population_sample:   Batch 4/9: 11 to extract, 0 cached
+2026-07-24 22:52:48 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:53:17 [INFO] bibliometrico.population_sample:   Batch 5/9: 11 to extract, 0 cached
+2026-07-24 22:53:18 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:53:43 [INFO] bibliometrico.population_sample:   Batch 6/9: 11 to extract, 0 cached
+2026-07-24 22:53:44 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:54:09 [INFO] bibliometrico.population_sample:   Batch 7/9: 11 to extract, 0 cached
+2026-07-24 22:54:09 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:54:38 [INFO] bibliometrico.population_sample:   Batch 8/9: 11 to extract, 0 cached
+2026-07-24 22:54:38 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:55:07 [INFO] bibliometrico.population_sample:   Batch 9/9: 6 to extract, 0 cached
+2026-07-24 22:55:07 [INFO] httpx: HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-24 22:55:24 [INFO] bibliometrico.population_sample:   Clustered population_category: 14 -> 11 unique values
+2026-07-24 22:55:25 [INFO] bibliometrico.population_sample:   Clustered research_focus_category: 23 -> 21 unique values
+2026-07-24 22:55:25 [INFO] bibliometrico.population_sample:   Clustered discipline: 34 -> 32 unique values
+2026-07-24 22:55:25 [INFO] bibliometrico.population_sample:   Clustered sample_composition: 23 -> 22 unique values
+2026-07-24 22:55:25 [INFO] bibliometrico.population_sample:   Clustered tools_or_interventions: 122 -> 119 unique values
+2026-07-24 22:55:25 [INFO] bibliometrico.population_sample:   Clustered wellbeing_constructs: 51 -> 50 unique values
+2026-07-24 22:55:25 [INFO] bibliometrico.population_sample:   Clustered data_sources: 105 -> 99 unique values
+2026-07-24 22:55:26 [INFO] bibliometrico.population_sample:   Clustered analytical_methods: 136 -> 124 unique values
+2026-07-24 22:55:26 [INFO] bibliometrico.population_sample:   Clustered outcome_variables: 204 -> 196 unique values
+2026-07-24 22:55:26 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_sample\extraction_summary.json
+2026-07-24 22:55:26 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_sample\trace_20260724_225116.json
+2026-07-24 22:55:26 [INFO] bibliometrico.population_sample: Extraction complete: 94 extracted, 0 cached, 2 skipped, 0 errors
+2026-07-24 22:55:27 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:55:27 [INFO] bibliometrico.main: Phase 7a: 94 extracted (0 cached)
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: ============================================================
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Phase 7: Population & Study Focus Analysis
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Corpus size: 96 articles
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: ============================================================
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Enriching articles with population & study focus data...
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Population sources: llm=93, keyword_inference=3, none=0
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Enrichment complete: 14 population categories, 21 research foci, 119 tools, 7 designs detected (94 articles with LLM data)
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Manual review MD saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\manual_review_unclassified.md
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Manual review CSV saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\manual_review_unclassified.csv
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Manual review needed: 1 articles
+2026-07-24 22:55:27 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\population_distribution.html
+2026-07-24 22:55:27 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:27 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:27 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp7io7shit.
+2026-07-24 22:55:27 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:27 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpm944n1cu.
+2026-07-24 22:55:27 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpm944n1cu
+2026-07-24 22:55:27 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp7io7shit/index.html
+2026-07-24 22:55:27 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Got 7EB4
+2026-07-24 22:55:28 [INFO] kaleido._kaleido_tab: Processing Population_Category_Distribution.png
+2026-07-24 22:55:28 [INFO] kaleido._kaleido_tab: Sending big command for Population_Category_Distribution.png.
+2026-07-24 22:55:28 [INFO] kaleido._kaleido_tab: Sent big command for Population_Category_Distribution.png.
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Reloading tab 7EB4 before return.
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Putting tab 7EB4 back (queue size: 0).
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:28 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:28 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:28 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:28 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:28 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:29 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:29 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:29 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:29 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:29 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:29 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:29 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\population_distribution.png
+2026-07-24 22:55:29 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\population_focus_heatmap.html
+2026-07-24 22:55:29 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:29 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:29 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmptox37_8s.
+2026-07-24 22:55:29 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:29 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpjh0pclgx.
+2026-07-24 22:55:29 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpjh0pclgx
+2026-07-24 22:55:29 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmptox37_8s/index.html
+2026-07-24 22:55:29 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Got FE00
+2026-07-24 22:55:30 [INFO] kaleido._kaleido_tab: Processing Population_Category_vs_Research_Focus_Top_combinations.png
+2026-07-24 22:55:30 [INFO] kaleido._kaleido_tab: Sending big command for Population_Category_vs_Research_Focus_Top_combinations.png.
+2026-07-24 22:55:30 [INFO] kaleido._kaleido_tab: Sent big command for Population_Category_vs_Research_Focus_Top_combinations.png.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Reloading tab FE00 before return.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Putting tab FE00 back (queue size: 0).
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:30 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:30 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:30 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\population_focus_heatmap.png
+2026-07-24 22:55:30 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\sankey_population_focus_tool.html
+2026-07-24 22:55:30 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:30 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpzb_3d2gw.
+2026-07-24 22:55:30 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:30 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp09rjcoy5.
+2026-07-24 22:55:30 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmp09rjcoy5
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpzb_3d2gw/index.html
+2026-07-24 22:55:30 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:31 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:31 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:31 [INFO] kaleido.kaleido: Got 36DE
+2026-07-24 22:55:31 [INFO] kaleido._kaleido_tab: Processing Flow_Population___Research_Focus___ToolIntervention.png
+2026-07-24 22:55:31 [INFO] kaleido._kaleido_tab: Sending big command for Flow_Population___Research_Focus___ToolIntervention.png.
+2026-07-24 22:55:32 [INFO] kaleido._kaleido_tab: Sent big command for Flow_Population___Research_Focus___ToolIntervention.png.
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Reloading tab 36DE before return.
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Putting tab 36DE back (queue size: 0).
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:32 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:32 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:32 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\sankey_population_focus_tool.png
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:32 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\temporal_evolution_populations.html
+2026-07-24 22:55:32 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:32 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpv1edildh.
+2026-07-24 22:55:32 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:32 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpj_8r_j0b.
+2026-07-24 22:55:32 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpj_8r_j0b
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpv1edildh/index.html
+2026-07-24 22:55:32 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Got 3072
+2026-07-24 22:55:33 [INFO] kaleido._kaleido_tab: Processing Temporal_Evolution_of_Population_Categories.png
+2026-07-24 22:55:33 [INFO] kaleido._kaleido_tab: Sending big command for Temporal_Evolution_of_Population_Categories.png.
+2026-07-24 22:55:33 [INFO] kaleido._kaleido_tab: Sent big command for Temporal_Evolution_of_Population_Categories.png.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Reloading tab 3072 before return.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Putting tab 3072 back (queue size: 0).
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:33 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:33 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:33 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:33 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\temporal_evolution_populations.png
+2026-07-24 22:55:33 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\bubble_design_by_population.html
+2026-07-24 22:55:33 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:33 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpn7jw3piu.
+2026-07-24 22:55:33 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:33 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpl6dt4y6q.
+2026-07-24 22:55:33 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpl6dt4y6q
+2026-07-24 22:55:34 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpn7jw3piu/index.html
+2026-07-24 22:55:34 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Got 4489
+2026-07-24 22:55:35 [INFO] kaleido._kaleido_tab: Processing Research_Design_by_Population_Category.png
+2026-07-24 22:55:35 [INFO] kaleido._kaleido_tab: Sending big command for Research_Design_by_Population_Category.png.
+2026-07-24 22:55:35 [INFO] kaleido._kaleido_tab: Sent big command for Research_Design_by_Population_Category.png.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Reloading tab 4489 before return.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Putting tab 4489 back (queue size: 0).
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:35 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:35 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:35 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\bubble_design_by_population.png
+2026-07-24 22:55:35 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\focus_radar_by_population.html
+2026-07-24 22:55:35 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:35 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpupqvgfhu.
+2026-07-24 22:55:35 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:35 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpailuypa5.
+2026-07-24 22:55:35 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpailuypa5
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpupqvgfhu/index.html
+2026-07-24 22:55:35 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Got 7848
+2026-07-24 22:55:36 [INFO] kaleido._kaleido_tab: Processing Research_Focus_by_Population_Category__Normalized__Top_6.png
+2026-07-24 22:55:36 [INFO] kaleido._kaleido_tab: Sending big command for Research_Focus_by_Population_Category__Normalized__Top_6.png.
+2026-07-24 22:55:36 [INFO] kaleido._kaleido_tab: Sent big command for Research_Focus_by_Population_Category__Normalized__Top_6.png.
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Reloading tab 7848 before return.
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Putting tab 7848 back (queue size: 0).
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:36 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:36 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:36 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:36 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:36 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:37 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:37 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:37 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:37 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:37 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:37 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:37 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\focus_radar_by_population.png
+2026-07-24 22:55:37 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\research_focus_distribution.html
+2026-07-24 22:55:37 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:37 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:37 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpukn9ua1j.
+2026-07-24 22:55:37 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:37 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpsqpxbdue.
+2026-07-24 22:55:37 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpsqpxbdue
+2026-07-24 22:55:37 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpukn9ua1j/index.html
+2026-07-24 22:55:37 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Got 5C6B
+2026-07-24 22:55:38 [INFO] kaleido._kaleido_tab: Processing Research_Focus_Distribution_Thematic_Categories.png
+2026-07-24 22:55:38 [INFO] kaleido._kaleido_tab: Sending big command for Research_Focus_Distribution_Thematic_Categories.png.
+2026-07-24 22:55:38 [INFO] kaleido._kaleido_tab: Sent big command for Research_Focus_Distribution_Thematic_Categories.png.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Reloading tab 5C6B before return.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Putting tab 5C6B back (queue size: 0).
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:38 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:38 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:38 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:38 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\research_focus_distribution.png
+2026-07-24 22:55:38 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\tools_distribution.html
+2026-07-24 22:55:38 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:38 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpfd9tjfke.
+2026-07-24 22:55:38 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:38 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpfpf41581.
+2026-07-24 22:55:38 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpfpf41581
+2026-07-24 22:55:39 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpfd9tjfke/index.html
+2026-07-24 22:55:39 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:39 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:39 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:39 [INFO] kaleido.kaleido: Got 6AA4
+2026-07-24 22:55:39 [INFO] kaleido._kaleido_tab: Processing Tools__Interventions_DistributionbrsubTop_25_of_87_tools_shown_119_raw_32_mergedsub.png
+2026-07-24 22:55:39 [INFO] kaleido._kaleido_tab: Sending big command for Tools__Interventions_DistributionbrsubTop_25_of_87_tools_shown_119_raw_32_mergedsub.png.
+2026-07-24 22:55:40 [INFO] kaleido._kaleido_tab: Sent big command for Tools__Interventions_DistributionbrsubTop_25_of_87_tools_shown_119_raw_32_mergedsub.png.
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Reloading tab 6AA4 before return.
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Putting tab 6AA4 back (queue size: 0).
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:40 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:40 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:40 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\tools_distribution.png
+2026-07-24 22:55:40 [INFO] bibliometrico.population_analysis: Phase 7a data detected — running population/sample analyses...
+2026-07-24 22:55:40 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:40 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\sample_size_distribution.html
+2026-07-24 22:55:40 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:40 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp4p0z4onw.
+2026-07-24 22:55:40 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:40 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpehd26b0v.
+2026-07-24 22:55:40 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpehd26b0v
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp4p0z4onw/index.html
+2026-07-24 22:55:40 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Got 07A9
+2026-07-24 22:55:41 [INFO] kaleido._kaleido_tab: Processing Sample_Size_Distribution_Empirical_Studies.png
+2026-07-24 22:55:41 [INFO] kaleido._kaleido_tab: Sending big command for Sample_Size_Distribution_Empirical_Studies.png.
+2026-07-24 22:55:41 [INFO] kaleido._kaleido_tab: Sent big command for Sample_Size_Distribution_Empirical_Studies.png.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Reloading tab 07A9 before return.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Putting tab 07A9 back (queue size: 0).
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:41 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:41 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:41 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:41 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\sample_size_distribution.png
+2026-07-24 22:55:41 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\geographic_distribution.html
+2026-07-24 22:55:41 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:41 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp1jbd2yhs.
+2026-07-24 22:55:41 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:41 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp2p0b0_88.
+2026-07-24 22:55:41 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmp2p0b0_88
+2026-07-24 22:55:42 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp1jbd2yhs/index.html
+2026-07-24 22:55:42 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Got 36D9
+2026-07-24 22:55:43 [INFO] kaleido._kaleido_tab: Processing Geographic_Distribution_of_Studies.png
+2026-07-24 22:55:43 [INFO] kaleido._kaleido_tab: Sending big command for Geographic_Distribution_of_Studies.png.
+2026-07-24 22:55:43 [INFO] kaleido._kaleido_tab: Sent big command for Geographic_Distribution_of_Studies.png.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Reloading tab 36D9 before return.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Putting tab 36D9 back (queue size: 0).
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:43 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:43 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:43 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\geographic_distribution.png
+2026-07-24 22:55:43 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\discipline_distribution.html
+2026-07-24 22:55:43 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:43 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp1j6jql4g.
+2026-07-24 22:55:43 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:43 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpq59piwsm.
+2026-07-24 22:55:43 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpq59piwsm
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp1j6jql4g/index.html
+2026-07-24 22:55:43 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Got BEDB
+2026-07-24 22:55:44 [INFO] kaleido._kaleido_tab: Processing Discipline_Distribution_of_Studies.png
+2026-07-24 22:55:44 [INFO] kaleido._kaleido_tab: Sending big command for Discipline_Distribution_of_Studies.png.
+2026-07-24 22:55:44 [INFO] kaleido._kaleido_tab: Sent big command for Discipline_Distribution_of_Studies.png.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Reloading tab BEDB before return.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Putting tab BEDB back (queue size: 0).
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:44 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:44 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:44 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:44 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\discipline_distribution.png
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:44 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:45 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\wellbeing_constructs_distribution.html
+2026-07-24 22:55:45 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:45 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:45 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpdj2gb867.
+2026-07-24 22:55:45 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:45 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpdmpbuvwg.
+2026-07-24 22:55:45 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpdmpbuvwg
+2026-07-24 22:55:45 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpdj2gb867/index.html
+2026-07-24 22:55:45 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Got 983F
+2026-07-24 22:55:46 [INFO] kaleido._kaleido_tab: Processing Wellbeing__Psychological_ConstructsbrsubTop_25_of_50_constructs_shownsub.png
+2026-07-24 22:55:46 [INFO] kaleido._kaleido_tab: Sending big command for Wellbeing__Psychological_ConstructsbrsubTop_25_of_50_constructs_shownsub.png.
+2026-07-24 22:55:46 [INFO] kaleido._kaleido_tab: Sent big command for Wellbeing__Psychological_ConstructsbrsubTop_25_of_50_constructs_shownsub.png.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Reloading tab 983F before return.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Putting tab 983F back (queue size: 0).
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:46 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:46 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:46 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\wellbeing_constructs_distribution.png
+2026-07-24 22:55:46 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\methods_distribution.html
+2026-07-24 22:55:46 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:46 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpysb5h_fz.
+2026-07-24 22:55:46 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:46 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp2s7tlpxu.
+2026-07-24 22:55:46 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmp2s7tlpxu
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmpysb5h_fz/index.html
+2026-07-24 22:55:46 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:47 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:47 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:47 [INFO] kaleido.kaleido: Got 86BF
+2026-07-24 22:55:47 [INFO] kaleido._kaleido_tab: Processing Analytical_Methods_DistributionbrsubTop_25_of_124_methods_shownsub.png
+2026-07-24 22:55:47 [INFO] kaleido._kaleido_tab: Sending big command for Analytical_Methods_DistributionbrsubTop_25_of_124_methods_shownsub.png.
+2026-07-24 22:55:47 [INFO] kaleido._kaleido_tab: Sent big command for Analytical_Methods_DistributionbrsubTop_25_of_124_methods_shownsub.png.
+2026-07-24 22:55:47 [INFO] kaleido.kaleido: Reloading tab 86BF before return.
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Putting tab 86BF back (queue size: 0).
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:48 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:48 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:48 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\methods_distribution.png
+2026-07-24 22:55:48 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\modality_distribution.html
+2026-07-24 22:55:48 [INFO] choreographer.browsers.chromium: Chromium init'ed with kwargs {}
+2026-07-24 22:55:48 [INFO] choreographer.browsers.chromium: Found chromium path: C:\Program Files\Google\Chrome\Application\chrome.exe
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmp3y4oauue.
+2026-07-24 22:55:48 [INFO] choreographer.browser_async: Opening browser.
+2026-07-24 22:55:48 [INFO] choreographer.utils._tmpfile: Temp directory created: C:\Users\sefra\AppData\Local\Temp\tmpoqntbpf0.
+2026-07-24 22:55:48 [INFO] choreographer.browsers.chromium: Temporary directory at: C:\Users\sefra\AppData\Local\Temp\tmpoqntbpf0
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Conforming 1 to file:///C:/Users/sefra/AppData/Local/Temp/tmp3y4oauue/index.html
+2026-07-24 22:55:48 [INFO] kaleido.kaleido: Waiting on all navigates
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: All navigates done, putting them all in queue.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Getting tab from queue (has 1)
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Got 2AA1
+2026-07-24 22:55:49 [INFO] kaleido._kaleido_tab: Processing Study_Modality_Distribution.png
+2026-07-24 22:55:49 [INFO] kaleido._kaleido_tab: Sending big command for Study_Modality_Distribution.png.
+2026-07-24 22:55:49 [INFO] kaleido._kaleido_tab: Sent big command for Study_Modality_Distribution.png.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Reloading tab 2AA1 before return.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Putting tab 2AA1 back (queue size: 0).
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Waiting for all cleanups to finish.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Exiting Kaleido
+2026-07-24 22:55:49 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:49 [INFO] choreographer.browser_async: Closing browser.
+2026-07-24 22:55:49 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:49 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:49 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:49 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:49 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:49 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Cancelling tasks.
+2026-07-24 22:55:49 [INFO] kaleido.kaleido: Exiting Kaleido/Choreo
+2026-07-24 22:55:49 [INFO] bibliometrico.population_analysis: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\modality_distribution.png
+2026-07-24 22:55:49 [INFO] bibliometrico.population_analysis: Vulnerability conditions: fuera del alcance del protocolo -> analisis y grafico omitidos (revision agnostica)
+2026-07-24 22:55:49 [INFO] bibliometrico.population_analysis: Report saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\population_analysis_report.md
+2026-07-24 22:55:49 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\population_analysis\population_analysis_data.json
+2026-07-24 22:55:49 [INFO] bibliometrico.population_analysis: Phase 7 complete - 14/15 analyses, 28 charts saved
+2026-07-24 22:55:50 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:55:50 [INFO] bibliometrico.main: Phase 7: 14 analyses, 28 charts
+2026-07-24 22:55:50 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:55:50 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:55:50 [INFO] bibliometrico.main: Pipeline completado.
+2026-07-24 22:55:50 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:55:50 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:55:51 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_225115.json
+2026-07-24 22:55:51 [INFO] bibliometrico.provenance: Manifiesto de corrida: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_225115.json
+2026-07-24 22:55:51 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:51 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:51 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:51 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.
+2026-07-24 22:55:51 [INFO] choreographer.utils._tmpfile: TemporaryDirectory.cleanup() worked.
+2026-07-24 22:55:51 [INFO] choreographer.utils._tmpfile: shutil.rmtree worked.

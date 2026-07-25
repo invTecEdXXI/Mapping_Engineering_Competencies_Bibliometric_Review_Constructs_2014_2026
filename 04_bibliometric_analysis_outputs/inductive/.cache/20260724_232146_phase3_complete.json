@@ -1,0 +1,173 @@
+{
+  "session_id": "20260724_232146",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:30:13.468721",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Methodological and Instrumentation Trajectory",
+        "justification": "The data reveal a clear progression from scale development and validation to the application of instruments in measuring self-efficacy, motivation, and career outcomes within engineering education; this framework organizes studies along this continuum to highlight gaps and best practices.",
+        "general_objective": "To track the methodological lifecycle of psychometric instruments, from initial development through validation to application, in assessing engineering students' psychological and professional attributes.",
+        "specific_objectives": [
+          {
+            "text": "Examine scale development and psychometric evaluation processes, including item generation, factor analysis, and reliability/validity evidence across studies.",
+            "key_themes": [
+              "Scale Development and Psychometric Evaluation"
+            ],
+            "n_studies_support": "Approx. 12",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Investigate the measurement of self-efficacy and motivational constructs using validated instruments in engineering education contexts.",
+            "key_themes": [
+              "Self-Efficacy Measurement",
+              "Motivation and Affective Constructs in Engineering Students"
+            ],
+            "n_studies_support": "Approx. 5",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Assess how psychometrically sound instruments predict career intentions and professional development outcomes, linking measurement to real-world engineering trajectories.",
+            "key_themes": [
+              "Career and Professional Development"
+            ],
+            "n_studies_support": "Approx. 4",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Evaluate the role of the engineering education context in shaping instrument focus and validation criteria, including accreditation and curriculum alignment.",
+            "key_themes": [
+              "Engineering Education Context"
+            ],
+            "n_studies_support": "Approx. 4",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "60-70%",
+        "strengths": [
+          "Highlights the complete instrument lifecycle",
+          "Links methodology to applied outcomes",
+          "Identifies gaps in validation-to-application transition"
+        ],
+        "limitations": [
+          "May underemphasize inter-construct relationships not tied to instrument development",
+          "Requires studies to explicitly detail psychometric steps"
+        ]
+      },
+      {
+        "approach": "Construct Interplay and Mediation Pathways",
+        "justification": "The relationships among self-efficacy, motivation, and career outcomes form a network of direct and mediated effects; this framework organizes findings to map these pathways and identify key drivers of professional development in engineering students.",
+        "general_objective": "To delineate the interrelationships among self-efficacy, motivational/affective constructs, and career-related outcomes, focusing on mediation and direct effects that explain engineering students' professional intentions and skills.",
+        "specific_objectives": [
+          {
+            "text": "Synthesize evidence on the measurement and role of self-efficacy, both general and domain-specific, in engineering student populations.",
+            "key_themes": [
+              "Self-Efficacy Measurement"
+            ],
+            "n_studies_support": "Approx. 3",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Analyze the influence of motivation and affective constructs (e.g., entrepreneurial motivation, writing attitudes) on self-efficacy and career intentions.",
+            "key_themes": [
+              "Motivation and Affective Constructs in Engineering Students",
+              "Self-Efficacy Measurement"
+            ],
+            "n_studies_support": "Approx. 5",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Examine the direct and mediated pathways from psychological constructs to career and professional development outcomes, such as entrepreneurial intention and persistence.",
+            "key_themes": [
+              "Career and Professional Development",
+              "Self-Efficacy Measurement",
+              "Motivation and Affective Constructs in Engineering Students"
+            ],
+            "n_studies_support": "Approx. 7-9",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Identify contextual factors within engineering education that moderate or influence these construct relationships.",
+            "key_themes": [
+              "Engineering Education Context"
+            ],
+            "n_studies_support": "Approx. 4",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "50-60%",
+        "strengths": [
+          "Captures the dynamic interplay between psychological constructs",
+          "Informs targeted interventions",
+          "Aligns with theoretical mediation models"
+        ],
+        "limitations": [
+          "Some themes have low study counts, limiting power",
+          "May not fully cover pure instrument development studies not testing relationships"
+        ]
+      },
+      {
+        "approach": "Educational and Professional Outcome Assessment",
+        "justification": "Many studies ultimately aim to assess career readiness, entrepreneurial intention, and skill acquisition in engineering students, using validated instruments as tools; this framework centers on these outcomes and how they are measured and predicted.",
+        "general_objective": "To consolidate findings on the assessment of engineering students' professional outcomes—including career intentions, leadership, and writing skills—through psychometrically validated instruments, and to determine the predictive value of psychological constructs.",
+        "specific_objectives": [
+          {
+            "text": "Catalog the psychometric instruments used to assess career-related outcomes in engineering education, including their validation status.",
+            "key_themes": [
+              "Scale Development and Psychometric Evaluation",
+              "Career and Professional Development"
+            ],
+            "n_studies_support": "Approx. 18-20",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Investigate how self-efficacy beliefs (general and domain-specific) predict entrepreneurial intentions, graduate persistence, and leadership development.",
+            "key_themes": [
+              "Self-Efficacy Measurement",
+              "Career and Professional Development"
+            ],
+            "n_studies_support": "Approx. 7-9",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Assess the role of motivation and affective factors (e.g., entrepreneurial motivation, writing attitudes) in developing writing skills and entrepreneurial intentions.",
+            "key_themes": [
+              "Motivation and Affective Constructs in Engineering Students",
+              "Career and Professional Development"
+            ],
+            "n_studies_support": "Approx. 6-8",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Evaluate how the engineering education context (accreditation, curriculum) shapes the measurement and importance of these professional outcomes.",
+            "key_themes": [
+              "Engineering Education Context",
+              "Career and Professional Development"
+            ],
+            "n_studies_support": "Approx. 5-7",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "70-80%",
+        "strengths": [
+          "Directly addresses practical implications for engineering programs",
+          "Integrates multiple themes around a common goal",
+          "High coverage of studies"
+        ],
+        "limitations": [
+          "May oversimplify construct inter-relationships",
+          "Assumes instruments are valid measures of outcomes"
+        ]
+      }
+    ],
+    "recommendation": "Framework 3, 'Educational and Professional Outcome Assessment', because it aligns with the practical need for evidence-based evaluation in engineering education, has the highest estimated coverage, and bridges psychometric rigor with career readiness objectives. It also leverages the strongest themes (Scale Development and Career) and their relationships, making the review more actionable for educators and policymakers.",
+    "_theme_reference_check": {
+      "valid_references": 20,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

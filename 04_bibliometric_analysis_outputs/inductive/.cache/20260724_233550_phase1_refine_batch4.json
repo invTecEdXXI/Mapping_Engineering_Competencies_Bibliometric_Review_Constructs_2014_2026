@@ -1,0 +1,56 @@
+{
+  "session_id": "20260724_233550",
+  "phase": "1_refine",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:45:06.981721",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Factor Analysis as Primary Validation Method",
+      "definition": "Factor analysis, both exploratory and confirmatory, is consistently employed as the primary method for uncovering underlying factor structures, reducing items, and establishing construct validity of newly developed instruments. Studies focus on psychometric properties such as Cronbach's alpha and use techniques like principal axis factoring to ensure reliability and validity.",
+      "subthemes": [
+        "Exploratory Factor Analysis",
+        "Confirmatory Factor Analysis",
+        "Reliability Assessment via Cronbach's Alpha"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Linking Student Attributes to Career Intentions and Professional Outcomes",
+      "definition": "This theme captures research that explicitly links measured non-cognitive and motivational attributes—such as self-efficacy, writing attitudes, and entrepreneurial motivation—to career-related outcomes including entrepreneurial intention, persistence, and professional skill application. Studies typically establish predictive or mediating relationships between these attributes and indicators of career success.",
+      "subthemes": [
+        "Entrepreneurial Intention",
+        "Academic and Professional Persistence",
+        "Skill-Specific Outcomes (e.g., grant writing)"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Affective and Motivational Factors in Professional Skill Development",
+      "definition": "Studies in this theme examine how emotions, personal interests, and motivation influence the development of professional skills in engineering students. It includes investigations of affective barriers such as writing apprehension and writer's block, as well as intrinsic motivators like personal interests and team motivation.",
+      "subthemes": [
+        "Writing Apprehension and Writer's Block",
+        "Personal Interests and Intrinsic Motivation",
+        "Motivational Drivers in Team Settings"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "merge",
+      "target_index": 0
+    }
+  ]
+}

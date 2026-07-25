@@ -1,0 +1,109 @@
+{
+  "session_id": "20260724_233550",
+  "phase": "1_refine",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:43:55.437820",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "new",
+      "theme": "Instrument Development and Psychometric Validation in Engineering Education",
+      "definition": "This theme encompasses research focused on the design, adaptation, and rigorous psychometric testing of measurement instruments such as scales, questionnaires, and rubrics. Studies often involve scale adaptation, factor analysis, reliability analysis, construct validity, and content validation to ensure robust measurement.",
+      "subthemes": [
+        "scale adaptation",
+        "factor analysis",
+        "reliability",
+        "construct validity",
+        "content validation"
+      ]
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Assessment of Generic, Transversal, and Professional Competencies",
+      "definition": "Research that develops or validates instruments to measure broad professional skills often called generic or transversal competencies, such as teamwork, communication, lifelong learning, and workplace adaptability. These competencies are crucial for 21st-century engineers.",
+      "subthemes": [
+        "professional skills",
+        "21st century skills",
+        "transversal competencies",
+        "workplace adaptability",
+        "innovation competence"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Self-Efficacy and Engineering Identity Measurement",
+      "definition": "Studies aimed at creating and validating scales that capture engineering students' beliefs about their capabilities (self-efficacy) in specific skill areas (entrepreneurship, design) and their sense of engineering identity, which relates to career persistence.",
+      "subthemes": [
+        "engineering identity",
+        "entrepreneurial self-efficacy",
+        "design self-efficacy",
+        "career persistence"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Attitudes Toward Engineering and Practical Learning Experiences",
+      "definition": "Research that quantitatively assesses engineering students' attitudes toward practical work, the sociotechnical nature of the discipline, and the learning of professional skills. It often examines factor structures underlying these attitudes.",
+      "subthemes": [
+        "practical work",
+        "sociotechnical engineering",
+        "professional skills attitudes",
+        "factor structure"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Rubric-Based Competency Assessment",
+      "definition": "A body of work that centers on the design, validation, and use of scoring rubrics to evaluate student competencies in engineering contexts, including laboratories, oral presentations, and design projects. Content validity is established through expert judgment, and inter-rater reliability is assessed.",
+      "subthemes": [
+        "scoring rubric",
+        "content validity",
+        "expert judgment",
+        "inter-rater reliability",
+        "competency-based assessment"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Research Competences and Investigative Skills",
+      "definition": "Studies that identify and measure the research skills required by engineering students, often for completing final projects. Instruments assess multiple dimensions such as intellectual and communicative competences.",
+      "subthemes": [
+        "research training",
+        "End of Studies Projects",
+        "intellectual competences",
+        "communicative competences"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Critical, Reflective, and Representational Thinking Assessment",
+      "definition": "Instruments developed to measure higher-order cognitive skills in engineering, including critical thinking in automation control, reflective thinking during design problem solving, and representational competence in using multiple representations.",
+      "subthemes": [
+        "critical thinking",
+        "reflection",
+        "design problem solving",
+        "representational competence",
+        "multiple representations"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Affective and Ethical Competence Assessment",
+      "definition": "Research targeting the assessment of values, compassion, and socio-emotional competencies in engineering students. These studies adapt instruments from psychology (e.g., Compassion Scale) to the engineering context, exploring the affective domain and dispositional knowledge.",
+      "subthemes": [
+        "compassion",
+        "professional values",
+        "affective domain",
+        "socio-emotional competency",
+        "dispositional knowledge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "session_id": "20260724_231535",
+  "phase": "1_refine",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:17:04.663530",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 3
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Entrepreneurial Motivation and Career Intentions in Engineering",
+      "definition": "The identification and assessment of motivational factors influencing engineering students' entrepreneurial intentions and career trajectories. This includes examining the roles of personal interests, managerial motives, and perceived career benefits in shaping entrepreneurial behavior.",
+      "subthemes": [
+        "Career intention drivers",
+        "Psychometric properties of motivation scales",
+        "Mediation analysis in entrepreneurial mindset"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Writing Attitudes and Academic Performance in Engineering",
+      "definition": "The evaluation of engineering students' attitudes toward writing, including emotional responses (e.g., apprehension) and cognitive engagement, and their relationship to academic success and career development. This theme also encompasses the validation of survey instruments used to measure these attitudes.",
+      "subthemes": [
+        "Writing apprehension and performance",
+        "Survey validation methodologies",
+        "Career trajectory implications"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Leadership Competencies in Engineering Education",
+      "definition": "The assessment and development of leadership-related competencies in engineering students, including team motivation, ethical decision-making, and innovative change management. This theme focuses on both the identification of these competencies and the evaluation of educational programs designed to cultivate them.",
+      "subthemes": [
+        "Ethical leadership in engineering",
+        "Leadership program assessment",
+        "Competency-based evaluation frameworks"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Self-Efficacy in Biomedical Engineering Contexts",
+      "definition": "The measurement of self-efficacy among biomedical engineering students, particularly their confidence in addressing clinical problems, proposing solutions, and engaging in interdisciplinary collaborations. This theme emphasizes the clinical relevance of self-efficacy and its role in professional development.",
+      "subthemes": [
+        "Clinical problem-solving self-efficacy",
+        "Interdisciplinary skill confidence",
+        "Grant proposal writing efficacy"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Educational Assessment Policy and Institutional Impact",
+      "definition": "The use of validated assessment instruments to inform institutional policies, educational research, and broader policy decisions in engineering education. This theme explores how assessment outcomes drive curriculum development, accreditation processes, and systemic improvements in engineering programs.",
+      "subthemes": [
+        "Institutional assessment frameworks",
+        "Policy development from assessment data",
+        "Educational outcomes and accreditation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "session_id": "20260724_230304",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:04:36.605051",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Psychometric and Validity-Centered Framework",
+        "justification": "This framework prioritizes the dominant axis of psychometric rigor in competency assessment, which is empirically supported by ~40% of studies. It aligns with the high robustness of themes like 'Competency Assessment in Engineering Education' and 'Psychometric Properties and Instrument Development', which frequently overlap in the data.",
+        "general_objective": "To analyze the psychometric rigor and validity of competency assessment instruments in engineering education, focusing on their development, validation, and application.",
+        "specific_objectives": [
+          {
+            "text": "To evaluate the psychometric properties (e.g., reliability, validity) of instruments used to assess engineering competencies across identified themes.",
+            "key_themes": [
+              "Competency Assessment in Engineering Education",
+              "Psychometric Properties and Instrument Development"
+            ],
+            "n_studies_support": "~60-70%",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To compare the robustness of assessment instruments across affective, transversal, and cognitive competency domains.",
+            "key_themes": [
+              "Affective, Motivational, and Socio-Emotional Competencies in Engineering",
+              "Transversal and Professional Skills Assessment in Engineering",
+              "Research, Problem-Solving, and Cognitive Competencies in Engineering"
+            ],
+            "n_studies_support": "~45-55%",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To identify gaps and best practices in instrument development for emerging competencies (e.g., sustainability, ethics, innovation).",
+            "key_themes": [
+              "Sustainability, Ethics, and Innovation Competencies in Engineering",
+              "Contextual and Domain-Specific Competence Scales"
+            ],
+            "n_studies_support": "~15-20%",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~80-90%",
+        "strengths": [
+          "Directly addresses the dominant empirical pattern (psychometric rigor).",
+          "Facilitates cross-theme comparisons of instrument quality.",
+          "Highly actionable for improving assessment practices in engineering education."
+        ],
+        "limitations": [
+          "May underemphasize contextual and domain-specific nuances (e.g., workplace competencies)."
+        ]
+      },
+      {
+        "approach": "Contextual Competency Development Framework",
+        "justification": "This framework organizes findings by the contexts in which competencies are assessed (academic, workplace, professional), reflecting the recurring theme of transversal skills in both settings (~25% coverage). It also integrates affective and motivational competencies, which are often tied to specific contexts (e.g., self-efficacy in clinical contexts).",
+        "general_objective": "To examine how engineering competencies are developed and assessed across academic, workplace, and professional contexts, with attention to contextual factors.",
+        "specific_objectives": [
+          {
+            "text": "To map the assessment of transversal and professional skills across academic and workplace/internship contexts.",
+            "key_themes": [
+              "Transversal and Professional Skills Assessment in Engineering",
+              "Workplace and Internship Competency Assessment"
+            ],
+            "n_studies_support": "~35-45%",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To analyze the role of affective, motivational, and socio-emotional competencies in different learning contexts (e.g., resilience in academic settings, self-efficacy in clinical contexts).",
+            "key_themes": [
+              "Affective, Motivational, and Socio-Emotional Competencies in Engineering",
+              "Biomedical Engineering Self-Efficacy in Clinical Contexts"
+            ],
+            "n_studies_support": "~25-30%",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To explore how sustainability, ethics, and innovation competencies are integrated into curricula and assessed in real-world contexts.",
+            "key_themes": [
+              "Sustainability, Ethics, and Innovation Competencies in Engineering"
+            ],
+            "n_studies_support": "~10-15%",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To identify contextual factors (e.g., gender, diversity, institutional policies) influencing competency development and assessment.",
+            "key_themes": [
+              "Gender and Diversity in Engineering Education Assessment"
+            ],
+            "n_studies_support": "~5-10%",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~75-85%",
+        "strengths": [
+          "Highlights the importance of context in competency assessment.",
+          "Bridges academic and professional domains, addressing employability gaps.",
+          "Incorporates emerging themes like gender/diversity and sustainability."
+        ],
+        "limitations": [
+          "May dilute focus on psychometric rigor, which is a dominant empirical pattern."
+        ]
+      },
+      {
+        "approach": "Competency Taxonomy and Systems Framework",
+        "justification": "This framework organizes findings into a hierarchical taxonomy of competencies (from affective to cognitive to professional) and examines their interrelationships, reflecting the empirical patterns in subthemes and key relationships (e.g., complementary relationships between themes). It also addresses systems thinking, which is an emerging axis (~10% coverage).",
+        "general_objective": "To develop a hierarchical taxonomy of engineering competencies and analyze their interrelationships, with a focus on systems thinking and complex problem-solving.",
+        "specific_objectives": [
+          {
+            "text": "To categorize engineering competencies into affective, cognitive, transversal, and professional domains based on empirical assessment patterns.",
+            "key_themes": [
+              "Affective, Motivational, and Socio-Emotional Competencies in Engineering",
+              "Research, Problem-Solving, and Cognitive Competencies in Engineering",
+              "Transversal and Professional Skills Assessment in Engineering",
+              "Professional Identity, Leadership, and Values Formation in Engineering"
+            ],
+            "n_studies_support": "~60-70%",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To examine the relationships between competency domains, particularly how affective and motivational competencies influence cognitive and professional competencies.",
+            "key_themes": [
+              "Affective, Motivational, and Socio-Emotional Competencies in Engineering",
+              "Research, Problem-Solving, and Cognitive Competencies in Engineering",
+              "Professional Identity, Leadership, and Values Formation in Engineering"
+            ],
+            "n_studies_support": "~30-40%",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To explore the role of systems thinking and complex problem-solving competencies in integrating sustainability, ethics, and innovation into engineering practice.",
+            "key_themes": [
+              "Systems Thinking and Complex Problem-Solving Competencies",
+              "Sustainability, Ethics, and Innovation Competencies in Engineering"
+            ],
+            "n_studies_support": "~10-15%",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To assess the alignment between competency domains and industry demands, including the role of rubric-based and psychometric assessments.",
+            "key_themes": [
+              "Transversal and Professional Skills Assessment in Engineering",
+              "Rubric-Based Assessment and Validation",
+              "Psychometric Properties and Instrument Development"
+            ],
+            "n_studies_support": "~35-45%",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "~85-95%",
+        "strengths": [
+          "Provides a comprehensive, hierarchical view of engineering competencies.",
+          "Highlights interrelationships between domains, addressing key relationships in the data.",
+          "Incorporates systems thinking, an emerging but critical competency."
+        ],
+        "limitations": [
+          "May be overly complex for stakeholders focused on specific competency domains."
+        ]
+      }
+    ],
+    "recommendation": {
+      "framework": "Psychometric and Validity-Centered Framework",
+      "why": "This framework is recommended because it directly addresses the dominant empirical pattern in the data (~40% coverage of psychometric rigor) and aligns with the high robustness of themes like 'Competency Assessment in Engineering Education' and 'Psychometric Properties and Instrument Development'. It also facilitates cross-theme comparisons of instrument quality, which is critical for improving assessment practices in engineering education. While it may underemphasize contextual nuances, its focus on rigor and validity is empirically justified and highly actionable for stakeholders."
+    },
+    "_theme_reference_check": {
+      "valid_references": 25,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

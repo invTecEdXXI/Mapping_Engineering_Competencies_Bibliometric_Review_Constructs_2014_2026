@@ -1,0 +1,89 @@
+{
+  "session_id": "20260724_231535",
+  "phase": "1_refine",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:16:54.075618",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Engineering Competencies and Professional Skills",
+      "definition": "The identification, assessment, and development of both technical and non-technical competencies required for engineering students, including professional skills (e.g., teamwork, communication) and transversal competencies (e.g., research, problem-solving). This theme encompasses the practical and theoretical knowledge needed for professional engineering practice.",
+      "subthemes": [
+        "Technical competencies",
+        "Transversal competencies",
+        "Professional skills development"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Educational Contexts and Assessment Environments",
+      "definition": "The diverse settings and contexts in which engineering students are assessed, including traditional classrooms, laboratories, internships, virtual learning environments, and graduate programs. This theme captures how different educational contexts influence assessment methods and outcomes.",
+      "subthemes": [
+        "Laboratory-based assessment",
+        "Internship and workplace assessment",
+        "Virtual and remote learning assessment",
+        "Graduate-level assessment"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Student Self-Perceptions and Attitudinal Development",
+      "definition": "The measurement and analysis of students' self-efficacy, attitudes, resilience, and engineering identity, including factors like entrepreneurial self-efficacy and confidence in technical domains. This theme explores how these perceptions influence learning and professional development.",
+      "subthemes": [
+        "Self-efficacy in engineering tasks",
+        "Resilience and adaptability",
+        "Engineering identity formation",
+        "Entrepreneurial mindset"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Higher-Order Cognitive Skills in Engineering",
+      "definition": "The assessment of advanced cognitive abilities such as critical thinking, problem-solving, and representational competence in engineering contexts. This theme focuses on evaluating students' capacity to analyze, synthesize, and apply knowledge in technical domains.",
+      "subthemes": [
+        "Critical thinking in engineering",
+        "Problem-solving strategies",
+        "Representational competence",
+        "Automation-based assessment of cognitive skills"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Reflective Practices and Metacognition in Engineering Education",
+      "definition": "The development and validation of tools to assess students' reflective thinking, particularly in design problem-solving and experiential learning contexts. This theme examines how reflection and metacognition contribute to learning and professional growth.",
+      "subthemes": [
+        "Reflective practice in design",
+        "Timing and objects of reflection",
+        "Levels of reflective thinking",
+        "Self-reporting instruments for reflection"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Diversity and Inclusion in Engineering Assessment",
+      "definition": "The examination of how cultural background, gender, and other demographic factors influence students' competencies, attitudes, and assessment outcomes in engineering education. This theme includes the study of measurement invariance and culturally adapted assessment tools.",
+      "subthemes": [
+        "Gender invariance in assessment",
+        "Cultural adaptation of instruments",
+        "Demographic factors in performance",
+        "Equity in assessment outcomes"
+      ]
+    }
+  ]
+}

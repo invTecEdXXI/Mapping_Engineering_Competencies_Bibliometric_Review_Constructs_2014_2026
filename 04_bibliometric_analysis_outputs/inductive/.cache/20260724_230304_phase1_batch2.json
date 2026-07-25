@@ -1,0 +1,499 @@
+{
+  "session_id": "20260724_230304",
+  "phase": "1",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:03:29.534705",
+  "data": {
+    "themes": [
+      {
+        "name": "Assessment of professional competencies",
+        "definition": "The development and validation of instruments to measure engineering students' professional competencies, including technical, interpersonal, and ethical skills. These studies focus on creating reliable and valid scales to assess competencies required for engineering practice.",
+        "evidence": [
+          "[Z4ICDXEQ] The purpose of this study was to construct the indicators of professional competencies of the nanotechnology-based sputtering system industry based on industry requirements and analyse the core competencies of the industry for promoting the human resource of physical vapour deposition technology.",
+          "[KI4LCCHP] This study aimed to validate the factor structure of professional competencies in engineering and test the measurement invariance of these competencies across gender. Through a cross-sectional survey, 552 senior undergraduate students (287 males) responded to a 24-item professional competencies scale.",
+          "[IV425BDL] Consequently, new competencies have been incorporated into engineering curricula, with ethics education emphasizing social responsibility as a core competency for students. This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture."
+        ],
+        "articles": [
+          "Z4ICDXEQ",
+          "KI4LCCHP",
+          "IV425BDL"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-efficacy measurement",
+          "Employability skills",
+          "Social responsibility"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-efficacy measurement in engineering",
+        "definition": "The development and validation of scales to assess engineering students' self-efficacy, including general engineering self-efficacy, programming self-efficacy, and design self-efficacy. These studies aim to measure confidence in performing engineering-related tasks and identify factors influencing self-efficacy.",
+        "evidence": [
+          "[2DDA52FC] Self-efficacy beliefs, confidence in one’s capabilities to complete the task, are intuitively related to task choices—why would we attempt something when we know we will be unsuccessful? Yet, self-efficacy is domain specific and requires measurement instruments which are situated in the domain.",
+          "[CJPX792Z] Contribution: This article has shown that self-efficacy in performing complex computer programming tasks and the self-regulation of electrical and electronics engineering undergraduate students varies with respect to the class standing and prior experience in computer programming.",
+          "[J4L96ZTQ] Background: Self-efficacy has been shown to be positively related to undergraduate engineering students' achievement. Designing self-efficacy measures to assess the multifaceted skills required of engineers could improve the predictive relationship between efficacy beliefs and performance."
+        ],
+        "articles": [
+          "2DDA52FC",
+          "CJPX792Z",
+          "J4L96ZTQ"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Motivational attitudes",
+          "Programming skills",
+          "Design skills"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Employability skills assessment",
+        "definition": "The identification and measurement of employability skills among engineering students, including communication, teamwork, problem-solving, and leadership. These studies aim to develop scales to assess skills that enhance students' readiness for the workforce.",
+        "evidence": [
+          "[LHGYXXJG] The study aims to identify indicators that can measure students' employability skills and attributes. The research model, based on The Conference Board of Canada (Employability Skills 2000+), is divided into fundamental skills, personal management skills, and cooperative skills.",
+          "[49BIH9AZ] The purpose of this study is to identify employability skills among aspiring engineering graduates and develop measurement scale to assess their skill sets. This research has been conducted in two phases: Phase 1 covers the scale development process and Phase 2 covers exploratory factor analysis (EFA), confirmatory factor analysis (CFA) and validation.",
+          "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience."
+        ],
+        "articles": [
+          "LHGYXXJG",
+          "49BIH9AZ",
+          "DFVK7NR2"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Communication skills",
+          "Teamwork",
+          "Leadership"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Motivational attitudes and behaviors",
+        "definition": "The assessment of engineering students' motivational attitudes and behaviors, particularly in capstone design courses. These studies focus on developing instruments to measure intrinsic and extrinsic motivation, as well as behaviors such as teamwork and initiative.",
+        "evidence": [
+          "[CY59SPDS] This research paper reports the quantitative validation of instruments for assessing engineering students' motivational attitudes and behaviors in their capstone design course. Motivation plays a key role in engineering practice, particularly with respect to students' efficiency and effectiveness as well as their readiness to engage in teamwork either in the capstone course or the workplace.",
+          "[PYM3MQNK] Students who are self-regulated leaners have been reported to perform more successfully in higher education institutions (HEIs). Therefore, instruments that can monitor students' motivation and learning have been devised and implemented.",
+          "[NLXE3X6S] Purpose – The purpose of this study was to design an assessment instrument to evaluate students’ attitudes toward sustainable engineering (SE). Factors that impact SE beliefs could then be explored."
+        ],
+        "articles": [
+          "CY59SPDS",
+          "PYM3MQNK",
+          "NLXE3X6S"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-regulated learning",
+          "Sustainable engineering",
+          "Teamwork"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Entrepreneurial mindset and design skills",
+        "definition": "The development and validation of instruments to measure entrepreneurial mindset and design-related skills in engineering students. These studies focus on constructs such as 'Connections' and 'Creating Value,' as well as design mindset and ambiguity tolerance.",
+        "evidence": [
+          "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students. To effectively tackle global challenges and meet industry demands, it is crucial for today's engineering graduates to possess both technical expertise and professional skill competencies.",
+          "[6XVSWITA] Designers rely on many methods and strategies to create innovative designs. However, design research often overlooks the personality and attitudinal factors influencing method utility and effectiveness. This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1), allowing us to measure and leverage statistical analyses to advance our understanding of its role in design.",
+          "[XT6BBTKW] Although K-12 engineering outreach commonly involves college students, the young professionals who act as ambassadors for their field are less likely to be studied than the students they serve. Yet, outreach activities may offer opportunities for undergraduate students to develop aspects of their professional selves."
+        ],
+        "articles": [
+          "K9E5C83P",
+          "6XVSWITA",
+          "XT6BBTKW"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Design mindset",
+          "Ambassador roles",
+          "Professional development"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Systems thinking and learning outcomes",
+        "definition": "The assessment of systems thinking skills and learning outcomes in engineering education. These studies focus on developing instruments to measure students' ability to solve complex problems, communicate, and apply data in engineering contexts.",
+        "evidence": [
+          "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+          "[I9G3834N] Although faculty-centered pedagogies are endemic across undergraduate science, technology, engineering, and mathematics education, there is increasing interest in active learning approaches. As discipline-based educational research in mechanical engineering continues to assess strategies for improving student learning and development, researchers need data collection tools that ameliorate issues of bias, minimize costs (e.g. time and student attention), and provide reliable data that has been validated within the disciplinary context.",
+          "[IQD3WXLQ] Industry-Coupled Problem-Based Learning (IC-PBL) has become a central approach in engineering education, enabling students to bridge theoretical understanding with real-world application."
+        ],
+        "articles": [
+          "J8H6TD8Q",
+          "I9G3834N",
+          "IQD3WXLQ"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Active learning",
+          "Problem-based learning",
+          "Data-driven assessment"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Internship and work experience evaluation",
+        "definition": "The validation of instruments to assess engineering students' internship and work experience perceptions. These studies focus on developing scales to measure workplace support, generic competencies, and learning outcomes from internship programs.",
+        "evidence": [
+          "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+          "[XHXW8PNL] An essential aspect of higher education institutions’ academic curricula for engineering courses is the students’ industrial internship programs. In the literature, it is well accepted that such programs provide valuable learning outcomes and increase the graduates’ employment prospects.",
+          "[VG98XEQP] Community-partnered projects (CPP) have been used in education from the 1990's and have been shown to demonstrate effective learning by working on real-time problems which are diverse and cultural, social, and environmental."
+        ],
+        "articles": [
+          "DFVK7NR2",
+          "XHXW8PNL",
+          "VG98XEQP"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Workplace support",
+          "Generic competencies",
+          "Community-partnered projects"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Validity and reliability of assessment instruments",
+        "definition": "The methodological focus on validating and ensuring the reliability of assessment instruments in engineering education. These studies emphasize the importance of psychometric properties such as factor analysis, internal consistency, and measurement invariance.",
+        "evidence": [
+          "[YE4TP358] Creativity, being a key competency of engineering, must be taught and assessed. Here, we verify the reliability of the Creative Engineering Design Assessment (CEDA), a psychometric test for engineering students, as well as clarify the assessment process.",
+          "[FMII7TUT] The article presents the validity and reliability of the MICRORUBRI instrument based on rubrics, with problems applied to engineering that allow analyzing situations in real context, as well as the generation, visualization of surfaces, planes and vectors; its objective is to evaluate the development of competences in vector calculus in students who are enrolled in undergraduate engineering programs.",
+          "[4I9HTBU4] Thus, students need to equip themselves with proper oral communication skills before they enter the industry. As such, this study aimed to develop a valid and reliable survey instrument to measure Workplace Oral Communication Skills (WOCS) by performing a step-by-step instrument validation through exploratory factor analysis (EFA)."
+        ],
+        "articles": [
+          "YE4TP358",
+          "FMII7TUT",
+          "4I9HTBU4"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Psychometric validation",
+          "Factor analysis",
+          "Internal consistency"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts primarily focus on the development and validation of assessment instruments in engineering education. Key themes include professional competencies, self-efficacy, employability skills, motivational attitudes, entrepreneurial mindset, systems thinking, internship evaluation, and methodological rigor in instrument validation. Many studies emphasize the use of factor analysis, confirmatory factor analysis, and reliability indices to ensure the validity of their instruments. There is a notable lack of detailed quantitative results in several abstracts, which limits the depth of analysis.",
+    "grounding_notes": "All themes are grounded in verbatim quotes from the abstracts. The frequency of themes is based on the number of abstracts explicitly mentioning the concept. Some abstracts have quality notes indicating missing elements (e.g., no quantitative data, missing results), which were not inferred. The related_concepts are derived from the observed terminology and patterns in the abstracts.",
+    "_hallucination_control": {
+      "total_themes": 8,
+      "avg_grounding_score": 0.942,
+      "avg_quote_grounding": 0.917,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 2,
+      "verification_details": [
+        {
+          "theme_name": "Assessment of professional competencies",
+          "evidence_verified": [
+            {
+              "quote": "[Z4ICDXEQ] The purpose of this study was to construct the indicators of professional competencies of the nanotechnology-based sputtering system industry based on industry requirements and analyse the core competencies of the industry for promoting the human resource of physical vapour deposition technology.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[KI4LCCHP] This study aimed to validate the factor structure of professional competencies in engineering and test the measurement invariance of these competencies across gender. Through a cross-sectional survey, 552 senior undergraduate students (287 males) responded to a 24-item professional competencies scale.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[IV425BDL] Consequently, new competencies have been incorporated into engineering curricula, with ethics education emphasizing social responsibility as a core competency for students. This paper aims to adapt the 'Engineering Professional Responsibility Assessment (EPRA)' to Turkish culture.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "Z4ICDXEQ",
+            "KI4LCCHP",
+            "IV425BDL"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Self-efficacy measurement in engineering",
+          "evidence_verified": [
+            {
+              "quote": "[CJPX792Z] Contribution: This article has shown that self-efficacy in performing complex computer programming tasks and the self-regulation of electrical and electronics engineering undergraduate students varies with respect to the class standing and prior experience in computer programming.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[J4L96ZTQ] Background: Self-efficacy has been shown to be positively related to undergraduate engineering students' achievement. Designing self-efficacy measures to assess the multifaceted skills required of engineers could improve the predictive relationship between efficacy beliefs and performance.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[2DDA52FC] Self-efficacy beliefs, confidence in one’s capabilities to complete the task, are intuitively related to task choices—why would we attempt something when we know we will be unsuccessful? Yet, self-efficacy is domain specific and requires measurement instruments which are situated in the domain.",
+              "score": 0.66,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "2DDA52FC",
+            "CJPX792Z",
+            "J4L96ZTQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.66), not verbatim: '[2DDA52FC] Self-efficacy beliefs, confidence in on...'"
+          ]
+        },
+        {
+          "theme_name": "Employability skills assessment",
+          "evidence_verified": [
+            {
+              "quote": "[LHGYXXJG] The study aims to identify indicators that can measure students' employability skills and attributes. The research model, based on The Conference Board of Canada (Employability Skills 2000+), is divided into fundamental skills, personal management skills, and cooperative skills.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[49BIH9AZ] The purpose of this study is to identify employability skills among aspiring engineering graduates and develop measurement scale to assess their skill sets. This research has been conducted in two phases: Phase 1 covers the scale development process and Phase 2 covers exploratory factor analysis (EFA), confirmatory factor analysis (CFA) and validation.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LHGYXXJG",
+            "49BIH9AZ",
+            "DFVK7NR2"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Motivational attitudes and behaviors",
+          "evidence_verified": [
+            {
+              "quote": "[CY59SPDS] This research paper reports the quantitative validation of instruments for assessing engineering students' motivational attitudes and behaviors in their capstone design course. Motivation plays a key role in engineering practice, particularly with respect to students' efficiency and effectiveness as well as their readiness to engage in teamwork either in the capstone course or the workplace.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[PYM3MQNK] Students who are self-regulated leaners have been reported to perform more successfully in higher education institutions (HEIs). Therefore, instruments that can monitor students' motivation and learning have been devised and implemented.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[NLXE3X6S] Purpose – The purpose of this study was to design an assessment instrument to evaluate students’ attitudes toward sustainable engineering (SE). Factors that impact SE beliefs could then be explored.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "CY59SPDS",
+            "PYM3MQNK",
+            "NLXE3X6S"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Entrepreneurial mindset and design skills",
+          "evidence_verified": [
+            {
+              "quote": "[K9E5C83P] This Work in Progress paper will describe the initial steps of validating an instrument to measure Connections and Creating Value skills in undergraduate engineering students. To effectively tackle global challenges and meet industry demands, it is crucial for today's engineering graduates to possess both technical expertise and professional skill competencies.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[6XVSWITA] Designers rely on many methods and strategies to create innovative designs. However, design research often overlooks the personality and attitudinal factors influencing method utility and effectiveness. This article defines and operationalizes the construct design mindset and introduces the Design Mindset Inventory (D-Mindset0.1), allowing us to measure and leverage statistical analyses to advance our understanding of its role in design.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[XT6BBTKW] Although K-12 engineering outreach commonly involves college students, the young professionals who act as ambassadors for their field are less likely to be studied than the students they serve. Yet, outreach activities may offer opportunities for undergraduate students to develop aspects of their professional selves.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "K9E5C83P",
+            "6XVSWITA",
+            "XT6BBTKW"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Systems thinking and learning outcomes",
+          "evidence_verified": [
+            {
+              "quote": "[I9G3834N] Although faculty-centered pedagogies are endemic across undergraduate science, technology, engineering, and mathematics education, there is increasing interest in active learning approaches. As discipline-based educational research in mechanical engineering continues to assess strategies for improving student learning and development, researchers need data collection tools that ameliorate issues of bias, minimize costs (e.g. time and student attention), and provide reliable data that has been validated within the disciplinary context.",
+              "score": 0.99,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[IQD3WXLQ] Industry-Coupled Problem-Based Learning (IC-PBL) has become a central approach in engineering education, enabling students to bridge theoretical understanding with real-world application.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[J8H6TD8Q] It is widely acknowledged that systems thinking skills (STS) are critical competencies that enable engineering students to solve problems, communicate, use data, and design components and systems, with greater success.",
+              "score": 0.19,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "J8H6TD8Q",
+            "I9G3834N",
+            "IQD3WXLQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.19): '[J8H6TD8Q] It is widely acknowledged that systems ...'"
+          ]
+        },
+        {
+          "theme_name": "Internship and work experience evaluation",
+          "evidence_verified": [
+            {
+              "quote": "[DFVK7NR2] The purpose of this study was to validate a newly adapted version of the Work Experience Questionnaire (WEQ), which can be used for evaluating engineering students' perception of their internship experience.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[XHXW8PNL] An essential aspect of higher education institutions’ academic curricula for engineering courses is the students’ industrial internship programs. In the literature, it is well accepted that such programs provide valuable learning outcomes and increase the graduates’ employment prospects.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[VG98XEQP] Community-partnered projects (CPP) have been used in education from the 1990's and have been shown to demonstrate effective learning by working on real-time problems which are diverse and cultural, social, and environmental.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "DFVK7NR2",
+            "XHXW8PNL",
+            "VG98XEQP"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Validity and reliability of assessment instruments",
+          "evidence_verified": [
+            {
+              "quote": "[YE4TP358] Creativity, being a key competency of engineering, must be taught and assessed. Here, we verify the reliability of the Creative Engineering Design Assessment (CEDA), a psychometric test for engineering students, as well as clarify the assessment process.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[FMII7TUT] The article presents the validity and reliability of the MICRORUBRI instrument based on rubrics, with problems applied to engineering that allow analyzing situations in real context, as well as the generation, visualization of surfaces, planes and vectors; its objective is to evaluate the development of competences in vector calculus in students who are enrolled in undergraduate engineering programs.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[4I9HTBU4] Thus, students need to equip themselves with proper oral communication skills before they enter the industry. As such, this study aimed to develop a valid and reliable survey instrument to measure Workplace Oral Communication Skills (WOCS) by performing a step-by-step instrument validation through exploratory factor analysis (EFA).",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "YE4TP358",
+            "FMII7TUT",
+            "4I9HTBU4"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

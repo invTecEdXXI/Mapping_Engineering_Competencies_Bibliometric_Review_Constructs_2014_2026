@@ -1,0 +1,175 @@
+{
+  "session_id": "20260724_231740",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:19:07.553081",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Psychometric and Competency Integration Framework",
+        "justification": "This framework aligns with the high coverage of instrument development (n=24) and psychometric analysis (n=15), while also integrating competency-based themes (e.g., Engineering Competencies and Skills, Communication and Transferable Competencies). It reflects the empirical pattern of rigorous measurement tools being central to assessing both technical and non-technical competencies.",
+        "general_objective": "To integrate psychometric rigor with competency-based assessment in engineering education, examining how measurement tools and competency frameworks collectively inform educational outcomes and employability.",
+        "specific_objectives": [
+          {
+            "text": "To analyze the development, validation, and psychometric properties of assessment instruments in engineering education.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation",
+              "Psychometric Properties and Statistical Analysis"
+            ],
+            "n_studies_support": "39",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To evaluate the role of technical and non-technical competencies (e.g., communication, problem-solving) in shaping engineering education outcomes.",
+            "key_themes": [
+              "Engineering Competencies and Skills",
+              "Communication and Transferable Competencies"
+            ],
+            "n_studies_support": "20",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To assess the relationship between instrument validity and the reliability of competency assessments in engineering contexts.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation",
+              "Engineering Competencies and Skills"
+            ],
+            "n_studies_support": "24",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To identify gaps in the alignment between psychometric tools and competency frameworks in engineering education research.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation",
+              "Engineering Competencies and Skills"
+            ],
+            "n_studies_support": "15",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~63%",
+        "strengths": [
+          "Highly aligned with the most robust themes in the dataset.",
+          "Allows for comparative analysis between measurement rigor and competency assessment.",
+          "Addresses both technical and non-technical competencies, reflecting industry demands."
+        ],
+        "limitations": [
+          "Does not explicitly address ethical or motivational constructs, which may limit holistic insights."
+        ]
+      },
+      {
+        "approach": "Student Development and Employability Framework",
+        "justification": "This framework is grounded in the strong focus on self-efficacy (n=14), motivational constructs (n=6), and workplace readiness (n=7). It reflects the empirical pattern of student development being closely tied to employability and industry expectations, particularly in non-technical domains.",
+        "general_objective": "To examine how student development in engineering (e.g., self-efficacy, identity, motivation) and employability competencies (e.g., communication, workplace readiness) interact to shape educational and career outcomes.",
+        "specific_objectives": [
+          {
+            "text": "To assess the development of engineering self-efficacy, identity, and motivational constructs among students.",
+            "key_themes": [
+              "Engineering Self-Efficacy and Identity",
+              "Motivational and Psychosocial Constructs in Engineering Education"
+            ],
+            "n_studies_support": "20",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To evaluate the role of transferable competencies (e.g., communication, teamwork) in preparing students for workplace readiness.",
+            "key_themes": [
+              "Communication and Transferable Competencies",
+              "Workplace Readiness and Internship Competency Assessment"
+            ],
+            "n_studies_support": "14",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To explore the relationship between student development (e.g., self-efficacy) and employability outcomes (e.g., internship success).",
+            "key_themes": [
+              "Engineering Self-Efficacy and Identity",
+              "Workplace Readiness and Internship Competency Assessment"
+            ],
+            "n_studies_support": "14",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To identify demographic or contextual factors influencing student development and employability.",
+            "key_themes": [
+              "Demographic Influences on Engineering Competencies",
+              "Engineering Self-Efficacy and Identity"
+            ],
+            "n_studies_support": "4-14",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~40-50%",
+        "strengths": [
+          "Focuses on student-centered outcomes, which are critical for retention and success.",
+          "Integrates both developmental and employability dimensions, reflecting real-world engineering education priorities.",
+          "Allows for comparative analysis across different student populations."
+        ],
+        "limitations": [
+          "Less emphasis on technical competencies and ethical/social responsibility, which may limit comprehensive insights."
+        ]
+      },
+      {
+        "approach": "Ethical, Social, and Professional Responsibility Framework",
+        "justification": "This framework is designed to address the underrepresented but critical theme of ethics and social responsibility (n=5), while also integrating related constructs like professional values and demographic influences (n=4). It reflects the empirical pattern of these themes being less studied but highly relevant to engineering practice.",
+        "general_objective": "To examine the role of ethical, social responsibility, and professional values in engineering education, and their impact on student development, employability, and career trajectories.",
+        "specific_objectives": [
+          {
+            "text": "To assess the development and assessment of ethical, social responsibility, and professional values in engineering students.",
+            "key_themes": [
+              "Ethical, Social Responsibility, and Professional Values"
+            ],
+            "n_studies_support": "5",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To evaluate the relationship between ethical training and students' professional identity, self-efficacy, and employability.",
+            "key_themes": [
+              "Ethical, Social Responsibility, and Professional Values",
+              "Engineering Self-Efficacy and Identity",
+              "Workplace Readiness and Internship Competency Assessment"
+            ],
+            "n_studies_support": "5-14",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To explore demographic influences on ethical decision-making, social responsibility, and professional values in engineering.",
+            "key_themes": [
+              "Ethical, Social Responsibility, and Professional Values",
+              "Demographic Influences on Engineering Competencies"
+            ],
+            "n_studies_support": "4-5",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To identify gaps in the integration of ethical and social responsibility training within engineering curricula.",
+            "key_themes": [
+              "Ethical, Social Responsibility, and Professional Values",
+              "Assessment Instrument Development and Validation"
+            ],
+            "n_studies_support": "5-24",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~10-20%",
+        "strengths": [
+          "Addresses a critical but understudied area in engineering education.",
+          "Allows for comparative analysis across demographic groups and educational contexts.",
+          "Highlights the importance of ethical and social responsibility in shaping professional identity and career trajectories."
+        ],
+        "limitations": [
+          "Limited empirical coverage may restrict the depth of analysis.",
+          "Less focus on technical competencies and psychometric rigor, which may limit its applicability to broader engineering education research."
+        ]
+      }
+    ],
+    "recommendation": "The 'Psychometric and Competency Integration Framework' is recommended as the primary analytical framework. It aligns with the most robust themes in the dataset (e.g., instrument development, psychometric analysis, and competency assessment), covers a significant portion of the studies (~63%), and allows for both descriptive and comparative analyses. This framework also addresses both technical and non-technical competencies, reflecting the dual priorities of engineering education research and industry demands. While the other frameworks offer valuable insights, they either cover less empirical ground (e.g., Ethical, Social, and Professional Responsibility Framework) or focus narrowly on student development (e.g., Student Development and Employability Framework). The Psychometric and Competency Integration Framework provides a more comprehensive and balanced approach to organizing the systematic review's findings.",
+    "_theme_reference_check": {
+      "valid_references": 24,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

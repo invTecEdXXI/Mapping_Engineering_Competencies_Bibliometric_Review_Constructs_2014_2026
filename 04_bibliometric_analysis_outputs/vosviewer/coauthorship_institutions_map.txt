@@ -1,0 +1,121 @@
+id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Citations>	score<Avg. pub. year>	description	url
+1	Universiti Teknologi MARA System	2.5248	-0.0069	1	0	0	1	2017.0		
+2	Ação Educativa	2.2646	0.4877	2	1	1	1	2025.0		
+3	Politecnica Salesiana University	2.7061	0.0529	2	1	1	1	2025.0		
+4	Universidad de Guadalajara	2.2208	0.7548	3	1	1	1	2026.0		
+5	Tecnologie Avanzate (Italy)	2.6623	0.32	3	1	1	1	2026.0		
+6	Universitatea Națională de Știință și Tehnologie Politehnica București	2.4015	0.8744	4	0	0	1	2024.0		
+7	Electoral Commission	2.0482	1.2671	5	1	1	1	2026.0		
+8	The Federal Polytechnic, Ado-Ekiti	2.4896	0.8323	5	1	1	1	2026.0		
+9	South Dakota School of Mines and Technology	2.2323	1.5384	6	3	3	2	2020.0		
+10	Saint Vincent College	2.3921	1.1986	6	3	3	1	2025.0		
+11	Purdue University West Lafayette	2.052	1.0394	6	3	3	3	2020.0		
+12	Rowan University	1.8921	1.3792	6	3	3	1	2025.0		
+13	Clarkson University	1.9785	1.5012	7	0	0	2	2020.0		
+14	Colorado State University	1.8939	1.7576	8	0	0	1	2020.0		
+15	University of Georgia	1.595	1.9325	9	0	0	1	2018.0		
+16	International Social Security Association	1.1823	2.2866	10	1	1	1	2024.0		
+17	Lovely Professional University	1.6237	1.8518	10	1	1	1	2024.0		
+18	Ming Chuan University	0.9503	2.4262	11	1	1	1	2022.0		
+19	National Taiwan Normal University	1.3917	1.9914	11	1	1	1	2022.0		
+20	The University of Texas at Austin	0.8352	2.0729	12	3	3	3	2017.67		
+21	Delft University of Technology	0.4948	2.1939	13	2	2	2	2022.5		
+22	Clemson University	0.4046	2.4671	14	2	2	2	2017.5		
+23	Louisiana Tech University	0.1678	2.3499	14	1	1	1	2019.0		
+24	Universitas Negeri Surabaya	0.1122	2.473	15	0	0	1	2025.0		
+25	Uppsala University	-0.1286	2.1911	16	2	2	1	2019.0		
+26	Rose–Hulman Institute of Technology	-0.1052	2.353	16	3	3	2	2018.5		
+27	Gannon University	-0.0187	2.2142	16	2	2	1	2019.0		
+28	Universidad de Las Palmas de Gran Canaria	-0.3924	2.3714	17	0	0	1	2017.0		
+29	University of Missouri	-0.7142	2.6846	18	4	4	1	2021.0		
+30	Konkuk University	-0.4698	2.2113	18	4	4	1	2021.0		
+31	University of North Dakota	-0.7936	2.161	18	4	4	1	2021.0		
+32	Georgia State University	-0.945	2.4509	18	4	4	1	2021.0		
+33	University of Denver	-0.4214	2.5366	18	4	4	1	2021.0		
+34	Kocaeli Üniversitesi	-1.0245	2.5807	19	2	2	1	2023.0		
+35	Istanbul University-Cerrahpaşa	-0.6521	2.2792	19	2	2	1	2023.0		
+36	Istanbul University	-1.0994	2.1075	19	2	2	1	2023.0		
+37	Arizona State University	-1.2573	2.1807	20	0	0	2	2017.5		
+38	Northern University	-1.1823	1.8518	21	1	1	1	2019.0		
+39	Ohio Northern University	-1.6237	2.2866	21	1	1	1	2019.0		
+40	The Ohio State University	-1.6691	1.9211	22	0	0	2	2021.5		
+41	National Taipei University of Nursing and Health Science	-2.0357	1.9366	23	1	1	1	2017.0		
+42	Fujian University of Technology	-1.5943	1.5019	23	1	1	1	2017.0		
+43	Suranaree University of Technology	-2.0356	1.4423	24	0	0	1	2021.0		
+44	Jaypee Institute of Information Technology	-2.0689	1.2776	25	0	0	1	2021.0		
+45	Çanakkale Onsekiz Mart Üniversitesi	-2.3681	1.3079	26	2	2	1	2025.0		
+46	Istanbul Medeniyet University	-1.9957	1.0065	26	2	2	1	2025.0		
+47	Bandırma Onyedi Eylül University	-2.443	0.8347	26	2	2	1	2025.0		
+48	Mevlana University	-2.3658	0.727	27	0	0	1	2014.0		
+49	Bilkent University	-2.6623	0.7548	28	1	1	1	2016.0		
+50	Amasya Üniversitesi	-2.2208	0.32	28	1	1	1	2016.0		
+51	University of Bamberg	0.5697	2.6671	13	2	2	1	2024.0		
+52	Technical University of Denmark	0.942	2.3656	13	2	2	1	2024.0		
+53	Worcester Polytechnic Institute	-2.7061	0.4877	29	1	1	1	2025.0		
+54	Bucknell University	-2.2646	0.0529	29	1	1	1	2025.0		
+55	Hanyang University	-2.7207	0.2174	30	1	1	1	2025.0		
+56	Anyang University	-2.2793	-0.2174	30	1	1	1	2025.0		
+57	Education University of Hong Kong	-2.7061	-0.0529	31	1	1	1	2020.0		
+58	University of Hong Kong	-2.2646	-0.4877	31	1	1	1	2020.0		
+59	University of Kentucky	0.641	2.5842	14	1	1	1	2016.0		
+60	Tun Hussein Onn University of Malaysia	-2.4688	-0.5319	32	0	0	1	2022.0		
+61	Michigan Technological University	-2.4683	-0.54	33	2	2	1	2015.0		
+62	Tufts University	-2.0959	-0.8415	33	2	2	1	2015.0		
+63	University of Colorado Boulder	-2.5432	-1.0132	33	2	2	1	2015.0		
+64	Shahid Bahonar University of Kerman	-2.3265	-1.0309	34	0	0	1	2021.0		
+65	Humboldt-Universität zu Berlin	-2.052	-1.0394	35	3	3	1	2015.0		
+66	University of Stuttgart	-1.8921	-1.3792	35	3	3	1	2015.0		
+67	Leibniz Institute for Science and Mathematics Education	-2.2323	-1.5384	35	3	3	1	2015.0		
+68	University of Bremen	-2.3921	-1.1986	35	3	3	1	2015.0		
+69	Center for Interdisciplinary Studies	-1.9001	-1.2634	36	3	3	1	2021.0		
+70	Polytechnic Institute of Porto	-1.7402	-1.6032	36	3	3	2	2022.0		
+71	Autonomous University of Lisbon	-2.0804	-1.7624	36	3	3	1	2021.0		
+72	University of Trás-os-Montes and Alto Douro	-2.2402	-1.4226	36	3	3	1	2021.0		
+73	Francisco de Paula Santander University	-1.845	-1.7338	37	0	0	1	2019.0		
+74	University of Helsinki	-1.7176	-1.6472	38	2	2	1	2024.0		
+75	Aalto University	-1.3453	-1.9486	38	2	2	1	2024.0		
+76	Häme University of Applied Sciences	-1.7925	-2.1204	38	2	2	1	2024.0		
+77	The University of Texas at El Paso	1.0155	2.5719	12	3	3	1	2017.0		
+78	Liberal Arts University	0.6753	2.4127	12	3	3	1	2017.0		
+79	American Society For Engineering Education	1.1753	2.2321	12	3	3	1	2017.0		
+80	Australian Council for Educational Research	-1.4331	-1.9766	39	0	0	1	2015.0		
+81	University of Coimbra	-1.3917	-1.9914	40	1	2	2	2024.0		
+82	Instituto Superior Miguel Torga	-0.9503	-2.4262	40	1	2	2	2024.0		
+83	Technological University Dublin	-0.6753	-2.1353	41	2	2	1	2025.0		
+84	University of Limerick	-0.856	-2.4151	41	3	4	2	2025.5		
+85	Technological University of the Shannon: Midlands Midwest	-0.9947	-2.2298	41	3	4	2	2025.5		
+86	Shannon Applied Biotechnology Centre	-1.1753	-2.5095	41	2	2	1	2026.0		
+87	Pennsylvania State University	-0.6537	-2.368	42	3	3	2	2017.0		
+88	Carnegie Mellon University	-0.6346	-2.613	42	2	2	1	2015.0		
+89	University of Michigan	-0.8277	-2.5415	42	2	2	1	2015.0		
+90	Universitat Politècnica de Catalunya	-0.5036	-2.2088	43	2	2	1	2021.0		
+91	Universidad Pablo de Olavide	-0.1312	-2.5103	43	2	2	1	2021.0		
+92	Universidad de Cádiz	-0.5785	-2.6821	43	2	2	1	2021.0		
+93	California Institute of Technology	-0.1898	2.7557	16	3	3	1	2017.0		
+94	Stanford University	-0.152	2.5755	16	4	4	2	2017.5		
+95	Gender Studies	-0.2448	2.678	16	3	3	1	2017.0		
+96	California State University, Fullerton	-0.1083	2.7067	16	3	3	1	2017.0		
+97	Universidad Católica de Cuenca	-0.0854	-2.279	45	1	1	1	2026.0		
+98	University of Córdoba	0.3561	-2.7137	45	1	1	1	2026.0		
+99	Queen's University	0.4038	-2.52	46	0	0	1	2016.0		
+100	Central University of Ecuador	0.4481	-2.1915	47	1	1	1	2022.0		
+101	Universidad de las Fuerzas Armadas ESPE	0.8895	-2.6263	47	1	1	1	2022.0		
+102	State University of Malang	0.9665	-2.3835	48	0	0	1	2016.0		
+103	Friedrich Schiller University Jena	0.9503	-1.9914	49	1	1	1	2015.0		
+104	TU Dortmund University	1.3917	-2.4262	49	1	1	1	2015.0		
+105	Necmettin Erbakan University	1.3038	-1.811	50	2	2	1	2020.0		
+106	Selçuk University	1.6762	-2.1125	50	2	2	1	2020.0		
+107	Kırklareli University	1.2289	-2.2842	50	2	2	1	2020.0		
+108	École Polytechnique Fédérale de Lausanne	1.6289	-2.0034	51	0	0	1	2023.0		
+109	Instituto Politécnico Nacional	1.5943	-1.5019	52	1	1	1	2026.0		
+110	Tecnológico de Monterrey	2.0357	-1.9366	52	1	1	1	2026.0		
+111	Universidad Tecnológica de Bolívar	1.7695	-1.2956	53	1	1	1	2021.0		
+112	Popular University of Cesar	2.2109	-1.7303	53	1	1	1	2021.0		
+113	North Carolina Agricultural and Technical State University	2.0757	-1.279	54	0	0	1	2018.0		
+114	Instituto Tecnológico Metropolitano	2.3059	-1.0412	55	0	0	1	2025.0		
+115	Shibaura Institute of Technology	2.3634	-0.8133	56	0	0	1	2018.0		
+116	Northeast Normal University	2.3676	-0.5734	57	0	0	1	2026.0		
+117	Texas A&M University	2.2646	-0.0529	58	1	1	1	2016.0		
+118	Mitchell Institute	2.7061	-0.4877	58	1	1	1	2016.0		
+119	University of California, Irvine	-0.5593	-2.113	42	1	1	1	2019.0		
+120	Vanderbilt University	-0.1584	-2.4435	44	0	0	1	2023.0		

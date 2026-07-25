@@ -1,0 +1,172 @@
+{
+  "sections": [
+    {
+      "context": "section_1",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "mamaril_measuring_2016"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_2",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "power_engineering_2026",
+        "power_self-efficacy_2025",
+        "verdin_testing_2017"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_3",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "khampirat_validation_2021",
+        "idkhan_employability_2021",
+        "balgiu_validation_2024",
+        "partanen_chemical_2024",
+        "mamaril_measuring_2016"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [
+        "canonical_anchor_applied:mcp_ratex1"
+      ],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_4",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "mamaril_measuring_2016",
+        "paul_examining_2018",
+        "motahhari-nejad_professional_2021",
+        "tormey_development_2023"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_5",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "garriott_development_2021",
+        "gercek_engineering_2023",
+        "khampirat_validation_2021"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_6",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "huang_systems_2015",
+        "nandy_dual_2025",
+        "choe_quantitative_2017",
+        "kittur_examining_2024"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_7",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "huang_systems_2015"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_8",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "mamaril_measuring_2016",
+        "ro_validity_2015"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    },
+    {
+      "context": "section_9",
+      "finding_ids_referenced": [],
+      "finding_ids_hallucinated": [],
+      "citations_referenced": [
+        "segarra_understanding_2026",
+        "kotla_wip_2025",
+        "mccormick_assessing_2015",
+        "ro_validity_2015",
+        "mamaril_measuring_2016"
+      ],
+      "citations_hallucinated": [],
+      "phases_referenced": [],
+      "phases_hallucinated": [],
+      "fabricated_metrics": [],
+      "grounding_score": 1.0,
+      "hallucination_flags": [],
+      "total_hallucination_flags": 0
+    }
+  ],
+  "summary": {
+    "avg_grounding_score": 1.0,
+    "avg_grounding_basis": "applicable_sections_only",
+    "applicable_sections": 9,
+    "sections_total": 9,
+    "total_flags": 0,
+    "finding_ids_verified": 0,
+    "finding_ids_hallucinated": 0,
+    "citations_verified": 28,
+    "citations_hallucinated": 0,
+    "verification_status": "VERIFIED"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "20260724_233014",
+  "phase": "1_refine",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:34:06.973048",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 13
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 14
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Affective Dimensions of Writing in Engineering Education",
+      "definition": "The exploration of engineering students' attitudes, emotions, and perceptions toward academic writing, including the development of tools to assess writing apprehension, writing attitudes, and their impact on career trajectory and graduate student persistence.",
+      "subthemes": [
+        "Writing attitudes survey",
+        "Writing apprehension",
+        "Career trajectory impact",
+        "Graduate student persistence"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "merge",
+      "target_index": 13
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Mediation and Correlation Analysis in Engineering Education Research",
+      "definition": "The application of mediation and correlation analyses to explore relationships between constructs in engineering education, such as how self-efficacy, motivation, or other factors mediate the impact of educational interventions on outcomes like academic success or entrepreneurial intention.",
+      "subthemes": [
+        "Mediation effects",
+        "Pearson's correlation coefficients",
+        "Intention to become an entrepreneur",
+        "Academic success correlation"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "merge",
+      "target_index": 13
+    }
+  ]
+}

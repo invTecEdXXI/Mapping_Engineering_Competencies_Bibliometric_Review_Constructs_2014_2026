@@ -1,0 +1,138 @@
+{
+  "cross_cutting_themes": [
+    {
+      "theme": "Self-Efficacy and Engineering Identity Measurement",
+      "finding_ids": [
+        "F006",
+        "F087",
+        "F091",
+        "F095",
+        "F096",
+        "F102",
+        "F114",
+        "F117",
+        "F124",
+        "F126",
+        "F127",
+        "F065",
+        "F067"
+      ],
+      "phases_involved": [
+        "2e",
+        "2i",
+        "3",
+        "6",
+        "9",
+        "10"
+      ],
+      "rationale": "Multiple phases converge on the centrality of self-efficacy and identity constructs in engineering education. Inductive themes (F006) identify this as a core area. Bridge articles (F087, F091, F095, F096) validate instruments measuring these constructs. Pivot nodes (F065, F067) show Bandura's foundational work on self-efficacy as a key citation bridge. A sleeping beauty (F102) and paradigm shifter (F117) highlight the enduring impact of one such instrument. Triangulated themes (F114) confirm cross-model convergence. Emerging bridges (F124, F126, F127) extend validation to new contexts.",
+      "evidence_strength": "strong"
+    },
+    {
+      "theme": "Instrument Development and Psychometric Validation in Engineering Education",
+      "finding_ids": [
+        "F088",
+        "F089",
+        "F090",
+        "F091",
+        "F092",
+        "F093",
+        "F094",
+        "F095",
+        "F096",
+        "F115",
+        "F123",
+        "F124",
+        "F127",
+        "F128"
+      ],
+      "phases_involved": [
+        "3",
+        "9",
+        "10"
+      ],
+      "rationale": "A large cluster of bridge articles (Phase 3) focuses on developing and validating instruments for various constructs (self-efficacy, motivation, ethics, employability, peer assessment). Triangulated theme F115 explicitly names this as a convergent theme. Emerging bridges (Phase 10) continue this tradition by validating instruments like the Compassion scale (F123) and General Self-Efficacy Scale (F124), and replicating prior validations (F127, F128). This demonstrates a sustained methodological focus across phases.",
+      "evidence_strength": "strong"
+    },
+    {
+      "theme": "Motivation and Engagement in Engineering Education",
+      "finding_ids": [
+        "F006",
+        "F009",
+        "F089",
+        "F113",
+        "F126",
+        "F065",
+        "F067"
+      ],
+      "phases_involved": [
+        "2e",
+        "2i",
+        "3",
+        "9",
+        "10"
+      ],
+      "rationale": "Inductive themes (F006, F009) identify motivation and engagement as key topics. Bridge article F089 validates the Motivated Strategies for Learning Questionnaire, a key motivation instrument. Triangulated theme F113 explicitly names 'Motivation and Engagement' as a convergent theme. Emerging bridge F126 links motivation to self-efficacy. Pivot nodes (F065, F067) on self-efficacy theory underpin motivational constructs. This theme connects conceptual, methodological, and theoretical findings.",
+      "evidence_strength": "strong"
+    },
+    {
+      "theme": "Professional, Ethical, and Generic Competencies",
+      "finding_ids": [
+        "F007",
+        "F040",
+        "F093",
+        "F094",
+        "F122"
+      ],
+      "phases_involved": [
+        "2e",
+        "2g",
+        "3",
+        "10"
+      ],
+      "rationale": "Inductive theme F007 highlights professional and ethical competencies. Declared gap F040 points to a need for studying capstone course practices (CPPs) related to professional skills. Bridge articles F093 (employability skills) and F094 (ethics and social responsibility) develop instruments for these competencies. Emerging bridge F122 proposes a competency model for process dynamics. This theme spans from gap identification to model building.",
+      "evidence_strength": "moderate"
+    },
+    {
+      "theme": "Socio-Emotional and Psychological Competencies",
+      "finding_ids": [
+        "F008",
+        "F038",
+        "F123",
+        "F124"
+      ],
+      "phases_involved": [
+        "2e",
+        "2g",
+        "10"
+      ],
+      "rationale": "Inductive theme F008 explicitly names socio-emotional and psychological competencies. Declared gap F038 notes that identity development research has been limited to non-engineering populations. Emerging bridges F123 (compassion) and F124 (general self-efficacy) represent recent efforts to validate measures for these competencies in engineering. This theme shows a growing but still emerging focus on non-cognitive skills.",
+      "evidence_strength": "suggestive"
+    }
+  ],
+  "meta_observation": "The field is characterized by a strong, sustained focus on psychometric instrument development and validation, particularly for self-efficacy and motivation constructs, which serve as a methodological backbone connecting theoretical foundations (Bandura), empirical studies, and emerging areas like socio-emotional competencies. The convergence of multiple phases on self-efficacy measurement indicates a mature subfield, while the emergence of compassion and identity measures suggests a broadening of the research agenda toward holistic engineering education.",
+  "_hallucination_control": {
+    "ids_grounded": 43,
+    "ids_total": 43,
+    "ids_hallucinated": 0,
+    "grounding_score": 1.0,
+    "total_flags": 0,
+    "flags": [],
+    "verification_status": "verified"
+  },
+  "llm_metadata": {
+    "model": "deepseek-v4-flash",
+    "provider": "deepseek",
+    "temperature": 0.1,
+    "max_tokens": 3000,
+    "timestamp": "2026-07-24T23:58:22.477637",
+    "prompt_tokens": 1561,
+    "completion_tokens": 1066,
+    "total_tokens": 2627,
+    "finish_reason": "stop",
+    "response_id": "19b6a1ca-0269-4b04-b51d-1a519bf59c5e",
+    "latency_ms": 10319.4,
+    "is_streaming_run": false,
+    "api_mode": "openai_compat"
+  }
+}

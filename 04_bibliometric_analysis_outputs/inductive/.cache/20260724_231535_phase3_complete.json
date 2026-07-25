@@ -1,0 +1,156 @@
+{
+  "session_id": "20260724_231535",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:17:27.094709",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Psychometric and Methodological Framework",
+        "justification": "This framework centers on the dominant theme of assessment instrument development and validation, which underpins nearly all other competency assessments. It reflects the empirical pattern where 54 studies (~57%) focus on methodological rigor in tool creation and validation.",
+        "general_objective": "To analyze the development, validation, and application of assessment instruments across engineering education competencies.",
+        "specific_objectives": [
+          {
+            "text": "To evaluate the psychometric properties (reliability, validity) of assessment instruments used in engineering competency evaluations.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 54,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To compare the methodological approaches used for assessing technical vs. non-technical competencies in engineering education.",
+            "key_themes": [
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+              "Advanced Cognitive and Systems Thinking Skills Assessment",
+              "Sustainability, Ethics, and Leadership Competencies Assessment"
+            ],
+            "n_studies_support": "40-60",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To assess the contextual variability in instrument validation across different educational environments (e.g., classrooms, internships).",
+            "key_themes": [
+              "Assessment Instrument Development and Validation",
+              "Educational Contexts and Assessment Environments"
+            ],
+            "n_studies_support": 23,
+            "analysis_type": "relational"
+          }
+        ],
+        "estimated_coverage": "~70%",
+        "strengths": [
+          "High empirical grounding in the most robust theme (Assessment Instrument Development and Validation).",
+          "Enables cross-competency comparisons of methodological rigor.",
+          "Directly informs best practices for instrument design and validation."
+        ],
+        "limitations": [
+          "May underrepresent non-methodological themes (e.g., Diversity and Inclusion)."
+        ]
+      },
+      {
+        "approach": "Competency Integration and Holistic Development Framework",
+        "justification": "This framework reflects the empirical observation that non-technical competencies (e.g., systems thinking, ethics, leadership) are increasingly integrated into broader competency assessments, as seen in multiple themes (e.g., 30% coverage of non-technical skills).",
+        "general_objective": "To examine the integration of diverse competencies (technical and non-technical) in engineering education and their assessment.",
+        "specific_objectives": [
+          {
+            "text": "To map the prevalence and assessment methods of non-technical competencies (e.g., sustainability, ethics, leadership) in engineering curricula.",
+            "key_themes": [
+              "Sustainability, Ethics, and Leadership Competencies Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 10,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To analyze the relationship between higher-order cognitive skills (e.g., systems thinking) and professional competencies in engineering practice.",
+            "key_themes": [
+              "Advanced Cognitive and Systems Thinking Skills Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 9,
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To evaluate how experiential and active learning strategies contribute to the development of integrated competencies.",
+            "key_themes": [
+              "Experiential and Active Learning Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 5,
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To assess the role of innovation and entrepreneurship in shaping competency frameworks for engineering students.",
+            "key_themes": [
+              "Innovation, Entrepreneurship, and Career Intentions Assessment",
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment"
+            ],
+            "n_studies_support": 4,
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~45%",
+        "strengths": [
+          "Highlights the growing importance of non-technical skills in engineering education.",
+          "Enables comparative analysis of competency integration across themes.",
+          "Grounded in empirical patterns of curriculum development."
+        ],
+        "limitations": [
+          "Excludes methodological themes (e.g., Assessment Instrument Development and Validation), which are critical for implementation."
+        ]
+      },
+      {
+        "approach": "Contextual and Equity-Centered Assessment Framework",
+        "justification": "This framework prioritizes the contextual variability and equity dimensions of assessment, as reflected in themes like 'Educational Contexts and Assessment Environments' (~25% coverage) and 'Diversity and Inclusion in Engineering Assessment' (~4% coverage). It addresses gaps in how assessment practices adapt to diverse settings and populations.",
+        "general_objective": "To analyze how assessment practices vary across educational contexts and address equity and inclusion in engineering education.",
+        "specific_objectives": [
+          {
+            "text": "To evaluate the design and implementation of assessment strategies tailored to specific educational environments (e.g., classrooms, internships, online learning).",
+            "key_themes": [
+              "Educational Contexts and Assessment Environments",
+              "Experiential and Active Learning Assessment"
+            ],
+            "n_studies_support": 23,
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To assess the inclusivity and fairness of assessment practices across diverse student populations.",
+            "key_themes": [
+              "Diversity and Inclusion in Engineering Assessment"
+            ],
+            "n_studies_support": 4,
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To compare assessment outcomes in different contexts (e.g., technical vs. non-technical competencies) to identify disparities.",
+            "key_themes": [
+              "Engineering Competencies, Attitudes, and Professional Skills Assessment",
+              "Educational Contexts and Assessment Environments"
+            ],
+            "n_studies_support": "30-50",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "~30%",
+        "strengths": [
+          "Addresses critical gaps in equity and inclusion in assessment.",
+          "Highlights the importance of context-specific assessment strategies.",
+          "Supports policy and institutional reforms for fairer assessment practices."
+        ],
+        "limitations": [
+          "Limited empirical coverage of diversity and inclusion themes may reduce robustness."
+        ]
+      }
+    ],
+    "recommendation": "The 'Psychometric and Methodological Framework' is recommended because it aligns with the most robust empirical pattern in the data (54 studies on assessment instrument development and validation) and provides a strong foundation for comparative and relational analyses across themes. This framework also directly informs best practices for designing and validating assessment tools, which is critical for advancing engineering education research and practice.",
+    "_theme_reference_check": {
+      "valid_references": 20,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

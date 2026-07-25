@@ -1,0 +1,173 @@
+{
+  "session_id": "20260724_230900",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:10:29.365366",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Instrument-Centric Framework",
+        "justification": "This framework centers on the dominant theme of assessment instrument development and validation, which underpins most empirical studies in the dataset. It allows for a deep dive into methodological rigor while exploring how instruments are applied across other competency domains.",
+        "general_objective": "To analyze the role of assessment instruments in engineering education, focusing on their development, validation, and application across diverse competency domains.",
+        "specific_objectives": [
+          {
+            "text": "To examine the methodological processes and psychometric rigor employed in the development and validation of assessment instruments for engineering competencies.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation for Engineering Competencies"
+            ],
+            "n_studies_support": "46",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To investigate how assessment instruments are used to evaluate transversal and employability skills in engineering education.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation for Engineering Competencies",
+              "Transversal and Employability Skills in Engineering Education"
+            ],
+            "n_studies_support": "15",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To assess the relationship between instrument development practices and the measurement of self-efficacy and identity development in engineering students.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation for Engineering Competencies",
+              "Self-Efficacy and Identity Development in Engineering"
+            ],
+            "n_studies_support": "18",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To explore the application of validated instruments in assessing critical thinking and advanced problem-solving competencies.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation for Engineering Competencies",
+              "Critical Thinking and Advanced Problem-Solving Competencies"
+            ],
+            "n_studies_support": "7",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~60-70%",
+        "strengths": [
+          "Highly aligned with the dominant theme in the dataset.",
+          "Allows for a comprehensive analysis of methodological rigor.",
+          "Facilitates comparative analysis across competency domains."
+        ],
+        "limitations": [
+          "May underrepresent themes with fewer studies (e.g., affective factors)."
+        ]
+      },
+      {
+        "approach": "Competency-Domain Framework",
+        "justification": "This framework organizes findings by competency domains, reflecting the empirical distribution of studies across themes. It enables a comparative analysis of how different competencies are assessed and their interrelationships.",
+        "general_objective": "To compare and contrast the assessment, development, and validation of various engineering competencies, emphasizing their interrelationships and methodological approaches.",
+        "specific_objectives": [
+          {
+            "text": "To analyze the assessment instruments and methodologies used for transversal and employability skills in engineering education.",
+            "key_themes": [
+              "Transversal and Employability Skills in Engineering Education"
+            ],
+            "n_studies_support": "19",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To evaluate the role of self-efficacy and identity development in engineering education, including their measurement and impact on outcomes.",
+            "key_themes": [
+              "Self-Efficacy and Identity Development in Engineering"
+            ],
+            "n_studies_support": "22",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To examine the assessment of critical thinking and advanced problem-solving competencies, including the development of specialized instruments.",
+            "key_themes": [
+              "Critical Thinking and Advanced Problem-Solving Competencies"
+            ],
+            "n_studies_support": "9",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To investigate the relationship between motivational and entrepreneurial mindset and employability skills, including their assessment.",
+            "key_themes": [
+              "Motivational and Entrepreneurial Mindset in Engineering",
+              "Transversal and Employability Skills in Engineering Education"
+            ],
+            "n_studies_support": "8",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "~70-80%",
+        "strengths": [
+          "Covers the majority of themes and studies.",
+          "Enables comparative analysis across competency domains.",
+          "Highlights gaps and overlaps in assessment practices."
+        ],
+        "limitations": [
+          "May dilute focus on methodological rigor in favor of thematic coverage."
+        ]
+      },
+      {
+        "approach": "Methodological-Outcome Framework",
+        "justification": "This framework links methodological rigor (instrument development) with outcomes (e.g., self-efficacy, employability) and contextual factors (e.g., gender, diversity). It reflects the empirical relationships identified in the dataset.",
+        "general_objective": "To explore how methodological rigor in assessment instrument development influences engineering education outcomes and contextual factors.",
+        "specific_objectives": [
+          {
+            "text": "To assess the methodological rigor of assessment instruments used to evaluate engineering competencies and their alignment with industry and academic standards.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation for Engineering Competencies"
+            ],
+            "n_studies_support": "46",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "To investigate the relationship between validated assessment instruments and outcomes such as self-efficacy, identity development, and employability.",
+            "key_themes": [
+              "Assessment Instrument Development and Validation for Engineering Competencies",
+              "Self-Efficacy and Identity Development in Engineering",
+              "Transversal and Employability Skills in Engineering Education"
+            ],
+            "n_studies_support": "30",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "To examine how gender and diversity considerations are integrated into the development and validation of assessment instruments.",
+            "key_themes": [
+              "Gender and Diversity in Engineering Education",
+              "Assessment Instrument Development and Validation for Engineering Competencies"
+            ],
+            "n_studies_support": "5",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "To evaluate the role of real-world and workplace learning assessments in complementing academic assessments of engineering competencies.",
+            "key_themes": [
+              "Workplace Competency Assessment through Internships",
+              "Real-World and Community-Engaged Learning Assessment"
+            ],
+            "n_studies_support": "5",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "~60-70%",
+        "strengths": [
+          "Links methodology with outcomes and contextual factors.",
+          "Highlights the importance of psychometric rigor.",
+          "Addresses gaps in underrepresented themes (e.g., gender, diversity)."
+        ],
+        "limitations": [
+          "May overlook themes with limited methodological focus (e.g., affective factors)."
+        ]
+      }
+    ],
+    "recommendation": {
+      "framework": "Competency-Domain Framework",
+      "reason": "This framework provides the most comprehensive coverage of the dataset (~70-80%) while enabling comparative analysis across all major themes. It aligns well with the empirical distribution of studies and allows for a balanced exploration of both methodological and thematic dimensions. The framework also highlights gaps and overlaps in assessment practices, which can guide future research and policy."
+    },
+    "_theme_reference_check": {
+      "valid_references": 20,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

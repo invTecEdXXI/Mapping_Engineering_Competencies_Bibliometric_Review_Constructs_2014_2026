@@ -1,0 +1,204 @@
+2026-07-24 22:44:17 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:44:17 [INFO] bibliometrico.main: Sistema de Analisis Bibliometrico de Frontera
+2026-07-24 22:44:17 [INFO] bibliometrico.main: Fases seleccionadas: [3]
+2026-07-24 22:44:17 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:44:18 [INFO] bibliometrico.main: Checkpoint cargado: 96 articulos
+2026-07-24 22:44:18 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:44:19 [INFO] bibliometrico.networks: === FASE 3: Analisis de Redes ===
+2026-07-24 22:44:19 [INFO] bibliometrico.networks: Bibliographic coupling: 73 nodes, 541 edges
+2026-07-24 22:44:19 [INFO] bibliometrico.networks: Communities detected: 12
+2026-07-24 22:44:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\bibliographic_coupling.gexf
+2026-07-24 22:44:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\bibliographic_coupling.graphml
+2026-07-24 22:44:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\bibliographic_coupling.html
+2026-07-24 22:44:21 [INFO] bibliometrico.networks: Saved: network_bibliographic_coupling_cluster.png
+2026-07-24 22:44:23 [INFO] bibliometrico.networks: Saved: network_bibliographic_coupling_overlay.png
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: Saved: network_bibliographic_coupling_density.png
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: References cited by >=2 corpus articles: 447
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: Labels resolved from references_resolved: 432/447 (15 remaining for API)
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: Resolving 15 OpenAlex IDs (cached: 0)...
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: Using OpenAlex API key (premium pool)
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: Resolved 0/15 references
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: Co-citation network: 267 nodes, 2586 edges
+2026-07-24 22:44:26 [INFO] bibliometrico.networks: Communities detected: 27
+2026-07-24 22:44:27 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\cocitation.gexf
+2026-07-24 22:44:27 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\cocitation.graphml
+2026-07-24 22:44:28 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\cocitation.html
+2026-07-24 22:44:28 [INFO] bibliometrico.networks: Communities detected: 3
+2026-07-24 22:44:28 [INFO] bibliometrico.networks: Co-citation vis filtered: 82 nodes
+2026-07-24 22:44:30 [INFO] bibliometrico.networks: Saved: network_cocitation_cluster.png
+2026-07-24 22:44:33 [INFO] bibliometrico.networks: Saved: network_cocitation_density.png
+2026-07-24 22:44:33 [INFO] bibliometrico.networks: Keyword co-occurrence: 291 nodes, 3493 edges
+2026-07-24 22:44:33 [INFO] bibliometrico.networks: Communities detected: 5
+2026-07-24 22:44:34 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\keyword_cooccurrence.gexf
+2026-07-24 22:44:34 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\keyword_cooccurrence.graphml
+2026-07-24 22:44:35 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\keyword_cooccurrence.html
+2026-07-24 22:44:39 [INFO] bibliometrico.networks: Saved: network_keyword_cooccurrence_cluster.png
+2026-07-24 22:44:42 [INFO] bibliometrico.networks: Saved: network_keyword_cooccurrence_density.png
+2026-07-24 22:44:42 [INFO] bibliometrico.networks: Co-authorship (authors): 277 nodes, 452 edges
+2026-07-24 22:44:42 [INFO] bibliometrico.networks: Communities detected: 77
+2026-07-24 22:44:42 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_authors.gexf
+2026-07-24 22:44:42 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_authors.graphml
+2026-07-24 22:44:42 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_authors.html
+2026-07-24 22:44:42 [INFO] bibliometrico.networks: Communities detected: 13
+2026-07-24 22:44:44 [INFO] bibliometrico.networks: Saved: network_coauthorship_authors_cluster.png
+2026-07-24 22:44:44 [INFO] bibliometrico.networks: Co-authorship (institutions): 120 nodes, 94 edges
+2026-07-24 22:44:44 [INFO] bibliometrico.networks: Communities detected: 58
+2026-07-24 22:44:44 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_institutions.gexf
+2026-07-24 22:44:44 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_institutions.graphml
+2026-07-24 22:44:44 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_institutions.html
+2026-07-24 22:44:44 [INFO] bibliometrico.networks: Communities detected: 34
+2026-07-24 22:44:46 [INFO] bibliometrico.networks: Saved: network_coauthorship_institutions_cluster.png
+2026-07-24 22:44:46 [INFO] bibliometrico.networks: Co-authorship (countries): 34 nodes, 15 edges
+2026-07-24 22:44:46 [INFO] bibliometrico.networks: Communities detected: 20
+2026-07-24 22:44:46 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_countries.gexf
+2026-07-24 22:44:46 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_countries.graphml
+2026-07-24 22:44:46 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coauthorship_countries.html
+2026-07-24 22:44:47 [INFO] bibliometrico.networks: Saved: network_coauthorship_countries_cluster.png
+2026-07-24 22:44:47 [INFO] bibliometrico.networks: Bib. coupling (journals): 37 nodes, 199 edges
+2026-07-24 22:44:47 [INFO] bibliometrico.networks: Communities detected: 7
+2026-07-24 22:44:47 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_journals.gexf
+2026-07-24 22:44:47 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_journals.graphml
+2026-07-24 22:44:47 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_journals.html
+2026-07-24 22:44:49 [INFO] bibliometrico.networks: Saved: network_coupling_journals_cluster.png
+2026-07-24 22:44:49 [INFO] bibliometrico.networks: Bib. coupling (institutions): 110 nodes, 1661 edges
+2026-07-24 22:44:49 [INFO] bibliometrico.networks: Communities detected: 18
+2026-07-24 22:44:50 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_institutions.gexf
+2026-07-24 22:44:50 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_institutions.graphml
+2026-07-24 22:44:50 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_institutions.html
+2026-07-24 22:44:50 [INFO] bibliometrico.networks: Communities detected: 10
+2026-07-24 22:44:51 [INFO] bibliometrico.networks: Saved: network_coupling_institutions_cluster.png
+2026-07-24 22:44:51 [INFO] bibliometrico.networks: Bib. coupling (countries): 31 nodes, 191 edges
+2026-07-24 22:44:51 [INFO] bibliometrico.networks: Communities detected: 7
+2026-07-24 22:44:52 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_countries.gexf
+2026-07-24 22:44:52 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_countries.graphml
+2026-07-24 22:44:52 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\coupling_countries.html
+2026-07-24 22:44:53 [INFO] bibliometrico.networks: Saved: network_coupling_countries_cluster.png
+2026-07-24 22:47:10 [INFO] bibliometrico.networks: Co-citation (journals): 262 nodes, 2485 edges
+2026-07-24 22:47:10 [INFO] bibliometrico.networks: Communities detected: 22
+2026-07-24 22:47:11 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\cocitation_journals.gexf
+2026-07-24 22:47:11 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\cocitation_journals.graphml
+2026-07-24 22:47:11 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\cocitation_journals.html
+2026-07-24 22:47:11 [INFO] bibliometrico.networks: Communities detected: 3
+2026-07-24 22:47:12 [INFO] bibliometrico.networks: Saved: network_cocitation_journals_cluster.png
+2026-07-24 22:47:12 [INFO] bibliometrico.networks: Computing Burt structural holes...
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   Structural holes report: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\structural_holes_bibliographic_coupling.json
+2026-07-24 22:47:14 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\bibliographic_coupling.gexf
+2026-07-24 22:47:14 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\bibliographic_coupling.graphml
+2026-07-24 22:47:14 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\bibliographic_coupling.html
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   Bridge articles report: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\bridge_articles_report.json
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   Structural holes: 17 brokers, 1 community gaps, 20 bridge articles
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   coupling: 73 nodes, 541 edges, density=0.2059
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   cocitation: 267 nodes, 2586 edges, density=0.0728
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   keywords: 291 nodes, 3493 edges, density=0.0828
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   coauthorship_authors: 277 nodes, 452 edges, density=0.0118
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   coauthorship_institutions: 120 nodes, 94 edges, density=0.0132
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   coauthorship_countries: 34 nodes, 15 edges, density=0.0267
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   coupling_journals: 37 nodes, 199 edges, density=0.2988
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   coupling_institutions: 110 nodes, 1661 edges, density=0.2771
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   coupling_countries: 31 nodes, 191 edges, density=0.4108
+2026-07-24 22:47:14 [INFO] bibliometrico.networks:   cocitation_journals: 262 nodes, 2485 edges, density=0.0727
+2026-07-24 22:47:14 [INFO] bibliometrico.networks: Fase 3 completada.
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: ============================================================
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: === FASE 3b: Analisis Tematico Estrategico ===
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: ============================================================
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: --- 3b.1: Thematic Map (Strategic Diagram) ---
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: Reusing pre-built keyword network: 291 nodes, 3493 edges
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: Thematic map: 5 clusters from 291 keywords
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: Thematic map saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\figures\thematic_map_strategic_diagram.png
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: Interactive thematic map saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\plotly\thematic_map_strategic_diagram.html
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: --- 3b.2: Thematic Evolution (R script) ---
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: Thematic evolution R script saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\reports\thematic_evolution.R
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy:   Year cuts: [2014, 2018, 2022, 2026]
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy:   Run: Rscript G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\reports\thematic_evolution.R
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: --- 3b.3: SCP vs MCP Analysis ---
+2026-07-24 22:47:14 [INFO] bibliometrico.thematic_strategy: SCP/MCP: 61 SCP, 13 MCP (17.6% international), 22 unknown
+2026-07-24 22:47:15 [INFO] bibliometrico.thematic_strategy: SCP/MCP plot saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\plotly\scp_mcp_analysis.html
+2026-07-24 22:47:15 [INFO] bibliometrico.thematic_strategy: SCP/MCP static plot saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\figures\scp_mcp_analysis.png
+2026-07-24 22:47:15 [INFO] bibliometrico.thematic_strategy: Strategic thematic report saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\reports\strategic_thematic_report.md
+2026-07-24 22:47:15 [INFO] bibliometrico.thematic_strategy: ============================================================
+2026-07-24 22:47:15 [INFO] bibliometrico.thematic_strategy: Fase 3b completada.
+2026-07-24 22:47:15 [INFO] bibliometrico.thematic_strategy: ============================================================
+2026-07-24 22:47:15 [INFO] bibliometrico.stratified: ============================================================
+2026-07-24 22:47:15 [INFO] bibliometrico.stratified: STRATIFIED ANALYSIS BY DOCUMENT TYPE
+2026-07-24 22:47:15 [INFO] bibliometrico.stratified: ============================================================
+2026-07-24 22:47:15 [INFO] bibliometrico.stratified: Strata detected: 2 types total
+2026-07-24 22:47:15 [INFO] bibliometrico.stratified:   Eligible (>= 15): journalArticle(64), conferencePaper(32)
+2026-07-24 22:47:15 [INFO] bibliometrico.stratified: 
+--- Stratum: journalArticle (64 articles) ---
+2026-07-24 22:47:15 [INFO] bibliometrico.stratified:   [journalArticle] Running Phase 2 (64 articles)...
+2026-07-24 22:47:15 [INFO] bibliometrico.descriptive: Saved: lotka_author_productivity.png
+2026-07-24 22:47:15 [INFO] bibliometrico.descriptive: Saved: bradford_journals.png
+2026-07-24 22:47:15 [INFO] bibliometrico.descriptive: Saved: temporal_trends.png
+2026-07-24 22:47:16 [INFO] bibliometrico.descriptive: Saved: impact_citations.png
+2026-07-24 22:47:16 [INFO] bibliometrico.descriptive: Saved: keyword_frequency.png
+2026-07-24 22:47:16 [INFO] bibliometrico.descriptive: Saved: country_distribution.png
+2026-07-24 22:47:16 [INFO] bibliometrico.descriptive: Report saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\reports\by_item_type\journalArticle\descriptive_report.md
+2026-07-24 22:47:16 [INFO] bibliometrico.stratified:   [journalArticle] Phase 2 complete
+2026-07-24 22:47:16 [INFO] bibliometrico.stratified:   [journalArticle] Running Phase 2b (64 articles)...
+2026-07-24 22:47:16 [INFO] bibliometrico.abstracts: Inductive patterns from inductive_results_20260724_223030.json: 57 themes, 118 concepts
+2026-07-24 22:47:16 [INFO] bibliometrico.abstracts: Topics extracted: 5, Vocabulary: 498
+2026-07-24 22:47:16 [INFO] bibliometrico.abstracts: Knowledge gaps extracted: 6 from 64 articles
+2026-07-24 22:47:16 [INFO] bibliometrico.abstracts: Saved: topics_nmf.png
+2026-07-24 22:47:16 [INFO] bibliometrico.abstracts: Saved: topic_evolution.png
+2026-07-24 22:47:17 [INFO] bibliometrico.abstracts: Saved: methods_datasets_apps.png
+2026-07-24 22:47:17 [INFO] bibliometrico.abstracts: No performance metrics to plot
+2026-07-24 22:47:17 [INFO] bibliometrico.abstracts: Saved: method_application_heatmap.png
+2026-07-24 22:47:17 [INFO] bibliometrico.stratified:   [journalArticle] Phase 2b complete
+2026-07-24 22:47:17 [INFO] bibliometrico.stratified:   [journalArticle] Running Phase 3 networks (64 articles)...
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Keyword co-occurrence: 221 nodes, 2623 edges
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Communities detected: 5
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\journalArticle\keyword_cooccurrence_journalArticle.gexf
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\journalArticle\keyword_cooccurrence_journalArticle.graphml
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\journalArticle\keyword_cooccurrence_journalArticle.html
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Co-authorship (authors): 188 nodes, 289 edges
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Communities detected: 57
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\journalArticle\coauthorship_journalArticle.gexf
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\journalArticle\coauthorship_journalArticle.graphml
+2026-07-24 22:47:17 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\journalArticle\coauthorship_journalArticle.html
+2026-07-24 22:47:17 [INFO] bibliometrico.stratified:   [journalArticle] Phase 3 complete: 2 networks
+2026-07-24 22:47:17 [INFO] bibliometrico.stratified: 
+--- Stratum: conferencePaper (32 articles) ---
+2026-07-24 22:47:17 [INFO] bibliometrico.stratified:   [conferencePaper] Running Phase 2 (32 articles)...
+2026-07-24 22:47:18 [INFO] bibliometrico.descriptive: Saved: lotka_author_productivity.png
+2026-07-24 22:47:18 [INFO] bibliometrico.descriptive: Saved: bradford_journals.png
+2026-07-24 22:47:18 [INFO] bibliometrico.descriptive: Saved: temporal_trends.png
+2026-07-24 22:47:18 [INFO] bibliometrico.descriptive: Saved: impact_citations.png
+2026-07-24 22:47:18 [INFO] bibliometrico.descriptive: Saved: keyword_frequency.png
+2026-07-24 22:47:18 [INFO] bibliometrico.descriptive: Saved: country_distribution.png
+2026-07-24 22:47:18 [INFO] bibliometrico.descriptive: Report saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\reports\by_item_type\conferencePaper\descriptive_report.md
+2026-07-24 22:47:18 [INFO] bibliometrico.stratified:   [conferencePaper] Phase 2 complete
+2026-07-24 22:47:18 [INFO] bibliometrico.stratified:   [conferencePaper] Running Phase 2b (32 articles)...
+2026-07-24 22:47:18 [INFO] bibliometrico.abstracts: Topics extracted: 3, Vocabulary: 498
+2026-07-24 22:47:18 [INFO] bibliometrico.abstracts: Knowledge gaps extracted: 2 from 32 articles
+2026-07-24 22:47:19 [INFO] bibliometrico.abstracts: Saved: topics_nmf.png
+2026-07-24 22:47:19 [INFO] bibliometrico.abstracts: Saved: topic_evolution.png
+2026-07-24 22:47:19 [INFO] bibliometrico.abstracts: Saved: methods_datasets_apps.png
+2026-07-24 22:47:19 [INFO] bibliometrico.abstracts: No performance metrics to plot
+2026-07-24 22:47:19 [INFO] bibliometrico.abstracts: Saved: method_application_heatmap.png
+2026-07-24 22:47:19 [INFO] bibliometrico.stratified:   [conferencePaper] Phase 2b complete
+2026-07-24 22:47:19 [INFO] bibliometrico.stratified:   [conferencePaper] Running Phase 3 networks (32 articles)...
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Keyword co-occurrence: 94 nodes, 717 edges
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Communities detected: 4
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\conferencePaper\keyword_cooccurrence_conferencePaper.gexf
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\conferencePaper\keyword_cooccurrence_conferencePaper.graphml
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\conferencePaper\keyword_cooccurrence_conferencePaper.html
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Co-authorship (authors): 94 nodes, 165 edges
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Communities detected: 23
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\conferencePaper\coauthorship_conferencePaper.gexf
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\conferencePaper\coauthorship_conferencePaper.graphml
+2026-07-24 22:47:19 [INFO] bibliometrico.networks: Exported: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\networks\by_item_type\conferencePaper\coauthorship_conferencePaper.html
+2026-07-24 22:47:19 [INFO] bibliometrico.stratified:   [conferencePaper] Phase 3 complete: 2 networks
+2026-07-24 22:47:20 [INFO] bibliometrico.stratified: Saved: comparative_citations.png
+2026-07-24 22:47:20 [INFO] bibliometrico.stratified: Saved: comparative_oa.png
+2026-07-24 22:47:20 [INFO] bibliometrico.stratified: Comparative report saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\reports\stratified_comparative_report.md
+2026-07-24 22:47:20 [INFO] bibliometrico.stratified: ============================================================
+2026-07-24 22:47:20 [INFO] bibliometrico.stratified: Stratified analysis complete: 2 strata analyzed, 0 discarded
+2026-07-24 22:47:20 [INFO] bibliometrico.stratified: ============================================================
+2026-07-24 22:47:20 [INFO] bibliometrico.main: Stratified analysis: 2 strata analyzed
+2026-07-24 22:47:20 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\data\enriched_articles.json
+2026-07-24 22:47:20 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:47:20 [INFO] bibliometrico.main: Pipeline completado.
+2026-07-24 22:47:20 [INFO] bibliometrico.main: ============================================================
+2026-07-24 22:47:20 [INFO] bibliometrico.review_protocol: Protocolo v2: propuestaRevision.txt -> engineering_competency_measurement
+2026-07-24 22:47:21 [INFO] bibliometrico: Saved: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_224417.json
+2026-07-24 22:47:21 [INFO] bibliometrico.provenance: Manifiesto de corrida: G:\DESARROLLO2026\bibliometricoMejoras2103\analisisMejoras\biblio1403CadA_Rev\output\logs\run_manifest_20260724_224417.json

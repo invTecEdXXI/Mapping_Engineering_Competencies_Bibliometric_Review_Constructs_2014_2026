@@ -1,0 +1,1033 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d6" for="node" attr.name="pagerank" attr.type="double"/>
+<key id="d5" for="node" attr.name="betweenness_centrality" attr.type="double"/>
+<key id="d4" for="node" attr.name="degree_centrality" attr.type="double"/>
+<key id="d3" for="node" attr.name="community" attr.type="long"/>
+<key id="d2" for="node" attr.name="total_cites" attr.type="long"/>
+<key id="d1" for="node" attr.name="frequency" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Universiti Teknologi MARA System">
+  <data key="d0">Universiti Teknologi MARA System</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">0</data>
+</node>
+<node id="Politecnica Salesiana University">
+  <data key="d0">Politecnica Salesiana University</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+</node>
+<node id="Ação Educativa">
+  <data key="d0">Ação Educativa</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">1</data>
+</node>
+<node id="Universidad de Guadalajara">
+  <data key="d0">Universidad de Guadalajara</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Tecnologie Avanzate (Italy)">
+  <data key="d0">Tecnologie Avanzate (Italy)</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">2</data>
+</node>
+<node id="Universitatea Națională de Știință și Tehnologie Politehnica București">
+  <data key="d0">Universitatea Națională de Știință și Tehnologie Politehnica București</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">3</data>
+</node>
+<node id="The Federal Polytechnic, Ado-Ekiti">
+  <data key="d0">The Federal Polytechnic, Ado-Ekiti</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">4</data>
+</node>
+<node id="Electoral Commission">
+  <data key="d0">Electoral Commission</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">4</data>
+</node>
+<node id="Purdue University West Lafayette">
+  <data key="d0">Purdue University West Lafayette</data>
+  <data key="d1">3</data>
+  <data key="d2">58</data>
+  <data key="d3">5</data>
+</node>
+<node id="Rowan University">
+  <data key="d0">Rowan University</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">5</data>
+</node>
+<node id="Saint Vincent College">
+  <data key="d0">Saint Vincent College</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">5</data>
+</node>
+<node id="South Dakota School of Mines and Technology">
+  <data key="d0">South Dakota School of Mines and Technology</data>
+  <data key="d1">2</data>
+  <data key="d2">23</data>
+  <data key="d3">5</data>
+</node>
+<node id="Clarkson University">
+  <data key="d0">Clarkson University</data>
+  <data key="d1">2</data>
+  <data key="d2">11</data>
+  <data key="d3">6</data>
+</node>
+<node id="Colorado State University">
+  <data key="d0">Colorado State University</data>
+  <data key="d1">1</data>
+  <data key="d2">49</data>
+  <data key="d3">7</data>
+</node>
+<node id="University of Georgia">
+  <data key="d0">University of Georgia</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">8</data>
+</node>
+<node id="Lovely Professional University">
+  <data key="d0">Lovely Professional University</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">9</data>
+</node>
+<node id="International Social Security Association">
+  <data key="d0">International Social Security Association</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">9</data>
+</node>
+<node id="Ming Chuan University">
+  <data key="d0">Ming Chuan University</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">10</data>
+</node>
+<node id="National Taiwan Normal University">
+  <data key="d0">National Taiwan Normal University</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">10</data>
+</node>
+<node id="The University of Texas at Austin">
+  <data key="d0">The University of Texas at Austin</data>
+  <data key="d1">3</data>
+  <data key="d2">73</data>
+  <data key="d3">11</data>
+</node>
+<node id="Delft University of Technology">
+  <data key="d0">Delft University of Technology</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">12</data>
+</node>
+<node id="Louisiana Tech University">
+  <data key="d0">Louisiana Tech University</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">13</data>
+</node>
+<node id="Clemson University">
+  <data key="d0">Clemson University</data>
+  <data key="d1">2</data>
+  <data key="d2">301</data>
+  <data key="d3">13</data>
+</node>
+<node id="Universitas Negeri Surabaya">
+  <data key="d0">Universitas Negeri Surabaya</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">14</data>
+</node>
+<node id="Uppsala University">
+  <data key="d0">Uppsala University</data>
+  <data key="d1">1</data>
+  <data key="d2">28</data>
+  <data key="d3">15</data>
+  <data key="d4">0.3333333333333333</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.11586644427748796</data>
+</node>
+<node id="Rose–Hulman Institute of Technology">
+  <data key="d0">Rose–Hulman Institute of Technology</data>
+  <data key="d1">2</data>
+  <data key="d2">33</data>
+  <data key="d3">15</data>
+  <data key="d4">0.5</data>
+  <data key="d5">0.5333333333333333</data>
+  <data key="d6">0.1595077122160952</data>
+</node>
+<node id="Gannon University">
+  <data key="d0">Gannon University</data>
+  <data key="d1">1</data>
+  <data key="d2">28</data>
+  <data key="d3">15</data>
+  <data key="d4">0.3333333333333333</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.11586644427748796</data>
+</node>
+<node id="Universidad de Las Palmas de Gran Canaria">
+  <data key="d0">Universidad de Las Palmas de Gran Canaria</data>
+  <data key="d1">1</data>
+  <data key="d2">22</data>
+  <data key="d3">16</data>
+</node>
+<node id="University of North Dakota">
+  <data key="d0">University of North Dakota</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">17</data>
+</node>
+<node id="University of Missouri">
+  <data key="d0">University of Missouri</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">17</data>
+</node>
+<node id="Konkuk University">
+  <data key="d0">Konkuk University</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">17</data>
+</node>
+<node id="Georgia State University">
+  <data key="d0">Georgia State University</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">17</data>
+</node>
+<node id="University of Denver">
+  <data key="d0">University of Denver</data>
+  <data key="d1">1</data>
+  <data key="d2">11</data>
+  <data key="d3">17</data>
+</node>
+<node id="Kocaeli Üniversitesi">
+  <data key="d0">Kocaeli Üniversitesi</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">18</data>
+</node>
+<node id="Istanbul University-Cerrahpaşa">
+  <data key="d0">Istanbul University-Cerrahpaşa</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">18</data>
+</node>
+<node id="Istanbul University">
+  <data key="d0">Istanbul University</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">18</data>
+</node>
+<node id="Arizona State University">
+  <data key="d0">Arizona State University</data>
+  <data key="d1">2</data>
+  <data key="d2">105</data>
+  <data key="d3">19</data>
+</node>
+<node id="Northern University">
+  <data key="d0">Northern University</data>
+  <data key="d1">1</data>
+  <data key="d2">8</data>
+  <data key="d3">20</data>
+</node>
+<node id="Ohio Northern University">
+  <data key="d0">Ohio Northern University</data>
+  <data key="d1">1</data>
+  <data key="d2">8</data>
+  <data key="d3">20</data>
+</node>
+<node id="The Ohio State University">
+  <data key="d0">The Ohio State University</data>
+  <data key="d1">2</data>
+  <data key="d2">1</data>
+  <data key="d3">21</data>
+</node>
+<node id="National Taipei University of Nursing and Health Science">
+  <data key="d0">National Taipei University of Nursing and Health Science</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">22</data>
+</node>
+<node id="Fujian University of Technology">
+  <data key="d0">Fujian University of Technology</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">22</data>
+</node>
+<node id="Suranaree University of Technology">
+  <data key="d0">Suranaree University of Technology</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">23</data>
+</node>
+<node id="Jaypee Institute of Information Technology">
+  <data key="d0">Jaypee Institute of Information Technology</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">24</data>
+</node>
+<node id="Bandırma Onyedi Eylül University">
+  <data key="d0">Bandırma Onyedi Eylül University</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">25</data>
+</node>
+<node id="Istanbul Medeniyet University">
+  <data key="d0">Istanbul Medeniyet University</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">25</data>
+</node>
+<node id="Çanakkale Onsekiz Mart Üniversitesi">
+  <data key="d0">Çanakkale Onsekiz Mart Üniversitesi</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">25</data>
+</node>
+<node id="Mevlana University">
+  <data key="d0">Mevlana University</data>
+  <data key="d1">1</data>
+  <data key="d2">42</data>
+  <data key="d3">26</data>
+</node>
+<node id="Amasya Üniversitesi">
+  <data key="d0">Amasya Üniversitesi</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">27</data>
+</node>
+<node id="Bilkent University">
+  <data key="d0">Bilkent University</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">27</data>
+</node>
+<node id="Technical University of Denmark">
+  <data key="d0">Technical University of Denmark</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">12</data>
+</node>
+<node id="University of Bamberg">
+  <data key="d0">University of Bamberg</data>
+  <data key="d1">1</data>
+  <data key="d2">3</data>
+  <data key="d3">12</data>
+</node>
+<node id="Worcester Polytechnic Institute">
+  <data key="d0">Worcester Polytechnic Institute</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">28</data>
+</node>
+<node id="Bucknell University">
+  <data key="d0">Bucknell University</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">28</data>
+</node>
+<node id="Anyang University">
+  <data key="d0">Anyang University</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">29</data>
+</node>
+<node id="Hanyang University">
+  <data key="d0">Hanyang University</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">29</data>
+</node>
+<node id="University of Hong Kong">
+  <data key="d0">University of Hong Kong</data>
+  <data key="d1">1</data>
+  <data key="d2">27</data>
+  <data key="d3">30</data>
+</node>
+<node id="Education University of Hong Kong">
+  <data key="d0">Education University of Hong Kong</data>
+  <data key="d1">1</data>
+  <data key="d2">27</data>
+  <data key="d3">30</data>
+</node>
+<node id="University of Kentucky">
+  <data key="d0">University of Kentucky</data>
+  <data key="d1">1</data>
+  <data key="d2">296</data>
+  <data key="d3">13</data>
+</node>
+<node id="Tun Hussein Onn University of Malaysia">
+  <data key="d0">Tun Hussein Onn University of Malaysia</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">31</data>
+</node>
+<node id="University of Colorado Boulder">
+  <data key="d0">University of Colorado Boulder</data>
+  <data key="d1">1</data>
+  <data key="d2">75</data>
+  <data key="d3">32</data>
+</node>
+<node id="Tufts University">
+  <data key="d0">Tufts University</data>
+  <data key="d1">1</data>
+  <data key="d2">75</data>
+  <data key="d3">32</data>
+</node>
+<node id="Michigan Technological University">
+  <data key="d0">Michigan Technological University</data>
+  <data key="d1">1</data>
+  <data key="d2">75</data>
+  <data key="d3">32</data>
+</node>
+<node id="Shahid Bahonar University of Kerman">
+  <data key="d0">Shahid Bahonar University of Kerman</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">33</data>
+</node>
+<node id="Leibniz Institute for Science and Mathematics Education">
+  <data key="d0">Leibniz Institute for Science and Mathematics Education</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">34</data>
+</node>
+<node id="University of Stuttgart">
+  <data key="d0">University of Stuttgart</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">34</data>
+</node>
+<node id="University of Bremen">
+  <data key="d0">University of Bremen</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">34</data>
+</node>
+<node id="Humboldt-Universität zu Berlin">
+  <data key="d0">Humboldt-Universität zu Berlin</data>
+  <data key="d1">1</data>
+  <data key="d2">10</data>
+  <data key="d3">34</data>
+</node>
+<node id="Polytechnic Institute of Porto">
+  <data key="d0">Polytechnic Institute of Porto</data>
+  <data key="d1">2</data>
+  <data key="d2">35</data>
+  <data key="d3">35</data>
+</node>
+<node id="University of Trás-os-Montes and Alto Douro">
+  <data key="d0">University of Trás-os-Montes and Alto Douro</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">35</data>
+</node>
+<node id="Center for Interdisciplinary Studies">
+  <data key="d0">Center for Interdisciplinary Studies</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">35</data>
+</node>
+<node id="Autonomous University of Lisbon">
+  <data key="d0">Autonomous University of Lisbon</data>
+  <data key="d1">1</data>
+  <data key="d2">26</data>
+  <data key="d3">35</data>
+</node>
+<node id="Francisco de Paula Santander University">
+  <data key="d0">Francisco de Paula Santander University</data>
+  <data key="d1">1</data>
+  <data key="d2">9</data>
+  <data key="d3">36</data>
+</node>
+<node id="Aalto University">
+  <data key="d0">Aalto University</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">37</data>
+</node>
+<node id="University of Helsinki">
+  <data key="d0">University of Helsinki</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">37</data>
+</node>
+<node id="Häme University of Applied Sciences">
+  <data key="d0">Häme University of Applied Sciences</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">37</data>
+</node>
+<node id="American Society For Engineering Education">
+  <data key="d0">American Society For Engineering Education</data>
+  <data key="d1">1</data>
+  <data key="d2">18</data>
+  <data key="d3">11</data>
+</node>
+<node id="The University of Texas at El Paso">
+  <data key="d0">The University of Texas at El Paso</data>
+  <data key="d1">1</data>
+  <data key="d2">18</data>
+  <data key="d3">11</data>
+</node>
+<node id="Liberal Arts University">
+  <data key="d0">Liberal Arts University</data>
+  <data key="d1">1</data>
+  <data key="d2">18</data>
+  <data key="d3">11</data>
+</node>
+<node id="Australian Council for Educational Research">
+  <data key="d0">Australian Council for Educational Research</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">38</data>
+</node>
+<node id="Instituto Superior Miguel Torga">
+  <data key="d0">Instituto Superior Miguel Torga</data>
+  <data key="d1">2</data>
+  <data key="d2">1</data>
+  <data key="d3">39</data>
+</node>
+<node id="University of Coimbra">
+  <data key="d0">University of Coimbra</data>
+  <data key="d1">2</data>
+  <data key="d2">1</data>
+  <data key="d3">39</data>
+</node>
+<node id="Technological University Dublin">
+  <data key="d0">Technological University Dublin</data>
+  <data key="d1">1</data>
+  <data key="d2">14</data>
+  <data key="d3">40</data>
+</node>
+<node id="University of Limerick">
+  <data key="d0">University of Limerick</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">40</data>
+</node>
+<node id="Technological University of the Shannon: Midlands Midwest">
+  <data key="d0">Technological University of the Shannon: Midlands Midwest</data>
+  <data key="d1">2</data>
+  <data key="d2">20</data>
+  <data key="d3">40</data>
+</node>
+<node id="Shannon Applied Biotechnology Centre">
+  <data key="d0">Shannon Applied Biotechnology Centre</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">40</data>
+</node>
+<node id="Pennsylvania State University">
+  <data key="d0">Pennsylvania State University</data>
+  <data key="d1">2</data>
+  <data key="d2">71</data>
+  <data key="d3">41</data>
+</node>
+<node id="University of Michigan">
+  <data key="d0">University of Michigan</data>
+  <data key="d1">1</data>
+  <data key="d2">64</data>
+  <data key="d3">41</data>
+</node>
+<node id="Carnegie Mellon University">
+  <data key="d0">Carnegie Mellon University</data>
+  <data key="d1">1</data>
+  <data key="d2">64</data>
+  <data key="d3">41</data>
+</node>
+<node id="Universidad Pablo de Olavide">
+  <data key="d0">Universidad Pablo de Olavide</data>
+  <data key="d1">1</data>
+  <data key="d2">48</data>
+  <data key="d3">42</data>
+</node>
+<node id="Universidad de Cádiz">
+  <data key="d0">Universidad de Cádiz</data>
+  <data key="d1">1</data>
+  <data key="d2">48</data>
+  <data key="d3">42</data>
+</node>
+<node id="Universitat Politècnica de Catalunya">
+  <data key="d0">Universitat Politècnica de Catalunya</data>
+  <data key="d1">1</data>
+  <data key="d2">48</data>
+  <data key="d3">42</data>
+</node>
+<node id="California State University, Fullerton">
+  <data key="d0">California State University, Fullerton</data>
+  <data key="d1">1</data>
+  <data key="d2">45</data>
+  <data key="d3">15</data>
+  <data key="d4">0.5</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1408149143855476</data>
+</node>
+<node id="Gender Studies">
+  <data key="d0">Gender Studies</data>
+  <data key="d1">1</data>
+  <data key="d2">45</data>
+  <data key="d3">15</data>
+  <data key="d4">0.5</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1408149143855476</data>
+</node>
+<node id="Stanford University">
+  <data key="d0">Stanford University</data>
+  <data key="d1">2</data>
+  <data key="d2">50</data>
+  <data key="d3">15</data>
+  <data key="d4">0.6666666666666666</data>
+  <data key="d5">0.6</data>
+  <data key="d6">0.1863146560722859</data>
+</node>
+<node id="California Institute of Technology">
+  <data key="d0">California Institute of Technology</data>
+  <data key="d1">1</data>
+  <data key="d2">45</data>
+  <data key="d3">15</data>
+  <data key="d4">0.5</data>
+  <data key="d5">0.0</data>
+  <data key="d6">0.1408149143855476</data>
+</node>
+<node id="University of Córdoba">
+  <data key="d0">University of Córdoba</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">44</data>
+</node>
+<node id="Universidad Católica de Cuenca">
+  <data key="d0">Universidad Católica de Cuenca</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">44</data>
+</node>
+<node id="Queen's University">
+  <data key="d0">Queen's University</data>
+  <data key="d1">1</data>
+  <data key="d2">15</data>
+  <data key="d3">45</data>
+</node>
+<node id="Central University of Ecuador">
+  <data key="d0">Central University of Ecuador</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">46</data>
+</node>
+<node id="Universidad de las Fuerzas Armadas ESPE">
+  <data key="d0">Universidad de las Fuerzas Armadas ESPE</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">46</data>
+</node>
+<node id="State University of Malang">
+  <data key="d0">State University of Malang</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">47</data>
+</node>
+<node id="TU Dortmund University">
+  <data key="d0">TU Dortmund University</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">48</data>
+</node>
+<node id="Friedrich Schiller University Jena">
+  <data key="d0">Friedrich Schiller University Jena</data>
+  <data key="d1">1</data>
+  <data key="d2">5</data>
+  <data key="d3">48</data>
+</node>
+<node id="Selçuk University">
+  <data key="d0">Selçuk University</data>
+  <data key="d1">1</data>
+  <data key="d2">12</data>
+  <data key="d3">49</data>
+</node>
+<node id="Necmettin Erbakan University">
+  <data key="d0">Necmettin Erbakan University</data>
+  <data key="d1">1</data>
+  <data key="d2">12</data>
+  <data key="d3">49</data>
+</node>
+<node id="Kırklareli University">
+  <data key="d0">Kırklareli University</data>
+  <data key="d1">1</data>
+  <data key="d2">12</data>
+  <data key="d3">49</data>
+</node>
+<node id="École Polytechnique Fédérale de Lausanne">
+  <data key="d0">École Polytechnique Fédérale de Lausanne</data>
+  <data key="d1">1</data>
+  <data key="d2">6</data>
+  <data key="d3">50</data>
+</node>
+<node id="Tecnológico de Monterrey">
+  <data key="d0">Tecnológico de Monterrey</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">51</data>
+</node>
+<node id="Instituto Politécnico Nacional">
+  <data key="d0">Instituto Politécnico Nacional</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">51</data>
+</node>
+<node id="Universidad Tecnológica de Bolívar">
+  <data key="d0">Universidad Tecnológica de Bolívar</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">52</data>
+</node>
+<node id="Popular University of Cesar">
+  <data key="d0">Popular University of Cesar</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">52</data>
+</node>
+<node id="North Carolina Agricultural and Technical State University">
+  <data key="d0">North Carolina Agricultural and Technical State University</data>
+  <data key="d1">1</data>
+  <data key="d2">4</data>
+  <data key="d3">53</data>
+</node>
+<node id="Instituto Tecnológico Metropolitano">
+  <data key="d0">Instituto Tecnológico Metropolitano</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">54</data>
+</node>
+<node id="Shibaura Institute of Technology">
+  <data key="d0">Shibaura Institute of Technology</data>
+  <data key="d1">1</data>
+  <data key="d2">2</data>
+  <data key="d3">55</data>
+</node>
+<node id="Northeast Normal University">
+  <data key="d0">Northeast Normal University</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">56</data>
+</node>
+<node id="Mitchell Institute">
+  <data key="d0">Mitchell Institute</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">57</data>
+</node>
+<node id="Texas A&amp;M University">
+  <data key="d0">Texas A&amp;M University</data>
+  <data key="d1">1</data>
+  <data key="d2">1</data>
+  <data key="d3">57</data>
+</node>
+<node id="University of California, Irvine">
+  <data key="d0">University of California, Irvine</data>
+  <data key="d1">1</data>
+  <data key="d2">7</data>
+  <data key="d3">41</data>
+</node>
+<node id="Vanderbilt University">
+  <data key="d0">Vanderbilt University</data>
+  <data key="d1">1</data>
+  <data key="d2">0</data>
+  <data key="d3">43</data>
+</node>
+<edge source="Politecnica Salesiana University" target="Ação Educativa">
+  <data key="d7">1</data>
+</edge>
+<edge source="Universidad de Guadalajara" target="Tecnologie Avanzate (Italy)">
+  <data key="d7">1</data>
+</edge>
+<edge source="The Federal Polytechnic, Ado-Ekiti" target="Electoral Commission">
+  <data key="d7">1</data>
+</edge>
+<edge source="Purdue University West Lafayette" target="Rowan University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Purdue University West Lafayette" target="Saint Vincent College">
+  <data key="d7">1</data>
+</edge>
+<edge source="Purdue University West Lafayette" target="South Dakota School of Mines and Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Rowan University" target="Saint Vincent College">
+  <data key="d7">1</data>
+</edge>
+<edge source="Rowan University" target="South Dakota School of Mines and Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Saint Vincent College" target="South Dakota School of Mines and Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Lovely Professional University" target="International Social Security Association">
+  <data key="d7">1</data>
+</edge>
+<edge source="Ming Chuan University" target="National Taiwan Normal University">
+  <data key="d7">1</data>
+</edge>
+<edge source="The University of Texas at Austin" target="American Society For Engineering Education">
+  <data key="d7">1</data>
+</edge>
+<edge source="The University of Texas at Austin" target="The University of Texas at El Paso">
+  <data key="d7">1</data>
+</edge>
+<edge source="The University of Texas at Austin" target="Liberal Arts University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Delft University of Technology" target="Technical University of Denmark">
+  <data key="d7">1</data>
+</edge>
+<edge source="Delft University of Technology" target="University of Bamberg">
+  <data key="d7">1</data>
+</edge>
+<edge source="Louisiana Tech University" target="Clemson University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Clemson University" target="University of Kentucky">
+  <data key="d7">1</data>
+</edge>
+<edge source="Uppsala University" target="Rose–Hulman Institute of Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Uppsala University" target="Gannon University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Rose–Hulman Institute of Technology" target="Gannon University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Rose–Hulman Institute of Technology" target="Stanford University">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of North Dakota" target="University of Missouri">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of North Dakota" target="Konkuk University">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of North Dakota" target="Georgia State University">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of North Dakota" target="University of Denver">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Missouri" target="Konkuk University">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Missouri" target="Georgia State University">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Missouri" target="University of Denver">
+  <data key="d7">1</data>
+</edge>
+<edge source="Konkuk University" target="Georgia State University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Konkuk University" target="University of Denver">
+  <data key="d7">1</data>
+</edge>
+<edge source="Georgia State University" target="University of Denver">
+  <data key="d7">1</data>
+</edge>
+<edge source="Kocaeli Üniversitesi" target="Istanbul University-Cerrahpaşa">
+  <data key="d7">1</data>
+</edge>
+<edge source="Kocaeli Üniversitesi" target="Istanbul University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Istanbul University-Cerrahpaşa" target="Istanbul University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Northern University" target="Ohio Northern University">
+  <data key="d7">1</data>
+</edge>
+<edge source="National Taipei University of Nursing and Health Science" target="Fujian University of Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Bandırma Onyedi Eylül University" target="Istanbul Medeniyet University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Bandırma Onyedi Eylül University" target="Çanakkale Onsekiz Mart Üniversitesi">
+  <data key="d7">1</data>
+</edge>
+<edge source="Istanbul Medeniyet University" target="Çanakkale Onsekiz Mart Üniversitesi">
+  <data key="d7">1</data>
+</edge>
+<edge source="Amasya Üniversitesi" target="Bilkent University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Technical University of Denmark" target="University of Bamberg">
+  <data key="d7">1</data>
+</edge>
+<edge source="Worcester Polytechnic Institute" target="Bucknell University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Anyang University" target="Hanyang University">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Hong Kong" target="Education University of Hong Kong">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Colorado Boulder" target="Tufts University">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Colorado Boulder" target="Michigan Technological University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Tufts University" target="Michigan Technological University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Leibniz Institute for Science and Mathematics Education" target="University of Stuttgart">
+  <data key="d7">1</data>
+</edge>
+<edge source="Leibniz Institute for Science and Mathematics Education" target="University of Bremen">
+  <data key="d7">1</data>
+</edge>
+<edge source="Leibniz Institute for Science and Mathematics Education" target="Humboldt-Universität zu Berlin">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Stuttgart" target="University of Bremen">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Stuttgart" target="Humboldt-Universität zu Berlin">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Bremen" target="Humboldt-Universität zu Berlin">
+  <data key="d7">1</data>
+</edge>
+<edge source="Polytechnic Institute of Porto" target="University of Trás-os-Montes and Alto Douro">
+  <data key="d7">1</data>
+</edge>
+<edge source="Polytechnic Institute of Porto" target="Center for Interdisciplinary Studies">
+  <data key="d7">1</data>
+</edge>
+<edge source="Polytechnic Institute of Porto" target="Autonomous University of Lisbon">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Trás-os-Montes and Alto Douro" target="Center for Interdisciplinary Studies">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Trás-os-Montes and Alto Douro" target="Autonomous University of Lisbon">
+  <data key="d7">1</data>
+</edge>
+<edge source="Center for Interdisciplinary Studies" target="Autonomous University of Lisbon">
+  <data key="d7">1</data>
+</edge>
+<edge source="Aalto University" target="University of Helsinki">
+  <data key="d7">1</data>
+</edge>
+<edge source="Aalto University" target="Häme University of Applied Sciences">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Helsinki" target="Häme University of Applied Sciences">
+  <data key="d7">1</data>
+</edge>
+<edge source="American Society For Engineering Education" target="The University of Texas at El Paso">
+  <data key="d7">1</data>
+</edge>
+<edge source="American Society For Engineering Education" target="Liberal Arts University">
+  <data key="d7">1</data>
+</edge>
+<edge source="The University of Texas at El Paso" target="Liberal Arts University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Instituto Superior Miguel Torga" target="University of Coimbra">
+  <data key="d7">2</data>
+</edge>
+<edge source="Technological University Dublin" target="University of Limerick">
+  <data key="d7">1</data>
+</edge>
+<edge source="Technological University Dublin" target="Technological University of the Shannon: Midlands Midwest">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Limerick" target="Technological University of the Shannon: Midlands Midwest">
+  <data key="d7">2</data>
+</edge>
+<edge source="University of Limerick" target="Shannon Applied Biotechnology Centre">
+  <data key="d7">1</data>
+</edge>
+<edge source="Technological University of the Shannon: Midlands Midwest" target="Shannon Applied Biotechnology Centre">
+  <data key="d7">1</data>
+</edge>
+<edge source="Pennsylvania State University" target="University of Michigan">
+  <data key="d7">1</data>
+</edge>
+<edge source="Pennsylvania State University" target="Carnegie Mellon University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Pennsylvania State University" target="University of California, Irvine">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Michigan" target="Carnegie Mellon University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Universidad Pablo de Olavide" target="Universidad de Cádiz">
+  <data key="d7">1</data>
+</edge>
+<edge source="Universidad Pablo de Olavide" target="Universitat Politècnica de Catalunya">
+  <data key="d7">1</data>
+</edge>
+<edge source="Universidad de Cádiz" target="Universitat Politècnica de Catalunya">
+  <data key="d7">1</data>
+</edge>
+<edge source="California State University, Fullerton" target="Gender Studies">
+  <data key="d7">1</data>
+</edge>
+<edge source="California State University, Fullerton" target="Stanford University">
+  <data key="d7">1</data>
+</edge>
+<edge source="California State University, Fullerton" target="California Institute of Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Gender Studies" target="Stanford University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Gender Studies" target="California Institute of Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="Stanford University" target="California Institute of Technology">
+  <data key="d7">1</data>
+</edge>
+<edge source="University of Córdoba" target="Universidad Católica de Cuenca">
+  <data key="d7">1</data>
+</edge>
+<edge source="Central University of Ecuador" target="Universidad de las Fuerzas Armadas ESPE">
+  <data key="d7">1</data>
+</edge>
+<edge source="TU Dortmund University" target="Friedrich Schiller University Jena">
+  <data key="d7">1</data>
+</edge>
+<edge source="Selçuk University" target="Necmettin Erbakan University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Selçuk University" target="Kırklareli University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Necmettin Erbakan University" target="Kırklareli University">
+  <data key="d7">1</data>
+</edge>
+<edge source="Tecnológico de Monterrey" target="Instituto Politécnico Nacional">
+  <data key="d7">1</data>
+</edge>
+<edge source="Universidad Tecnológica de Bolívar" target="Popular University of Cesar">
+  <data key="d7">1</data>
+</edge>
+<edge source="Mitchell Institute" target="Texas A&amp;M University">
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>

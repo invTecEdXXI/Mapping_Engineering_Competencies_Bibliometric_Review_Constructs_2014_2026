@@ -1,0 +1,94 @@
+{
+  "session_id": "20260724_232146",
+  "phase": "1_refine",
+  "batch": 4,
+  "timestamp": "2026-07-24T23:28:01.134526",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "new",
+      "theme": "Scale Development and Validation",
+      "definition": "The creation and empirical testing of measurement instruments, including the generation of items, factor structure examination, and provision of validity and reliability evidence f",
+      "subthemes": [
+        "Item generation",
+        "Psychometric evaluation",
+        "Validity evidence",
+        "Reliability testing"
+      ]
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Self-Efficacy Measurement",
+      "definition": "The assessment of individuals' beliefs in their capabilities to perform specific tasks or achieve desired outcomes, with applications across leadership, entrepreneurship, and clini",
+      "subthemes": [
+        "General self-efficacy",
+        "Domain-specific self-efficacy",
+        "Self-efficacy and performance",
+        "Mediation effects"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Factor Structure Investigation",
+      "definition": "The use of exploratory or confirmatory factor analytical methods to identify the latent dimensions underlying a set of items, resulting in refined scales with a smaller number of c",
+      "subthemes": [
+        "Exploratory factor analysis",
+        "Confirmatory factor analysis",
+        "Factor loading",
+        "Principal axis factoring",
+        "Item reduction"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Psychometric Evidence (Reliability and Validity)",
+      "definition": "The empirical demonstration that scales yield consistent and accurate measurements, including internal consistency (e.g., Cronbach's alpha), construct validity, content-related val",
+      "subthemes": [
+        "Cronbach's alpha",
+        "Content-related validity",
+        "Construct validity",
+        "Response process validity",
+        "Reliability evidence"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Motivation and Affective Constructs in Engineering Students",
+      "definition": "The study of psychological drivers such as motivation, attitudes, emotions, and writing apprehension that influence engineering students' engagement with entrepreneurial careers, a",
+      "subthemes": [
+        "Entrepreneurial motivation",
+        "Writing attitudes",
+        "Affect and emotion",
+        "Writer's block"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Engineering Education Context",
+      "definition": "All studies are situated within engineering education, focusing on the development, assessment, and professional readiness of undergraduate or graduate engineering students, often ",
+      "subthemes": [
+        "Accreditation requirements",
+        "Curriculum design",
+        "Skill development",
+        "Engineering identity"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Career and Professional Development",
+      "definition": "The instruments and constructs are explicitly linked to students' career intentions, professional trajectories, persistence, and success in engineering, including entrepreneurial v",
+      "subthemes": [
+        "Entrepreneurial intention",
+        "Graduate persistence",
+        "Leadership development",
+        "Grant writing skills"
+      ]
+    }
+  ]
+}

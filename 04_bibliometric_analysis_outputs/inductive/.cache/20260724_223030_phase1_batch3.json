@@ -1,0 +1,624 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "1",
+  "batch": 3,
+  "timestamp": "2026-07-24T22:31:34.154077",
+  "data": {
+    "themes": [
+      {
+        "name": "Self-efficacy measurement and validation",
+        "definition": "Studies focus on developing, adapting, or validating instruments to measure self-efficacy in engineering students, often comparing general versus domain-specific scales or examining psychometric properties.",
+        "evidence": [
+          "[LLIXIBSQ] This work investigates whether an engineering-domain specific self-efficacy measurement instrument is required for determining the self-efficacy beliefs of engineering students or whether a general instrument will suffice.",
+          "[B7B4X2WE] Self-efficacy was quantitatively measured at the beginning and end of the participants second semester using the scale developed by Mamaril et al.",
+          "[3R39PUCS] The SASI-I is shown to be a psychometrically sound instrument for the population of first-year engineering students at a Research 1 institution: Cronbach's coefficient alpha values for all scales exceed 0.8"
+        ],
+        "articles": [
+          "LLIXIBSQ",
+          "B7B4X2WE",
+          "3R39PUCS",
+          "QAJGLZ2K",
+          "FUDIEQYR",
+          "SFEN9MC6",
+          "IVLUCNC3"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "General vs domain-specific self-efficacy",
+          "Psychometric properties",
+          "Scale development"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Transferable and professional skills assessment",
+        "definition": "Research examines the assessment of transferable skills (e.g., communication, teamwork, problem-solving) in engineering curricula, often through self-report questionnaires or rubrics, and explores gender differences or curricular implications.",
+        "evidence": [
+          "[DCSSFS2C] This study aims to examine the transferable skills of engineering students, explore potential gender differences, and translate, adapt, and validate the Generic Skills Perception Questionnaire - Competence Level (GSPQ-CL) for the Portuguese context.",
+          "[WWJJIDI6] Transferable skills are becoming increasingly important, due to a progressively more competitive labor market in an ever-changing world.",
+          "[C3YQG2PI] A challenge instructors face is developing and accurately assessing technical communication skills to ensure students can apply and transfer the skills from the academic context into the context of engineering practice."
+        ],
+        "articles": [
+          "DCSSFS2C",
+          "WWJJIDI6",
+          "C3YQG2PI",
+          "IUF35Z2I",
+          "QKJ5DVTR"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Generic skills",
+          "Communication skills",
+          "Teamwork skills",
+          "Employability skills"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Problem-solving and critical thinking self-perception",
+        "definition": "Studies develop or validate tools to measure students' self-perceived problem-solving and critical thinking abilities, often using inventories like the Engineering Modified Problem-Solving Inventory (EM-PSI) and examining differences by student level or gender.",
+        "evidence": [
+          "[BQS3WMHF] The EM-PSI is a student's self-assessment of their problem solving and critical thinking abilities broken down into three sub-categories, 1) problem solving confidence, 2) approach-avoidance style, and 3) personal control.",
+          "[XQ7RZDGG] This paper presents a new assessment tool for measuring an individual’s self-appraisal of their technical problem-solving ability and the initial validation of the tool using a pilot study involving 73 undergraduate Civil Engineering students and faculty.",
+          "[3TLQFJEJ] The objective of this study is validating an instrument to assess the attitude and critical thinking self-perception of Engineering students from a public university."
+        ],
+        "articles": [
+          "BQS3WMHF",
+          "XQ7RZDGG",
+          "3TLQFJEJ",
+          "K7MJBLUQ"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Problem-solving inventory",
+          "Critical thinking",
+          "Self-assessment"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Competency modeling and theory-based testing",
+        "definition": "Research develops competency models in specific engineering domains (e.g., process dynamics, sustainability, entrepreneurship) and uses them to construct tests or scales, often validating through factor analysis and examining associations with student characteristics.",
+        "evidence": [
+          "[PJNV7WSV] First, we developed a competency model in one specific field of engineering: process dynamics and control. Then, the theoretical model was used as a frame to construct test items to measure students’ competencies comprehensively.",
+          "[BQHZYQEC] The aim of this methodological study is to develop a tool to measure the entrepreneurial competencies of university students based on Kailer’s Entrepreneurship Competence Model.",
+          "[LQ8RTKIQ] This study aimed to develop and validate a structural model to evaluate ERS competencies in higher education."
+        ],
+        "articles": [
+          "PJNV7WSV",
+          "BQHZYQEC",
+          "LQ8RTKIQ",
+          "VSFBSRZB",
+          "Y27Q6N9A"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Competency model",
+          "Theory-based testing",
+          "Sustainability competencies",
+          "Entrepreneurial competencies"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Impact of internships and experiential learning on self-efficacy",
+        "definition": "Studies investigate how industrial internships or practical experiences (e.g., design modules, professional placements) contribute to the development of self-efficacy or work readiness in engineering students, often using quantitative surveys and structural equation modeling.",
+        "evidence": [
+          "[5EXQUZSR] The experience of participating in industrial internships is proven to have a positive and significant contribution to student work self-efficacy.",
+          "[G3EUY2C2] Professional placement experiences are reported as the main source of later-stage self-efficacy development for student engineers and are similarly valued due to their provision of enactive mastery experiences.",
+          "[B7B4X2WE] Qualitative findings indicate context-specific gendered experiences perceived as impacting student self-efficacy."
+        ],
+        "articles": [
+          "5EXQUZSR",
+          "G3EUY2C2",
+          "B7B4X2WE"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Industrial internships",
+          "Enactive mastery experiences",
+          "Work self-efficacy"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Gender and demographic differences in self-efficacy and skills",
+        "definition": "Research examines how gender, class level, transfer status, or first-generation college student status affect self-efficacy, problem-solving perceptions, or skill development, often revealing significant differences between groups.",
+        "evidence": [
+          "[LLIXIBSQ] Furthermore, this study also aims to investigate the effect of gender, class level, and transfer status of students on their engineering self-efficacy beliefs.",
+          "[B7B4X2WE] Female students began the semester with significantly lower tinkering skills self-efficacy to male students, with female students general engineering self-efficacy increasing statistically more over the semester within a CDIO module.",
+          "[WHKSKTII] This work answers the following research question, 'Do FGC and non-FGC engineering students interpret the engineering identity measurement items in a conceptually different manner?'"
+        ],
+        "articles": [
+          "LLIXIBSQ",
+          "B7B4X2WE",
+          "WHKSKTII",
+          "DCSSFS2C",
+          "XQ7RZDGG"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Gender differences",
+          "First-generation college students",
+          "Class level",
+          "Transfer status"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Impact of COVID-19 pandemic on student self-efficacy and learning",
+        "definition": "Studies assess changes in self-efficacy and learning capacities due to the COVID-19 pandemic, comparing pre- and post-pandemic perceptions, and identifying factors like age and educational level that moderate the impact.",
+        "evidence": [
+          "[7Y29KIN3] This study aims to assess the changes in self-efficacy perceived by engineering students in a school in Portugal.",
+          "[7Y29KIN3] Perceived self-efficacy was less affected in older students than in younger ones, suggesting that this group may have adapted better to the pandemic restrictions.",
+          "[7Y29KIN3] Students who were already at university showed less impact than those moving from high school to university."
+        ],
+        "articles": [
+          "7Y29KIN3"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Pandemic",
+          "Online learning",
+          "Adaptation"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Intrinsic motivation and its measurement in engineering education",
+        "definition": "Research develops and validates instruments to measure intrinsic motivation among engineering students, often based on Self-Determination Theory, and tests interventions to enhance motivation and academic performance.",
+        "evidence": [
+          "[9HKCQKDT] Based on Self-Determination Theory and the Intrinsic Motivation Inventory, we developed and locally adapted the Chinese College Student’s Intrinsic Motivation Learning Questionnaire (CIMLQ), removing the less applicable 'Relatedness' dimension.",
+          "[9HKCQKDT] The teaching experiment revealed that the experimental group showed a significantly higher post-intervention intrinsic motivation score (119.20 vs. 97.81, *p* < 0.001, a 21.8% increase) and better academic performance (80.10 vs. 76.57, *p* = 0.001) compared to the control group.",
+          "[UAN7XVF9] Likewise, self-efficacy emerged as the central factor, both for its predictive role in the other components and for being the aspect most highly valued by the students."
+        ],
+        "articles": [
+          "9HKCQKDT",
+          "UAN7XVF9"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Self-Determination Theory",
+          "Intrinsic Motivation Inventory",
+          "Motivation strategies"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Engineering identity and its measurement across student groups",
+        "definition": "Studies develop or validate measures of engineering identity (including interest, recognition, performance/competence) and examine measurement invariance across subpopulations such as first-generation college students.",
+        "evidence": [
+          "[WHKSKTII] Using extensions to the confirmatory factor analysis, we tested for measurement invariance of engineering identity constructs between FGCS and non-FGCS.",
+          "[IVLUCNC3] A vital component of this particular RED project involves the development and validation of survey-based measures of Engineering Values, Self-Efficacy, and Identity: and a model that combines the constructs into a causal sequence aimed at explaining the motivators of student learning.",
+          "[WHKSKTII] Our comparative analysis of FGCS and non-FGCS found weak measurement invariance within the engineering identity constructs (i.e. interest, recognition, and performance/competence) indicating a similar factor structure and factor loadings, but different uses of the identity item scale."
+        ],
+        "articles": [
+          "WHKSKTII",
+          "IVLUCNC3"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Engineering identity",
+          "Measurement invariance",
+          "First-generation college students"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Global communication competency assessment",
+        "definition": "Research develops tools to measure foreign language communication competency in engineering settings, using frameworks like CEFR, and applies them to evaluate students' global communication skills and identify gaps.",
+        "evidence": [
+          "[W6H25QK5] Global communication skills are essential so that engineers can function successfully in global settings.",
+          "[W6H25QK5] In this study, the authors developed a list of Can-do statements which measures foreign language communication competency in engineering settings.",
+          "[W6H25QK5] The analysis of the student assessment outcomes suggests that Japanese engineering students need more opportunities or training to enhance their self-evaluations of global communication competency."
+        ],
+        "articles": [
+          "W6H25QK5"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Global communication",
+          "CEFR",
+          "Can-do statements"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "The abstracts predominantly focus on instrument development, validation, and psychometric testing of self-efficacy, problem-solving, and competency measures. Many studies use factor analysis (exploratory and confirmatory) and Cronbach's alpha to establish validity and reliability. There is a notable emphasis on comparing groups (gender, class level, first-generation status) and examining changes over time (e.g., pre/post pandemic, across semesters). Several abstracts mention quality issues such as missing methods or conclusions, which limited the extraction of evidence.",
+    "grounding_notes": "All evidence quotes are verbatim from the provided abstracts. Article keys are from the closed set. Some themes have low frequency due to the limited number of abstracts addressing those specific topics in this batch. Confidence is high for all themes as they are directly supported by explicit text.",
+    "_hallucination_control": {
+      "total_themes": 10,
+      "avg_grounding_score": 1.0,
+      "avg_quote_grounding": 1.0,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 0,
+      "verification_details": [
+        {
+          "theme_name": "Self-efficacy measurement and validation",
+          "evidence_verified": [
+            {
+              "quote": "[LLIXIBSQ] This work investigates whether an engineering-domain specific self-efficacy measurement instrument is required for determining the self-efficacy beliefs of engineering students or whether a general instrument will suffice.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[B7B4X2WE] Self-efficacy was quantitatively measured at the beginning and end of the participants second semester using the scale developed by Mamaril et al.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[3R39PUCS] The SASI-I is shown to be a psychometrically sound instrument for the population of first-year engineering students at a Research 1 institution: Cronbach's coefficient alpha values for all scales exceed 0.8",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LLIXIBSQ",
+            "B7B4X2WE",
+            "3R39PUCS",
+            "QAJGLZ2K",
+            "FUDIEQYR",
+            "SFEN9MC6",
+            "IVLUCNC3"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Transferable and professional skills assessment",
+          "evidence_verified": [
+            {
+              "quote": "[DCSSFS2C] This study aims to examine the transferable skills of engineering students, explore potential gender differences, and translate, adapt, and validate the Generic Skills Perception Questionnaire - Competence Level (GSPQ-CL) for the Portuguese context.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[WWJJIDI6] Transferable skills are becoming increasingly important, due to a progressively more competitive labor market in an ever-changing world.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[C3YQG2PI] A challenge instructors face is developing and accurately assessing technical communication skills to ensure students can apply and transfer the skills from the academic context into the context of engineering practice.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "DCSSFS2C",
+            "WWJJIDI6",
+            "C3YQG2PI",
+            "IUF35Z2I",
+            "QKJ5DVTR"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Problem-solving and critical thinking self-perception",
+          "evidence_verified": [
+            {
+              "quote": "[BQS3WMHF] The EM-PSI is a student's self-assessment of their problem solving and critical thinking abilities broken down into three sub-categories, 1) problem solving confidence, 2) approach-avoidance style, and 3) personal control.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[XQ7RZDGG] This paper presents a new assessment tool for measuring an individual’s self-appraisal of their technical problem-solving ability and the initial validation of the tool using a pilot study involving 73 undergraduate Civil Engineering students and faculty.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[3TLQFJEJ] The objective of this study is validating an instrument to assess the attitude and critical thinking self-perception of Engineering students from a public university.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "BQS3WMHF",
+            "XQ7RZDGG",
+            "3TLQFJEJ",
+            "K7MJBLUQ"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Competency modeling and theory-based testing",
+          "evidence_verified": [
+            {
+              "quote": "[PJNV7WSV] First, we developed a competency model in one specific field of engineering: process dynamics and control. Then, the theoretical model was used as a frame to construct test items to measure students’ competencies comprehensively.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[BQHZYQEC] The aim of this methodological study is to develop a tool to measure the entrepreneurial competencies of university students based on Kailer’s Entrepreneurship Competence Model.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[LQ8RTKIQ] This study aimed to develop and validate a structural model to evaluate ERS competencies in higher education.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "PJNV7WSV",
+            "BQHZYQEC",
+            "LQ8RTKIQ",
+            "VSFBSRZB",
+            "Y27Q6N9A"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Impact of internships and experiential learning on self-efficacy",
+          "evidence_verified": [
+            {
+              "quote": "[5EXQUZSR] The experience of participating in industrial internships is proven to have a positive and significant contribution to student work self-efficacy.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[G3EUY2C2] Professional placement experiences are reported as the main source of later-stage self-efficacy development for student engineers and are similarly valued due to their provision of enactive mastery experiences.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[B7B4X2WE] Qualitative findings indicate context-specific gendered experiences perceived as impacting student self-efficacy.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "5EXQUZSR",
+            "G3EUY2C2",
+            "B7B4X2WE"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Gender and demographic differences in self-efficacy and skills",
+          "evidence_verified": [
+            {
+              "quote": "[LLIXIBSQ] Furthermore, this study also aims to investigate the effect of gender, class level, and transfer status of students on their engineering self-efficacy beliefs.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[B7B4X2WE] Female students began the semester with significantly lower tinkering skills self-efficacy to male students, with female students general engineering self-efficacy increasing statistically more over the semester within a CDIO module.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[WHKSKTII] This work answers the following research question, 'Do FGC and non-FGC engineering students interpret the engineering identity measurement items in a conceptually different manner?'",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "LLIXIBSQ",
+            "B7B4X2WE",
+            "WHKSKTII",
+            "DCSSFS2C",
+            "XQ7RZDGG"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Impact of COVID-19 pandemic on student self-efficacy and learning",
+          "evidence_verified": [
+            {
+              "quote": "[7Y29KIN3] This study aims to assess the changes in self-efficacy perceived by engineering students in a school in Portugal.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[7Y29KIN3] Perceived self-efficacy was less affected in older students than in younger ones, suggesting that this group may have adapted better to the pandemic restrictions.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[7Y29KIN3] Students who were already at university showed less impact than those moving from high school to university.",
+              "score": 0.94,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "7Y29KIN3"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Intrinsic motivation and its measurement in engineering education",
+          "evidence_verified": [
+            {
+              "quote": "[9HKCQKDT] Based on Self-Determination Theory and the Intrinsic Motivation Inventory, we developed and locally adapted the Chinese College Student’s Intrinsic Motivation Learning Questionnaire (CIMLQ), removing the less applicable 'Relatedness' dimension.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[9HKCQKDT] The teaching experiment revealed that the experimental group showed a significantly higher post-intervention intrinsic motivation score (119.20 vs. 97.81, *p* < 0.001, a 21.8% increase) and better academic performance (80.10 vs. 76.57, *p* = 0.001) compared to the control group.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[UAN7XVF9] Likewise, self-efficacy emerged as the central factor, both for its predictive role in the other components and for being the aspect most highly valued by the students.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "9HKCQKDT",
+            "UAN7XVF9"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Engineering identity and its measurement across student groups",
+          "evidence_verified": [
+            {
+              "quote": "[WHKSKTII] Using extensions to the confirmatory factor analysis, we tested for measurement invariance of engineering identity constructs between FGCS and non-FGCS.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[IVLUCNC3] A vital component of this particular RED project involves the development and validation of survey-based measures of Engineering Values, Self-Efficacy, and Identity: and a model that combines the constructs into a causal sequence aimed at explaining the motivators of student learning.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[WHKSKTII] Our comparative analysis of FGCS and non-FGCS found weak measurement invariance within the engineering identity constructs (i.e. interest, recognition, and performance/competence) indicating a similar factor structure and factor loadings, but different uses of the identity item scale.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "WHKSKTII",
+            "IVLUCNC3"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Global communication competency assessment",
+          "evidence_verified": [
+            {
+              "quote": "[W6H25QK5] Global communication skills are essential so that engineers can function successfully in global settings.",
+              "score": 0.93,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[W6H25QK5] In this study, the authors developed a list of Can-do statements which measures foreign language communication competency in engineering settings.",
+              "score": 0.95,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[W6H25QK5] The analysis of the student assessment outcomes suggests that Japanese engineering students need more opportunities or training to enhance their self-evaluations of global communication competency.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "W6H25QK5"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        }
+      ]
+    }
+  }
+}

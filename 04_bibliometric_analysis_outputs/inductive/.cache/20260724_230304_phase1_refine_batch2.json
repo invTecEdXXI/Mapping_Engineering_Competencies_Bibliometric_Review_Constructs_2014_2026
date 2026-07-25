@@ -1,0 +1,76 @@
+{
+  "session_id": "20260724_230304",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:04:04.887801",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Self-Efficacy and Motivational Competencies in Engineering",
+      "definition": "The development and validation of instruments to measure engineering students' self-efficacy and motivational attitudes, including general engineering self-efficacy, programming self-efficacy, and design self-efficacy. These studies assess how motivational factors influence learning, performance, and engagement in engineering contexts.",
+      "subthemes": [
+        "General engineering self-efficacy",
+        "Programming self-efficacy",
+        "Design self-efficacy",
+        "Motivational attitudes and behaviors"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 3
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Motivational and Behavioral Competencies in Engineering Education",
+      "definition": "The assessment of engineering students' motivational attitudes, self-regulated learning, and engagement behaviors, particularly in capstone design courses. These studies focus on developing instruments to measure intrinsic motivation, sustainable engineering attitudes, and teamwork-related behaviors.",
+      "subthemes": [
+        "Self-regulated learning",
+        "Sustainable engineering attitudes",
+        "Teamwork behaviors",
+        "Motivational attitudes"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 3
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Systems Thinking and Complex Problem-Solving Competencies",
+      "definition": "The assessment of engineering students' ability to understand, analyze, and solve complex, interdisciplinary problems using systems thinking approaches. These studies focus on developing instruments to measure active learning, problem-based learning outcomes, and data-driven assessment of systems thinking skills.",
+      "subthemes": [
+        "Active learning outcomes",
+        "Problem-based learning competencies",
+        "Data-driven assessment",
+        "Complex problem-solving"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Workplace and Internship Competency Assessment",
+      "definition": "The validation of instruments to evaluate engineering students' perceptions of workplace support, generic competencies, and learning outcomes from internships and community-partnered projects. These studies focus on measuring the impact of work experience on employability and professional development.",
+      "subthemes": [
+        "Workplace support",
+        "Generic competencies",
+        "Community-partnered projects",
+        "Internship learning outcomes"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "merge",
+      "target_index": 2
+    }
+  ]
+}

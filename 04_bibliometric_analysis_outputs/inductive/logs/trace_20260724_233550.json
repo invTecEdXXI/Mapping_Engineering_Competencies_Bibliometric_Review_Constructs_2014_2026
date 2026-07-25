@@ -1,0 +1,136 @@
+{
+  "session_id": "20260724_233550",
+  "started_at": "2026-07-24T23:35:50.794919",
+  "config": {
+    "corpus_id": "5be989544683",
+    "provider": "auto",
+    "extraction_model": "deepseek-v4-pro",
+    "reasoning_model": "same",
+    "prompt_version": "v1",
+    "schema_version": "v1",
+    "batching_policy": "sequential",
+    "batch_seed": null,
+    "batch_size": null,
+    "min_abstract_length": 50,
+    "temperature": 0.3,
+    "max_tokens": 8000,
+    "context_tokens": 40000,
+    "prompt_overhead_tokens": 1000,
+    "verification_thresholds": {
+      "quote_threshold": 0.75,
+      "grounding_verified": 0.5,
+      "synthesis_overlap": 0.3
+    },
+    "use_cache": true,
+    "experiment_mode": "same_model_all_phases",
+    "total_articles": 96,
+    "valid_articles": 94,
+    "batch_size_actual": 30
+  },
+  "prompt_hashes": {
+    "prompt:phase1_extract": "6cf44d6b1e52b430",
+    "prompt:phase1_synthesis": "14048a944e650cd5",
+    "prompt:phase2_cross": "1f69a490f8847874",
+    "prompt:phase3_framework": "c556b142f4e0ed71",
+    "schema:phase1_output": "d9250e855d06c8f7",
+    "schema:phase2_output": "7c26ff66f527bba8",
+    "schema:phase3_output": "60ffa3d3f93aaacb"
+  },
+  "provider_capability": {
+    "provider_interface": "openai_compat",
+    "validated_providers": [
+      "deepseek",
+      "openrouter",
+      "openai",
+      "anthropic",
+      "qwen",
+      "ollama",
+      "together",
+      "groq",
+      "mistral",
+      "custom"
+    ],
+    "current_run_provider": "DeepSeek",
+    "current_run_model": "deepseek-v4-pro",
+    "current_run_reasoning_model": "deepseek-v4-pro",
+    "protocol_invariance_tested": false
+  },
+  "operations": [
+    {
+      "timestamp": "2026-07-24T23:37:57.780596",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 1,
+        "n_articles": 30,
+        "n_themes": 8,
+        "grounding_score": 0.942,
+        "hallucination_flags": 2
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:39:14.757417",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 2,
+        "n_articles": 30,
+        "n_themes": 8,
+        "grounding_score": 0.738,
+        "hallucination_flags": 9
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:42:05.961025",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 3,
+        "n_articles": 30,
+        "n_themes": 0,
+        "grounding_score": 0,
+        "hallucination_flags": 0
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:43:28.142605",
+      "operation": "phase1_batch",
+      "details": {
+        "batch": 4,
+        "n_articles": 4,
+        "n_themes": 6,
+        "grounding_score": 0.922,
+        "hallucination_flags": 2
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:45:45.903085",
+      "operation": "phase1_complete",
+      "details": {
+        "n_batches": 4,
+        "n_themes_final": 14,
+        "avg_grounding_score": 0.867,
+        "total_hallucination_flags": 13
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:46:53.972115",
+      "operation": "phase2_complete",
+      "details": {
+        "n_relationships": 6,
+        "n_axes": 3,
+        "grounded": true,
+        "invalid_refs": 0,
+        "model_used": "deepseek-v4-pro"
+      }
+    },
+    {
+      "timestamp": "2026-07-24T23:48:20.530449",
+      "operation": "phase3_complete",
+      "details": {
+        "n_frameworks": 3,
+        "grounded": true,
+        "invalid_refs": 0,
+        "model_used": "deepseek-v4-pro"
+      }
+    }
+  ],
+  "completed_at": "2026-07-24T23:48:20.542624"
+}

@@ -1,0 +1,83 @@
+{
+  "session_id": "20260724_223030",
+  "phase": "1_refine",
+  "batch": 3,
+  "timestamp": "2026-07-24T22:32:00.955003",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 4
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 4
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 8
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Gender and Demographic Differences in Self-Efficacy and Skills",
+      "definition": "Research examines how gender, class level, transfer status, or first-generation college student status affect self-efficacy, problem-solving perceptions, or skill development, often using validated instruments to compare subgroups.",
+      "subthemes": [
+        "Gender differences",
+        "First-generation college students",
+        "Class level",
+        "Transfer status"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Impact of COVID-19 Pandemic on Student Self-Efficacy and Learning",
+      "definition": "Studies assess changes in self-efficacy and learning capacities due to the COVID-19 pandemic, comparing pre- and post-pandemic perceptions, and identifying factors like age and educational level.",
+      "subthemes": [
+        "Pandemic",
+        "Online learning",
+        "Adaptation"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Intrinsic Motivation and Its Measurement in Engineering Education",
+      "definition": "Research develops and validates instruments to measure intrinsic motivation among engineering students, often based on Self-Determination Theory, and tests interventions to enhance motivation.",
+      "subthemes": [
+        "Self-Determination Theory",
+        "Intrinsic Motivation Inventory",
+        "Motivation strategies"
+      ]
+    },
+    {
+      "new_theme_index": 8,
+      "action": "merge",
+      "target_index": 5
+    },
+    {
+      "new_theme_index": 9,
+      "action": "new",
+      "theme": "Global Communication Competency Assessment",
+      "definition": "Research develops tools to measure foreign language communication competency in engineering settings, using frameworks like CEFR, and applies them to evaluate students' global communication skills.",
+      "subthemes": [
+        "Global communication",
+        "CEFR",
+        "Can-do statements"
+      ]
+    }
+  ]
+}

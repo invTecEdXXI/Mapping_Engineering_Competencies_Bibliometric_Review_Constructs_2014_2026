@@ -1,0 +1,178 @@
+{
+  "session_id": "20260724_230900",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-07-24T23:10:20.432586",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Assessment Instrument Development and Validation for Engineering Competencies",
+        "theme_b": "Transversal and Employability Skills in Engineering Education",
+        "relationship_type": "complementary",
+        "description": "Many studies in instrument development focus on assessing transversal skills (e.g., teamwork, leadership) as part of engineering competencies, indicating a strong link between methodological rigor and the evaluation of employability skills.",
+        "n_studies_support": 15,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Self-Efficacy and Identity Development in Engineering",
+        "theme_b": "Assessment Instrument Development and Validation for Engineering Competencies",
+        "relationship_type": "association",
+        "description": "Self-efficacy and identity development are frequently assessed using validated instruments (e.g., scales, questionnaires), highlighting the methodological emphasis on psychometric rigor in these areas.",
+        "n_studies_support": 18,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Critical Thinking and Advanced Problem-Solving Competencies",
+        "theme_b": "Assessment Instrument Development and Validation for Engineering Competencies",
+        "relationship_type": "complementary",
+        "description": "Studies on critical thinking and problem-solving often involve the development and validation of specialized assessment tools (e.g., rubrics, scales) to measure these advanced competencies.",
+        "n_studies_support": 7,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Motivational and Entrepreneurial Mindset in Engineering",
+        "theme_b": "Transversal and Employability Skills in Engineering Education",
+        "relationship_type": "association",
+        "description": "Entrepreneurial mindset and motivation are frequently framed as transversal skills essential for employability, with studies often assessing these constructs together.",
+        "n_studies_support": 8,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Gender and Diversity in Engineering Education",
+        "theme_b": "Assessment Instrument Development and Validation for Engineering Competencies",
+        "relationship_type": "association",
+        "description": "Gender and diversity studies often involve the validation of instruments (e.g., scales) to ensure gender invariance and inclusivity in assessment practices.",
+        "n_studies_support": 5,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Workplace Competency Assessment through Internships",
+        "theme_b": "Transversal and Employability Skills in Engineering Education",
+        "relationship_type": "complementary",
+        "description": "Internship evaluations frequently assess workplace competencies that align with transversal skills (e.g., teamwork, communication), bridging academic and professional contexts.",
+        "n_studies_support": 3,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Real-World and Community-Engaged Learning Assessment",
+        "theme_b": "Transversal and Employability Skills in Engineering Education",
+        "relationship_type": "complementary",
+        "description": "Community-engaged learning studies often evaluate transversal skills (e.g., teamwork, leadership) in real-world contexts, emphasizing their role in employability.",
+        "n_studies_support": 2,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Leadership Development and Self-Efficacy in Engineering Education",
+        "theme_b": "Self-Efficacy and Identity Development in Engineering",
+        "relationship_type": "association",
+        "description": "Leadership development is closely tied to self-efficacy and identity formation, with studies often measuring leadership self-efficacy as part of broader self-efficacy constructs.",
+        "n_studies_support": 1,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Affective and Writing-Related Factors in Engineering Education",
+        "theme_b": "Research Competencies and Academic Skills",
+        "relationship_type": "association",
+        "description": "Writing-related factors (e.g., apprehension) are often studied in the context of academic writing and research competencies, highlighting their impact on research training outcomes.",
+        "n_studies_support": 1,
+        "robustness": "Low"
+      },
+      {
+        "theme_a": "Domain-Specific Self-Efficacy in Biomedical Engineering",
+        "theme_b": "Self-Efficacy and Identity Development in Engineering",
+        "relationship_type": "complementary",
+        "description": "Biomedical engineering-specific self-efficacy (e.g., clinical problem-solving) is a subset of broader self-efficacy constructs, with studies emphasizing domain-specific validation.",
+        "n_studies_support": 1,
+        "robustness": "Low"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Assessment instrument development (e.g., rubrics, scales) applied to transversal skills (e.g., teamwork, leadership) in engineering education.",
+        "components": [
+          "Assessment Instrument Development and Validation for Engineering Competencies",
+          "Transversal and Employability Skills in Engineering Education"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Psychometric instrument development (e.g., questionnaires) to assess self-efficacy and identity development in engineering students.",
+        "components": [
+          "Assessment Instrument Development and Validation for Engineering Competencies",
+          "Self-Efficacy and Identity Development in Engineering"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Evaluation of workplace competencies (e.g., internships) linked to transversal skills (e.g., teamwork, communication).",
+        "components": [
+          "Workplace Competency Assessment through Internships",
+          "Transversal and Employability Skills in Engineering Education"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Assessment of critical thinking and problem-solving competencies using validated instruments.",
+        "components": [
+          "Critical Thinking and Advanced Problem-Solving Competencies",
+          "Assessment Instrument Development and Validation for Engineering Competencies"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Entrepreneurial mindset and motivation assessed alongside employability and transversal skills.",
+        "components": [
+          "Motivational and Entrepreneurial Mindset in Engineering",
+          "Transversal and Employability Skills in Engineering Education"
+        ],
+        "frequency": "Medium"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Methodological Rigor in Competency Assessment",
+        "justification": "This axis captures the central role of instrument development and validation in assessing engineering competencies, including transversal skills, self-efficacy, and critical thinking.",
+        "coverage": "~50%",
+        "research_potential": "Could inform best practices for designing and validating assessment tools in engineering education, ensuring alignment with industry and academic standards."
+      },
+      {
+        "axis": "Transversal Skills and Employability",
+        "justification": "Transversal skills (e.g., teamwork, leadership) are frequently assessed in relation to employability, bridging academic and professional contexts.",
+        "coverage": "~20%",
+        "research_potential": "Could guide the integration of transversal skills into curricula and workplace assessments, addressing gaps in current practices."
+      },
+      {
+        "axis": "Self-Efficacy and Identity Development",
+        "justification": "Self-efficacy and identity are core constructs linked to academic and professional outcomes, often assessed using validated instruments.",
+        "coverage": "~23%",
+        "research_potential": "Could explore interventions to enhance self-efficacy and identity, particularly in underrepresented groups, to improve retention and performance."
+      },
+      {
+        "axis": "Real-World and Workplace Learning",
+        "justification": "Workplace and community-engaged learning assessments focus on competencies developed in real-world contexts, complementing academic assessments.",
+        "coverage": "~5%",
+        "research_potential": "Could investigate the long-term impact of real-world learning on career readiness and professional development."
+      },
+      {
+        "axis": "Affective and Domain-Specific Factors",
+        "justification": "Affective factors (e.g., writing apprehension) and domain-specific competencies (e.g., biomedical engineering) are emerging areas with limited but critical studies.",
+        "coverage": "~2%",
+        "research_potential": "Could address gaps in understanding how affective and domain-specific factors influence learning and career outcomes."
+      }
+    ],
+    "gaps_and_contradictions": [
+      "Limited studies on resilience and academic performance (n=2) suggest a gap in understanding protective factors for student success, despite its potential importance.",
+      "The low number of studies on affective and writing-related factors (n=1) contrasts with their known impact on academic performance and career trajectories, indicating a need for further research.",
+      "Contradictions may exist in the assessment of gender and diversity, where inclusivity goals may conflict with traditional assessment methods (e.g., gender invariance validation), but this is not explicitly addressed in the taxonomy.",
+      "The relationship between research competencies and academic skills is understudied (n=3), despite the growing emphasis on research training in engineering education.",
+      "Domain-specific self-efficacy in biomedical engineering is only represented by one study, highlighting a gap in understanding competencies unique to specialized engineering fields."
+    ],
+    "_theme_reference_check": {
+      "valid_references": 20,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

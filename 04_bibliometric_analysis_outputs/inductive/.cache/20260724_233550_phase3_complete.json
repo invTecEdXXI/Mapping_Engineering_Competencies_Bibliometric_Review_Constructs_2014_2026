@@ -1,0 +1,173 @@
+{
+  "session_id": "20260724_233550",
+  "phase": "3",
+  "batch": null,
+  "timestamp": "2026-07-24T23:48:20.528826",
+  "data": {
+    "frameworks": [
+      {
+        "approach": "Measurement Process and Instrument Validation Lifecycle",
+        "justification": "The systematic review reveals a dominant focus on instrument development and psychometric validation, with factor analysis and rubric-based methods as complementary approaches. Organizing findings around the validation lifecycle highlights methodological rigor and allows comparative analysis of validation practices.",
+        "general_objective": "To synthesize and compare the processes of instrument design, content validation, construct validation, and reliability testing across engineering education assessment research.",
+        "specific_objectives": [
+          {
+            "text": "Examine instrument design and content validation processes, including expert judgment and rubric development.",
+            "key_themes": [
+              "Instrument Development and Psychometric Validation in Engineering Education",
+              "Rubric-Based Competency Assessment",
+              "Research Competences and Investigative Skills"
+            ],
+            "n_studies_support": "~70",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Compare factor structures and construct validity methods (EFA/CFA) across instruments.",
+            "key_themes": [
+              "Instrument Development and Psychometric Validation in Engineering Education",
+              "Factor Analysis as Primary Validation Method"
+            ],
+            "n_studies_support": "~64",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Evaluate reliability and inter-rater reliability evidence in rubric-based and psychometric assessments.",
+            "key_themes": [
+              "Rubric-Based Competency Assessment",
+              "Instrument Development and Psychometric Validation in Engineering Education"
+            ],
+            "n_studies_support": "~68",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "75%",
+        "strengths": [
+          "Focuses on methodological transparency and replication",
+          "High coverage of instrument development studies",
+          "Directly supports meta-analytic comparisons of validation practices"
+        ],
+        "limitations": [
+          "May underrepresent purely descriptive or non-validation studies",
+          "Does not foreground the substantive constructs being measured"
+        ]
+      },
+      {
+        "approach": "Substantive Assessment Domains for Engineering Learner Development",
+        "justification": "The emergent themes cluster around distinct types of constructs: cognitive skills, professional competencies, self-beliefs, and affective/motivational factors. This framework maps what is actually being measured, revealing coverage gaps and enabling targeted curriculum improvement.",
+        "general_objective": "To map the landscape of measured constructs in engineering education, categorize them into coherent domains, and evaluate their assessment instruments.",
+        "specific_objectives": [
+          {
+            "text": "Characterize instruments measuring cognitive, critical, and investigative thinking skills.",
+            "key_themes": [
+              "Critical, Reflective, and Representational Thinking Assessment",
+              "Research Competences and Investigative Skills"
+            ],
+            "n_studies_support": "~6",
+            "analysis_type": "descriptive"
+          },
+          {
+            "text": "Assess the validity and structure of instruments for professional, transversal, and generic competencies, including attitudes toward practical work.",
+            "key_themes": [
+              "Assessment of Generic, Transversal, and Professional Competencies",
+              "Attitudes Toward Engineering and Practical Learning Experiences",
+              "Rubric-Based Competency Assessment"
+            ],
+            "n_studies_support": "~20",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Examine how self-efficacy and engineering identity scales predict career intentions and professional outcomes.",
+            "key_themes": [
+              "Self-Efficacy and Engineering Identity Measurement",
+              "Linking Student Attributes to Career Intentions and Professional Outcomes"
+            ],
+            "n_studies_support": "~25",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Investigate instruments targeting affective, ethical, motivational, and mindset constructs in engineering education.",
+            "key_themes": [
+              "Affective and Ethical Competence Assessment",
+              "Motivation and Engagement in Engineering Education",
+              "Mindset and Dispositional Factors in Engineering",
+              "Affective and Motivational Factors in Professional Skill Development"
+            ],
+            "n_studies_support": "~15",
+            "analysis_type": "comparative"
+          }
+        ],
+        "estimated_coverage": "85%",
+        "strengths": [
+          "Comprehensive mapping of assessed constructs",
+          "Aligns with competency-based curriculum design",
+          "Highlights under-researched areas (e.g., affective/ethical competencies)"
+        ],
+        "limitations": [
+          "Boundaries between domains can be overlapping",
+          "Some studies may span multiple domains, complicating categorization"
+        ]
+      },
+      {
+        "approach": "From Measurement to Impact: Predictive Relationships and Practical Outcomes",
+        "justification": "While most research focuses on instrument validation or descriptive measurement, a critical subset models the predictive links from student attributes and learning environments to career intentions and skill development. This framework emphasizes the practical utility of measurement for educational intervention.",
+        "general_objective": "To trace the predictive pathways through which measured student attributes, motivations, and learning environments influence professional skill development and career outcomes in engineering.",
+        "specific_objectives": [
+          {
+            "text": "Model the predictive relationship between self-efficacy, engineering identity, and career intentions/persistence.",
+            "key_themes": [
+              "Self-Efficacy and Engineering Identity Measurement",
+              "Linking Student Attributes to Career Intentions and Professional Outcomes"
+            ],
+            "n_studies_support": "~25",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Analyze the role of motivation and affective factors in professional skill acquisition and development.",
+            "key_themes": [
+              "Motivation and Engagement in Engineering Education",
+              "Affective and Motivational Factors in Professional Skill Development",
+              "Mindset and Dispositional Factors in Engineering"
+            ],
+            "n_studies_support": "~15",
+            "analysis_type": "relational"
+          },
+          {
+            "text": "Investigate how learning environments and pedagogical practices predict student attitudes and competencies.",
+            "key_themes": [
+              "Learning Environment and Pedagogical Practices Assessment",
+              "Attitudes Toward Engineering and Practical Learning Experiences"
+            ],
+            "n_studies_support": "~10",
+            "analysis_type": "comparative"
+          },
+          {
+            "text": "Assess the psychometric foundations (factor structure, reliability) required for valid predictive modeling in engineering education.",
+            "key_themes": [
+              "Instrument Development and Psychometric Validation in Engineering Education",
+              "Factor Analysis as Primary Validation Method"
+            ],
+            "n_studies_support": "~64",
+            "analysis_type": "descriptive"
+          }
+        ],
+        "estimated_coverage": "30%",
+        "strengths": [
+          "Directly addresses the descriptive vs. predictive/causal axis",
+          "Highlights actionable levers for improving educational outcomes",
+          "Integrates measurement with impact, encouraging longitudinal designs"
+        ],
+        "limitations": [
+          "Narrow coverage limits generalizability of the framework",
+          "Excludes many well-validated instruments that lack predictive testing"
+        ]
+      }
+    ],
+    "recommendation": "I recommend the 'Substantive Assessment Domains for Engineering Learner Development' framework because it achieves the highest coverage (85%), organizes findings around what is actually being measured, and aligns with the cognitive/affective analytical axis. It offers clear value for curriculum designers, assessment developers, and researchers seeking to identify gaps—particularly the underrepresentation of affective, ethical, and motivational assessments—while remaining grounded in the robust empirical patterns of the review.",
+    "_theme_reference_check": {
+      "valid_references": 27,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

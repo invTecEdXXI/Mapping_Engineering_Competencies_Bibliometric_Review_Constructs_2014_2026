@@ -1,0 +1,89 @@
+{
+  "session_id": "20260724_231535",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:16:58.129257",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 0
+    },
+    {
+      "new_theme_index": 1,
+      "action": "merge",
+      "target_index": 3
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Innovation and Entrepreneurial Mindset in Engineering",
+      "definition": "The development and assessment of skills related to innovation, problem-solving, and entrepreneurial thinking in engineering students. This includes constructs like 'Connectedness to Innovation' and 'Entrepreneurial Self-Efficacy', often evaluated through frameworks such as the Entrepreneurial Mindset Profile.",
+      "subthemes": [
+        "Innovation skills",
+        "Entrepreneurial self-efficacy",
+        "Problem-solving frameworks"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Workplace and Experiential Learning Assessment",
+      "definition": "The evaluation of students' competencies, perceptions, and learning outcomes gained through workplace experiences such as internships, apprenticeships, or industry collaborations. This includes assessing internship quality, workplace competencies, and the alignment of practical skills with academic learning.",
+      "subthemes": [
+        "Internship quality assessment",
+        "Workplace competencies",
+        "Industry collaboration outcomes"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Systems Thinking and Design Mindset Assessment",
+      "definition": "The assessment of students' ability to think holistically about complex systems and their approach to iterative design processes. This includes evaluating competencies in problem-solving, holistic thinking, and engagement with complex real-world systems.",
+      "subthemes": [
+        "Holistic systems thinking",
+        "Iterative design processes",
+        "Complex systems engagement"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Sustainability and Social Responsibility in Engineering Education",
+      "definition": "The measurement of students' attitudes, values, and competencies related to sustainability, social responsibility, and ethics in engineering practice. This includes frameworks such as sustainability education rubrics and community engagement assessments.",
+      "subthemes": [
+        "Sustainability education",
+        "Social responsibility",
+        "Ethical engineering practice"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Active Learning and Learning Gains Assessment",
+      "definition": "The evaluation of students' perceived learning gains and the effectiveness of active learning strategies, such as problem-based learning or flipped classrooms, in engineering education. This includes tools like the Students’ Assessment of their Learning Gains (SALG) to measure engagement and outcomes.",
+      "subthemes": [
+        "Active learning strategies",
+        "Learning gains measurement",
+        "Student engagement assessment"
+      ]
+    },
+    {
+      "new_theme_index": 8,
+      "action": "new",
+      "theme": "Mathematical and Technical Competency Assessment",
+      "definition": "The assessment of foundational mathematical and technical competencies in engineering students, particularly at the beginning of their academic journey. This includes the use of psychometric tools like Rasch analysis to evaluate skills in real-world applications.",
+      "subthemes": [
+        "Mathematical competence",
+        "Technical skills",
+        "Psychometric evaluation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2532 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="community" attr.type="long"/>
+<key id="d0" for="node" attr.name="frequency" attr.type="long"/>
+<graph edgedefault="undirected"><node id="education">
+  <data key="d0">4</data>
+  <data key="d1">0</data>
+</node>
+<node id="electrical engineering">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="students">
+  <data key="d0">22</data>
+  <data key="d1">3</data>
+</node>
+<node id="engineering education">
+  <data key="d0">26</data>
+  <data key="d1">3</data>
+</node>
+<node id="engineering">
+  <data key="d0">18</data>
+  <data key="d1">2</data>
+</node>
+<node id="psychology">
+  <data key="d0">22</data>
+  <data key="d1">2</data>
+</node>
+<node id="instruments">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</node>
+<node id="problem solving">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="reliability (semiconductor)">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</node>
+<node id="education computing">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</node>
+<node id="scale (ratio)">
+  <data key="d0">11</data>
+  <data key="d1">2</data>
+</node>
+<node id="computer science">
+  <data key="d0">21</data>
+  <data key="d1">0</data>
+</node>
+<node id="test (biology)">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</node>
+<node id="reliability">
+  <data key="d0">3</data>
+  <data key="d1">1</data>
+</node>
+<node id="engineering students">
+  <data key="d0">7</data>
+  <data key="d1">1</data>
+</node>
+<node id="mathematics">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</node>
+<node id="statistics">
+  <data key="d0">3</data>
+  <data key="d1">3</data>
+</node>
+<node id="set (abstract data type)">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="engineering management">
+  <data key="d0">13</data>
+  <data key="d1">2</data>
+</node>
+<node id="training (meteorology)">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="perception">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="professional aspects">
+  <data key="d0">6</data>
+  <data key="d1">0</data>
+</node>
+<node id="factor analysis">
+  <data key="d0">11</data>
+  <data key="d1">3</data>
+</node>
+<node id="knowledge management">
+  <data key="d0">9</data>
+  <data key="d1">0</data>
+</node>
+<node id="measure (data warehouse)">
+  <data key="d0">6</data>
+  <data key="d1">0</data>
+</node>
+<node id="undergraduate engineering students">
+  <data key="d0">6</data>
+  <data key="d1">3</data>
+</node>
+<node id="engineering problems">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="student perceptions">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="management">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="medicine">
+  <data key="d0">10</data>
+  <data key="d1">2</data>
+</node>
+<node id="medical education">
+  <data key="d0">9</data>
+  <data key="d1">2</data>
+</node>
+<node id="mathematics education">
+  <data key="d0">11</data>
+  <data key="d1">2</data>
+</node>
+<node id="applied psychology">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="social psychology">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</node>
+<node id="sociology">
+  <data key="d0">5</data>
+  <data key="d1">2</data>
+</node>
+<node id="engineering research">
+  <data key="d0">6</data>
+  <data key="d1">3</data>
+</node>
+<node id="identity (music)">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="pedagogy">
+  <data key="d0">8</data>
+  <data key="d1">2</data>
+</node>
+<node id="surveys">
+  <data key="d0">8</data>
+  <data key="d1">3</data>
+</node>
+<node id="graduate students">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="correlation methods">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="exploratory factor analysis">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="engineering graduate students">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="teaching">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="curricula">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</node>
+<node id="engineering ethics">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</node>
+<node id="data mining">
+  <data key="d0">3</data>
+  <data key="d1">0</data>
+</node>
+<node id="work (physics)">
+  <data key="d0">3</data>
+  <data key="d1">2</data>
+</node>
+<node id="structural equation modeling">
+  <data key="d0">5</data>
+  <data key="d1">3</data>
+</node>
+<node id="first-year engineering">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</node>
+<node id="confirmatory factor analysis">
+  <data key="d0">8</data>
+  <data key="d1">3</data>
+</node>
+<node id="loading">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="machine learning">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="load modeling">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="multivariant analysis">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</node>
+<node id="exploratory factor analysis (efa)">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="first year engineering course">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="mechanical engineering">
+  <data key="d0">4</data>
+  <data key="d1">2</data>
+</node>
+<node id="higher education">
+  <data key="d0">3</data>
+  <data key="d1">1</data>
+</node>
+<node id="engineering undergraduates">
+  <data key="d0">3</data>
+  <data key="d1">3</data>
+</node>
+<node id="political science">
+  <data key="d0">4</data>
+  <data key="d1">1</data>
+</node>
+<node id="curriculum">
+  <data key="d0">6</data>
+  <data key="d1">2</data>
+</node>
+<node id="rubric">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="value (mathematics)">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="likert scale">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="self efficacy">
+  <data key="d0">4</data>
+  <data key="d1">3</data>
+</node>
+<node id="survey instruments">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="employment">
+  <data key="d0">3</data>
+  <data key="d1">3</data>
+</node>
+<node id="engineering problem solving">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="sample (material)">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="monitoring">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="construct validity">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="problem based learning">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="cartography">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="geography">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="descriptive statistics">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="population">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="context (archaeology)">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="professional practices">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="database">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="engineering profession">
+  <data key="d0">3</data>
+  <data key="d1">1</data>
+</node>
+<node id="portuguese">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</node>
+<node id="labour market">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</node>
+<node id="transferable skills analysis">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</node>
+<node id="transferable skills">
+  <data key="d0">2</data>
+  <data key="d1">1</data>
+</node>
+<node id="college students">
+  <data key="d0">2</data>
+  <data key="d1">2</data>
+</node>
+<node id="graduation (instrument)">
+  <data key="d0">3</data>
+  <data key="d1">2</data>
+</node>
+<node id="self-efficacy">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="process (computing)">
+  <data key="d0">3</data>
+  <data key="d1">0</data>
+</node>
+<node id="accreditation">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="university students">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="general engineering">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<node id="personnel training">
+  <data key="d0">2</data>
+  <data key="d1">0</data>
+</node>
+<node id="engineers">
+  <data key="d0">2</data>
+  <data key="d1">3</data>
+</node>
+<edge source="education" target="electrical engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="reliability (semiconductor)">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="scale (ratio)">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="students">
+  <data key="d2">4</data>
+</edge>
+<edge source="education" target="engineering education">
+  <data key="d2">4</data>
+</edge>
+<edge source="education" target="engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="education" target="psychology">
+  <data key="d2">4</data>
+</edge>
+<edge source="education" target="computer science">
+  <data key="d2">3</data>
+</edge>
+<edge source="education" target="sociology">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="mathematics education">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="engineering management">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="education" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="engineering graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="undergraduate engineering students">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="professional aspects">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="measure (data warehouse)">
+  <data key="d2">2</data>
+</edge>
+<edge source="education" target="knowledge management">
+  <data key="d2">2</data>
+</edge>
+<edge source="electrical engineering" target="students">
+  <data key="d2">2</data>
+</edge>
+<edge source="electrical engineering" target="engineering education">
+  <data key="d2">2</data>
+</edge>
+<edge source="electrical engineering" target="engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="electrical engineering" target="psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="problem solving">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="instruments">
+  <data key="d2">5</data>
+</edge>
+<edge source="students" target="test (biology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="reliability (semiconductor)">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="education computing">
+  <data key="d2">5</data>
+</edge>
+<edge source="students" target="scale (ratio)">
+  <data key="d2">7</data>
+</edge>
+<edge source="students" target="reliability">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="mathematics">
+  <data key="d2">4</data>
+</edge>
+<edge source="students" target="engineering education">
+  <data key="d2">21</data>
+</edge>
+<edge source="students" target="engineering">
+  <data key="d2">10</data>
+</edge>
+<edge source="students" target="psychology">
+  <data key="d2">14</data>
+</edge>
+<edge source="students" target="statistics">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="computer science">
+  <data key="d2">14</data>
+</edge>
+<edge source="students" target="engineering students">
+  <data key="d2">7</data>
+</edge>
+<edge source="students" target="perception">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="professional aspects">
+  <data key="d2">6</data>
+</edge>
+<edge source="students" target="engineering management">
+  <data key="d2">9</data>
+</edge>
+<edge source="students" target="factor analysis">
+  <data key="d2">11</data>
+</edge>
+<edge source="students" target="measure (data warehouse)">
+  <data key="d2">5</data>
+</edge>
+<edge source="students" target="engineering problems">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="student perceptions">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="undergraduate engineering students">
+  <data key="d2">6</data>
+</edge>
+<edge source="students" target="knowledge management">
+  <data key="d2">5</data>
+</edge>
+<edge source="students" target="sociology">
+  <data key="d2">4</data>
+</edge>
+<edge source="students" target="mathematics education">
+  <data key="d2">8</data>
+</edge>
+<edge source="students" target="correlation methods">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="engineering research">
+  <data key="d2">6</data>
+</edge>
+<edge source="students" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="surveys">
+  <data key="d2">7</data>
+</edge>
+<edge source="students" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="engineering graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="pedagogy">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="teaching">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="curricula">
+  <data key="d2">5</data>
+</edge>
+<edge source="students" target="medicine">
+  <data key="d2">4</data>
+</edge>
+<edge source="students" target="structural equation modeling">
+  <data key="d2">5</data>
+</edge>
+<edge source="students" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="first-year engineering">
+  <data key="d2">4</data>
+</edge>
+<edge source="students" target="medical education">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="confirmatory factor analysis">
+  <data key="d2">8</data>
+</edge>
+<edge source="students" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="multivariant analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="students" target="first year engineering course">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="higher education">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="engineering undergraduates">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="self efficacy">
+  <data key="d2">4</data>
+</edge>
+<edge source="students" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="data mining">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="employment">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="engineering problem solving">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="construct validity">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="sample (material)">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="monitoring">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="problem based learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="cartography">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="descriptive statistics">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="population">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="context (archaeology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="geography">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="professional practices">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="engineering profession">
+  <data key="d2">3</data>
+</edge>
+<edge source="students" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="self-efficacy">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="social psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="process (computing)">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="university students">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="general engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="students" target="engineers">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="problem solving">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="instruments">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering education" target="test (biology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="reliability (semiconductor)">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering education" target="education computing">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering education" target="scale (ratio)">
+  <data key="d2">9</data>
+</edge>
+<edge source="engineering education" target="reliability">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="mathematics">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering education" target="engineering">
+  <data key="d2">15</data>
+</edge>
+<edge source="engineering education" target="psychology">
+  <data key="d2">18</data>
+</edge>
+<edge source="engineering education" target="statistics">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="computer science">
+  <data key="d2">17</data>
+</edge>
+<edge source="engineering education" target="engineering students">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering education" target="engineering management">
+  <data key="d2">13</data>
+</edge>
+<edge source="engineering education" target="training (meteorology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="perception">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="professional aspects">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering education" target="factor analysis">
+  <data key="d2">11</data>
+</edge>
+<edge source="engineering education" target="measure (data warehouse)">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering education" target="engineering problems">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="student perceptions">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="undergraduate engineering students">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering education" target="knowledge management">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering education" target="sociology">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering education" target="mathematics education">
+  <data key="d2">8</data>
+</edge>
+<edge source="engineering education" target="correlation methods">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="engineering research">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering education" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="surveys">
+  <data key="d2">7</data>
+</edge>
+<edge source="engineering education" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="engineering graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="pedagogy">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering education" target="teaching">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="curricula">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering education" target="medicine">
+  <data key="d2">8</data>
+</edge>
+<edge source="engineering education" target="structural equation modeling">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering education" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="first-year engineering">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering education" target="medical education">
+  <data key="d2">7</data>
+</edge>
+<edge source="engineering education" target="confirmatory factor analysis">
+  <data key="d2">8</data>
+</edge>
+<edge source="engineering education" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="multivariant analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering education" target="work (physics)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="first year engineering course">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="higher education">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="engineering undergraduates">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="mechanical engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="curriculum">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering education" target="self efficacy">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="employment">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="engineering problem solving">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="construct validity">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="sample (material)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="monitoring">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="problem based learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="cartography">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="descriptive statistics">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="population">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="context (archaeology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="geography">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="professional practices">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="engineering ethics">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="political science">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="graduation (instrument)">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering education" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="social psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="university students">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="general engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="personnel training">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="process (computing)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering education" target="engineers">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="instruments">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering" target="test (biology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="reliability (semiconductor)">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="education computing">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="scale (ratio)">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering" target="reliability">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="set (abstract data type)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="psychology">
+  <data key="d2">17</data>
+</edge>
+<edge source="engineering" target="computer science">
+  <data key="d2">16</data>
+</edge>
+<edge source="engineering" target="engineering students">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering" target="engineering management">
+  <data key="d2">13</data>
+</edge>
+<edge source="engineering" target="training (meteorology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="perception">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="professional aspects">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="factor analysis">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering" target="measure (data warehouse)">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="undergraduate engineering students">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering" target="knowledge management">
+  <data key="d2">8</data>
+</edge>
+<edge source="engineering" target="sociology">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering" target="mathematics education">
+  <data key="d2">7</data>
+</edge>
+<edge source="engineering" target="engineering research">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="surveys">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="pedagogy">
+  <data key="d2">7</data>
+</edge>
+<edge source="engineering" target="engineering ethics">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering" target="medicine">
+  <data key="d2">7</data>
+</edge>
+<edge source="engineering" target="structural equation modeling">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="first-year engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="medical education">
+  <data key="d2">8</data>
+</edge>
+<edge source="engineering" target="confirmatory factor analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="work (physics)">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="higher education">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="mechanical engineering">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering" target="political science">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering" target="curriculum">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering" target="social psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="graduation (instrument)">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering" target="personnel training">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="instruments">
+  <data key="d2">4</data>
+</edge>
+<edge source="psychology" target="test (biology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="reliability (semiconductor)">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="education computing">
+  <data key="d2">3</data>
+</edge>
+<edge source="psychology" target="scale (ratio)">
+  <data key="d2">9</data>
+</edge>
+<edge source="psychology" target="reliability">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="set (abstract data type)">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="mathematics">
+  <data key="d2">3</data>
+</edge>
+<edge source="psychology" target="statistics">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="computer science">
+  <data key="d2">17</data>
+</edge>
+<edge source="psychology" target="engineering students">
+  <data key="d2">6</data>
+</edge>
+<edge source="psychology" target="perception">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="professional aspects">
+  <data key="d2">5</data>
+</edge>
+<edge source="psychology" target="engineering management">
+  <data key="d2">12</data>
+</edge>
+<edge source="psychology" target="factor analysis">
+  <data key="d2">8</data>
+</edge>
+<edge source="psychology" target="measure (data warehouse)">
+  <data key="d2">4</data>
+</edge>
+<edge source="psychology" target="undergraduate engineering students">
+  <data key="d2">5</data>
+</edge>
+<edge source="psychology" target="knowledge management">
+  <data key="d2">9</data>
+</edge>
+<edge source="psychology" target="medicine">
+  <data key="d2">9</data>
+</edge>
+<edge source="psychology" target="management">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="medical education">
+  <data key="d2">9</data>
+</edge>
+<edge source="psychology" target="mathematics education">
+  <data key="d2">11</data>
+</edge>
+<edge source="psychology" target="applied psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="social psychology">
+  <data key="d2">4</data>
+</edge>
+<edge source="psychology" target="sociology">
+  <data key="d2">5</data>
+</edge>
+<edge source="psychology" target="engineering research">
+  <data key="d2">4</data>
+</edge>
+<edge source="psychology" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="surveys">
+  <data key="d2">6</data>
+</edge>
+<edge source="psychology" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="engineering graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="pedagogy">
+  <data key="d2">8</data>
+</edge>
+<edge source="psychology" target="engineering ethics">
+  <data key="d2">4</data>
+</edge>
+<edge source="psychology" target="structural equation modeling">
+  <data key="d2">3</data>
+</edge>
+<edge source="psychology" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="first-year engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="confirmatory factor analysis">
+  <data key="d2">6</data>
+</edge>
+<edge source="psychology" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="multivariant analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="psychology" target="work (physics)">
+  <data key="d2">3</data>
+</edge>
+<edge source="psychology" target="higher education">
+  <data key="d2">3</data>
+</edge>
+<edge source="psychology" target="engineering undergraduates">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="mechanical engineering">
+  <data key="d2">4</data>
+</edge>
+<edge source="psychology" target="political science">
+  <data key="d2">4</data>
+</edge>
+<edge source="psychology" target="rubric">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="curriculum">
+  <data key="d2">6</data>
+</edge>
+<edge source="psychology" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="cartography">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="descriptive statistics">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="population">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="context (archaeology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="geography">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="professional practices">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="employment">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="graduation (instrument)">
+  <data key="d2">3</data>
+</edge>
+<edge source="psychology" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="university students">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="personnel training">
+  <data key="d2">2</data>
+</edge>
+<edge source="psychology" target="process (computing)">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="problem solving">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="test (biology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="reliability (semiconductor)">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="education computing">
+  <data key="d2">3</data>
+</edge>
+<edge source="instruments" target="scale (ratio)">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="reliability">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="computer science">
+  <data key="d2">4</data>
+</edge>
+<edge source="instruments" target="engineering students">
+  <data key="d2">3</data>
+</edge>
+<edge source="instruments" target="medicine">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="engineering research">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="medical education">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="engineering management">
+  <data key="d2">3</data>
+</edge>
+<edge source="instruments" target="factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="undergraduate engineering students">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="higher education">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="mathematics education">
+  <data key="d2">2</data>
+</edge>
+<edge source="instruments" target="monitoring">
+  <data key="d2">2</data>
+</edge>
+<edge source="problem solving" target="reliability (semiconductor)">
+  <data key="d2">2</data>
+</edge>
+<edge source="problem solving" target="education computing">
+  <data key="d2">2</data>
+</edge>
+<edge source="problem solving" target="scale (ratio)">
+  <data key="d2">2</data>
+</edge>
+<edge source="reliability (semiconductor)" target="education computing">
+  <data key="d2">2</data>
+</edge>
+<edge source="reliability (semiconductor)" target="scale (ratio)">
+  <data key="d2">3</data>
+</edge>
+<edge source="reliability (semiconductor)" target="computer science">
+  <data key="d2">3</data>
+</edge>
+<edge source="reliability (semiconductor)" target="engineering management">
+  <data key="d2">2</data>
+</edge>
+<edge source="reliability (semiconductor)" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="reliability (semiconductor)" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="reliability (semiconductor)" target="factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="education computing" target="scale (ratio)">
+  <data key="d2">3</data>
+</edge>
+<edge source="education computing" target="computer science">
+  <data key="d2">2</data>
+</edge>
+<edge source="education computing" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="education computing" target="engineering research">
+  <data key="d2">2</data>
+</edge>
+<edge source="education computing" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="education computing" target="factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="reliability">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="mathematics">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="statistics">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="computer science">
+  <data key="d2">6</data>
+</edge>
+<edge source="scale (ratio)" target="engineering students">
+  <data key="d2">3</data>
+</edge>
+<edge source="scale (ratio)" target="medicine">
+  <data key="d2">5</data>
+</edge>
+<edge source="scale (ratio)" target="management">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="medical education">
+  <data key="d2">4</data>
+</edge>
+<edge source="scale (ratio)" target="mathematics education">
+  <data key="d2">4</data>
+</edge>
+<edge source="scale (ratio)" target="social psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="engineering management">
+  <data key="d2">4</data>
+</edge>
+<edge source="scale (ratio)" target="pedagogy">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="confirmatory factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="scale (ratio)" target="construct validity">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="scale (ratio)" target="sample (material)">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="cartography">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="population">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="context (archaeology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="geography">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="professional aspects">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="knowledge management">
+  <data key="d2">3</data>
+</edge>
+<edge source="scale (ratio)" target="graduation (instrument)">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="measure (data warehouse)">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="self-efficacy">
+  <data key="d2">2</data>
+</edge>
+<edge source="scale (ratio)" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="test (biology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="reliability">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="set (abstract data type)">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="mathematics">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="statistics">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="engineering students">
+  <data key="d2">7</data>
+</edge>
+<edge source="computer science" target="engineering management">
+  <data key="d2">11</data>
+</edge>
+<edge source="computer science" target="training (meteorology)">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="perception">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="professional aspects">
+  <data key="d2">6</data>
+</edge>
+<edge source="computer science" target="factor analysis">
+  <data key="d2">9</data>
+</edge>
+<edge source="computer science" target="measure (data warehouse)">
+  <data key="d2">6</data>
+</edge>
+<edge source="computer science" target="engineering problems">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="undergraduate engineering students">
+  <data key="d2">5</data>
+</edge>
+<edge source="computer science" target="knowledge management">
+  <data key="d2">9</data>
+</edge>
+<edge source="computer science" target="engineering ethics">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="data mining">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="medicine">
+  <data key="d2">7</data>
+</edge>
+<edge source="computer science" target="structural equation modeling">
+  <data key="d2">4</data>
+</edge>
+<edge source="computer science" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="engineering research">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="first-year engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="medical education">
+  <data key="d2">7</data>
+</edge>
+<edge source="computer science" target="confirmatory factor analysis">
+  <data key="d2">7</data>
+</edge>
+<edge source="computer science" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="multivariant analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="computer science" target="surveys">
+  <data key="d2">6</data>
+</edge>
+<edge source="computer science" target="work (physics)">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="higher education">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="mathematics education">
+  <data key="d2">7</data>
+</edge>
+<edge source="computer science" target="engineering undergraduates">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="mechanical engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="sociology">
+  <data key="d2">4</data>
+</edge>
+<edge source="computer science" target="political science">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="value (mathematics)">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="pedagogy">
+  <data key="d2">7</data>
+</edge>
+<edge source="computer science" target="curriculum">
+  <data key="d2">6</data>
+</edge>
+<edge source="computer science" target="social psychology">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="employment">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="curricula">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="professional practices">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="engineering profession">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="graduation (instrument)">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="self-efficacy">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="process (computing)">
+  <data key="d2">3</data>
+</edge>
+<edge source="computer science" target="accreditation">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="self efficacy">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="general engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="personnel training">
+  <data key="d2">2</data>
+</edge>
+<edge source="computer science" target="engineers">
+  <data key="d2">2</data>
+</edge>
+<edge source="test (biology)" target="reliability">
+  <data key="d2">2</data>
+</edge>
+<edge source="test (biology)" target="engineering students">
+  <data key="d2">2</data>
+</edge>
+<edge source="reliability" target="engineering students">
+  <data key="d2">3</data>
+</edge>
+<edge source="reliability" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="higher education">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering students" target="mathematics education">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering students" target="medical education">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="engineering management">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering students" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="sociology">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="engineering profession">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering students" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="curricula">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering students" target="knowledge management">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics" target="statistics">
+  <data key="d2">3</data>
+</edge>
+<edge source="mathematics" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics" target="professional aspects">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics" target="factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics" target="mathematics education">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="perception">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="professional aspects">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="factor analysis">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering management" target="measure (data warehouse)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="undergraduate engineering students">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering management" target="knowledge management">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering management" target="sociology">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering management" target="mathematics education">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering management" target="engineering research">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="surveys">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="pedagogy">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering management" target="medicine">
+  <data key="d2">5</data>
+</edge>
+<edge source="engineering management" target="structural equation modeling">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="first-year engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="medical education">
+  <data key="d2">6</data>
+</edge>
+<edge source="engineering management" target="confirmatory factor analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering management" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="work (physics)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="higher education">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="mechanical engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="curriculum">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="engineering ethics">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="political science">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering management" target="graduation (instrument)">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering management" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="perception" target="professional aspects">
+  <data key="d2">2</data>
+</edge>
+<edge source="perception" target="factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="perception" target="knowledge management">
+  <data key="d2">2</data>
+</edge>
+<edge source="professional aspects" target="factor analysis">
+  <data key="d2">6</data>
+</edge>
+<edge source="professional aspects" target="measure (data warehouse)">
+  <data key="d2">4</data>
+</edge>
+<edge source="professional aspects" target="undergraduate engineering students">
+  <data key="d2">3</data>
+</edge>
+<edge source="professional aspects" target="knowledge management">
+  <data key="d2">4</data>
+</edge>
+<edge source="professional aspects" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="professional aspects" target="confirmatory factor analysis">
+  <data key="d2">5</data>
+</edge>
+<edge source="professional aspects" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="professional aspects" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="professional aspects" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="professional aspects" target="mathematics education">
+  <data key="d2">2</data>
+</edge>
+<edge source="professional aspects" target="social psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="measure (data warehouse)">
+  <data key="d2">4</data>
+</edge>
+<edge source="factor analysis" target="engineering problems">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="undergraduate engineering students">
+  <data key="d2">5</data>
+</edge>
+<edge source="factor analysis" target="knowledge management">
+  <data key="d2">4</data>
+</edge>
+<edge source="factor analysis" target="sociology">
+  <data key="d2">3</data>
+</edge>
+<edge source="factor analysis" target="mathematics education">
+  <data key="d2">4</data>
+</edge>
+<edge source="factor analysis" target="correlation methods">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="engineering research">
+  <data key="d2">5</data>
+</edge>
+<edge source="factor analysis" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="surveys">
+  <data key="d2">4</data>
+</edge>
+<edge source="factor analysis" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="engineering graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="pedagogy">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="medicine">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="structural equation modeling">
+  <data key="d2">5</data>
+</edge>
+<edge source="factor analysis" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="first-year engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="factor analysis" target="confirmatory factor analysis">
+  <data key="d2">8</data>
+</edge>
+<edge source="factor analysis" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="multivariant analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="factor analysis" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="engineering problem solving">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="sample (material)">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="social psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="factor analysis" target="general engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="measure (data warehouse)">
+  <data key="d2">4</data>
+</edge>
+<edge source="knowledge management" target="undergraduate engineering students">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="engineering ethics">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="sociology">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="mathematics education">
+  <data key="d2">3</data>
+</edge>
+<edge source="knowledge management" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="pedagogy">
+  <data key="d2">3</data>
+</edge>
+<edge source="knowledge management" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="social psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="professional practices">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="confirmatory factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="knowledge management" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="medicine">
+  <data key="d2">2</data>
+</edge>
+<edge source="knowledge management" target="medical education">
+  <data key="d2">3</data>
+</edge>
+<edge source="knowledge management" target="personnel training">
+  <data key="d2">2</data>
+</edge>
+<edge source="measure (data warehouse)" target="undergraduate engineering students">
+  <data key="d2">3</data>
+</edge>
+<edge source="measure (data warehouse)" target="data mining">
+  <data key="d2">3</data>
+</edge>
+<edge source="measure (data warehouse)" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="measure (data warehouse)" target="confirmatory factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="measure (data warehouse)" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="measure (data warehouse)" target="curricula">
+  <data key="d2">2</data>
+</edge>
+<edge source="measure (data warehouse)" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="measure (data warehouse)" target="surveys">
+  <data key="d2">2</data>
+</edge>
+<edge source="measure (data warehouse)" target="self-efficacy">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="sociology">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="mathematics education">
+  <data key="d2">3</data>
+</edge>
+<edge source="undergraduate engineering students" target="engineering research">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="surveys">
+  <data key="d2">3</data>
+</edge>
+<edge source="undergraduate engineering students" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="medicine">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="structural equation modeling">
+  <data key="d2">3</data>
+</edge>
+<edge source="undergraduate engineering students" target="first-year engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="medical education">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="confirmatory factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="undergraduate engineering students" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="undergraduate engineering students" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="management" target="medicine">
+  <data key="d2">2</data>
+</edge>
+<edge source="management" target="medical education">
+  <data key="d2">2</data>
+</edge>
+<edge source="medicine" target="medical education">
+  <data key="d2">8</data>
+</edge>
+<edge source="medicine" target="mathematics education">
+  <data key="d2">4</data>
+</edge>
+<edge source="medicine" target="applied psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="medicine" target="surveys">
+  <data key="d2">3</data>
+</edge>
+<edge source="medicine" target="work (physics)">
+  <data key="d2">3</data>
+</edge>
+<edge source="medicine" target="mechanical engineering">
+  <data key="d2">4</data>
+</edge>
+<edge source="medicine" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="medicine" target="pedagogy">
+  <data key="d2">4</data>
+</edge>
+<edge source="medicine" target="curriculum">
+  <data key="d2">3</data>
+</edge>
+<edge source="medicine" target="graduation (instrument)">
+  <data key="d2">2</data>
+</edge>
+<edge source="medical education" target="mathematics education">
+  <data key="d2">3</data>
+</edge>
+<edge source="medical education" target="applied psychology">
+  <data key="d2">2</data>
+</edge>
+<edge source="medical education" target="surveys">
+  <data key="d2">3</data>
+</edge>
+<edge source="medical education" target="work (physics)">
+  <data key="d2">3</data>
+</edge>
+<edge source="medical education" target="mechanical engineering">
+  <data key="d2">4</data>
+</edge>
+<edge source="medical education" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="medical education" target="pedagogy">
+  <data key="d2">4</data>
+</edge>
+<edge source="medical education" target="curriculum">
+  <data key="d2">3</data>
+</edge>
+<edge source="medical education" target="personnel training">
+  <data key="d2">2</data>
+</edge>
+<edge source="medical education" target="graduation (instrument)">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="social psychology">
+  <data key="d2">4</data>
+</edge>
+<edge source="mathematics education" target="sociology">
+  <data key="d2">5</data>
+</edge>
+<edge source="mathematics education" target="engineering research">
+  <data key="d2">3</data>
+</edge>
+<edge source="mathematics education" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="surveys">
+  <data key="d2">3</data>
+</edge>
+<edge source="mathematics education" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="pedagogy">
+  <data key="d2">5</data>
+</edge>
+<edge source="mathematics education" target="higher education">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="mechanical engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="engineering ethics">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="rubric">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="curriculum">
+  <data key="d2">3</data>
+</edge>
+<edge source="mathematics education" target="cartography">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="descriptive statistics">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="population">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="geography">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="employment">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="mathematics education" target="confirmatory factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="mathematics education" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="social psychology" target="sociology">
+  <data key="d2">2</data>
+</edge>
+<edge source="social psychology" target="pedagogy">
+  <data key="d2">2</data>
+</edge>
+<edge source="social psychology" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="social psychology" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="engineering research">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="pedagogy">
+  <data key="d2">3</data>
+</edge>
+<edge source="sociology" target="engineering ethics">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="structural equation modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="confirmatory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="sociology" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="identity (music)">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="surveys">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering research" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="pedagogy">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="structural equation modeling">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering research" target="first-year engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering research" target="confirmatory factor analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="engineering research" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering research" target="first year engineering course">
+  <data key="d2">2</data>
+</edge>
+<edge source="pedagogy" target="surveys">
+  <data key="d2">3</data>
+</edge>
+<edge source="pedagogy" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="pedagogy" target="engineering ethics">
+  <data key="d2">2</data>
+</edge>
+<edge source="pedagogy" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="pedagogy" target="curriculum">
+  <data key="d2">6</data>
+</edge>
+<edge source="pedagogy" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="pedagogy" target="mechanical engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="pedagogy" target="process (computing)">
+  <data key="d2">2</data>
+</edge>
+<edge source="surveys" target="graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="surveys" target="engineering graduate students">
+  <data key="d2">2</data>
+</edge>
+<edge source="surveys" target="exploratory factor analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="surveys" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="surveys" target="confirmatory factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="surveys" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="surveys" target="engineering undergraduates">
+  <data key="d2">3</data>
+</edge>
+<edge source="surveys" target="process (computing)">
+  <data key="d2">2</data>
+</edge>
+<edge source="surveys" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="teaching" target="curricula">
+  <data key="d2">2</data>
+</edge>
+<edge source="curricula" target="self efficacy">
+  <data key="d2">2</data>
+</edge>
+<edge source="curricula" target="first-year engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="curricula" target="data mining">
+  <data key="d2">2</data>
+</edge>
+<edge source="curricula" target="employment">
+  <data key="d2">2</data>
+</edge>
+<edge source="curricula" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering ethics" target="political science">
+  <data key="d2">3</data>
+</edge>
+<edge source="engineering ethics" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="work (physics)" target="mechanical engineering">
+  <data key="d2">2</data>
+</edge>
+<edge source="structural equation modeling" target="first-year engineering">
+  <data key="d2">3</data>
+</edge>
+<edge source="structural equation modeling" target="confirmatory factor analysis">
+  <data key="d2">5</data>
+</edge>
+<edge source="structural equation modeling" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="structural equation modeling" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="structural equation modeling" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="structural equation modeling" target="multivariant analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="structural equation modeling" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="structural equation modeling" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="first-year engineering" target="confirmatory factor analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="first-year engineering" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="first-year engineering" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="first-year engineering" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="first-year engineering" target="multivariant analysis">
+  <data key="d2">3</data>
+</edge>
+<edge source="first-year engineering" target="first year engineering course">
+  <data key="d2">2</data>
+</edge>
+<edge source="first-year engineering" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="loading">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="machine learning">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="multivariant analysis">
+  <data key="d2">4</data>
+</edge>
+<edge source="confirmatory factor analysis" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="sample (material)">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="database">
+  <data key="d2">2</data>
+</edge>
+<edge source="confirmatory factor analysis" target="college students">
+  <data key="d2">2</data>
+</edge>
+<edge source="loading" target="load modeling">
+  <data key="d2">2</data>
+</edge>
+<edge source="loading" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="machine learning" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="load modeling" target="multivariant analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="multivariant analysis" target="exploratory factor analysis (efa)">
+  <data key="d2">2</data>
+</edge>
+<edge source="multivariant analysis" target="survey instruments">
+  <data key="d2">2</data>
+</edge>
+<edge source="mechanical engineering" target="graduation (instrument)">
+  <data key="d2">2</data>
+</edge>
+<edge source="higher education" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="higher education" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="higher education" target="political science">
+  <data key="d2">2</data>
+</edge>
+<edge source="higher education" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="higher education" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="higher education" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="political science" target="curriculum">
+  <data key="d2">2</data>
+</edge>
+<edge source="political science" target="engineering profession">
+  <data key="d2">2</data>
+</edge>
+<edge source="political science" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="political science" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="political science" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="political science" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="curriculum" target="likert scale">
+  <data key="d2">2</data>
+</edge>
+<edge source="curriculum" target="process (computing)">
+  <data key="d2">2</data>
+</edge>
+<edge source="cartography" target="geography">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering profession" target="portuguese">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering profession" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering profession" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="engineering profession" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="portuguese" target="labour market">
+  <data key="d2">2</data>
+</edge>
+<edge source="portuguese" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="portuguese" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="labour market" target="transferable skills analysis">
+  <data key="d2">2</data>
+</edge>
+<edge source="labour market" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="transferable skills analysis" target="transferable skills">
+  <data key="d2">2</data>
+</edge>
+<edge source="process (computing)" target="accreditation">
+  <data key="d2">2</data>
+</edge>
+</graph></graphml>

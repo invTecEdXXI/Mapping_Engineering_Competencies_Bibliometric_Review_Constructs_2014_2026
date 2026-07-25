@@ -1,0 +1,36 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_234822,0,Psychometric Validation of Competency Assessment Instruments,High,high,20,3,0.533,0.333,1.0,2,True,Reliability analysis; Factor analysis; Content validity; Expert judgment; Scale development
+20260724_234822,0,Generic and Professional Competencies in Engineering Education,High,high,6,3,0.533,0.333,1.0,2,True,Soft skills; Transversal competencies; Professional skills; Workplace adaptability
+20260724_234822,0,Self-Efficacy and Attitudes in Engineering Contexts,High,high,9,3,0.767,0.667,1.0,1,True,Entrepreneurial self-efficacy; Attitudes toward practical work; Engineering identity; Self-perception
+20260724_234822,0,Rubric-Based Competency Assessment,Medium,high,4,3,0.767,0.667,1.0,1,True,Expert judgment; Rubric validation; Competency-based assessment
+20260724_234822,0,Representational Competence in Engineering,Low,high,2,2,1.0,1.0,1.0,0,True,Vector representations; Problem-solving; Conceptual understanding
+20260724_234822,0,Resilience and Psychological Factors in Engineering Education,Low,medium,2,2,1.0,1.0,1.0,0,True,Academic resilience; Protective factors; Sophomore slump
+20260724_234822,0,Research Competencies in Engineering Education,Medium,high,2,2,1.0,1.0,1.0,0,True,Investigative skills; Scientific writing; Research training
+20260724_234822,0,Learning Experiences and Sources of Self-Efficacy,Low,high,2,2,0.65,0.5,1.0,1,True,Social cognitive career theory; Self-efficacy sources; Career development
+20260724_234822,0,Critical Thinking and Decision-Making in Engineering,Low,high,2,2,1.0,1.0,1.0,0,True,Critical thinking assessment; Decision-making competency; Problem-solving
+20260724_234822,0,Compassion and Socio-Emotional Competencies in Engineering,Low,high,1,2,1.0,1.0,1.0,0,True,Socio-emotional skills; Ethical reasoning; Engineering identity
+20260724_234822,1,Validation and reliability of assessment instruments,High,high,20,3,0.767,0.667,1.0,1,True,Psychometric properties; Factor analysis; Reliability indices; Construct validity
+20260724_234822,1,Self-efficacy in engineering contexts,High,high,8,3,1.0,1.0,1.0,0,True,Engineering self-efficacy; Design self-efficacy; Programming self-efficacy; Persistence
+20260724_234822,1,Employability skills and competencies,Medium,high,7,3,1.0,1.0,1.0,0,True,Professional competencies; Workplace skills; Soft skills; Apprenticeship evaluation
+20260724_234822,1,Motivational attitudes and behaviors in engineering education,Medium,high,4,3,1.0,1.0,1.0,0,True,Intrinsic motivation; Extrinsic motivation; Learning strategies; Expectancy value theory
+20260724_234822,1,Assessment of professional and ethical competencies,Medium,high,3,3,0.767,0.667,1.0,1,True,Social responsibility; Ethical skills; Professional identity
+20260724_234822,1,Systems thinking and problem-solving skills,Low,medium,2,2,0.65,0.5,1.0,1,True,Design mindset; Iterative problem-solving; Complex systems
+20260724_234822,1,Impact of experiential learning on student outcomes,Medium,high,5,3,1.0,1.0,1.0,0,True,Internship evaluation; Community engagement; Workplace learning
+20260724_234822,1,Development and validation of domain-specific scales,Medium,high,5,3,1.0,1.0,1.0,0,True,Programming self-efficacy; Basic electronics skills; Nanotechnology competencies
+20260724_234822,2,Self-efficacy in engineering students,High,high,8,3,0.767,0.667,1.0,1,True,General self-efficacy; Domain-specific self-efficacy; Sources of self-efficacy; Gender differences in self-efficacy
+20260724_234822,2,Assessment and validation of competency-based instruments,High,high,11,3,0.767,0.667,1.0,1,True,Psychometric properties; Factor analysis; Reliability; Validity; Instrument development
+20260724_234822,2,Transferable and vocational skills in engineering education,Medium,high,6,3,1.0,1.0,1.0,0,True,Employability skills; Generic skills; Soft skills; Curricular restructuring
+20260724_234822,2,Problem-solving and critical thinking in engineering,Medium,high,4,3,1.0,1.0,1.0,0,True,Problem-solving confidence; Approach-avoidance style; Critical thinking self-perception
+20260724_234822,2,Gender differences in engineering competencies and self-efficacy,Medium,high,4,3,1.0,1.0,1.0,0,True,Gendered experiences; Self-efficacy gaps; Academic performance
+20260724_234822,2,Sustainability and ethics competencies in engineering,Low,high,2,3,1.0,1.0,1.0,0,True,Sustainability learning; Ethical principles; Curricular integration
+20260724_234822,2,Innovation and entrepreneurship competencies,Low,high,2,3,1.0,1.0,1.0,0,True,Innovation self-efficacy; Entrepreneurial competencies; Career development
+20260724_234822,2,Impact of experiential learning on competencies,Medium,high,3,3,0.767,0.667,1.0,1,True,Industrial internships; Enactive mastery experiences; Project-based learning
+20260724_234822,2,Measurement invariance and fairness in engineering education assessments,Low,high,1,2,1.0,1.0,1.0,0,True,First-generation college students; Fairness in assessment; Engineering identity
+20260724_234822,2,Development of metacognitive and learning orientation tools,Low,high,1,2,0.65,0.5,1.0,1,True,Metacognitive processes; Learning orientations; Self-regulated learning
+20260724_234822,3,Development and validation of measurement scales for engineering students,High,high,4,3,1.0,1.0,1.0,0,True,Psychometric properties; Factor analysis; Reliability evidence; Validity evidence
+20260724_234822,3,Self-efficacy in engineering contexts,High,high,3,3,1.0,1.0,1.0,0,True,Leadership self-efficacy; Technology self-efficacy; General self-efficacy; Academic success
+20260724_234822,3,Factor analysis for scale refinement,High,high,4,3,1.0,1.0,1.0,0,True,Exploratory factor analysis; Confirmatory factor analysis; Factor structure; Scale refinement
+20260724_234822,3,Affective dimensions of engineering competencies,Medium,high,2,3,1.0,1.0,1.0,0,True,Writing attitudes; Entrepreneurial motivation; Career trajectory; Persistence
+20260724_234822,3,Mediation and correlation analysis in engineering education research,Medium,high,2,2,1.0,1.0,1.0,0,True,Mediation effects; Pearson's correlation coefficients; Intention to become an entrepreneur
+20260724_234822,3,Engineering students' career-related constructs,Medium,high,3,3,1.0,1.0,1.0,0,True,Entrepreneurial careers; Leadership development; Career trajectory
+20260724_234822,3,Reliability and validity evidence in scale development,Medium,high,3,3,0.767,0.667,1.0,1,True,Cronbach's alpha; Content-related validity; Response processes

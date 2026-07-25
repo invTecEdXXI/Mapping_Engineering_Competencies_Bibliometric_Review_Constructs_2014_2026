@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-07-24T22:30:29.083301",
+  "threshold": 50.0,
+  "summary": {
+    "total_articles": 96,
+    "evaluated": 96,
+    "above_threshold": 88,
+    "below_threshold": 8,
+    "pct_above_threshold": 91.67
+  },
+  "quality_levels": {
+    "high": 13,
+    "medium": 79,
+    "low": 4
+  },
+  "statistics": {
+    "overall": {
+      "mean": 60.4,
+      "median": 62.0,
+      "std": 11.63,
+      "min": 0,
+      "max": 79.4,
+      "n": 96
+    },
+    "completeness": {
+      "mean": 30.0,
+      "median": 32.0,
+      "std": 17.46,
+      "min": 0.0,
+      "max": 72.0,
+      "n": 96
+    },
+    "structure": {
+      "mean": 85.26,
+      "median": 90.0,
+      "std": 18.38,
+      "min": 0,
+      "max": 100.0,
+      "n": 96
+    },
+    "informativeness": {
+      "mean": 76.25,
+      "median": 80.0,
+      "std": 16.31,
+      "min": 0,
+      "max": 100.0,
+      "n": 96
+    },
+    "readability": {
+      "mean": 63.51,
+      "median": 60.0,
+      "std": 19.83,
+      "min": 0,
+      "max": 88.6,
+      "n": 96
+    }
+  },
+  "quality_flags": {
+    "no_quantitative_data": 70,
+    "missing_conclusion": 55,
+    "missing_results": 49,
+    "missing_objective": 46,
+    "missing_methods": 43,
+    "low_technical_content": 24,
+    "long_abstract": 7,
+    "truncated_ends_abruptly": 5,
+    "empty_abstract": 2
+  },
+  "by_year": {}
+}

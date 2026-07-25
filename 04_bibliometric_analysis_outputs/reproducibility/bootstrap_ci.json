@@ -1,0 +1,86 @@
+{
+  "config": {
+    "B": 10000,
+    "seed": 42,
+    "ci_method": "percentile_95"
+  },
+  "corpus_size": 96,
+  "mcp_rate": {
+    "indicator": "MCP_rate",
+    "point": 0.17567567567567569,
+    "ci_lo": 0.0945945945945946,
+    "ci_hi": 0.2702702702702703,
+    "effective_n": 74,
+    "extra": {
+      "scp_count": 61,
+      "mcp_count": 13
+    }
+  },
+  "median_population": {
+    "indicator": "median_population_N",
+    "point": NaN,
+    "ci_lo": NaN,
+    "ci_hi": NaN,
+    "effective_n": 0,
+    "extra": {}
+  },
+  "apc_difference": {
+    "indicator": "APC_vs_noAPC_mean_citations",
+    "apc_mean": {
+      "point": 35.68421052631579,
+      "ci_lo": 13.368421052631579,
+      "ci_hi": 69.89473684210526,
+      "n": 19
+    },
+    "no_apc_mean": {
+      "point": 8.064935064935066,
+      "ci_lo": 5.428571428571429,
+      "ci_hi": 11.181818181818182,
+      "n": 77
+    },
+    "diff_mean": {
+      "point": 27.619275461380724,
+      "ci_lo": 5.120181134654819,
+      "ci_hi": 61.387252221462724
+    },
+    "ratio_mean": 4.42461225527587,
+    "mann_whitney_U": 467.5,
+    "mann_whitney_p_two_sided": 0.015196896644173341,
+    "effective_n_apc": 19,
+    "effective_n_no_apc": 77
+  },
+  "fwci": {
+    "effective_n": 49,
+    "FWCI_mean": {
+      "point": 3.8118367346938777,
+      "ci_lo": 2.3136345918367347,
+      "ci_hi": 5.774784948979592
+    },
+    "FWCI_median": {
+      "point": 2.1489,
+      "ci_lo": 0.6769,
+      "ci_hi": 3.104
+    },
+    "pct_above_world_avg": {
+      "point": 0.5714285714285714,
+      "ci_lo": 0.42857142857142855,
+      "ci_hi": 0.7142857142857143,
+      "n_above1": 28
+    }
+  },
+  "mncs_top10": {
+    "MNCS_mean": {
+      "point": 0.9889,
+      "ci_lo": 0.6211980555555555,
+      "ci_hi": 1.477855833333333,
+      "effective_n": 90
+    },
+    "PP_top10_field": {
+      "point": 0.09375,
+      "ci_lo": 0.041666666666666664,
+      "ci_hi": 0.15625,
+      "effective_n": 96,
+      "n_top10": 9
+    }
+  }
+}

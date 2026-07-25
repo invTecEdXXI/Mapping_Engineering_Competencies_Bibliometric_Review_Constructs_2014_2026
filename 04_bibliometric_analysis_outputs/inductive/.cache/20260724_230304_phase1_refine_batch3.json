@@ -1,0 +1,84 @@
+{
+  "session_id": "20260724_230304",
+  "phase": "1_refine",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:04:09.374553",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 8
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Employability-Oriented Transversal Skills Assessment",
+      "definition": "The evaluation of non-technical, transferable skills such as communication, teamwork, problem-solving, and critical thinking that are essential for engineering graduates' employability and professional success. This includes the use of instruments like the Generic Skills Perception Questionnaire (GSPQ) and assessments of work self-efficacy.",
+      "subthemes": [
+        "Critical thinking self-perception measurement",
+        "Generic skills perception and employability alignment",
+        "Work self-efficacy and professional readiness"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Cognitive Competency Assessment in Engineering Problem-Solving",
+      "definition": "The development and validation of instruments to measure engineering students' problem-solving abilities, critical thinking, and related cognitive skills. This includes adaptations of psychological inventories (e.g., Engineering Modified Problem-Solving Inventory) and factor analysis-based validation approaches.",
+      "subthemes": [
+        "Problem-solving inventory adaptations for engineering contexts",
+        "Critical thinking self-perception and validation",
+        "Cognitive skill measurement in engineering education"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Contextual and Domain-Specific Competence Scales",
+      "definition": "The creation and validation of scales to measure engineering students' contextual competence, sustainability competencies, and other domain-specific skills aligned with industry and societal needs. This includes instruments like the Contextual Competence Scale and integration of ethics and social responsibility.",
+      "subthemes": [
+        "Sustainability competencies and SDG alignment",
+        "Ethics and social responsibility integration",
+        "Domain-specific competence measurement"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 2
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Engineering Identity and Professional Values Formation",
+      "definition": "The exploration of engineering students' identity formation, values, and their relationship to academic engagement, retention, and professional development. This includes the use of scales like the Engineering Values Scale (EVS) and Engineering Identity Scale (EIDS), particularly among underrepresented groups.",
+      "subthemes": [
+        "Engineering identity development and measurement",
+        "Engineering values and professional alignment",
+        "First-generation college students and identity formation"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Sustainability and Ethical Competence Integration",
+      "definition": "The assessment and integration of sustainability, ethics, and social responsibility competencies into engineering curricula. This includes alignment with Sustainable Development Goals, ethical design practices, and the development of technical communication skills for societal impact.",
+      "subthemes": [
+        "Sustainability competencies in engineering education",
+        "Ethical design and social responsibility",
+        "Technical communication for societal impact"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Innovation and Entrepreneurial Competence Development",
+      "definition": "The measurement and development of innovation self-efficacy and entrepreneurial competencies among engineering students, particularly in response to industry demands and the 4th Industrial Revolution. This includes assessments of innovation readiness and entrepreneurial mindset.",
+      "subthemes": [
+        "Innovation self-efficacy measurement",
+        "Entrepreneurial competencies in engineering",
+        "Industry-aligned competence development"
+      ]
+    }
+  ]
+}

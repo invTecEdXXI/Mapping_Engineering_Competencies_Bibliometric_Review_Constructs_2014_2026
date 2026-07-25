@@ -1,0 +1,44 @@
+{
+  "session_id": "20260724_230900",
+  "phase": "1_refine",
+  "batch": 3,
+  "timestamp": "2026-07-24T23:10:01.433995",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 9
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Transferable and Employability Skills in Engineering Education",
+      "definition": "The evaluation of non-technical competencies essential for engineering graduates' professional success, including communication, teamwork, problem-solving, critical thinking, and interprofessional skills. This theme encompasses the development and validation of instruments to assess vocational and contextual competencies that bridge academic learning and workplace demands.",
+      "subthemes": [
+        "Vocational competencies",
+        "Contextual competence",
+        "Interprofessional skills"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "merge",
+      "target_index": 5
+    },
+    {
+      "new_theme_index": 3,
+      "action": "merge",
+      "target_index": 8
+    },
+    {
+      "new_theme_index": 4,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 5,
+      "action": "merge",
+      "target_index": 4
+    }
+  ]
+}

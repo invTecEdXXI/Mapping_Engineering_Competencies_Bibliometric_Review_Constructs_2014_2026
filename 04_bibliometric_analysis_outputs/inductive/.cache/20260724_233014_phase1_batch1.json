@@ -1,0 +1,623 @@
+{
+  "session_id": "20260724_233014",
+  "phase": "1",
+  "batch": 1,
+  "timestamp": "2026-07-24T23:31:15.497181",
+  "data": {
+    "themes": [
+      {
+        "name": "Psychometric Validation of Competency Assessment Instruments",
+        "definition": "The development, validation, and reliability testing of instruments (e.g., scales, rubrics, questionnaires) to measure specific competencies, skills, or attitudes in engineering students. This includes statistical methods such as exploratory factor analysis (EFA), confirmatory factor analysis (CFA), Cronbach’s alpha, and content validity coefficients to ensure the instruments are robust and applicable.",
+        "evidence": [
+          "[ECTTSUXE] Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale. Methodologically, the Content Validity Coefficient (CVC) was calculated following Hern ández-Nieto's procedure... Results showed CVC values ranging from 0.90963 to 0.95496, which are classified as 'excellent' across all complexity levels of the taxonomy.",
+          "[RGASR6Q5] The EFA revealed a clear four-factor structure, explaining 69.8% of the total variance... The overall reliability of the instrument was excellent (α = 0.931), and the subscales also showed high reliability (α = 0.78-0.96).",
+          "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance... Internal consistency is excellent because α and ω values range between 0.834 and 0.919."
+        ],
+        "articles": [
+          "ECTTSUXE",
+          "RGASR6Q5",
+          "LPJSUJ9V",
+          "GMEMS46N",
+          "QU82N8PC",
+          "9HGRHX6A",
+          "KU4TN5MB",
+          "84K6T4E3",
+          "PD6ENBV2",
+          "AIPHQE23",
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "SL7257LZ",
+          "CU9IWP4L",
+          "EPIKGTEL",
+          "GSUNVIP6",
+          "B4EBYEKF",
+          "ZLBRXPDA",
+          "2IGUA9SF"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Factor analysis",
+          "Reliability testing",
+          "Content validity",
+          "Construct validity",
+          "Instrument development"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 3,
+          "verified": false
+        }
+      },
+      {
+        "name": "Generic and Professional Competencies in Engineering Education",
+        "definition": "The assessment and development of non-technical or transferable skills (e.g., communication, teamwork, leadership, problem-solving) that are essential for professional success and workplace adaptability in engineering students. This includes both generic competencies and professional skills often evaluated through internships, surveys, or performance tasks.",
+        "evidence": [
+          "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+          "[PD6ENBV2] Employers lament that science graduates, particularly engineering students, lack professional skills, despite increasing emphasis on teaching professional skills in their curriculum... A five-factor scale of 25 items for assessing engineering students’ attitudes towards learning professional skills (ATLPS) obtained high-reliability estimates.",
+          "[CU9IWP4L] Professional skills, also known as non-technical, transferable or 21st century skills are recognized worldwide as very important for university graduates. These skills include communication, problem-solving and the ability to function successfully on a multi-disciplinary team."
+        ],
+        "articles": [
+          "WE7WVA4B",
+          "PD6ENBV2",
+          "KU4TN5MB",
+          "CU9IWP4L",
+          "SL7257LZ",
+          "DNK3JI3N"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Soft skills",
+          "Transferable skills",
+          "Workplace readiness",
+          "Internship-based learning"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Self-Efficacy and Attitudinal Measurement in Engineering Contexts",
+        "definition": "The development and validation of instruments to measure students' self-efficacy (confidence in their ability to perform specific tasks) and attitudes toward various aspects of engineering education, such as practical work, entrepreneurship, or specific technical domains. This often involves scales that assess students' perceptions of their own capabilities and motivations.",
+        "evidence": [
+          "[LPJSUJ9V] This study’s aim is to evaluate the Romanian version of the Internet Entrepreneurial Self-Efficacy Scale (IESES), a new assessment scale for online entrepreneurial self-efficacy... The three factors are associated with the internet and traditional entrepreneurial intention, and the components from the theory of planned behavior (attitudes, subjective norms, and perceived behavioral control).",
+          "[RGASR6Q5] This study addresses this gap by developing and validating a new instrument, the Engineering Students’ Attitudes Toward Practical Work (ESAPW) questionnaire... The ESAPW questionnaire is a reliable and valid instrument for measuring engineering students’ attitudes toward practical work in the Nigerian context.",
+          "[AIPHQE23] This study used the design activities and design competencies required by the industrial design process as items to develop an 'Industrial Design Self-Efficacy and Anxiety Scale' that can be used to help teachers better understand students' learning from a psychological perspective."
+        ],
+        "articles": [
+          "LPJSUJ9V",
+          "RGASR6Q5",
+          "AIPHQE23",
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "B4EBYEKF",
+          "ZLBRXPDA"
+        ],
+        "frequency": "High",
+        "confidence": "high",
+        "related_concepts": [
+          "Entrepreneurial self-efficacy",
+          "Attitudes toward practical work",
+          "Self-perception of competence"
+        ],
+        "_verification": {
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Rubric-Based Competency Assessment in Engineering",
+        "definition": "The use of rubrics as assessment tools to evaluate specific competencies in engineering students, often in laboratory, project-based, or practical settings. Rubrics are designed to measure performance across defined criteria and levels, with an emphasis on content validity and inter-rater reliability.",
+        "evidence": [
+          "[ECTTSUXE] This study aims to validate a rubric based on Ribes' five functional levels: contextual, supplementary, selector, referential substitutive, and non-referential substitutive... Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale.",
+          "[9HGRHX6A] In this paper, the importance of a properly designed rubric in the competency-based assessment process is emphasized. The consistency of this rubric is crucial to ensure a fair evaluation by the facilitator.",
+          "[A3WRUNHT] This study aims to propose a competency assessment model for students in online discussion forums, using the Rubrics scoring tool and the Bloom's Taxonomy to define evaluation feedback."
+        ],
+        "articles": [
+          "ECTTSUXE",
+          "9HGRHX6A",
+          "A3WRUNHT",
+          "GSUNVIP6"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Expert judgment",
+          "Inter-rater reliability",
+          "Performance assessment"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Research Competencies and Investigative Skills in Engineering Students",
+        "definition": "The assessment and development of research-related competencies in engineering students, including intellectual, technical, and communicative skills necessary for conducting and presenting research. This theme often involves the identification of training needs and the validation of instruments to measure research skills.",
+        "evidence": [
+          "[84K6T4E3] The bibliographic review allowed us to identify three subcategories of investigative competences: a) Intellectual Elaboration Competences, b) Technical Competences and c) Communicative Competences... All three scales show high reliability indexes as indicated by the Cronbach’s Alpha coefficient.",
+          "[Y4ZKXXH4] The purpose of determining these results is to generate a research culture in the university context, by means of policies, strategies and knowledge management mechanisms supported by the use of information and communication technologies (ICT).",
+          "[PVT4UE9C] We developed multi-item scales to measure engineering identity and research identity... Exploratory factor analysis indicated that the items intended to measure engineering and research identities loaded onto their respective factors."
+        ],
+        "articles": [
+          "84K6T4E3",
+          "Y4ZKXXH4",
+          "PVT4UE9C"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Research training",
+          "Scientific writing",
+          "Data collection techniques"
+        ],
+        "_verification": {
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      },
+      {
+        "name": "Engineering Identity and Its Predictors",
+        "definition": "The exploration of factors that contribute to the development of engineering identity in students, including self-efficacy, recognition, interest, and interpersonal skills. This theme often involves the validation of instruments to measure engineering identity and its relationship with academic and career outcomes.",
+        "evidence": [
+          "[PVT4UE9C] We developed multi-item scales to measure engineering identity and research identity... Pearson correlation analysis indicated that engineering identity and research identity were significantly correlated with all independent variables except for Interpersonal Skill Competence.",
+          "[W2PMJWMT] This paper shows that identification with engineering for engineering graduate students is positively and significantly predicted by engineering interest, competence, recognition, and interpersonal skills competence.",
+          "[GMEMS46N] Divergent validity was confirmed through weak correlations with engineering identity dimensions."
+        ],
+        "articles": [
+          "PVT4UE9C",
+          "W2PMJWMT",
+          "GMEMS46N"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Research identity",
+          "Self-efficacy",
+          "Recognition in engineering"
+        ],
+        "_verification": {
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 1,
+          "verified": true
+        }
+      },
+      {
+        "name": "Resilience and Psychological Factors in Engineering Education",
+        "definition": "The assessment of psychological constructs such as resilience, optimism, adaptability, and psychological momentum in engineering students, and their impact on academic performance, retention, and success. This includes the development of instruments to measure these constructs and their relationship with student outcomes.",
+        "evidence": [
+          "[I9QV6W8G] Resilience is also a valued professional skill for academic achievement and student retention in cognitively demanding disciplines such as engineering... Participants completed the Psychometric Project Resilience Scale (PPRS) survey online as well as the academic performance requirements for the course.",
+          "[NKWQH4PB] The study validated an integrated framework of the academic analogue of the Psychological Momentum theory (PMT) in the context of Sophomore Slump phenomenon... The tools used for the study were the Academic Procrastination scale – short form by [33], the Engineering Self-Efficacy scale by [22], the Academic Inertia Scale by [9], and the Inspiration scale by [30]."
+        ],
+        "articles": [
+          "I9QV6W8G",
+          "NKWQH4PB"
+        ],
+        "frequency": "Low",
+        "confidence": "high",
+        "related_concepts": [
+          "Academic resilience",
+          "Psychological momentum",
+          "Protective factors"
+        ],
+        "_verification": {
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 2,
+          "verified": false
+        }
+      },
+      {
+        "name": "Critical Thinking and Problem-Solving in Engineering",
+        "definition": "The development and validation of instruments to assess critical thinking and problem-solving skills in engineering students, often in the context of specific technical domains such as automation, design, or statics. This includes the use of technology-based tools to evaluate these skills.",
+        "evidence": [
+          "[EPIKGTEL] This study developes and validates an Automation Studio-based critical thinking assessment instrument for electrical engineering students, focusing on the ladder diagram concepts in automation control systems.",
+          "[AKZVTZER] The term representational competence refers to the ability to interpret, switch between, and use multiple representations of a concept as appropriate for learning, communication and analysis. In engineering statics, an understanding of what each vector representation communicates and how to use different representations in problem solving is important to the development of both conceptual and procedural knowledge.",
+          "[RUGB95IU] Reflection is a critical factor in solving design problems. Using good methods to observe designers' reflection is essential to inform the design of the learning environments that support the development of design problem‐solving skills."
+        ],
+        "articles": [
+          "EPIKGTEL",
+          "AKZVTZER",
+          "RUGB95IU"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Representational competence",
+          "Design problem-solving",
+          "Reflective thinking"
+        ],
+        "_verification": {
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 0,
+          "verified": true
+        }
+      },
+      {
+        "name": "Transversal and Sociotechnical Competencies in Engineering",
+        "definition": "The assessment of transversal competencies (e.g., teamwork, lifelong learning, entrepreneurial skills) and sociotechnical competencies (e.g., understanding the social implications of engineering) in engineering students. This includes the development of instruments to measure these competencies and their perceived levels among students.",
+        "evidence": [
+          "[SL7257LZ] This study reports on a reliable and valid instrument that measures engineering students' perceptions of their competency levels... Students perceived they are most competent in teamwork and lifelong learning competencies and less competent in entrepreneurial competencies.",
+          "[KU4TN5MB] Questionnaire data from 314 undergraduate engineering students at a small private university were used for psychometric analysis. Exploratory factor analysis (EFA) revealed a six-factor structure... The other three factors focus on: (4) students' understanding of the broad nature of engineering; and how they appreciate the importance of (5) non-technical and (6) technical skills in engineering.",
+          "[DNK3JI3N] This research aimed at evaluating the development and use of low-cost affective domain assessment instruments, culminating with personal and group characterization of representative global information technology (IT) professional values."
+        ],
+        "articles": [
+          "SL7257LZ",
+          "KU4TN5MB",
+          "DNK3JI3N"
+        ],
+        "frequency": "Medium",
+        "confidence": "high",
+        "related_concepts": [
+          "Entrepreneurial competencies",
+          "Sociotechnical understanding",
+          "Affective domain assessment"
+        ],
+        "_verification": {
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "n_hallucination_flags": 2,
+          "verified": true
+        }
+      }
+    ],
+    "meta_observations": "1. A dominant pattern across abstracts is the emphasis on psychometric validation of instruments, particularly using factor analysis (EFA/CFA) and reliability testing (Cronbach’s alpha). This suggests a strong methodological focus on ensuring the robustness of assessment tools in engineering education research. 2. Many abstracts explicitly mention the lack of existing instruments or gaps in the literature, justifying the need for new or adapted tools. 3. There is a notable overlap between themes such as 'Generic and Professional Competencies' and 'Transversal and Sociotechnical Competencies,' indicating that these concepts are often discussed in tandem. 4. Some abstracts (e.g., [JKK5M2EG]) are truncated or lack sufficient detail, limiting the ability to extract themes confidently. 5. The term 'competency' is used broadly and interchangeably with 'skills,' 'attitudes,' and 'perceptions,' which may reflect a lack of standardization in terminology within the field.",
+    "grounding_notes": "1. Several abstracts had quality notes indicating missing elements (e.g., no quantitative data, missing conclusions). These limitations were respected by only extracting explicitly stated information. 2. The theme 'Resilience and Psychological Factors in Engineering Education' is based on limited evidence (only two abstracts), so its frequency is marked as 'Low.' 3. Some abstracts (e.g., [PP8YRX22]) mention competency measurement but do not provide sufficient detail on psychometric validation, so they were not included in the 'Psychometric Validation' theme. 4. The theme 'Engineering Identity and Its Predictors' is closely related to 'Self-Efficacy and Attitudinal Measurement,' but the former focuses specifically on identity constructs, while the latter is broader.",
+    "_hallucination_control": {
+      "total_themes": 9,
+      "avg_grounding_score": 0.611,
+      "avg_quote_grounding": 0.444,
+      "avg_article_grounding": 1.0,
+      "total_hallucination_flags": 14,
+      "verification_details": [
+        {
+          "theme_name": "Psychometric Validation of Competency Assessment Instruments",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[ECTTSUXE] Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale. Methodologically, the Content Validity Coefficient (CVC) was calculated following Hern ández-Nieto's procedure... Results showed CVC values ranging from 0.90963 to 0.95496, which are classified as 'excellent' across all complexity levels of the taxonomy.",
+              "score": 0.61,
+              "confidence": "warning_paraphrase"
+            },
+            {
+              "quote": "[RGASR6Q5] The EFA revealed a clear four-factor structure, explaining 69.8% of the total variance... The overall reliability of the instrument was excellent (α = 0.931), and the subscales also showed high reliability (α = 0.78-0.96).",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[LPJSUJ9V] The factorial structure was investigated using Confirmatory Factor Analysis (CFA) and multigroup-CFA for gender invariance... Internal consistency is excellent because α and ω values range between 0.834 and 0.919.",
+              "score": 0.48,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "ECTTSUXE",
+            "RGASR6Q5",
+            "LPJSUJ9V",
+            "GMEMS46N",
+            "QU82N8PC",
+            "9HGRHX6A",
+            "KU4TN5MB",
+            "84K6T4E3",
+            "PD6ENBV2",
+            "AIPHQE23",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "SL7257LZ",
+            "CU9IWP4L",
+            "EPIKGTEL",
+            "GSUNVIP6",
+            "B4EBYEKF",
+            "ZLBRXPDA",
+            "2IGUA9SF"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.61), not verbatim: '[ECTTSUXE] Content validity was established throug...'",
+            "Quote not found in source texts (score=0.59): '[RGASR6Q5] The EFA revealed a clear four-factor st...'",
+            "Quote not found in source texts (score=0.48): '[LPJSUJ9V] The factorial structure was investigate...'"
+          ]
+        },
+        {
+          "theme_name": "Generic and Professional Competencies in Engineering Education",
+          "evidence_verified": [
+            {
+              "quote": "[WE7WVA4B] Pre-professional internships are crucial in training civil engineering students, as they foster the development of generic competencies essential for professional success and workplace adaptability.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[CU9IWP4L] Professional skills, also known as non-technical, transferable or 21st century skills are recognized worldwide as very important for university graduates. These skills include communication, problem-solving and the ability to function successfully on a multi-disciplinary team.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[PD6ENBV2] Employers lament that science graduates, particularly engineering students, lack professional skills, despite increasing emphasis on teaching professional skills in their curriculum... A five-factor scale of 25 items for assessing engineering students’ attitudes towards learning professional skills (ATLPS) obtained high-reliability estimates.",
+              "score": 0.49,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "WE7WVA4B",
+            "PD6ENBV2",
+            "KU4TN5MB",
+            "CU9IWP4L",
+            "SL7257LZ",
+            "DNK3JI3N"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.49): '[PD6ENBV2] Employers lament that science graduates...'"
+          ]
+        },
+        {
+          "theme_name": "Self-Efficacy and Attitudinal Measurement in Engineering Contexts",
+          "evidence_verified": [
+            {
+              "quote": "[AIPHQE23] This study used the design activities and design competencies required by the industrial design process as items to develop an 'Industrial Design Self-Efficacy and Anxiety Scale' that can be used to help teachers better understand students' learning from a psychological perspective.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[LPJSUJ9V] This study’s aim is to evaluate the Romanian version of the Internet Entrepreneurial Self-Efficacy Scale (IESES), a new assessment scale for online entrepreneurial self-efficacy... The three factors are associated with the internet and traditional entrepreneurial intention, and the components from the theory of planned behavior (attitudes, subjective norms, and perceived behavioral control).",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[RGASR6Q5] This study addresses this gap by developing and validating a new instrument, the Engineering Students’ Attitudes Toward Practical Work (ESAPW) questionnaire... The ESAPW questionnaire is a reliable and valid instrument for measuring engineering students’ attitudes toward practical work in the Nigerian context.",
+              "score": 0.49,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "LPJSUJ9V",
+            "RGASR6Q5",
+            "AIPHQE23",
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "B4EBYEKF",
+            "ZLBRXPDA"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[LPJSUJ9V] This study’s aim is to evaluate the Rom...'",
+            "Quote not found in source texts (score=0.49): '[RGASR6Q5] This study addresses this gap by develo...'"
+          ]
+        },
+        {
+          "theme_name": "Rubric-Based Competency Assessment in Engineering",
+          "evidence_verified": [
+            {
+              "quote": "[9HGRHX6A] In this paper, the importance of a properly designed rubric in the competency-based assessment process is emphasized. The consistency of this rubric is crucial to ensure a fair evaluation by the facilitator.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[A3WRUNHT] This study aims to propose a competency assessment model for students in online discussion forums, using the Rubrics scoring tool and the Bloom's Taxonomy to define evaluation feedback.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[ECTTSUXE] This study aims to validate a rubric based on Ribes' five functional levels: contextual, supplementary, selector, referential substitutive, and non-referential substitutive... Content validity was established through expert judgment, evaluating relevance, conceptual clarity, cognitive levels, format, wording, and terminology using a 5-point Likert scale.",
+              "score": 0.5,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "ECTTSUXE",
+            "9HGRHX6A",
+            "A3WRUNHT",
+            "GSUNVIP6"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.50): '[ECTTSUXE] This study aims to validate a rubric ba...'"
+          ]
+        },
+        {
+          "theme_name": "Research Competencies and Investigative Skills in Engineering Students",
+          "evidence_verified": [
+            {
+              "quote": "[Y4ZKXXH4] The purpose of determining these results is to generate a research culture in the university context, by means of policies, strategies and knowledge management mechanisms supported by the use of information and communication technologies (ICT).",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[84K6T4E3] The bibliographic review allowed us to identify three subcategories of investigative competences: a) Intellectual Elaboration Competences, b) Technical Competences and c) Communicative Competences... All three scales show high reliability indexes as indicated by the Cronbach’s Alpha coefficient.",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[PVT4UE9C] We developed multi-item scales to measure engineering identity and research identity... Exploratory factor analysis indicated that the items intended to measure engineering and research identities loaded onto their respective factors.",
+              "score": 0.62,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "84K6T4E3",
+            "Y4ZKXXH4",
+            "PVT4UE9C"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.59): '[84K6T4E3] The bibliographic review allowed us to ...'",
+            "Paraphrase detected (score=0.62), not verbatim: '[PVT4UE9C] We developed multi-item scales to measu...'"
+          ]
+        },
+        {
+          "theme_name": "Engineering Identity and Its Predictors",
+          "evidence_verified": [
+            {
+              "quote": "[W2PMJWMT] This paper shows that identification with engineering for engineering graduate students is positively and significantly predicted by engineering interest, competence, recognition, and interpersonal skills competence.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[GMEMS46N] Divergent validity was confirmed through weak correlations with engineering identity dimensions.",
+              "score": 0.92,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[PVT4UE9C] We developed multi-item scales to measure engineering identity and research identity... Pearson correlation analysis indicated that engineering identity and research identity were significantly correlated with all independent variables except for Interpersonal Skill Competence.",
+              "score": 0.63,
+              "confidence": "warning_paraphrase"
+            }
+          ],
+          "articles_verified": [
+            "PVT4UE9C",
+            "W2PMJWMT",
+            "GMEMS46N"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.767,
+          "quote_grounding": 0.667,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Paraphrase detected (score=0.63), not verbatim: '[PVT4UE9C] We developed multi-item scales to measu...'"
+          ]
+        },
+        {
+          "theme_name": "Resilience and Psychological Factors in Engineering Education",
+          "evidence_verified": [],
+          "evidence_unverified": [
+            {
+              "quote": "[I9QV6W8G] Resilience is also a valued professional skill for academic achievement and student retention in cognitively demanding disciplines such as engineering... Participants completed the Psychometric Project Resilience Scale (PPRS) survey online as well as the academic performance requirements for the course.",
+              "score": 0.51,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[NKWQH4PB] The study validated an integrated framework of the academic analogue of the Psychological Momentum theory (PMT) in the context of Sophomore Slump phenomenon... The tools used for the study were the Academic Procrastination scale – short form by [33], the Engineering Self-Efficacy scale by [22], the Academic Inertia Scale by [9], and the Inspiration scale by [30].",
+              "score": 0.59,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "I9QV6W8G",
+            "NKWQH4PB"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.3,
+          "quote_grounding": 0.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.51): '[I9QV6W8G] Resilience is also a valued professiona...'",
+            "Quote not found in source texts (score=0.59): '[NKWQH4PB] The study validated an integrated frame...'"
+          ]
+        },
+        {
+          "theme_name": "Critical Thinking and Problem-Solving in Engineering",
+          "evidence_verified": [
+            {
+              "quote": "[EPIKGTEL] This study developes and validates an Automation Studio-based critical thinking assessment instrument for electrical engineering students, focusing on the ladder diagram concepts in automation control systems.",
+              "score": 0.96,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[AKZVTZER] The term representational competence refers to the ability to interpret, switch between, and use multiple representations of a concept as appropriate for learning, communication and analysis. In engineering statics, an understanding of what each vector representation communicates and how to use different representations in problem solving is important to the development of both conceptual and procedural knowledge.",
+              "score": 0.98,
+              "confidence": "verified_exact"
+            },
+            {
+              "quote": "[RUGB95IU] Reflection is a critical factor in solving design problems. Using good methods to observe designers' reflection is essential to inform the design of the learning environments that support the development of design problem‐solving skills.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [],
+          "articles_verified": [
+            "EPIKGTEL",
+            "AKZVTZER",
+            "RUGB95IU"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 1.0,
+          "quote_grounding": 1.0,
+          "article_grounding": 1.0,
+          "hallucination_flags": []
+        },
+        {
+          "theme_name": "Transversal and Sociotechnical Competencies in Engineering",
+          "evidence_verified": [
+            {
+              "quote": "[DNK3JI3N] This research aimed at evaluating the development and use of low-cost affective domain assessment instruments, culminating with personal and group characterization of representative global information technology (IT) professional values.",
+              "score": 0.97,
+              "confidence": "verified_exact"
+            }
+          ],
+          "evidence_unverified": [
+            {
+              "quote": "[SL7257LZ] This study reports on a reliable and valid instrument that measures engineering students' perceptions of their competency levels... Students perceived they are most competent in teamwork and lifelong learning competencies and less competent in entrepreneurial competencies.",
+              "score": 0.54,
+              "confidence": "hallucination_flag"
+            },
+            {
+              "quote": "[KU4TN5MB] Questionnaire data from 314 undergraduate engineering students at a small private university were used for psychometric analysis. Exploratory factor analysis (EFA) revealed a six-factor structure... The other three factors focus on: (4) students' understanding of the broad nature of engineering; and how they appreciate the importance of (5) non-technical and (6) technical skills in engineering.",
+              "score": 0.53,
+              "confidence": "hallucination_flag"
+            }
+          ],
+          "articles_verified": [
+            "SL7257LZ",
+            "KU4TN5MB",
+            "DNK3JI3N"
+          ],
+          "articles_unverified": [],
+          "grounding_score": 0.533,
+          "quote_grounding": 0.333,
+          "article_grounding": 1.0,
+          "hallucination_flags": [
+            "Quote not found in source texts (score=0.54): '[SL7257LZ] This study reports on a reliable and va...'",
+            "Quote not found in source texts (score=0.53): '[KU4TN5MB] Questionnaire data from 314 undergradua...'"
+          ]
+        }
+      ]
+    }
+  }
+}

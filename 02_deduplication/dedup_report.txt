@@ -1,0 +1,106 @@
+============================================================
+  DEDUPLICATION REPORT
+============================================================
+
+--- Records per source (raw parsed) ---
+  Scopus  :    579
+  WoS     :    160
+  ERIC    :     55
+  IEEE    :    236
+  EBSCO   :    136
+  Dimensions:     27
+  TOTAL   :  1,193
+
+--- Quality filtering (pre-dedup) ---
+  Removed records missing title or authors:
+    ERIC    :     1
+    EBSCO   :     1
+    Dimensions:     1
+    TOTAL   :     3
+
+  Into dedup:   1,190
+
+--- Deduplication results ---
+  DOI-based matches:        207
+  Title-fuzzy matches:       77
+  Duplicates removed:       284
+  Unique records:           906
+  Uncertain pairs:            0
+
+--- Records per source (after dedup) ---
+  Dimensions              :     6
+  Dimensions+EBSCO        :     2
+  Dimensions+EBSCO+ERIC+Scopus+WoS:     1
+  Dimensions+EBSCO+Scopus :     1
+  Dimensions+EBSCO+Scopus+WoS:     5
+  Dimensions+ERIC+Scopus+WoS:     1
+  Dimensions+IEEE+Scopus  :     2
+  Dimensions+Scopus       :     5
+  Dimensions+Scopus+WoS   :     3
+  EBSCO                   :    76
+  EBSCO+ERIC              :     1
+  EBSCO+ERIC+IEEE+Scopus+WoS:     1
+  EBSCO+ERIC+Scopus       :     2
+  EBSCO+ERIC+Scopus+WoS   :     5
+  EBSCO+IEEE+Scopus       :     1
+  EBSCO+IEEE+Scopus+WoS   :     1
+  EBSCO+Scopus            :    15
+  EBSCO+Scopus+WoS        :    23
+  EBSCO+WoS               :     1
+  ERIC                    :    32
+  ERIC+Scopus             :     3
+  ERIC+Scopus+WoS         :     8
+  IEEE                    :   154
+  IEEE+Scopus             :    72
+  IEEE+Scopus+WoS         :     3
+  IEEE+WoS                :     1
+  Scopus                  :   374
+  Scopus+WoS              :    52
+  WoS                     :    55
+
+--- Overlap between source pairs ---
+  Dimensions-EBSCO:     9 shared records
+  Dimensions-ERIC :     2 shared records
+  Dimensions-IEEE :     2 shared records
+  Dimensions-Scopus:    18 shared records
+  Dimensions-WoS  :    10 shared records
+  EBSCO-ERIC      :    10 shared records
+  EBSCO-IEEE      :     3 shared records
+  EBSCO-Scopus    :    55 shared records
+  EBSCO-WoS       :    37 shared records
+  ERIC-IEEE       :     1 shared records
+  ERIC-Scopus     :    21 shared records
+  ERIC-WoS        :    16 shared records
+  IEEE-Scopus     :    80 shared records
+  IEEE-WoS        :     6 shared records
+  Scopus-WoS      :   103 shared records
+
+--- Top 10 largest duplicate groups ---
+   1. [5 recs] Dimensions+EBSCO+ERIC+Scopus+WoS | A Validated and Reliable Instrument Investigating Engineering Students
+   2. [5 recs] EBSCO+ERIC+IEEE+Scopus+WoS | Testing the Validity and Reliability of an Instrument Measuring Engine
+   3. [4 recs] Dimensions+EBSCO+Scopus+WoS | What Drives Engineering Students To Be Entrepreneurs? Evidence of Vali
+   4. [4 recs] EBSCO+ERIC+Scopus+WoS | Adaptation and validation of the Work Experience Questionnaire for inv
+   5. [4 recs] Dimensions+ERIC+Scopus+WoS | Exploring Perceptions of Social and Generic Competencies among Enginee
+   6. [4 recs] EBSCO+ERIC+Scopus+WoS | Creating an Instrument to Measure Leadership, Change, and Synthesis in
+   7. [4 recs] EBSCO+ERIC+Scopus+WoS | Chemical engineering students' perceptions of peer and self-assessment
+   8. [4 recs] Dimensions+EBSCO+Scopus+WoS | Validation of the Internet entrepreneurial self-efficacy scale among R
+   9. [4 recs] Dimensions+EBSCO+Scopus+WoS | Development and Validation of the Negative Outcome Expectations Scale 
+  10. [4 recs] Dimensions+EBSCO+Scopus+WoS | Validation of the Teaching Engineering Self-Efficacy Scale for K-12 Te
+
+--- Metadata completeness (final export) ---
+  Authors           : 100.0%  [####################]
+  Title             : 100.0%  [####################]
+  Year              : 100.0%  [####################]
+  Abstract          : 100.0%  [####################]
+  DOI               :  76.9%  [###############.....]
+  Journal           :  99.6%  [###################.]
+  Volume            :  59.8%  [###########.........]
+  Issue             :  40.1%  [########............]
+  Pages             :  84.1%  [################....]
+  Keywords          :  97.0%  [###################.]
+  Affiliations      :  69.6%  [#############.......]
+  ISSN              :  90.2%  [##################..]
+  Language          :  73.3%  [##############......]
+  MeSH_Terms        :   0.0%  [....................]
+  PMID              :   0.0%  [....................]
+

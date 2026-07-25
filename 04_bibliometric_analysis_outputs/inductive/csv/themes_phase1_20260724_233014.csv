@@ -1,0 +1,37 @@
+session_id,batch_index,theme_name,frequency,confidence,n_articles,n_evidence,grounding_score,quote_grounding,article_grounding,n_hallucination_flags,verified,related_concepts
+20260724_233014,0,Psychometric Validation of Competency Assessment Instruments,High,high,19,3,0.3,0.0,1.0,3,False,Factor analysis; Reliability testing; Content validity; Construct validity; Instrument development
+20260724_233014,0,Generic and Professional Competencies in Engineering Education,High,high,6,3,0.767,0.667,1.0,1,True,Soft skills; Transferable skills; Workplace readiness; Internship-based learning
+20260724_233014,0,Self-Efficacy and Attitudinal Measurement in Engineering Contexts,High,high,7,3,0.533,0.333,1.0,2,True,Entrepreneurial self-efficacy; Attitudes toward practical work; Self-perception of competence
+20260724_233014,0,Rubric-Based Competency Assessment in Engineering,Medium,high,4,3,0.767,0.667,1.0,1,True,Expert judgment; Inter-rater reliability; Performance assessment
+20260724_233014,0,Research Competencies and Investigative Skills in Engineering Students,Medium,high,3,3,0.533,0.333,1.0,2,True,Research training; Scientific writing; Data collection techniques
+20260724_233014,0,Engineering Identity and Its Predictors,Medium,high,3,3,0.767,0.667,1.0,1,True,Research identity; Self-efficacy; Recognition in engineering
+20260724_233014,0,Resilience and Psychological Factors in Engineering Education,Low,high,2,2,0.3,0.0,1.0,2,False,Academic resilience; Psychological momentum; Protective factors
+20260724_233014,0,Critical Thinking and Problem-Solving in Engineering,Medium,high,3,3,1.0,1.0,1.0,0,True,Representational competence; Design problem-solving; Reflective thinking
+20260724_233014,0,Transversal and Sociotechnical Competencies in Engineering,Medium,high,3,3,0.533,0.333,1.0,2,True,Entrepreneurial competencies; Sociotechnical understanding; Affective domain assessment
+20260724_233014,1,Validation and reliability of assessment instruments,High,high,17,3,0.767,0.667,1.0,1,True,Confirmatory Factor Analysis (CFA); Exploratory Factor Analysis (EFA); Cronbach's alpha; Item discrimination; Construct validity
+20260724_233014,1,Self-efficacy in engineering contexts,High,high,7,3,1.0,1.0,1.0,0,True,Engineering self-efficacy; Design self-efficacy; Programming self-efficacy; Persistence; Achievement
+20260724_233014,1,Employability skills and competencies,High,high,7,3,1.0,1.0,1.0,0,True,Professional competencies; Workplace skills; Industry requirements; Apprenticeship
+20260724_233014,1,Motivation and learning strategies,Medium,high,3,3,1.0,1.0,1.0,0,True,Intrinsic motivation; Extrinsic motivation; Self-regulated learning; Expectancy value theory
+20260724_233014,1,Assessment of professional and ethical skills,Medium,high,3,3,1.0,1.0,1.0,0,True,Social responsibility; Ethics education; Sustainability attitudes
+20260724_233014,1,Community-partnered and experiential learning,Medium,high,4,3,1.0,1.0,1.0,0,True,Problem-based learning; Internship experience; Real-world application
+20260724_233014,1,Factor analysis for scale development,High,high,12,3,1.0,1.0,1.0,0,True,Exploratory Factor Analysis (EFA); Confirmatory Factor Analysis (CFA); Latent constructs
+20260724_233014,1,Measurement of creativity and design mindset,Low,high,3,3,1.0,1.0,1.0,0,True,Design mindset; Creativity assessment; Ambiguity tolerance
+20260724_233014,1,Adaptation of assessment tools to cultural and linguistic contexts,Medium,high,3,3,1.0,1.0,1.0,0,True,Cross-cultural validation; Measurement invariance; Linguistic adaptation
+20260724_233014,2,Self-efficacy in engineering students,High,high,9,3,0.767,0.667,1.0,1,True,General vs. domain-specific self-efficacy; Gender differences in self-efficacy; Sources of self-efficacy; Self-efficacy and academic performance
+20260724_233014,2,Development and validation of competency assessment tools,High,high,17,3,1.0,1.0,1.0,0,True,Psychometric properties; Factor analysis; Reliability and validity; Domain-specific vs. generic tools
+20260724_233014,2,Transferable skills in engineering education,Medium,high,5,3,1.0,1.0,1.0,0,True,Employability skills; Curricular restructuring; Sustainability competencies; Ethical principles
+20260724_233014,2,Problem-solving and critical thinking assessment,Medium,high,5,3,1.0,1.0,1.0,0,True,Problem-solving inventory; Critical thinking self-perception; Technical vs. non-technical competencies
+20260724_233014,2,Impact of educational interventions on student competencies,Medium,high,5,3,1.0,1.0,1.0,0,True,Industrial internships; Project-based learning; Motivational strategies; Curricular changes
+20260724_233014,2,Gender differences in engineering competencies and self-efficacy,Medium,high,4,3,1.0,1.0,1.0,0,True,Gendered experiences; Self-efficacy gaps; Curricular interventions
+20260724_233014,2,Psychometric properties of assessment instruments,High,high,11,3,1.0,1.0,1.0,0,True,Reliability; Validity; Factor analysis; Confirmatory factor analysis
+20260724_233014,2,Engineering identity and its measurement,Low,high,2,3,1.0,1.0,1.0,0,True,First-generation college students; Measurement invariance; Identity constructs
+20260724_233014,2,Contextual competence in engineering,Medium,high,3,3,1.0,1.0,1.0,0,True,Sustainability competencies; Ethical principles; Curricular integration
+20260724_233014,2,Innovation and entrepreneurship competencies,Low,high,2,3,1.0,1.0,1.0,0,True,Innovation self-efficacy; Entrepreneurial competencies; Career aspirations
+20260724_233014,3,Development and validation of measurement scales for engineering students,High,high,4,4,1.0,1.0,1.0,0,True,Psychometric properties; Factor analysis; Reliability evidence; Validity evidence
+20260724_233014,3,Self-efficacy in engineering contexts,High,high,2,3,0.767,0.667,1.0,1,True,Leadership self-efficacy; Engineering problem-solving self-efficacy; Academic success correlation; Grant proposal writing self-efficacy
+20260724_233014,3,Entrepreneurial motivation among engineering students,Medium,high,1,2,1.0,1.0,1.0,0,True,Motivation for Creation and Solution; Motivation for Personal Interests; Managerial Motivation; Entrepreneurship education impact
+20260724_233014,3,Leadership development in engineering education,Medium,high,1,2,1.0,1.0,1.0,0,True,Leadership self-efficacy scale; Leadership Opportunity; Team Motivation; Ethical Actions and Integrity
+20260724_233014,3,Affective dimensions of writing in engineering education,Medium,high,1,3,1.0,1.0,1.0,0,True,Writing attitudes survey; Writing apprehension; Career trajectory impact; Graduate student persistence
+20260724_233014,3,Factor analysis in scale development,High,high,4,4,1.0,1.0,1.0,0,True,Exploratory factor analysis; Confirmatory factor analysis; Factor structure; Psychometric properties
+20260724_233014,3,Mediation and correlation analysis in engineering education research,Medium,high,2,2,1.0,1.0,1.0,0,True,Mediation effects; Pearson's correlation coefficients; Intention to become an entrepreneur; Academic success correlation
+20260724_233014,3,Reliability and validity evidence in scale development,High,high,2,3,1.0,1.0,1.0,0,True,Cronbach's alpha; Content-related validity; Response processes validity; Internal consistency

@@ -1,0 +1,139 @@
+{
+  "session_id": "20260724_231740",
+  "phase": "2",
+  "batch": null,
+  "timestamp": "2026-07-24T23:18:57.640317",
+  "data": {
+    "key_relationships": [
+      {
+        "theme_a": "Assessment Instrument Development and Validation",
+        "theme_b": "Psychometric Properties and Statistical Analysis",
+        "relationship_type": "complementary",
+        "description": "These themes are frequently studied together, as instrument development inherently requires psychometric validation (e.g., factor analysis, reliability testing) to ensure robust measurement.",
+        "n_studies_support": 24,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Engineering Self-Efficacy and Identity",
+        "theme_b": "Motivational and Psychosocial Constructs in Engineering Education",
+        "relationship_type": "association",
+        "description": "Studies on self-efficacy and identity often overlap with motivational constructs (e.g., learning strategies, attitudes) that influence educational outcomes in engineering.",
+        "n_studies_support": 14,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Engineering Competencies and Skills",
+        "theme_b": "Communication and Transferable Competencies",
+        "relationship_type": "complementary",
+        "description": "Non-technical competencies (e.g., professional skills, transversal competencies) frequently include communication and transferable skills, which are essential for engineering practice.",
+        "n_studies_support": 13,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Workplace Readiness and Internship Competency Assessment",
+        "theme_b": "Communication and Transferable Competencies",
+        "relationship_type": "association",
+        "description": "Workplace readiness assessments often evaluate transferable competencies like communication and teamwork, which are critical for internship success.",
+        "n_studies_support": 7,
+        "robustness": "High"
+      },
+      {
+        "theme_a": "Entrepreneurial and Design Mindset Assessment",
+        "theme_b": "Systems Thinking and Problem-Solving Assessment",
+        "relationship_type": "complementary",
+        "description": "Entrepreneurial and design mindsets are closely tied to systems thinking and problem-solving, as innovation requires analyzing complex systems and developing solutions.",
+        "n_studies_support": 5,
+        "robustness": "Medium"
+      },
+      {
+        "theme_a": "Ethical, Social Responsibility, and Professional Values",
+        "theme_b": "Demographic Influences on Engineering Competencies",
+        "relationship_type": "association",
+        "description": "Ethical and social responsibility competencies may vary across demographic groups (e.g., gender, first-generation status), though this relationship is understudied.",
+        "n_studies_support": 4,
+        "robustness": "Low"
+      },
+      {
+        "theme_a": "Mathematical and Technical Competence Assessment",
+        "theme_b": "Engineering Competencies and Skills",
+        "relationship_type": "complementary",
+        "description": "Mathematical and technical competencies are foundational to broader engineering competencies and skills, though this relationship is less frequently explored.",
+        "n_studies_support": 2,
+        "robustness": "Low"
+      }
+    ],
+    "recurring_configurations": [
+      {
+        "description": "Instrument development and validation paired with psychometric analysis to ensure robust measurement of engineering competencies.",
+        "components": [
+          "Assessment Instrument Development and Validation",
+          "Psychometric Properties and Statistical Analysis"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Studies combining self-efficacy, identity, and motivational constructs to understand their influence on educational outcomes.",
+        "components": [
+          "Engineering Self-Efficacy and Identity",
+          "Motivational and Psychosocial Constructs in Engineering Education"
+        ],
+        "frequency": "High"
+      },
+      {
+        "description": "Workplace readiness assessments that evaluate transferable competencies like communication and teamwork.",
+        "components": [
+          "Workplace Readiness and Internship Competency Assessment",
+          "Communication and Transferable Competencies"
+        ],
+        "frequency": "Medium"
+      },
+      {
+        "description": "Entrepreneurial and design mindset assessments linked to systems thinking and problem-solving.",
+        "components": [
+          "Entrepreneurial and Design Mindset Assessment",
+          "Systems Thinking and Problem-Solving Assessment"
+        ],
+        "frequency": "Medium"
+      }
+    ],
+    "analytical_axes": [
+      {
+        "axis": "Psychometric Rigor in Engineering Education Assessment",
+        "justification": "A significant portion of studies (n=24) focus on instrument development and validation, often paired with psychometric analysis (n=15). This axis highlights the importance of rigorous measurement tools in engineering education research.",
+        "coverage": "~40%",
+        "research_potential": "Could inform best practices for developing and validating assessment instruments, ensuring they are reliable and valid for diverse engineering contexts."
+      },
+      {
+        "axis": "Non-Technical Competencies and Employability",
+        "justification": "Themes like Communication and Transferable Competencies (n=7), Workplace Readiness (n=7), and Engineering Competencies and Skills (n=13) emphasize the growing importance of soft skills in engineering education.",
+        "coverage": "~27%",
+        "research_potential": "Could guide curriculum design to better integrate transferable skills, addressing industry demands for well-rounded engineers."
+      },
+      {
+        "axis": "Self-Efficacy and Identity Development",
+        "justification": "Engineering Self-Efficacy and Identity (n=14) and its association with motivational constructs (n=6) suggest a strong focus on students' confidence and belonging in engineering.",
+        "coverage": "~20%",
+        "research_potential": "Could explore interventions to enhance self-efficacy and identity, particularly for underrepresented groups, to improve retention and success."
+      },
+      {
+        "axis": "Ethics and Social Responsibility in Engineering Practice",
+        "justification": "Ethical, Social Responsibility, and Professional Values (n=5) is a critical but understudied theme, with potential links to demographic influences (n=4).",
+        "coverage": "~10%",
+        "research_potential": "Could investigate how ethical training impacts career trajectories and professional identity, particularly across diverse student populations."
+      }
+    ],
+    "gaps_and_contradictions": [
+      "Limited integration of demographic influences (e.g., gender, first-generation status) with ethical and social responsibility competencies, despite potential disparities.",
+      "Few studies explore the relationship between mathematical/technical competence (n=2) and broader engineering competencies, suggesting a gap in foundational skill assessment.",
+      "Contradictions may exist in how self-efficacy and identity are measured across different engineering subfields, but this is not explicitly addressed in the taxonomy.",
+      "The theme 'Leadership Competencies and Self-Efficacy in Engineering' (n=1) is underdeveloped, with potential for further exploration of leadership development in engineering education."
+    ],
+    "_theme_reference_check": {
+      "valid_references": 14,
+      "invalid_references": 0,
+      "invalid_details": [],
+      "grounded": true,
+      "theme_reference_grounding": 1.0
+    }
+  }
+}

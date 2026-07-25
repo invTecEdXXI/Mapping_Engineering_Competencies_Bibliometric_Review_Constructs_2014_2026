@@ -1,0 +1,20 @@
+{
+  "session_id": "20260724_225116",
+  "started_at": "2026-07-24T22:51:16.261396",
+  "config": {
+    "total_articles": 96,
+    "extractable_articles": 94,
+    "min_abstract_length": 50,
+    "batch_size": 11,
+    "provider": "DeepSeek",
+    "model": "deepseek-v4-flash",
+    "use_cache": true
+  },
+  "operations": [],
+  "completed_at": "2026-07-24T22:55:26.801913",
+  "stats": {
+    "n_skipped": 2,
+    "n_extracted": 94,
+    "n_hallucination_nulled": 53
+  }
+}

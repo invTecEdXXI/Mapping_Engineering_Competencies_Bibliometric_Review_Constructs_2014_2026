@@ -1,0 +1,90 @@
+{
+  "session_id": "20260724_231740",
+  "phase": "1_refine",
+  "batch": 2,
+  "timestamp": "2026-07-24T23:18:38.382441",
+  "data": [
+    {
+      "new_theme_index": 0,
+      "action": "merge",
+      "target_index": 1
+    },
+    {
+      "new_theme_index": 1,
+      "action": "new",
+      "theme": "Self-Efficacy in Engineering Competencies",
+      "definition": "The development and validation of instruments to assess students' self-efficacy in engineering-related tasks, including programming, design, and general engineering skills. This theme consolidates self-efficacy measurement with broader engineering competencies, emphasizing its role in professional development and skill acquisition.",
+      "subthemes": [
+        "Programming self-efficacy",
+        "Design self-efficacy",
+        "General engineering self-efficacy"
+      ]
+    },
+    {
+      "new_theme_index": 2,
+      "action": "new",
+      "theme": "Motivational and Learning Strategies in Engineering Education",
+      "definition": "The validation and adaptation of instruments to measure students' motivational attitudes, learning strategies, and engagement in engineering education. This theme focuses on the psychological and pedagogical factors influencing student performance and persistence in engineering programs.",
+      "subthemes": [
+        "Motivational attitudes",
+        "Learning strategies",
+        "Sustainable engineering attitudes"
+      ]
+    },
+    {
+      "new_theme_index": 3,
+      "action": "new",
+      "theme": "Entrepreneurial and Design Mindset Assessment",
+      "definition": "The development and validation of instruments to measure entrepreneurial mindset constructs (e.g., 'Connections' and 'Creating Value') and design mindset in engineering students. This theme captures the intersection of innovation, creativity, and problem-solving in engineering education.",
+      "subthemes": [
+        "Entrepreneurial mindset",
+        "Design mindset",
+        "Creativity assessment"
+      ]
+    },
+    {
+      "new_theme_index": 4,
+      "action": "new",
+      "theme": "Workplace and Internship Competency Evaluation",
+      "definition": "The adaptation and validation of instruments to assess students' perceptions of their internship and workplace experiences, including competencies developed and satisfaction with training. This theme bridges academic learning with professional practice.",
+      "subthemes": [
+        "Internship evaluation",
+        "Workplace competencies",
+        "Apprenticeship assessment"
+      ]
+    },
+    {
+      "new_theme_index": 5,
+      "action": "new",
+      "theme": "Systems Thinking and Problem-Solving Assessment",
+      "definition": "The assessment of systems thinking skills and problem-solving competencies in engineering students using surveys and diagnostic activities. This theme emphasizes the ability to analyze complex systems and develop effective solutions.",
+      "subthemes": [
+        "Systems thinking",
+        "Problem-based learning",
+        "Diagnostic activities"
+      ]
+    },
+    {
+      "new_theme_index": 6,
+      "action": "new",
+      "theme": "Communication Skills in Engineering Contexts",
+      "definition": "The development and validation of instruments to measure workplace oral communication skills and other communication-related competencies in engineering students. This theme focuses on the practical application of communication in professional engineering settings.",
+      "subthemes": [
+        "Oral communication skills",
+        "Ambassador professional development",
+        "Outreach evaluation"
+      ]
+    },
+    {
+      "new_theme_index": 7,
+      "action": "new",
+      "theme": "Mathematical and Technical Competence Assessment",
+      "definition": "The development and validation of instruments to assess mathematical and technical competencies in engineering students, including the use of Rasch analysis and think-aloud protocols. This theme addresses foundational and advanced technical skills critical to engineering practice.",
+      "subthemes": [
+        "Mathematical competence",
+        "Technical skills",
+        "Rasch analysis"
+      ]
+    }
+  ]
+}

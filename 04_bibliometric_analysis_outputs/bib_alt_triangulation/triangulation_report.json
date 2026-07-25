@@ -1,0 +1,308 @@
+{
+  "cluster_densities": {
+    "0": {
+      "n_nodes": 1,
+      "n_edges": 0,
+      "density": 0,
+      "mean_weight": 0
+    },
+    "1": {
+      "n_nodes": 24,
+      "n_edges": 137,
+      "density": 0.4964,
+      "mean_weight": 2.94
+    },
+    "3": {
+      "n_nodes": 1,
+      "n_edges": 0,
+      "density": 0,
+      "mean_weight": 0
+    },
+    "4": {
+      "n_nodes": 1,
+      "n_edges": 0,
+      "density": 0,
+      "mean_weight": 0
+    },
+    "5": {
+      "n_nodes": 13,
+      "n_edges": 45,
+      "density": 0.5769,
+      "mean_weight": 6.93
+    },
+    "6": {
+      "n_nodes": 15,
+      "n_edges": 25,
+      "density": 0.2381,
+      "mean_weight": 2.84
+    },
+    "7": {
+      "n_nodes": 10,
+      "n_edges": 25,
+      "density": 0.5556,
+      "mean_weight": 1.36
+    },
+    "8": {
+      "n_nodes": 4,
+      "n_edges": 6,
+      "density": 1.0,
+      "mean_weight": 9.0
+    },
+    "9": {
+      "n_nodes": 1,
+      "n_edges": 0,
+      "density": 0,
+      "mean_weight": 0
+    },
+    "10": {
+      "n_nodes": 1,
+      "n_edges": 0,
+      "density": 0,
+      "mean_weight": 0
+    },
+    "11": {
+      "n_nodes": 1,
+      "n_edges": 0,
+      "density": 0,
+      "mean_weight": 0
+    },
+    "2": {
+      "n_nodes": 1,
+      "n_edges": 0,
+      "density": 0,
+      "mean_weight": 0
+    }
+  },
+  "cluster_altmetric_profiles": {
+    "0": {
+      "n_articles": 1,
+      "mean_citations": 0.0,
+      "total_citations": 0,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "1": {
+      "n_articles": 24,
+      "mean_citations": 10.75,
+      "total_citations": 258,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "3": {
+      "n_articles": 1,
+      "mean_citations": 4.0,
+      "total_citations": 4,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "4": {
+      "n_articles": 1,
+      "mean_citations": 5.0,
+      "total_citations": 5,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "5": {
+      "n_articles": 13,
+      "mean_citations": 39.31,
+      "total_citations": 511,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "6": {
+      "n_articles": 15,
+      "mean_citations": 10.8,
+      "total_citations": 162,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "7": {
+      "n_articles": 10,
+      "mean_citations": 29.3,
+      "total_citations": 293,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "8": {
+      "n_articles": 4,
+      "mean_citations": 5.75,
+      "total_citations": 23,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "9": {
+      "n_articles": 1,
+      "mean_citations": 1.0,
+      "total_citations": 1,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "10": {
+      "n_articles": 1,
+      "mean_citations": 15.0,
+      "total_citations": 15,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "11": {
+      "n_articles": 1,
+      "mean_citations": 0.0,
+      "total_citations": 0,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    },
+    "2": {
+      "n_articles": 1,
+      "mean_citations": 2.0,
+      "total_citations": 2,
+      "mean_altmetric": 0,
+      "n_with_altmetric": 0,
+      "mean_mendeley": 0
+    }
+  },
+  "correlation": {
+    "n_pairs": 0,
+    "has_altmetric_data": false,
+    "note": "Insufficient social impact data for correlation analysis. Run Crossref Event Data (Phase 1l) or enable Altmetric (--enable-altmetric)."
+  },
+  "discrepancies": {
+    "high_coupling_low_attention": [],
+    "low_coupling_high_attention": [],
+    "article_level": [
+      {
+        "key": "PD6ENBV2",
+        "type": "high_cites_no_social",
+        "citations": 49,
+        "social_score": 0.0
+      },
+      {
+        "key": "PVT4UE9C",
+        "type": "high_cites_no_social",
+        "citations": 14,
+        "social_score": 0.0
+      },
+      {
+        "key": "W2PMJWMT",
+        "type": "high_cites_no_social",
+        "citations": 41,
+        "social_score": 0.0
+      },
+      {
+        "key": "SL7257LZ",
+        "type": "high_cites_no_social",
+        "citations": 17,
+        "social_score": 0.0
+      },
+      {
+        "key": "DNK3JI3N",
+        "type": "high_cites_no_social",
+        "citations": 28,
+        "social_score": 0.0
+      },
+      {
+        "key": "GSUNVIP6",
+        "type": "high_cites_no_social",
+        "citations": 22,
+        "social_score": 0.0
+      },
+      {
+        "key": "RUGB95IU",
+        "type": "high_cites_no_social",
+        "citations": 68,
+        "social_score": 0.0
+      },
+      {
+        "key": "J8H6TD8Q",
+        "type": "high_cites_no_social",
+        "citations": 21,
+        "social_score": 0.0
+      },
+      {
+        "key": "LHGYXXJG",
+        "type": "high_cites_no_social",
+        "citations": 23,
+        "social_score": 0.0
+      },
+      {
+        "key": "PYM3MQNK",
+        "type": "high_cites_no_social",
+        "citations": 15,
+        "social_score": 0.0
+      },
+      {
+        "key": "CJPX792Z",
+        "type": "high_cites_no_social",
+        "citations": 37,
+        "social_score": 0.0
+      },
+      {
+        "key": "U374P6MT",
+        "type": "high_cites_no_social",
+        "citations": 42,
+        "social_score": 0.0
+      },
+      {
+        "key": "DFVK7NR2",
+        "type": "high_cites_no_social",
+        "citations": 27,
+        "social_score": 0.0
+      },
+      {
+        "key": "J4L96ZTQ",
+        "type": "high_cites_no_social",
+        "citations": 296,
+        "social_score": 0.0
+      },
+      {
+        "key": "NLXE3X6S",
+        "type": "high_cites_no_social",
+        "citations": 75,
+        "social_score": 0.0
+      },
+      {
+        "key": "XHXW8PNL",
+        "type": "high_cites_no_social",
+        "citations": 26,
+        "social_score": 0.0
+      },
+      {
+        "key": "FY6V7BET",
+        "type": "high_cites_no_social",
+        "citations": 18,
+        "social_score": 0.0
+      },
+      {
+        "key": "Y27Q6N9A",
+        "type": "high_cites_no_social",
+        "citations": 15,
+        "social_score": 0.0
+      },
+      {
+        "key": "B7B4X2WE",
+        "type": "high_cites_no_social",
+        "citations": 14,
+        "social_score": 0.0
+      },
+      {
+        "key": "FL269LXE",
+        "type": "high_cites_no_social",
+        "citations": 64,
+        "social_score": 0.0
+      }
+    ]
+  },
+  "n_charts": 2,
+  "n_clusters": 12,
+  "has_altmetric_data": false
+}
